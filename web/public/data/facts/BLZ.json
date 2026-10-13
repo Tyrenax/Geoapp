@@ -1,0 +1,124 @@
+{
+  "id": "BLZ",
+  "facts": [
+    {
+      "id": "BLZ-1",
+      "topic": "histoire",
+      "title": "Une terre maya",
+      "short": "Comme le Yucatán mexicain et le Guatemala voisins, le Belize a été occupé par la civilisation maya. Le maya fait encore partie des langues parlées dans le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Cette civilisation amérindienne a occupé le Belize, comme les territoires proches du Yucatán (Mexique) et Guatemala."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Sa langue officielle est l'anglais, mais l'espagnol, le kriol (créole), le maya et le garifuna sont également parlées."
+        }
+      ]
+    },
+    {
+      "id": "BLZ-2",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Un repaire de pirates",
+      "short": "Au XVIIe siècle, la côte du Belize sert de repaire à des corsaires, pirates et flibustiers. En 1798, les colons britanniques y repoussent une expédition navale espagnole à la bataille de St George's Caye.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Au XVIIe siècle, on comptait parmi les repaires de corsaires, pirates et flibustiers, huguenots ou puritains, la côte du Belize."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "1798 : bataille de St George's Caye : lors des guerres de la Révolution française, une expédition navale montée par les Espagnols, alliés de la France, est repoussée le 10 septembre."
+        }
+      ]
+    },
+    {
+      "id": "BLZ-3",
+      "topic": "histoire",
+      "era": "1862-1981",
+      "title": "L'ancien Honduras britannique",
+      "short": "De 1862 à 1973, la colonie s'appelle le Honduras britannique. Elle devient indépendante du Royaume-Uni en 1981 et garde l'anglais pour langue officielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Le Belize s’est appelé Honduras britannique de 1862 à 1973."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "La fête nationale se célèbre le 21 septembre, pour commémorer l'indépendance du pays vis-à-vis du Royaume-Uni en 1981."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Sa langue officielle est l'anglais, mais l'espagnol, le kriol (créole), le maya et le garifuna sont également parlées."
+        }
+      ]
+    },
+    {
+      "id": "BLZ-4",
+      "topic": "politique",
+      "era": "2019",
+      "title": "Une frontière confiée à la justice internationale",
+      "short": "Le Guatemala revendique plus de la moitié du Belize, tout le sud du fleuve Sibun. En 2019, les Béliziens acceptent par référendum de confier le différend à la Cour internationale de justice.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "2019 : le référendum bélizien de 2019 au sujet des revendications territoriales du Guatémala (60% du pays, au sud du fleuve Sibun) donne un résultat favorable à la médiation de la Cour internationale de justice."
+        }
+      ]
+    },
+    {
+      "id": "BLZ-5",
+      "topic": "geographie",
+      "title": "Une barrière de corail de 320 km",
+      "short": "Tout le long de sa côte caribéenne court une barrière de corail longue de 320 km.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "Tout le long des côtes de la mer des Caraïbes se trouve une barrière de corail de 320 km."
+        }
+      ]
+    },
+    {
+      "id": "BLZ-6",
+      "topic": "drapeau",
+      "title": "Le drapeau aux douze couleurs",
+      "short": "Avec ses armoiries très détaillées, le drapeau du Belize est celui qui compte le plus de couleurs différentes au monde : douze.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Belize",
+          "quote": "En 2022, c'est le drapeau comportant le plus de couleurs différentes (douze)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BLZ-C1",
+      "topic": "histoire",
+      "era": "1961-1970",
+      "title": "Une capitale construite après un ouragan",
+      "short": "En 1961, l'ouragan Hattie détruit environ 75 % des maisons et des entreprises de Belize City, l'ancienne capitale. Le pays bâtit alors une nouvelle capitale à l'intérieur des terres : Belmopan, fondée en 1970, l'une des plus petites capitales du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belmopan",
+          "quote": "Belmopan a été construite après la quasi-destruction de Belize City par l'ouragan Hattie en 1961 qui a détruit environ 75 % des habitations et des entreprises de la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belmopan",
+          "quote": "Fondée en 1970, Belmopan est l'une des plus petites capitales du monde, hors micro-États."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belize",
+          "quote": "La dénomination actuelle provient du nom de l’ancienne capitale — Belize — et du fleuve du même nom."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit pays sur la côte caribéenne, juste sous la péninsule du Yucatán : le Mexique au nord, le Guatemala à l'ouest et au sud.",
+    "flag": "Bleu avec une fine bande rouge en haut et en bas, et un grand disque blanc d'armoiries au centre, avec deux bûcherons : l'un des rares drapeaux nationaux où figurent des personnages.",
+    "capital": "Belmopan, pas Belize City : la capitale a été déplacée à l'intérieur des terres après l'ouragan. Pense « Bel-, comme Belize, mais à l'abri »."
+  }
+}

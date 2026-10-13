@@ -1,0 +1,123 @@
+{
+  "id": "SMR",
+  "facts": [
+    {
+      "id": "SMR-1",
+      "topic": "histoire",
+      "era": "301",
+      "title": "Fondée par un tailleur de pierre",
+      "short": "Selon la légende, vers l'an 300, un tailleur de pierre chrétien nommé Marinus, venu de l'île de Rab en Dalmatie, fuit les persécutions et se réfugie sur le mont Titano. La naissance de la communauté est fixée au 3 septembre 301.",
+      "long": "À sa mort, en 366, ses derniers mots auraient été : « Je vous laisse libres des autres hommes. »",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "Selon la légende locale, vers l’an 300",
+          "to": "au 3 septembre 301."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "L'établissement définitif de la communauté de Saint-Marin",
+          "to": "(« Je vous laisse libres des autres hommes »)."
+        }
+      ]
+    },
+    {
+      "id": "SMR-2",
+      "topic": "histoire",
+      "title": "La plus vieille république du monde",
+      "short": "Saint-Marin est la plus ancienne république du monde à avoir existé sans interruption jusqu'à aujourd'hui. Son système constitutionnel remonte au XVIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "C'est aussi la plus ancienne république au monde",
+          "to": "qui remonte au XVIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "SMR-3",
+      "topic": "politique",
+      "era": "1243",
+      "title": "Deux chefs d'État tous les six mois",
+      "short": "Depuis 1243, Saint-Marin élit à sa tête deux capitaines-régents pour un mandat de six mois seulement, une coutume toujours en vigueur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "À partir de 1243, la coutume fut prise",
+          "to": "une pratique encore en usage aujourd’hui."
+        }
+      ]
+    },
+    {
+      "id": "SMR-4",
+      "topic": "histoire",
+      "era": "1797-1862",
+      "title": "Épargnée par Bonaparte, sauvée par Garibaldi",
+      "short": "Pendant la campagne d'Italie, Bonaparte, admirateur de ce petit État qui ne s'était jamais soumis, aurait ordonné à ses troupes de s'arrêter à ses frontières. Au XIXe siècle, Saint-Marin accueille Garibaldi et des partisans de l'unité italienne ; Garibaldi lui permet de rester indépendante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "Bonaparte, au cours de la campagne d'Italie (1796-1797)",
+          "to": "fait acte de soumission à quiconque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "Au cours de la dernière phase du processus d'unification italienne",
+          "to": "Garibaldi a permis à Saint-Marin de rester indépendant."
+        }
+      ]
+    },
+    {
+      "id": "SMR-5",
+      "topic": "histoire",
+      "era": "1945-1957",
+      "title": "Les premiers communistes élus",
+      "short": "De 1945 à 1957, le Parti communiste saint-marinais gouverne en coalition avec les socialistes : Saint-Marin est le premier pays au monde où un parti communiste arrive au pouvoir par des élections libres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "from": "Le pays a la particularité d'avoir été le premier pays",
+          "to": "à la suite d’élections libres."
+        }
+      ]
+    },
+    {
+      "id": "SMR-6",
+      "topic": "drapeau",
+      "title": "Trois tours sur trois pics",
+      "short": "Le blanc et le bleu clair du drapeau symboliseraient la paix et la liberté. Au centre, les armoiries montrent les trois tours de garde perchées sur les trois sommets du mont Titano, sous la devise LIBERTAS, « liberté ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Marin",
+          "from": "Le drapeau saint-marinais est composé de deux bandes",
+          "to": "« liberté » en latin."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SMR-C1",
+      "topic": "geographie",
+      "title": "Une ville accrochée au mont Titano",
+      "short": "La capitale est bâtie sur le versant sud-ouest du mont Titano. Elle est dominée par trois châteaux, ou tours, qui défendaient autrefois la cité fortifiée ; le plus ancien, la Guaita, date du XIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ville_de_Saint-Marin",
+          "from": "Elle est bâtie sur le versant sud-ouest du mont Titano.",
+          "to": "du mont Titano."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ville_de_Saint-Marin",
+          "from": "Saint-Marin, outre un panorama unique",
+          "to": "Guaita (datant du XIe siècle),"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule État enclavé dans l'Italie, à une vingtaine de kilomètres de Rimini et de l'Adriatique, perché sur le mont Titano.",
+    "flag": "Deux bandes horizontales, blanche en haut et bleu clair en bas, avec les armoiries au centre (trois tours sur trois pics). Le Vatican, l'autre enclave d'Italie, a un drapeau jaune et blanc, carré.",
+    "capital": "La ville de Saint-Marin porte le même nom que le pays, perchée sur le mont Titano avec ses trois tours."
+  }
+}

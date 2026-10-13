@@ -1,0 +1,207 @@
+{
+  "id": "BFA",
+  "facts": [
+    {
+      "id": "BFA-1",
+      "topic": "histoire",
+      "era": "1984",
+      "title": "La « patrie des hommes intègres »",
+      "short": "En août 1984, Thomas Sankara rebaptise la Haute-Volta « Burkina Faso », la patrie des hommes intègres. Le nom marie deux langues du pays : burkina, l'intégrité en mooré, et faso, la patrie en dioula.",
+      "long": "Le changement tombe pour le premier anniversaire de la révolution de 1983, avec un nouvel hymne, de nouvelles armoiries, une nouvelle devise et un nouveau drapeau. L'ancien nom, Haute-Volta, venait des trois rivières qui traversent le pays : la Volta Noire, la Volta Blanche et la Volta Rouge.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "La république de Haute-Volta est renommée Burkina Faso en 1984 sous le régime de Thomas Sankara."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "« patrie des (Hommes) intègres » ou « patrie de l'intégrité » (Burkina se traduisant par « intégrité, honneur » en mooré et Faso se traduisant par « terre ou patrie » en dioula)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "L'année suivante, le 4 août, à l'occasion du premier anniversaire de la révolution, le pays est rebaptisé Burkina Faso (« Pays des hommes intègres »), un nouvel hymne national"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burkina_Faso",
+          "quote": "L'actuel drapeau remplace en 1984 l’ancien tricolore horizontal noir-blanc-rouge lorsque Thomas Sankara change le nom de la Haute-Volta en Burkina Faso, ainsi que les symboles du pays (hymne national, armoiries, devise, drapeau)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Le pays devait son ancien nom de Haute-Volta aux trois cours d'eau qui le traversent : le Mouhoun (Volta Noire), le Nakambé (Volta Blanche) et le Nazinon (Volta Rouge)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "le 4 août 1983, une partie de l'armée se soulève, conduite par le commandant Jean-Baptiste Boukary Lingani (?–1989) et les capitaines Blaise Compaoré (1951–), Thomas Sankara (1949–1987)"
+        }
+      ]
+    },
+    {
+      "id": "BFA-2",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "Les royaumes mossis",
+      "short": "La date de fondation des premiers royaumes mossis est incertaine. Leurs raids vont jusqu'à mettre à sac Tombouctou, alors aux mains de l'empire du Mali.",
+      "long": "Le royaume de Ouagadougou devient un protectorat français en 1896. Mais son souverain, le Mogho Naaba, garde une autorité morale : en 1932, il proteste encore quand la France dépèce la Haute-Volta entre ses colonies voisines. Les Mossis forment aujourd'hui plus de la moitié de la population.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "La date de fondation des premiers royaumes Mossi est incertaine. C'est en tout cas au XIVe siècle que les premiers rapports de forces mossis sont connus."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "Vers 1239, des raids Mossi mettent à sac Tombouctou alors aux mains de l'empire du Mali de Mansa Moussa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "En 1896, le royaume mossi de Ouagadougou devient un protectorat français."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "C'est pourquoi, en septembre 1932, la Haute-Volta est dépecée au profit du Soudan français (actuel Mali), de la Côte d'Ivoire et du Niger, en dépit des protestations du Mogho Naaba."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Les Mossi sont l'ethnie majoritaire du Burkina Faso, constituant plus de 56 % de la population"
+        }
+      ]
+    },
+    {
+      "id": "BFA-3",
+      "topic": "histoire",
+      "era": "1932-1947",
+      "title": "Le pays rayé de la carte pendant quinze ans",
+      "short": "Créée en 1919, la colonie de Haute-Volta est dépecée en 1932 au profit du Soudan français, de la Côte d'Ivoire et du Niger. Elle n'est reconstituée qu'en 1947.",
+      "long": "La colonie, sans accès à la mer, était convoitée par ses voisines comme réservoir de main-d'œuvre, et l'administration voulait réduire ses frais. Le pays devient indépendant le 5 août 1960.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "La colonie de Haute-Volta est créée le 1er mars 1919, puis à nouveau en 1947."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "C'est pourquoi, en septembre 1932, la Haute-Volta est dépecée au profit du Soudan français (actuel Mali), de la Côte d'Ivoire et du Niger, en dépit des protestations du Mogho Naaba."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "Cependant, plusieurs éléments rendent l'autonomie de la Haute-Volta problématique : d'une part, les colonies voisines convoitent ce réservoir de main d'œuvre, et la colonie manque d'un accès à la mer ; d'autre part, l'administration coloniale doit restreindre ses frais de fonctionnement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Ancienne colonie française, la Haute-Volta obtient l'indépendance le 5 août 1960."
+        }
+      ]
+    },
+    {
+      "id": "BFA-4",
+      "topic": "histoire",
+      "era": "1983-1987",
+      "title": "Thomas Sankara, le président qui plantait des arbres",
+      "short": "Arrivé au pouvoir en 1983, le capitaine Thomas Sankara retire aux chefs traditionnels leurs pouvoirs féodaux et fait de l'environnement une priorité, chose rare à l'époque. Il est assassiné en 1987.",
+      "long": "Pour freiner l'avancée du désert, il propose de planter des bandes boisées d'une cinquantaine de kilomètres à travers le pays, d'est en ouest. Il est tué sur ordre de Blaise Compaoré, qui prend le pouvoir le 15 octobre 1987.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "Thomas Sankara devient chef de l'État, fonction qu'il cumule avec celle de ministre de l'Intérieur et de la Sécurité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "Thomas Sankara retire aux chefs traditionnels les pouvoirs féodaux qu'ils continuaient d'exercer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burkina_Faso",
+          "quote": "le 4 août 1983, une partie de l'armée se soulève, conduite par le commandant Jean-Baptiste Boukary Lingani (?–1989) et les capitaines Blaise Compaoré (1951–), Thomas Sankara (1949–1987)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Dans les années 1980, alors que la conscience écologique est encore très peu développée, le président du Burkina Faso Thomas Sankara est l'un des rares dirigeants africains à considérer la protection de l'environnement comme une priorité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Pour faire face à l'avancée du désert et aux sècheresses récurrentes, Thomas Sankara propose également la plantation de bandes boisées d'une cinquantaine de kilomètres, traversant le pays d'est en ouest."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Thomas Sankara est assassiné sur ordre de Blaise Compaoré, qui prend le pouvoir le 15 octobre 1987."
+        }
+      ]
+    },
+    {
+      "id": "BFA-5",
+      "topic": "culture",
+      "title": "La capitale du cinéma africain",
+      "short": "Tous les deux ans, Ouagadougou accueille le FESPACO, le plus grand festival de cinéma africain du continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burkina_Faso",
+          "quote": "Le Festival panafricain du cinéma et de la télévision de Ouagadougou (FESPACO), le plus grand festival de cinéma africain sur le continent a lieu tous les deux ans à Ouagadougou (février, années impaires)."
+        }
+      ]
+    },
+    {
+      "id": "BFA-6",
+      "topic": "drapeau",
+      "era": "1984",
+      "title": "Une étoile pour la révolution",
+      "short": "Rouge en haut, vert en bas, une étoile jaune au centre : le drapeau de 1984 remplace le tricolore noir-blanc-rouge de la Haute-Volta. L'étoile symbolisait le nouveau pouvoir révolutionnaire.",
+      "long": "Le rouge évoque la lutte pour l'indépendance, le vert l'espoir et l'abondance, et le jaune les richesses minières. Ce sont les couleurs panafricaines, comme chez beaucoup de voisins.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burkina_Faso",
+          "quote": "Il est formé de deux bandes horizontales de taille égale, une rouge au-dessus et une verte au-dessous, avec une étoile jaune à cinq branches au milieu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burkina_Faso",
+          "quote": "L'actuel drapeau remplace en 1984 l’ancien tricolore horizontal noir-blanc-rouge"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burkina_Faso",
+          "quote": "La bande rouge symbolise la lutte pour l'indépendance ;\nLa couleur jaune fait référence aux richesses minières du Burkina Faso. En plus de cette signification, lors de la création du drapeau, l'étoile était le symbole du nouveau commandement aux principes révolutionnaires ;\nLa bande verte symbolise l'espoir et l'abondance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burkina_Faso",
+          "quote": "Les couleurs panafricaines sont utilisées, à l'instar des pays voisins."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BFA-C1",
+      "topic": "histoire",
+      "title": "« Là où l'on reçoit des honneurs »",
+      "short": "Ouagadougou s'appelait d'abord Kombemtinga, la « terre des princes ». Son nom actuel vient du mooré Wogodogo : « là où l'on reçoit des honneurs, du respect ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouagadougou",
+          "quote": "À l’origine, la ville s’appelait Kombemtinga, la « terre des princes »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouagadougou",
+          "quote": "Le mot à l'origine, en langue mooré, est Wogdgo et Wogodogo et signifie « là où on reçoit des honneurs, du respect »."
+        }
+      ]
+    },
+    {
+      "id": "BFA-C2",
+      "topic": "histoire",
+      "era": "1919",
+      "title": "Une capitale mise en sommeil",
+      "short": "Capitale de la Haute-Volta dès 1919, Ouagadougou perd ce rôle quand la colonie est partagée entre ses voisines, de 1932 à 1947. L'administration y revient à la reconstitution du territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouagadougou",
+          "quote": "Devenue capitale du territoire de Haute-Volta en 1919, la ville perd sa prééminence pendant les années de partage du territoire (1932-1947)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouagadougou",
+          "quote": "À la reconstitution de la Haute-Volta, l’administration est de nouveau transférée à Ouagadougou."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Afrique de l'Ouest, sans accès à la mer : sous le Mali et le Niger, au-dessus d'une rangée de pays côtiers (Côte d'Ivoire, Ghana, Togo, Bénin).",
+    "flag": "Deux bandes horizontales, rouge en haut, vert en bas, et une étoile jaune au centre. Le Viêt Nam a une étoile jaune sur fond entièrement rouge ; le Mozambique et le Ghana n'ont pas ce partage en deux bandes.",
+    "capital": "Ouagadougou se prononce « Wa-ga-dou-gou » : quatre syllabes qui chantent. Les Burkinabè disent simplement « Ouaga »."
+  }
+}

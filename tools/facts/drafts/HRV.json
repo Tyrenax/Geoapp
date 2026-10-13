@@ -1,0 +1,156 @@
+{
+  "id": "HRV",
+  "facts": [
+    {
+      "id": "HRV-1",
+      "topic": "histoire",
+      "era": "1102-1918",
+      "title": "Un royaume associé à la Hongrie",
+      "short": "La Croatie est l'héritière d'un royaume médiéval, d'abord indépendant, puis associé à la couronne hongroise en 1102. En 1527, elle passe aux Habsbourg, qui la gardent jusqu'à la fin de l'Autriche-Hongrie, en 1918.",
+      "long": "Sa côte dalmate a longtemps subi l'influence de Venise, tandis que les plaines du nord regardaient vers l'Autriche-Hongrie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "La Croatie contemporaine est également l'héritière",
+          "to": "l'Autriche-Hongrie de 1867 à 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "Outre le caractère slave de ses habitants",
+          "to": "dans le bassin du Danube d'autre part."
+        }
+      ]
+    },
+    {
+      "id": "HRV-2",
+      "topic": "histoire",
+      "era": "1941-1945",
+      "title": "L'État des Oustachis",
+      "short": "Pendant la Seconde Guerre mondiale, les envahisseurs créent un « État indépendant de Croatie », confié aux Oustachis fascistes d'Ante Pavelić : un État satellite de l'Italie et de l'Allemagne nazie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "Pendant la Seconde Guerre mondiale, l'État indépendant de Croatie",
+          "to": "de l'Italie et de l'Allemagne nazie."
+        }
+      ]
+    },
+    {
+      "id": "HRV-3",
+      "topic": "histoire",
+      "era": "1991-1998",
+      "title": "Une indépendance au prix de la guerre",
+      "short": "En 1991, la Croatie, comme la Slovénie, déclare son indépendance. Belgrade la refuse : l'armée yougoslave et des groupes paramilitaires serbes lui font la guerre. En 1995, la Croatie reprend l'essentiel des territoires tenus par les Serbes rebelles.",
+      "long": "Avec le soutien des Nations unies, elle achève en 1998 de réintégrer les dernières zones encore sous contrôle serbe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "En 1991, à la suite de l'introduction du multipartisme",
+          "to": "des groupes paramilitaires serbes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "En 1995, la Croatie a récupéré la majeure partie",
+          "to": "pour les intégrer à sa souveraineté."
+        }
+      ]
+    },
+    {
+      "id": "HRV-4",
+      "topic": "geographie",
+      "title": "Mille îles et un fer à cheval",
+      "short": "La Croatie a une forme de croissant, ou de fer à cheval. Sa côte très découpée compte 698 îles, 389 îlots et 78 récifs, dont seulement 47 îles habitées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "La Croatie a une forme particulière semblable à un croissant",
+          "to": "ou un fer à cheval,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "La côte croate est très découpée",
+          "to": "47 îles sont habitées."
+        }
+      ]
+    },
+    {
+      "id": "HRV-5",
+      "topic": "politique",
+      "era": "2013-2023",
+      "title": "Dans l'Union depuis 2013",
+      "short": "La Croatie rejoint l'Union européenne le 1er juillet 2013, puis la zone euro et l'espace Schengen le 1er janvier 2023.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "Comptant environ quatre millions d'habitants",
+          "to": "depuis 2009."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Croatie",
+          "from": "Elle intègre la zone euro et l'espace Schengen",
+          "to": "le 1er janvier 2023"
+        }
+      ]
+    },
+    {
+      "id": "HRV-6",
+      "topic": "drapeau",
+      "era": "1848-1990",
+      "title": "Le blason remplace l'étoile",
+      "short": "Le rouge, le blanc et le bleu sont utilisés depuis 1848. En mai 1990, après les premières élections multipartites, l'étoile qui ornait le drapeau est remplacée par le blason national ; le drapeau actuel est adopté le 21 décembre 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Croatie",
+          "from": "Les trois couleurs sont utilisées depuis 1848.",
+          "to": "depuis 1848."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Croatie",
+          "from": "L'étoile a été remplacée en mai 1990",
+          "to": "premières élections multipartites."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Croatie",
+          "from": "Le drapeau actuel et le blason ont été adoptés",
+          "to": "la déclaration d'indépendance."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "HRV-C1",
+      "topic": "histoire",
+      "era": "1094-1850",
+      "title": "Deux bourgs devenus une ville",
+      "short": "Zagreb naît de deux bourgs rivaux : Kaptol, où le roi Ladislas fonde un évêché en 1094, et Gradec, déclarée « ville royale libre » en 1242. Les deux ne fusionnent qu'en 1850.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zagreb",
+          "from": "L'histoire de Zagreb remonte au moins à 1094",
+          "to": "l'un des centres historiques les mieux préservés de Croatie)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zagreb",
+          "from": "Pour remercier Gradec de lui avoir donné un abri efficace",
+          "to": "« ville royale libre »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zagreb",
+          "from": "Plus tard, des combats éclatent entre le diocèse",
+          "to": "la ville libre de Gradec."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zagreb",
+          "from": "La fusion de Kaptol et de Gradec",
+          "to": "accélère son développement."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays en forme de croissant qui enserre la Bosnie-Herzégovine : la longue côte dalmate sur l'Adriatique, semée d'îles, et au nord-est une plaine qui va jusqu'au Danube. Elle touche la Slovénie, la Hongrie, la Serbie, la Bosnie-Herzégovine et le Monténégro.",
+    "flag": "Rouge, blanc, bleu en bandes horizontales, avec au centre un écu à damier rouge et blanc. Les Pays-Bas ont les mêmes bandes sans écu ; le Paraguay aussi, avec un petit emblème rond.",
+    "capital": "Zagreb, née de deux bourgs voisins, Kaptol et Gradec, réunis en 1850."
+  }
+}

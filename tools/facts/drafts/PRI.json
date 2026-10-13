@@ -1,0 +1,130 @@
+{
+  "id": "PRI",
+  "facts": [
+    {
+      "id": "PRI-1",
+      "topic": "histoire",
+      "title": "L'île et le port qui ont échangé leurs noms",
+      "short": "Colomb avait baptisé l'île San Juan Bautista, et le port « Puerto Rico », le port riche. Les marins ont fini par inverser : l'île est devenue Puerto Rico, et le port, San Juan, aujourd'hui la capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Christophe Colomb nomma l'île « San Juan Bautista »",
+          "to": "qui deviendra la capitale de l'île."
+        }
+      ]
+    },
+    {
+      "id": "PRI-2",
+      "topic": "histoire",
+      "title": "Borikén, la « terre du vaillant seigneur »",
+      "short": "Les Portoricains appellent souvent leur île Boriquén, de Borikén, son nom taïno, qui signifie « terre du vaillant seigneur ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Les portoricains appellent souvent leur île « Boriquén »",
+          "to": "« Terre du vaillant seigneur »."
+        }
+      ]
+    },
+    {
+      "id": "PRI-3",
+      "topic": "histoire",
+      "era": "1493-1917",
+      "title": "Espagnole, puis américaine",
+      "short": "Espagnole depuis l'arrivée de Colomb en 1493, l'île est conquise par les États-Unis lors de la guerre hispano-américaine de 1898. Depuis 1917, les Portoricains ont la nationalité américaine, mais ils ne votent pas à l'élection présidentielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Porto Rico est un territoire d'outre-mer de la Couronne espagnole",
+          "to": "sa conquête par les États-Unis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Les habitants de Porto Rico ont la nationalité américaine",
+          "to": "à l'élection présidentielle américaine."
+        }
+      ]
+    },
+    {
+      "id": "PRI-4",
+      "topic": "politique",
+      "title": "État, indépendance ou statu quo ?",
+      "short": "Porto Rico est un territoire non incorporé des États-Unis, avec sa propre constitution. Son statut a fait l'objet de référendums : devenir un État américain, l'indépendance, ou une indépendance en libre association.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Les 3,2 millions de Portoricains sont des citoyens américains",
+          "to": "comme les États des États-Unis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Les électeurs ont le choix entre le statut d’État",
+          "to": "l’utilisation du dollar américain."
+        }
+      ]
+    },
+    {
+      "id": "PRI-5",
+      "topic": "culture",
+      "era": "1963",
+      "title": "Le radiotélescope géant d'Arecibo",
+      "short": "Inauguré en 1963, le radiotélescope d'Arecibo, au miroir de plus de 300 mètres logé dans un creux du relief, a été le plus grand du monde jusque dans les années 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "En 1963, le radiotélescope d'Arecibo est inauguré.",
+          "to": "est inauguré."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto_Rico",
+          "from": "Avec son miroir sphérique de plus de 300 mètres",
+          "to": "(FAST) en Chine."
+        }
+      ]
+    },
+    {
+      "id": "PRI-6",
+      "topic": "drapeau",
+      "title": "Le frère du drapeau cubain",
+      "short": "Le drapeau est conçu à la fin du XIXe siècle par des indépendantistes portoricains exilés à New York. Il symbolise la fraternité dans la lutte des séparatistes cubains et portoricains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Porto_Rico",
+          "from": "Le drapeau est élaboré au cours de la dernière décennie du XIXe siècle",
+          "to": "vivant à New York."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Porto_Rico",
+          "from": "Le drapeau symbolise la fraternité dans la lutte révolutionnaire",
+          "to": "cubains et portoricains."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PRI-C1",
+      "topic": "histoire",
+      "title": "Saint-Jean-Baptiste et ses forts",
+      "short": "San Juan, de son nom complet San Juan Bautista, est défendue par les Espagnols contre les attaques britanniques et néerlandaises grâce aux forts San Felipe del Morro et San Cristóbal.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Juan_(Porto_Rico)",
+          "from": "San Juan (officiellement en espagnol Municipio Autónomo de San Juan Bautista",
+          "to": "« municipalité autonome de Saint-Jean-Baptiste »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Juan_(Porto_Rico)",
+          "from": "L'Espagne, pour défendre l'île des attaques militaires",
+          "to": "San Felipe del Morro et San Cristobal."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La plus petite et la plus orientale des Grandes Antilles, à l'est d'Hispaniola (Haïti et République dominicaine).",
+    "flag": "Cinq bandes rouges et blanches, un triangle bleu côté mât et une étoile blanche : c'est le drapeau cubain aux couleurs inversées (Cuba a des bandes bleues et un triangle rouge).",
+    "capital": "San Juan, Saint-Jean : c'était à l'origine le nom de toute l'île, échangé avec celui du port."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "KIR",
+  "facts": [
+    {
+      "id": "KIR-1",
+      "topic": "histoire",
+      "era": "1979",
+      "title": "« Kiribati » se prononce « Kiribass »",
+      "short": "En gilbertin, la syllabe « ti » se prononce « s » : on dit donc « Kiribass ». Le nom, choisi à l'indépendance en 1979, est la façon gilbertine de dire « Gilberts », le nom anglais de l'archipel.",
+      "long": "Les îles Gilbert devaient elles-mêmes leur nom au capitaine britannique Thomas Gilbert, qui les avait croisées en 1788 avec le capitaine John Marshall.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "En gilbertin, la syllabe -ti transcrit le son /s/."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Le nom actuel des Kiribati a été choisi lors de l'indépendance en 1979. C'est la façon en gilbertin de prononcer et d'écrire le mot anglais Gilberts (Gilberts ou Gilbert Islands est le nom anglais des îles Gilbert)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Ce nom avait été choisi en référence au capitaine britannique Thomas Gilbert qui, de concert avec John Marshall, avait croisé en 1788 certaines îles de l'archipel lors de leur passage entre Port Jackson et Canton."
+        }
+      ]
+    },
+    {
+      "id": "KIR-2",
+      "topic": "histoire",
+      "era": "1943",
+      "title": "La bataille de Tarawa",
+      "short": "Occupées par le Japon à partir de la fin de 1941, les îles Gilbert sont en partie libérées en novembre 1943 par la sanglante bataille de Tarawa.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "La colonie des îles Gilbert subit l'occupation japonaise pendant la Seconde Guerre mondiale, à partir de la fin 1941."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "La sanglante bataille de Tarawa y met partiellement fin en novembre 1943."
+        }
+      ]
+    },
+    {
+      "id": "KIR-3",
+      "topic": "histoire",
+      "era": "1975-1979",
+      "title": "Les îles Gilbert et Ellice se séparent",
+      "short": "Colonie britannique depuis 1916, les îles Gilbert et Ellice se séparent en 1975. Les Ellice deviennent indépendantes en 1978 sous le nom de Tuvalu, et les Gilbert le 12 juillet 1979 sous le nom de Kiribati.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Les îles Gilbert et Ellice deviennent le 12 janvier 1916 une colonie britannique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "En 1978, l'indépendance est définitivement accordée aux îles Ellice, séparées des Gilbert depuis octobre 1975 (de facto au 1er janvier 1976), et qui prennent alors le nom de Tuvalu (« huit îles ensemble »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Les Kiribati accèdent à leur tour à leur indépendance sous leur nouveau nom le 12 juillet 1979"
+        }
+      ]
+    },
+    {
+      "id": "KIR-4",
+      "topic": "geographie",
+      "era": "1995",
+      "title": "Le seul pays à l'heure UTC+14",
+      "short": "Les Kiribati s'étendent de part et d'autre de l'antiméridien, et le pays vivait sur deux dates à la fois. En 1995, il déplace ses archipels orientaux de fuseau horaire : c'est aujourd'hui le seul pays au monde à l'heure UTC+14.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Les archipels chevauchent l'antiméridien, qui théoriquement détermine le changement de jour (la ligne de changement de date zigzague le long dudit antiméridien), de sorte qu'en 1995, en prévision du passage à l'an 2000 les autorités décidèrent de changer de fuseau horaire les deux archipels orientaux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "Les Kiribati sont maintenant le seul pays au monde à faire partie du fuseau UTC+14. Il était auparavant coupé en deux et vivait sur deux dates simultanément, ce qui n'était pas toujours pratique pour les habitants."
+        }
+      ]
+    },
+    {
+      "id": "KIR-5",
+      "topic": "geographie",
+      "title": "Des atolls à fleur d'eau",
+      "short": "Presque toutes les îles sont des atolls qui dépassent à peine le niveau de la mer. Hormis Banaba, qui culmine à 81 m, le point le plus haut est une dune d'une douzaine de mètres, sur l'île Christmas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "La quasi-totalité de ces îles sont des atolls qui dépassent à peine le niveau de la mer : si on ne compte pas Banaba, seule île « haute », qui culmine à 81 mètres, le sommet de ces atolls est la colline de Joe, une dune d'une douzaine de mètres de haut, sur l'île Christmas."
+        }
+      ]
+    },
+    {
+      "id": "KIR-6",
+      "topic": "drapeau",
+      "era": "1979",
+      "title": "Une frégate au-dessus du soleil levant",
+      "short": "Le drapeau montre un soleil levant, survolé par une frégate, qui émerge des flots du Pacifique. Ses 17 rayons représentent les 16 îles Gilbert et l'île de Banaba.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Kiribati",
+          "quote": "Le drapeau représente un soleil levant (otintaai), survolé par une frégate (te eitei), qui émerge des flots du Pacifique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Kiribati",
+          "quote": "Le soleil darde ses 17 rayons, symbole des 16 îles Gilbert et de l'île de Banaba."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KIR-C1",
+      "topic": "geographie",
+      "title": "Une capitale en forme de voile",
+      "short": "Tarawa-Sud s'étire sur une trentaine de kilomètres, le long d'une dizaine d'îlots reliés entre eux sur la branche sud de l'atoll de Tarawa. Elle regroupe plus de la moitié de la population du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tarawa-Sud",
+          "quote": "Tarawa-Sud s'étend, de Betio à Bonriki, sur une trentaine de kilomètres, une dizaine d'îlots reliés entre eux, soit toute la branche sud de l'atoll (d'où le nom en gilbertin de « bôme », l'atoll ressemblant à une voile latine)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiribati",
+          "quote": "La capitale, Tarawa-Sud, qui regroupe plus de la moitié de la population de la république (2020)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Trois archipels éparpillés sur des milliers de kilomètres au milieu du Pacifique, à cheval sur l'équateur et l'antiméridien, au nord-est des Salomon et au nord des Tuvalu.",
+    "flag": "Moitié haute rouge avec une frégate jaune au-dessus d'un soleil levant, moitié basse en vagues bleues et blanches. Un des drapeaux les plus faciles à reconnaître.",
+    "capital": "Tarawa-Sud, sur l'atoll de Tarawa, célèbre pour la bataille de 1943."
+  }
+}

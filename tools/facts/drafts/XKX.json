@@ -1,0 +1,139 @@
+{
+  "id": "XKX",
+  "facts": [
+    {
+      "id": "XKX-1",
+      "topic": "histoire",
+      "era": "1389",
+      "title": "Le pays des merles",
+      "short": "En serbe, « Kosovo » désigne la grande plaine de l'est du pays ; kos signifie « merle ». Le nom renvoie à la bataille de Kosovo Polje, le « Champ des merles », livrée le 15 juin 1389 entre l'armée serbe et les Ottomans.",
+      "long": "Cette bataille marque un tournant : peu à peu, les princes serbes acceptent de devenir vassaux du sultan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Le terme « Kosovo », en serbe, désigne la vaste plaine",
+          "to": "Kos signifie « merle »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "La bataille de Kosovo Polje, le 15 juin 1389",
+          "to": "vassaux du nouveau sultan Bayezid Ier"
+        }
+      ]
+    },
+    {
+      "id": "XKX-2",
+      "topic": "culture",
+      "title": "Une terre sacrée pour les Serbes",
+      "short": "Le Kosovo abrite plusieurs monastères de l'Église orthodoxe serbe, d'une forte valeur spirituelle pour les Serbes. En 1557, Sokollu Mehmet Pacha y accorde à l'Église serbe la restauration du patriarcat de Peć.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Les Serbes considèrent le Kosovo sous un angle particulier",
+          "to": "ayant une valeur spirituelle forte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "En 1557, Sokollu Mehmet Pacha décide",
+          "to": "la restauration du patriarcat de Peć."
+        }
+      ]
+    },
+    {
+      "id": "XKX-3",
+      "topic": "histoire",
+      "era": "1999",
+      "title": "Sous administration de l'ONU",
+      "short": "Province autonome de la Yougoslavie après la Seconde Guerre mondiale, le Kosovo est placé sous administration de l'ONU le 10 juin 1999, après de violents conflits. La résolution 1244 du Conseil de sécurité reconnaît alors l'intégrité territoriale de la Serbie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Il devient, après la Seconde Guerre mondiale, une province autonome",
+          "to": "à la suite des violents conflits"
+        }
+      ]
+    },
+    {
+      "id": "XKX-4",
+      "topic": "histoire",
+      "era": "2008",
+      "title": "Une indépendance contestée",
+      "short": "Le 17 février 2008, le parlement du Kosovo proclame l'indépendance. Plusieurs pays, dont les États-Unis et la France, la reconnaissent ; la Serbie la conteste et considère le Kosovo comme sa province autonome, et la Russie et la Chine jugent cette déclaration illégale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Sa déclaration d'indépendance le 17 février 2008",
+          "to": "la province autonome de Kosovo-et-Métochie"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Dans les jours suivants, un certain nombre de pays",
+          "to": "malgré les protestations de la Serbie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "Le Conseil de sécurité de l'ONU est divisé",
+          "to": "illégale."
+        }
+      ]
+    },
+    {
+      "id": "XKX-5",
+      "topic": "culture",
+      "era": "2016",
+      "title": "Reconnu par le monde du sport",
+      "short": "Bien que l'ONU ne reconnaisse pas son indépendance, le Kosovo est admis depuis 2016 par la FIFA et le Comité international olympique : il peut participer à la Coupe du monde de football et aux Jeux olympiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "L'indépendance du Kosovo n'est pas reconnue non plus",
+          "to": "par l'Organisation des Nations unies,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kosovo",
+          "from": "En revanche, depuis 2016, le pays est reconnu",
+          "to": "et aux Jeux olympiques."
+        }
+      ]
+    },
+    {
+      "id": "XKX-6",
+      "topic": "drapeau",
+      "era": "2008",
+      "title": "Une carte et six étoiles",
+      "short": "Adopté le 17 février 2008, le drapeau montre la silhouette du Kosovo en jaune sur fond bleu. Ses six étoiles blanches représentent les six principales communautés : la majorité albanaise et les minorités.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kosovo",
+          "from": "Le drapeau du Kosovo a été adopté",
+          "to": "le 17 février 2008."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kosovo",
+          "from": "De fond bleu, la forme de l'État se distingue",
+          "to": "des Goranis et des Turcs)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "XKX-C1",
+      "topic": "histoire",
+      "title": "L'héritière d'Ulpiana",
+      "short": "Dans l'Antiquité romaine prospérait Ulpiana, à 15 km au sud de l'actuelle Pristina. Après la chute de l'Empire romain, elle est délaissée au profit du site de Pristina, plus proche des grands axes commerciaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pristina",
+          "from": "Durant l'Antiquité romaine, prospérait Ulpiana",
+          "to": "plus proche des grands axes commerciaux."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit territoire enclavé au cœur des Balkans, entre la Serbie au nord et à l'est, le Monténégro au nord-ouest, l'Albanie au sud-ouest et la Macédoine du Nord au sud.",
+    "flag": "Un fond bleu avec la silhouette du territoire en jaune et, au-dessus, une ligne de six étoiles blanches. Avec Chypre, c'est l'un des rares drapeaux qui montrent une carte.",
+    "capital": "Pristina, héritière de la romaine Ulpiana, au centre-est du Kosovo."
+  }
+}

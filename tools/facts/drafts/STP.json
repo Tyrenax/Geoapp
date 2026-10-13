@@ -1,0 +1,80 @@
+{
+  "id": "STP",
+  "facts": [
+    {
+      "id": "STP-1", "topic": "histoire",
+      "title": "L'île découverte le jour de la Saint-Thomas",
+      "short": "Les navigateurs portugais João de Santarém et Pedro Escobar découvrent l'île, alors inhabitée, un 21 décembre, jour de la Saint-Thomas : d'où son nom, São Tomé. Le nom du pays signifie « Saint-Thomas-et-Prince ».",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "L'île de São Tomé, alors inhabitée, est découverte le jour de la saint Thomas", "to": "João de Santarém et Pedro Escobar."},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "En portugais le pays s'écrit São Tomé e Príncipe", "to": "« Saint-Thomas-et-Prince »."}
+      ]
+    },
+    {
+      "id": "STP-2", "topic": "histoire", "era": "XVIe siècle",
+      "title": "Le laboratoire de la plantation sucrière",
+      "short": "Pour cultiver la canne à sucre sur ses terres volcaniques, les Portugais font venir près de 4 000 captifs par an du royaume du Kongo. São Tomé devient le premier grand essai de plantation sucrière sous les tropiques.",
+      "long": "Les esclaves y travaillent plus de quatorze heures par jour, sans salaire. En 1595, une grande révolte d'esclaves menée par Rei Amador s'empare même de la capitale, avant d'être écrasée l'année suivante.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "Pour défricher et mettre en valeur les riches terres volcaniques", "to": "près de 4 000 captifs par an."},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "L'île de São Tomé est ainsi le théâtre", "to": "la plantation de canne à sucre."},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "Les colons ne rétribuaient, n'habillaient", "to": "plus de 14 heures par jour."},
+        {"url": "https://fr.wikipedia.org/wiki/São_Tomé_(ville)", "from": "Le 9 juillet 1595, une révolte d'esclaves menée par Rei Amador", "to": "subjugués en 1596."}
+      ]
+    },
+    {
+      "id": "STP-3", "topic": "economie", "era": "1913",
+      "title": "Le premier exportateur de cacao du monde",
+      "short": "En 1913, ce petit archipel est le premier exportateur mondial de cacao, produit dans une trentaine de grandes plantations, les roças. Le cacao reste aujourd'hui l'essentiel de ses exportations.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_Sao_Tomé-et-Principe", "from": "En 1913, l’archipel est devenu le premier exportateur de cacao au monde.", "to": "au monde."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_Sao_Tomé-et-Principe", "from": "Une trentaine de roças des deux îles", "to": "la production de cacao et de café."},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "Les plantations de cacao, qui représentent l'essentiel des exportations", "to": "sont nationalisées"}
+      ]
+    },
+    {
+      "id": "STP-4", "topic": "histoire", "era": "1975",
+      "title": "L'indépendance négociée à Alger",
+      "short": "Après des grèves et des mutineries en 1974, un accord est signé à Alger avec le Portugal. L'indépendance est proclamée le 12 juillet 1975 ; Manuel Pinto da Costa, chef du mouvement de libération marxiste, devient président.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "L'archipel acquiert son indépendance le 12 juillet 1975", "to": "en septembre 1974"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_Sao_Tomé-et-Principe", "from": "L'Assemblée constituante, qui devient nationale", "to": "au poste de président de la République."}
+      ]
+    },
+    {
+      "id": "STP-5", "topic": "geographie",
+      "title": "Un pays au ras de l'équateur",
+      "short": "L'équateur passe à seulement 2 km au sud de la pointe de l'île de São Tomé. L'archipel est formé de deux îles volcaniques principales, São Tomé et Principe, et culmine au pic de São Tomé, à 2 024 m.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "L'équateur passe à 2,13 kilomètres au sud", "to": "la pointe sud de l'île de São Tomé."},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "L’archipel est constitué de deux îles principales", "to": "Principe (142 km2)"},
+        {"url": "https://fr.wikipedia.org/wiki/Sao_Tomé-et-Principe", "from": "Le point culminant du pays est le Pico de São Tomé (2 024 m).", "to": "(2 024 m)."}
+      ]
+    },
+    {
+      "id": "STP-6", "topic": "drapeau", "era": "1975",
+      "title": "Les couleurs du cacao",
+      "short": "Adopté quatre mois après l'indépendance, le drapeau reprend les couleurs panafricaines. Le rouge évoque le sang versé pour l'indépendance, et le jaune les cacaoyers, principale richesse du pays.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_de_Sao_Tomé-et-Principe", "from": "Il fut adopté le 5 novembre 1975", "to": "l'indépendance de l'archipel."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_de_Sao_Tomé-et-Principe", "from": "Les couleurs sont celles du panafricanisme", "to": "le jaune renvoie aux cacaoyers"}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "STP-C1", "topic": "histoire", "era": "1493",
+      "title": "Saint-Thomas, colonie de 1493",
+      "short": "La colonie de São Tomé est fondée en 1493 par Álvaro Caminha. La ville a été la capitale de la colonie portugaise, puis du pays indépendant depuis 1975.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/São_Tomé_(ville)", "from": "Álvaro Caminha fonda la colonie de São Tomé en 1493.", "to": "en 1493."},
+        {"url": "https://fr.wikipedia.org/wiki/São_Tomé_(ville)", "from": "La ville a servi de capitale de la colonie portugaise", "to": "de capitale de la nation souveraine."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux petites îles volcaniques dans le golfe de Guinée, juste sur l'équateur, au large du Gabon et de la Guinée équatoriale.",
+    "flag": "Un triangle rouge côté mât, puis trois bandes horizontales vert, jaune, vert, avec deux étoiles noires sur la bande jaune. Une étoile par île.",
+    "capital": "Facile : la capitale porte le nom de la grande île, São Tomé, « Saint-Thomas »."
+  }
+}

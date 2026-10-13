@@ -1,0 +1,157 @@
+{
+  "id": "GNQ",
+  "facts": [
+    {
+      "id": "GNQ-1",
+      "topic": "histoire",
+      "era": "1471",
+      "title": "L'île de la Bonne Année",
+      "short": "Le 1er janvier 1471, les navigateurs portugais João de Santarém et Pedro Escobar aperçoivent une île qu'ils baptisent « Ano Bom », la « Bonne Année » : c'est l'actuelle Annobón.",
+      "long": "L'île de Bioko porta longtemps le nom de son découvreur portugais, Fernando Póo. Les îles servent alors de comptoirs pour la traite des esclaves.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "le 1er janvier 1471, João de Santarém et Pedro Escobar aperçoivent une île qu'ils appelent « Ilha do Ano Bom » (île de la bonne année)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée_équatoriale",
+          "quote": "Les Portugais commencent à coloniser les îles de Bioko (alors appelée Fernando Póo, du nom de son découvreur), de Pagalu (alors appelée Annobón) et de Corisco ; elles servent de comptoirs pour le trafic d'esclaves."
+        }
+      ]
+    },
+    {
+      "id": "GNQ-2",
+      "topic": "histoire",
+      "era": "1778",
+      "title": "Échangée entre le Portugal et l'Espagne",
+      "short": "Par le traité d'El Pardo, en mars 1778, le Portugal cède les îles du golfe de Guinée à l'Espagne. Elles deviennent la partie insulaire de la Guinée espagnole, et l'espagnol est aujourd'hui encore la langue la plus parlée du pays.",
+      "long": "Aujourd'hui, l'espagnol, le français et le portugais sont tous trois langues officielles, mais l'espagnol reste de loin le plus parlé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée_équatoriale",
+          "quote": "Les îles restent aux mains des Portugais jusqu'en mars 1778, quand elles sont cédées à l'Espagne lors du traité d'El Pardo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Les îles d’Annobón et Fernando Poo deviendront, avec les îles de Corisco, Elobeye et Mbanié la partie insulaire de la Guinée espagnole en 1778, puis de la Guinée équatoriale en 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Les langues officielles sont l'espagnol, le français et le portugais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Cependant, l'espagnol est de loin la langue officielle la plus parlée."
+        }
+      ]
+    },
+    {
+      "id": "GNQ-3",
+      "topic": "histoire",
+      "era": "1641",
+      "title": "Bioko, plaque tournante de la traite",
+      "short": "En 1641, la Compagnie néerlandaise des Indes s'installe sur l'île de Bioko sans l'accord du Portugal et en fait le centre du trafic d'esclaves dans le golfe de Guinée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée_équatoriale",
+          "quote": "En 1641, la Compagnie néerlandaise des Indes orientales s'installe sans l'accord du Portugal sur l'île de Bioko, et en fait le centre du trafic d'esclaves dans le golfe de Guinée."
+        }
+      ]
+    },
+    {
+      "id": "GNQ-4",
+      "topic": "histoire",
+      "era": "1968-1979",
+      "title": "Une indépendance sous la terreur",
+      "short": "Indépendante en 1968, la Guinée équatoriale tombe aussitôt sous la dictature sanglante de Francisco Macías Nguema, président à vie. En 1979, son neveu Teodoro Obiang le renverse par un coup d'État.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Ancienne colonie espagnole pendant la colonisation européenne de l'Afrique, la Guinée équatoriale obtient son indépendance en 1968 sous la dictature sanglante du Président à vie, Francisco Macías Nguema."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Depuis son renversement par un coup d'État en 1979, le président du pays est son neveu Teodoro Obiang Nguema Mbasogo."
+        }
+      ]
+    },
+    {
+      "id": "GNQ-5",
+      "topic": "economie",
+      "title": "Le pétrole, une richesse mal partagée",
+      "short": "Depuis la découverte de pétrole au début des années 1990, les hydrocarbures font 97 % des exportations. Le pays est l'un des plus riches d'Afrique subsaharienne par habitant, mais peu de gens en profitent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Le pays, jusqu'alors sans grandes ressources, a bénéficié de la découverte de pétrole dans les eaux territoriales au début des années 1990."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Les hydrocarbures représentent 97 % des exportations de l’État, qui est membre de l'Organisation des producteurs de pétrole africains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Elle est le quatrième pays quant au PIB/habitant en Afrique subsaharienne, mais peu de gens ont profité des richesses issues du pétrole, et les inégalités restent très importantes."
+        }
+      ]
+    },
+    {
+      "id": "GNQ-6",
+      "topic": "drapeau",
+      "title": "Un fromager et six étoiles",
+      "short": "Au centre du drapeau, les armoiries montrent un fromager, l'arbre traditionnel de la région, sous six étoiles jaunes : une pour la partie continentale, et une pour chacune des cinq îles.",
+      "long": "Le drapeau porte trois bandes, verte, blanche et rouge, et un triangle bleu côté mât. Le bleu évoque l'Atlantique, le vert les forêts, le rouge le sang versé pour la liberté et le blanc la paix. Sous l'écusson, la devise : Unidad, Paz, Justicia.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée_équatoriale",
+          "quote": "Il est orné des armoiries du pays sur la bande blanche, qui représentent un kapokier, arbre traditionnel de la région aussi appelé fromager, sur fond gris, surmonté de six étoiles jaunes symbolisant le territoire continental et les cinq îles qui composent le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée_équatoriale",
+          "quote": "Il se compose de trois bandes horizontales verte, blanche et rouge dans lesquelles s’insère un coin bleu du côté du mat"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée_équatoriale",
+          "quote": "Le bleu évoque l’océan Atlantique, le vert les forêts tropicales, le rouge le sang versé pour la liberté et le blanc la paix."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée_équatoriale",
+          "quote": "Sous l’écusson, la devise nationale apparaît en espagnol : Unidad, Paz, Justicia (unité, paix, justice)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GNQ-C1",
+      "topic": "politique",
+      "era": "2026",
+      "title": "Une capitale toute neuve sur le continent",
+      "short": "Depuis le 3 janvier 2026, la capitale n'est plus Malabo, sur l'île de Bioko, mais Ciudad de la Paz, une ville nouvelle bâtie sur la partie continentale. Elle s'appelait Oyala jusqu'en 2017.",
+      "long": "Malabo avait été fondée par les Britanniques sous le nom de Port Clarence, puis rebaptisée Santa Isabel par les Espagnols ; elle a été capitale de 1969 à 2026.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ciudad_de_la_Paz",
+          "quote": "Le 3 janvier 2026, Ciudad de la Paz devient officiellement la capitale du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ciudad_de_la_Paz",
+          "quote": "Appelée Oyala jusqu'en 2017, elle devient officiellement la capitale du pays en janvier 2026, en remplacement de Malabo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée_équatoriale",
+          "quote": "Elle est constituée de deux parties, l'une continentale, bordée par le Cameroun et le Gabon, où se trouve la capitale Ciudad de la Paz (depuis janvier 2026), l'autre insulaire avec l'île de Bioko (où se trouve l'ancienne capitale Malabo)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée_équatoriale",
+          "quote": "Ils fondent Port Clarence - que les Espagnols appellent par la suite Santa Isabel, et qui est aujourd'hui Malabo, capitale de la Guinée équatoriale de 1969 à 2026."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays du golfe de Guinée en deux morceaux : un carré de forêt sur le continent, coincé entre le Cameroun et le Gabon, et l'île de Bioko, en face du Cameroun.",
+    "flag": "Vert, blanc, rouge en bandes horizontales, avec un triangle bleu côté mât et, au centre, un blason qui montre un arbre sous six étoiles. Le Soudan a aussi un triangle côté mât, mais vert, sur des bandes rouge, blanche et noire.",
+    "capital": "Piège récent : ce n'est plus Malabo, sur l'île, mais Ciudad de la Paz, « la ville de la paix », bâtie sur le continent."
+  }
+}

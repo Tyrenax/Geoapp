@@ -1,0 +1,124 @@
+{
+  "id": "URY",
+  "facts": [
+    {
+      "id": "URY-1",
+      "topic": "histoire",
+      "title": "Le pays des Charrúas",
+      "short": "Avant l'arrivée des Européens, le territoire était peuplé de Guaranis et de Charrúas ; ces derniers formaient le groupe le plus nombreux et le mieux organisé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Le pays était, avant les Européens, peuplé par des Guaranis",
+          "to": "le plus nombreux et le plus organisé."
+        }
+      ]
+    },
+    {
+      "id": "URY-2",
+      "topic": "histoire",
+      "era": "1825-1828",
+      "title": "Les Trente-Trois Orientaux",
+      "short": "L'Uruguay était la Cisplatine, la province la plus au sud de l'empire du Brésil. Le 19 avril 1825, trente-trois patriotes menés par Juan Antonio Lavalleja débarquent et lancent la guerre d'indépendance, qui s'achève en 1828.",
+      "long": "La région s'appelait alors la Banda Oriental, la « région orientale » du fleuve Uruguay : c'est pourquoi le pays se nomme officiellement la république orientale de l'Uruguay. La guerre se termine le 28 août 1828 par le traité de Montevideo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "L'Uruguay est né de la sécession de la Cisplatine",
+          "to": "Provinces-Unies du Río de la Plata."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Mais le 19 avril 1825, le groupe nationaliste Trente-trois Orientaux",
+          "to": "la guerre d'indépendance contre le Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Cette guerre se termina le 28 août 1828",
+          "to": "par le Traité de Montevideo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Le début du XIXe siècle vit l'émergence de mouvements indépendantistes",
+          "to": "« Région orientale »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "L'Uruguay (/y.ʁy.ɡwɛ/), en forme longue la république orientale de l'Uruguay",
+          "to": "qui lui a donné son nom."
+        }
+      ]
+    },
+    {
+      "id": "URY-3",
+      "topic": "histoire",
+      "era": "1930",
+      "title": "Le premier champion du monde de football",
+      "short": "En 1930, l'Uruguay organise la toute première Coupe du monde de football… et la gagne. Il la remporte de nouveau en 1950.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Le pays a organisé et remporté la première Coupe du monde en 1930.",
+          "to": "en 1930."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "Il a également gagné la Coupe du monde 1950.",
+          "to": "1950."
+        }
+      ]
+    },
+    {
+      "id": "URY-4",
+      "topic": "politique",
+      "title": "Une laïcité à la française",
+      "short": "L'Uruguay est un État laïc : son régime de séparation des Églises et de l'État s'inspire directement du modèle français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "from": "L'Uruguay est un État laïc",
+          "to": "inspiré du cas français."
+        }
+      ]
+    },
+    {
+      "id": "URY-5",
+      "topic": "drapeau",
+      "title": "Neuf bandes et un soleil",
+      "short": "Le drapeau compte neuf bandes, alternativement blanches et bleues, et un soleil doré dans un carré blanc en haut à gauche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Uruguay",
+          "from": "Le drapeau est constitué de 9 bandes",
+          "to": "le cadre en haut à gauche."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "URY-C1",
+      "topic": "histoire",
+      "era": "1726",
+      "title": "Un rempart espagnol face aux Portugais",
+      "short": "Les Espagnols fondent Montevideo en 1726 pour barrer la route aux Portugais, installés tout près, à Colonia del Sacramento. Son nom viendrait du portugais « Monte vide eu », « je vois une montagne », ou d'un relevé espagnol du « sixième mont d'est en ouest ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montevideo",
+          "from": "La ville a été fondée en 1726 par les Espagnols",
+          "to": "par le Traité de Tordesillas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montevideo",
+          "from": "Deux étymologies existent pour le nom Montevideo",
+          "to": "au cours de relevés topographiques."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit pays coincé entre le Brésil au nord et l'Argentine à l'ouest, sur la rive nord de l'estuaire du Río de la Plata, face à Buenos Aires.",
+    "flag": "Neuf bandes blanches et bleues avec un soleil à visage en haut à gauche. L'Argentine a le même soleil, mais au centre de trois bandes ; la Grèce a aussi neuf bandes bleues et blanches, avec une croix à la place du soleil.",
+    "capital": "Montevideo, « je vois une montagne » : imagine un marin qui crie en apercevant la colline au-dessus de la baie."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "LKA",
+  "facts": [
+    {
+      "id": "LKA-1",
+      "topic": "histoire",
+      "title": "Taprobane, Serendip, Ceylan",
+      "short": "L'île a porté bien des noms : Taprobane pour les Grecs de l'Antiquité, Serendip pour les Arabes, puis Ceylan, jusqu'à la proclamation de la république en 1972.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Le pays était auparavant nommé Tambapanni (543-505 av. J.-C.) par ses premiers habitants, Taprobane par les Grecs de l'Antiquité, Serendip (ou Serendib) par les Arabes, puis Ceylan jusqu'en 1972, date de proclamation de la république."
+        }
+      ]
+    },
+    {
+      "id": "LKA-2",
+      "topic": "histoire",
+      "era": "377 av. J.-C.",
+      "title": "Les royaumes d'Anuradhapura et de Sigiriya",
+      "short": "Fondé en 377 av. J.-C., le royaume d'Anuradhapura voit prospérer une brillante civilisation. Plus tard, en 495, le roi Kassapa Ier fonde Sigiriya.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Une civilisation prospère se développa dans des villes comme Anurâdhapura."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Royaume d'Anuradhapura fondé en 377 av. J.-C. par le Roi Pandukabhaya.\nSigiriya fondé en 495 par le Roi Kassapa I."
+        }
+      ]
+    },
+    {
+      "id": "LKA-3",
+      "topic": "histoire",
+      "era": "1796-1948",
+      "title": "Portugais, Hollandais, Britanniques",
+      "short": "L'île est successivement colonie portugaise, néerlandaise puis britannique. Les Britanniques, arrivés en 1796, y introduisent au XIXe siècle la culture du thé. Ceylan devient indépendante le 4 février 1948.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Successivement colonie portugaise, néerlandaise puis britannique, le pays obtient son indépendance en 1948, sous la forme d'un dominion en tant que monarchie au sein du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "L'Empire britannique intégra l'île de Ceylan en tant que province en 1796 au détriment des Hollandais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "L'administration anglaise introduisit au XIXe siècle la culture du thé, ainsi qu'un réseau ferroviaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "La colonie britannique de Ceylan obtient son indépendance le 4 février 1948."
+        }
+      ]
+    },
+    {
+      "id": "LKA-4",
+      "topic": "histoire",
+      "era": "1983-2009",
+      "title": "Une longue guerre civile",
+      "short": "À partir de 1983, une guerre civile oppose le gouvernement aux Tigres de libération de l'Îlam tamoul. Avec les violences qui l'ont précédée, elle fait plus de 100 000 morts. Les Tigres cessent le combat le 17 mai 2009.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Une guerre civile prend de l'ampleur à compter de 1983 : elle oppose le gouvernement central à l'organisation des Tigres de libération de l'Îlam tamoul (en anglais LTTE – Liberation Tigers of Tamil Eelam), conduite par Velupillai Prabhakaran,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "En prenant en compte les événements d'avant la guerre proprement dite, cette guerre civile a causé la mort de plus de 100 000 personnes et près de 150 000 disparus depuis 1972."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Les LTTE cessent le combat le 17 mai 2009 après l'annonce de la mort de M. V. Prabhakaran."
+        }
+      ]
+    },
+    {
+      "id": "LKA-5",
+      "topic": "economie",
+      "title": "L'île du thé",
+      "short": "Le Sri Lanka consacre une grande partie de ses terres agricoles au thé destiné à l'exportation, au détriment de son autonomie alimentaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Lanka",
+          "quote": "Le Sri Lanka est par ailleurs très dépendant du commerce extérieur : l'île consacre une grande partie de ses terres agricoles à la production de thé destinée à l'exportation, au détriment de l'autonomie alimentaire du pays."
+        }
+      ]
+    },
+    {
+      "id": "LKA-6",
+      "topic": "drapeau",
+      "title": "Le lion à l'épée",
+      "short": "Le « drapeau du Lion » montre un lion d'or tenant une épée, emblème des anciens rois de Kandy, avec une feuille de pipal dans chaque coin, l'arbre sous lequel méditait Bouddha. Les bandes verte et orange représentent les minorités musulmane et tamoule.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sri_Lanka",
+          "quote": "Il se compose d'un lion d'or, tenant une épée (Kastane) dans sa patte avant droite, devant un fond pourpre à quatre feuilles de pipal dans chaque coin, qui représentent les feuilles de l'arbre sous lequel Gautama Bouddha se plaisait à méditer. Les bandes verticales verte et orange à la hampe représentent les minorités musulmane et tamoule."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sri_Lanka",
+          "quote": "Le lion passant armé sur fond pourpre était l'emblème des anciens rois de Kandy."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sri_Lanka",
+          "quote": "Le drapeau du Sri Lanka, également appelé drapeau du Lion,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LKA-C1",
+      "topic": "histoire",
+      "era": "1979",
+      "title": "La ville forteresse de la victoire",
+      "short": "Ancienne capitale du royaume de Kotte, aux XIVe-XVIe siècles, la ville est choisie comme capitale du pays en 1979 et reprend alors son nom complet, Sri Jayawardenapura Kotte : « la sainte ville forteresse de la transcendante victoire ». Colombo, sa grande voisine, reste la capitale économique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte",
+          "quote": "Du XIVe au XVIe siècle, Kotte était la capitale de l'ancien royaume de Kotte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte",
+          "quote": "En 1979, lorsqu'on décide de faire de Kotte la capitale du pays, elle reprend son premier nom de Sri-Jaya-Vardhana-Pura-Kotte, que l'on peut traduire par « la sainte ville forteresse de la transcendante victoire »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sri_Jayawardenapura_Kotte",
+          "quote": "Elle se trouve dans la banlieue sud-est de Colombo, capitale économique."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île en forme de goutte, juste au sud-est de la pointe de l'Inde, dans l'océan Indien.",
+    "flag": "Un lion doré avec une épée sur fond bordeaux, et deux bandes verticales, verte et orange, côté hampe. Aucun autre drapeau n'a ce lion.",
+    "capital": "Sri Jayawardenapura Kotte, en banlieue de Colombo, la grande ville de la côte ouest."
+  }
+}

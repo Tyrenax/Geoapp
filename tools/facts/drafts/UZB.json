@@ -1,0 +1,173 @@
+{
+  "id": "UZB",
+  "facts": [
+    {
+      "id": "UZB-1",
+      "topic": "histoire",
+      "title": "Samarcande, carrefour de la route de la soie",
+      "short": "La ville sogdienne de Samarcande devient une plaque tournante de la grande route de la soie entre la Chine et l'Europe. Gengis Khan la prend en 1220.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Sous la domination de ces derniers, la ville sogdienne de Samarcande",
+          "to": "entre la Chine et l'Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Le grand conquérant mongol Gengis Khan prit Samarcande en 1220",
+          "to": "en 1220"
+        }
+      ]
+    },
+    {
+      "id": "UZB-2",
+      "topic": "histoire",
+      "era": "1336-1405",
+      "title": "Tamerlan",
+      "short": "Né près de Samarcande, Tamerlan (1336-1405) bâtit un vaste empire en Asie centrale et laisse de grandes réalisations culturelles et scientifiques, surtout à Samarcande. Le XVe siècle est appelé la Renaissance timouride.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Tamerlan (1336-1405), appelé également Amir Timour",
+          "to": "dont le futur Ouzbékistan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Tamerlan a laissé de grandes réalisations culturelles",
+          "to": "principalement à Samarcande et à Hérat."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Le XVe siècle est appelé par les historiens modernes",
+          "to": "la Renaissance timouride,"
+        }
+      ]
+    },
+    {
+      "id": "UZB-3",
+      "topic": "histoire",
+      "era": "1960-1980",
+      "title": "L'affaire du coton imaginaire",
+      "short": "Dans les années 1960-1980, Moscou pousse l'Ouzbékistan à produire toujours plus de coton. Ses dirigeants falsifient les statistiques : c'est l'« affaire du coton imaginaire ». L'irrigation du coton assèche la mer d'Aral, un désastre écologique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Le phénomène qui a largement façonné l'histoire de l'Ouzbékistan",
+          "to": "la monoculture du coton."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Sous la pression de Moscou qui incitait",
+          "to": "« Mafia ouzbèke »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "La mer d'Aral, partagée entre l'Ouzbékistan et le Kazakhstan",
+          "to": "pour la région."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Cela est principalement la conséquence des prélèvements",
+          "to": "les cultures de coton."
+        }
+      ]
+    },
+    {
+      "id": "UZB-4",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Indépendant sous Karimov",
+      "short": "L'Ouzbékistan déclare son indépendance le 31 août 1991. Islam Karimov le gouverne de manière autoritaire de 1990 jusqu'à sa mort, en 2016.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "À la suite de l'échec de la signature d'un nouvel accord",
+          "to": "l'Ouzbékistan déclare son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "De 1990 à 2016, le pays est gouverné",
+          "to": "Islam Karimov."
+        }
+      ]
+    },
+    {
+      "id": "UZB-5",
+      "topic": "geographie",
+      "title": "Doublement enclavé",
+      "short": "L'Ouzbékistan est l'un des deux seuls pays du monde, avec le Liechtenstein, à être doublement enclavé : il faut traverser au moins deux autres pays pour atteindre l'océan. C'est aussi le seul pays d'Asie centrale à toucher les quatre autres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "L'Ouzbékistan est l'un des deux seuls pays au monde",
+          "to": "pour avoir un accès à l'océan mondial."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "Frontalier au sud-ouest du Turkménistan",
+          "to": "une frontière commune avec les quatre autres."
+        }
+      ]
+    },
+    {
+      "id": "UZB-6",
+      "topic": "drapeau",
+      "era": "1991",
+      "title": "Le croissant et les douze étoiles",
+      "short": "Bleu, blanc et vert, séparés par deux fins liserés rouges, avec sur la bande bleue un croissant de lune et douze étoiles blanches. Adopté le 18 novembre 1991, il symbolise l'islam et la toute récente indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouzbékistan",
+          "from": "il est adopté lors de la 8e session",
+          "to": "le 18 novembre 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouzbékistan",
+          "from": "Le drapeau est composé de trois bandes horizontales",
+          "to": "séparées de deux liserés rouges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouzbékistan",
+          "from": "Sur la bande bleue, près de la hampe",
+          "to": "l'islam (88 % des Ouzbeks sont musulmans)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouzbékistan",
+          "from": "Ce croissant de nouvelle lune symbolise de même",
+          "to": "l'indépendance récente de l'Ouzbékistan."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "UZB-C1",
+      "topic": "histoire",
+      "era": "1966",
+      "title": "La citadelle de pierre",
+      "short": "Tachkent signifie « citadelle de pierre » en ouzbek. Capitale à la place de Samarcande depuis 1930, la ville est sévèrement frappée par un tremblement de terre le 26 avril 1966, puis reconstruite avec l'aide de toutes les républiques soviétiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tachkent",
+          "from": "Son nom signifie « citadelle de pierre »",
+          "to": "ville ou bourg, en ouzbek)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouzbékistan",
+          "from": "La capitale, Samarcande, fut transférée à Tachkent en 1930.",
+          "to": "à Tachkent en 1930."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tachkent",
+          "from": "Tachkent et sa région sont sévèrement frappées",
+          "to": "toutes les républiques soviétiques."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Asie centrale, entre le Kazakhstan au nord et l'Afghanistan au sud : le seul pays qui touche les quatre autres « -stan » de la région.",
+    "flag": "Bleu, blanc, vert avec deux fins filets rouges, un croissant et douze étoiles en haut à gauche.",
+    "capital": "Tachkent, tout à l'est du pays, près du Kazakhstan."
+  }
+}

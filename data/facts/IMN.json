@@ -1,0 +1,123 @@
+{
+  "id": "IMN",
+  "facts": [
+    {
+      "id": "IMN-1",
+      "topic": "histoire",
+      "title": "Le Tynwald, peut-être le plus vieux parlement",
+      "short": "Les Scandinaves, maîtres de l'île au Moyen Âge, y ont fondé un système politique organisé autour du Tynwald, qui serait le plus ancien parlement en fonctionnement continu au monde.",
+      "long": "Venus d'abord piller l'île, entre 800 et 815, les Vikings s'y établissent entre 850 et 990 ; elle passe alors sous le contrôle des rois scandinaves de Dublin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Les Scandinaves y ont fondé un système politique basé sur le principe des « citoyens libres » et s'organisant autour du Tynwald (qui serait le plus ancien parlement en fonctionnement continu au monde)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Entre 800 et 815, les Vikings sont venus à Man essentiellement pour le pillage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Entre 850 et 990, ils s'établissent sur l'île et cette dernière passe sous le contrôle des rois scandinaves de Dublin."
+        }
+      ]
+    },
+    {
+      "id": "IMN-2",
+      "topic": "histoire",
+      "era": "1765-1866",
+      "title": "Une île achetée par la Couronne",
+      "short": "En 1765, la Couronne britannique persuade le seigneur de l'île de lui vendre l'île de Man pour 70 000 livres sterling. Un siècle plus tard, en 1866, l'île obtient un gouvernement local autonome.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Pour cette raison, la Couronne le persuade de vendre l'île de Man pour 70 000 livres sterling (1765)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "En 1866, l'île de Man obtient un gouvernement local autonome ; cette autonomie n'est d'abord que formelle, mais a peu à peu été étendue."
+        }
+      ]
+    },
+    {
+      "id": "IMN-3",
+      "topic": "histoire",
+      "era": "1974",
+      "title": "Une langue morte qui renaît",
+      "short": "Le dernier locuteur de naissance de la langue mannoise, Ned Maddrell, meurt le 27 décembre 1974. Depuis, le mannois renaît : une école enseigne exclusivement dans cette langue, et quelque 1 800 personnes la pratiquent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "L’usage du mannois par le gouvernement est surtout symbolique, mais un nombre croissant de militants linguistiques font revivre la langue dont le dernier locuteur réputé l’avoir parlée comme langue maternelle, Ned Maddrell, est mort le 27 décembre 1974."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Toutefois, la langue mannoise a depuis connu une renaissance, avec une école qui offre un enseignement exclusivement en cette langue, et 1800 locuteurs qui pratiquent la langue."
+        }
+      ]
+    },
+    {
+      "id": "IMN-4",
+      "topic": "culture",
+      "era": "1907",
+      "title": "Le Tourist Trophy",
+      "short": "Depuis 1907, l'île accueille chaque année, fin mai et début juin, une célèbre course de motos : le Tourist Trophy.",
+      "long": "L'île a aussi donné son nom au manx, une race de chat dont la queue est très courte, voire absente.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Une course célèbre de motos se déroule sur l’île la dernière semaine de mai et la première de juin depuis 1907 : le Tourist Trophy de l'île de Man."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "Une célèbre race de chat originaire de l'île de Man, le manx, a pour caractéristique d'avoir une queue très courte, voire absente."
+        }
+      ]
+    },
+    {
+      "id": "IMN-5",
+      "topic": "drapeau",
+      "title": "Les trois jambes en armure",
+      "short": "Le drapeau de l'île de Man, « les trois pieds », montre trois jambes en armure tournant sur fond rouge. La Sicile a un symbole proche, mais avec la tête de Méduse au centre et des jambes nues.",
+      "long": "Ces armoiries ont été conservées quand l'île est passée sous souveraineté écossaise, puis anglaise, en 1266.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_de_Man",
+          "quote": "Le drapeau de l'île de Man, appelé Ny Tree Casyn en mannois, en français « les trois pieds », représente une triquètre (une variété de triskèle) en armure, en sens dextre et sur fond de gueules (rouge)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_de_Man",
+          "quote": "Ce symbole semble aussi apparenté à l'île de Sicile à cause de sa forme à trois jambes, cependant le symbole sicilien montrait la tête de Méduse en son centre (une des trois Gorgones dans la mythologie grecque, la seule à être mortelle) et ses jambes étaient normalement nues dans la version sicilienne. Dans le triquètre mannois, les trois jambes sont ici habillées d'une armure et sans tête."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_de_Man",
+          "quote": "En 1266, lorsque l'île de Man passe brièvement sous souveraineté écossaise puis de manière permanente sous la couronne anglaise, ces armoiries sont conservées et seront reprises pour créer un drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IMN-C1",
+      "topic": "histoire",
+      "era": "1863",
+      "title": "Capitale à la place de Castletown",
+      "short": "Douglas, Doolish en mannois, est la capitale de l'île de Man depuis 1863. Le titre revenait auparavant à Castletown, une ville plus petite du sud de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douglas_(île_de_Man)",
+          "quote": "Douglas (Doolish en mannois) est la capitale de l'île de Man."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douglas_(île_de_Man)",
+          "quote": "Douglas est la capitale de l'île de Man depuis 1863, honneur que détenait jusqu'alors Castletown, une ville plus petite située au sud de l'île."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île au milieu de la mer d'Irlande, à égale distance de l'Angleterre, de l'Écosse, de l'Irlande et de l'Irlande du Nord. Elle dépend de la Couronne britannique.",
+    "flag": "Trois jambes en armure qui tournent autour d'un centre, sur fond rouge. Un symbole qui ne ressemble à aucun drapeau national ; la Sicile a un motif voisin sur son drapeau régional.",
+    "capital": "Douglas, sur la côte est de l'île, capitale depuis 1863."
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": "CXR",
+  "facts": [
+    {
+      "id": "CXR-1",
+      "topic": "histoire",
+      "era": "1643",
+      "title": "L'île de Noël",
+      "short": "Le capitaine anglais William Mynors aperçoit l'île le 25 décembre 1643 et la baptise Christmas, « Noël ». Inhabitée, elle reçoit sa première visite certaine en mars 1688, avec le Britannique William Dampier.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Elle fut baptisée le 25 décembre 1643",
+          "to": "au cœur de l'océan Indien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "La première visite certaine date de mars 1688",
+          "to": "qui la trouva inhabitée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "L'île Christmas, en anglais Christmas Island",
+          "to": "« île de Noël »"
+        }
+      ]
+    },
+    {
+      "id": "CXR-2",
+      "topic": "histoire",
+      "era": "1888-1897",
+      "title": "Une île faite de phosphate",
+      "short": "Le naturaliste John Murray découvre que la roche de l'île est presque entièrement composée de phosphate. Le Royaume-Uni l'annexe le 6 juin 1888 et la fait administrer depuis Singapour. L'exploitation du phosphate commence en 1897 et reste aujourd'hui la principale industrie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "La première installation sur l'île s'est faite deux cents ans après",
+          "to": "Malacca, Penang et Singapour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "L'exploitation du phosphate débuta en 1897",
+          "to": "Christmas Island Phosphate Co. Ltd."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "L'extraction de phosphate constitue encore",
+          "to": "la principale industrie de l'île."
+        }
+      ]
+    },
+    {
+      "id": "CXR-3",
+      "topic": "histoire",
+      "era": "1942-1958",
+      "title": "Japonaise, puis australienne",
+      "short": "Les forces japonaises occupent l'île de mars 1942 à la fin de la Seconde Guerre mondiale. Le 1er octobre 1958, elle devient un territoire australien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "De mars 1942 à la fin de la Seconde Guerre mondiale",
+          "to": "les forces japonaises occupèrent l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Cette île est devenue un territoire australien le 1er octobre 1958",
+          "to": "le 1er octobre 1958"
+        }
+      ]
+    },
+    {
+      "id": "CXR-4",
+      "topic": "geographie",
+      "title": "La marée des crabes rouges",
+      "short": "À chaque saison des pluies, des dizaines de millions de crabes rouges sortent de la forêt et se ruent vers le rivage pour s'y reproduire. Pendant la migration, les habitants évitent certaines routes ; un parc national couvre 60 % de l'île pour protéger l'espèce.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "À chaque saison des pluies, l'île est envahie",
+          "to": "Gecarcoidea natalis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Sortant de la forêt tropicale, ils se ruent vers les rivages",
+          "to": "afin de s'y reproduire"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Pendant la migration, la population de Christmas s'adapte",
+          "to": "en évitant certaines routes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "En 1989, un parc national de quelque 1 600 ha",
+          "to": "Ce parc couvre 60 % de l'île"
+        }
+      ]
+    },
+    {
+      "id": "CXR-5",
+      "topic": "politique",
+      "era": "2001",
+      "title": "Une porte d'entrée vers l'Australie",
+      "short": "Proche de l'Indonésie, l'île est devenue l'un des principaux points de passage des réfugiés qui cherchent à gagner l'Australie. Depuis 2001, elle abrite un centre de rétention pour immigrés, et ses côtes ont connu des naufrages meurtriers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Elle est devenue l'un des principaux points de passage",
+          "to": "transitant par l'Indonésie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "L'île abrite depuis 2001",
+          "to": "un centre de rétention pour immigrés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Christmas_(Australie)",
+          "from": "Les côtes de l'île ont connu des naufrages tragiques",
+          "to": "en dix ans."
+        }
+      ]
+    },
+    {
+      "id": "CXR-6",
+      "topic": "drapeau",
+      "era": "1986-2002",
+      "title": "Un oiseau d'or et une île de phosphate",
+      "short": "Choisi par concours en 1986, le drapeau n'est officiel qu'en 2002. Il porte la Croix du Sud sur le bleu de la mer, un phaéton à bec jaune, oiseau de l'île, sur le vert de la végétation, et la carte de l'île sur un disque jaune, couleur du phosphate.",
+      "long": "Sa construction rappelle fortement celle du drapeau de la Papouasie-Nouvelle-Guinée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_Christmas",
+          "from": "a été officiellement adopté le 26 janvier 2002",
+          "to": "Pourtant ce drapeau est apparu dès 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_Christmas",
+          "from": "Ce drapeau est le gagnant d'une compétition",
+          "to": "qui représentera le territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_Christmas",
+          "from": "Le drapeau est divisé par une diagonale",
+          "to": "produit de l'industrie minière de l'île."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CXR-C1",
+      "topic": "histoire",
+      "era": "1888",
+      "title": "La crique aux poissons volants",
+      "short": "Flying Fish Cove signifie « la crique aux poissons volants ». Fondée en 1888, c'est la plus ancienne implantation britannique de l'île ; environ un tiers des habitants y vivent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Flying_Fish_Cove",
+          "from": "Flying Fish Cove (littéralement : La Crique aux poissons volants)",
+          "to": "un territoire extérieur australien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Flying_Fish_Cove",
+          "from": "Fondée en 1888, c'est la plus ancienne implantation",
+          "to": "sur l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Flying_Fish_Cove",
+          "from": "Environ un tiers de la population de l'île Christmas",
+          "to": "réside à Flying Fish Cove."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île isolée dans l'est de l'océan Indien, juste au sud de Java, bien plus près de l'Indonésie que de l'Australie dont elle dépend.",
+    "flag": "Coupé en diagonale : bleu avec la Croix du Sud en bas, vert avec un oiseau jaune en haut, et un disque jaune avec la carte de l'île au centre.",
+    "capital": "Flying Fish Cove, « la crique aux poissons volants », au nord-est de l'île."
+  }
+}

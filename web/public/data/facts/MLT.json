@@ -1,0 +1,142 @@
+{
+  "id": "MLT",
+  "facts": [
+    {
+      "id": "MLT-1",
+      "topic": "histoire",
+      "title": "L'île du miel",
+      "short": "Les Grecs de l'Antiquité appelaient l'île Melitē, sans doute d'après le mot « miel » ou « abeille » : on y produisait un miel réputé. Les Romains en ont fait Melita.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "L'hypothèse la plus probable est que les Grecs de l'antiquité nommèrent l'île Μελίτη (Melitē), du grec ancien μέλι (« miel ») ou μέλιττα (« abeille ») vraisemblablement parce qu'un miel réputé y était produit. Les Romains latiniseront le nom en Melita."
+        }
+      ]
+    },
+    {
+      "id": "MLT-2",
+      "topic": "histoire",
+      "era": "3500 av. J.-C.",
+      "title": "Parmi les plus vieux monuments du monde",
+      "short": "Vers 3500 av. J.-C., les habitants de Malte bâtissent des temples mégalithiques, comme ceux de Ġgantija à Gozo, comptés parmi les plus anciennes structures isolées au monde. Ils sont inscrits au patrimoine mondial de l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "Vers 3500 av. J.-C., ces peuples ont construit les plus anciennes structures isolées au monde, les temples mégalithiques de Ġgantija à Gozo, de Ħaġar Qim et de Mnajdra"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "Il s'agit de la ville de La Valette, de l'Hypogée de Ħal Saflieni et de Ġgantija. Ce dernier a été étendu sous le nom de Temples mégalithiques de Malte à cinq autres temples préhistoriques, Ħaġar Qim, Mnajdra, Skorba, Ta' Ħaġrat et Tarxien situés dans les îles de Malte et de Gozo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "dont trois sites classés au patrimoine mondial de l'UNESCO : l'hypogée de Ħal Saflieni, La Valette et sept temples mégalithiques, qui comptent parmi les plus anciennes structures isolées du monde."
+        }
+      ]
+    },
+    {
+      "id": "MLT-3",
+      "topic": "histoire",
+      "era": "1530-1565",
+      "title": "Les chevaliers et le Grand Siège",
+      "short": "En 1530, Charles Quint confie Malte aux chevaliers de l'ordre de Saint-Jean. En 1565, quelque 9 000 défenseurs menés par le grand maître Jean de Valette y résistent au Grand Siège des Ottomans, qui perdent plus de 12 000 hommes.",
+      "long": "Le siège commence le 19 mai 1565 et s'achève le 13 septembre, avec l'arrivée de renforts siciliens. Les Maltais perdent environ 9 000 personnes, dont des femmes, des enfants et des vieillards. La victoire reste l'une des plus célèbres de la chrétienté face à l'Empire ottoman.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "Lorsque Charles Quint se rend une première fois en Italie en 1529 pour se faire couronner empereur par le pape Clément VII, ce dernier intercéda en faveur de l’ordre de Saint-Jean de Jérusalem, un ordre hospitalier et militaire consacré en son temps à la défense du Royaume de Jérusalem, pour que celui-ci retrouve une souveraineté après avoir été chassé de l'île de Rhodes par les Ottomans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "C’est à Bologne, le 24 mars 1530, que Charles Quint signe le diplôme concédant à l’Ordre « en fief perpétuel, noble et franc, les villes, châteaux et îles de Tripoli, Malte et Gozo"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "Le Grand siège intervient le 19 mai 1565 quand Mustapha Pacha et Uluç Ali Paşa font débarquer à Marsaxlokk un premier contingent de 40 000 soldats. Le grand maître Jean de Valette ne peut opposer qu’environ 9 000 hommes dont 592 chevaliers. Le grand siège de Malte se termine le 13 septembre, après l’arrivée des renforts siciliens du vice-roi Don Garcia de Tolède, par la défaite des Ottomans qui perdent plus de 12 000 hommes, dont le corsaire Dragut. Les pertes maltaises s’élèvent à environ 9 000 personnes dont des femmes, des enfants et des vieillards qui n'avaient pu être évacués en Sicile, et 313 chevaliers. La victoire est célébrée avec éclat et reste une des plus grandes victoires de la chrétienté sur l'Empire ottoman."
+        }
+      ]
+    },
+    {
+      "id": "MLT-4",
+      "topic": "histoire",
+      "era": "1942",
+      "title": "Une île décorée de la croix de George",
+      "short": "Pendant la Seconde Guerre mondiale, Malte gêne le ravitaillement des armées de l'Axe en Afrique du Nord. L'île subit 16 000 tonnes de bombes, et sa population reçoit la croix de George pour sa résistance : la décoration figure aujourd'hui sur le drapeau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "Durant la Seconde Guerre mondiale, Malte joue un rôle important en raison de sa position stratégique qui gêne considérablement le ravitaillement des armées de l’Axe en Afrique du Nord dans leur tentative de s’emparer du canal de Suez. Cela vaut à sa population la Croix de George pour sa résistance héroïque face au blocus et aux bombardements incessants (16 000 tonnes de bombes faisant 2 000 victimes), cette croix qui figure aujourd’hui sur le drapeau national."
+        }
+      ]
+    },
+    {
+      "id": "MLT-5",
+      "topic": "culture",
+      "title": "Une langue sémitique en alphabet latin",
+      "short": "D'origine siculo-arabe, le maltais est classé parmi les langues sémitiques. C'est aussi la seule langue vivante issue des dialectes siculo-arabes, et elle s'écrit en alphabet latin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "quote": "En raison de son origine siculo-arabe, le maltais est classé comme langue sémitique. C'est aussi la seule langue vivante représentative de la famille des dialectes siculo-arabes écrite en alphabet latin complété."
+        }
+      ]
+    },
+    {
+      "id": "MLT-6",
+      "topic": "drapeau",
+      "era": "1964",
+      "title": "Le blanc et le rouge des chevaliers",
+      "short": "Adopté à l'indépendance, le 21 septembre 1964, le drapeau est blanc et rouge, les couleurs de la bannière de l'ordre de Saint-Jean (une croix blanche sur fond rouge). La croix de George orne le coin supérieur gauche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "quote": "Le drapeau de Malte est officiellement adopté en même temps que la constitution maltaise le 21 septembre 1964, jour de l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "quote": "La Constitution maltaise prévoit que le drapeau national de Malte consiste en deux bandes verticales d'égale largeur (blanc à la hampe et rouge au vent), avec une représentation de la George Cross, bordé de rouge, dans le canton supérieur gauche de la bande blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "quote": "L'ordre de Saint-Jean de Jérusalem serait d'ailleurs la première entité à disposer officiellement d'une bannière « de gueules à la croix latine d'argent » (rouge à croix blanche),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "quote": "C'est donc tout naturellement que les couleurs rouge et blanche soient devenues les couleurs du drapeau national."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MLT-C1",
+      "topic": "histoire",
+      "era": "1566",
+      "title": "La ville du grand maître",
+      "short": "La Valette est fondée en 1566, juste après le Grand Siège, et porte le nom du grand maître français Jean de Valette. L'Unesco y recense 320 monuments sur 55 hectares, une concentration exceptionnelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "quote": "Fondée en 1566 sous le nom de « Très Humble Ville de La Valette » du nom du grand maître Jean de Valette de l'ordre hospitalier de Saint-Jean de Jérusalem, la ville comporte de nombreux bâtiments de l'époque où cet ordre était souverain de l'archipel maltais (de 1530 à 1798)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "quote": "L'actuelle capitale de Malte porte le nom de son fondateur, le Français Jean de Valette (1494-1568), grand maître de l'ordre de Saint-Jean de Jérusalem de 1557 à sa mort."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "quote": "L'Unesco a recensé à La Valette 320 monuments sur une superficie de 55 hectares, concentration exceptionnelle dans le monde ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "quote": "seule la construction du fort Saint-Elme est réalisée avant l'attaque ottomane de 1565, qui échoue après trois mois de siège."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule archipel au milieu de la Méditerranée, juste au sud de la Sicile, au nord de la Libye et à l'est de la Tunisie. Trois îles habitées : Malte, Gozo et Comino.",
+    "flag": "Deux bandes verticales, blanche au mât et rouge, avec la petite croix de George dans le coin supérieur gauche. Monaco et l'Indonésie ont aussi du rouge et du blanc, mais en bandes horizontales et sans croix.",
+    "capital": "La Valette, la ville du grand maître Jean de Valette, bâtie juste après le Grand Siège de 1565."
+  }
+}

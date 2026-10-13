@@ -1,0 +1,108 @@
+{
+  "id": "CRI",
+  "facts": [
+    {
+      "id": "CRI-1",
+      "topic": "histoire",
+      "title": "Des chasseurs-cueilleurs il y a 12 200 ans",
+      "short": "Les plus anciennes traces humaines du Costa Rica remontent à environ 12 200 ans : à Siquirres, on a mis au jour 66 établissements avec sépultures, pétroglyphes, fondations de maisons et routes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Les plus anciennes traces d'occupation humaine au Costa Rica sont associées à l'arrivée de groupes de chasseurs-cueilleurs il y a environ 12 200 ans, avec la découverte dans le canton de Siquirres de 66 établissements humains, où ont été retrouvés des éléments funéraires, des pétroglyphes, des fondations d'habitations, des routes"
+        }
+      ]
+    },
+    {
+      "id": "CRI-2",
+      "topic": "histoire",
+      "era": "1502-1821",
+      "title": "La « Côte riche » au bout de l'empire",
+      "short": "Christophe Colomb atteint la « Côte riche » en 1502. Sous les Espagnols, c'est la dépendance la plus méridionale de la capitainerie générale du Guatemala, jusqu'à l'indépendance de 1821.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "« Côte riche »), en forme longue la république du Costa Rica, en espagnol República de Costa Rica, est une république unitaire d'Amérique centrale ayant un régime présidentiel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Le territoire costaricien est occupé par les Amérindiens dès la Préhistoire avant d'être « découvert » par Christophe Colomb en 1502."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Depuis 1574, le Costa Rica était la dépendance la plus méridionale de la capitainerie générale du Guatemala, qui faisait partie de la vice-royauté de la Nouvelle-Espagne, situation qu'il a conservée jusqu'à son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Colonisé par les Espagnols du XVIe siècle au XIXe siècle, le Costa Rica acquiert son indépendance en 1821."
+        }
+      ]
+    },
+    {
+      "id": "CRI-3",
+      "topic": "histoire",
+      "era": "1948",
+      "title": "Un pays sans armée",
+      "short": "Le 1er décembre 1948, le Costa Rica devient la première nation du monde à supprimer son armée dans sa Constitution. Il se déclare aussi pays neutre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Depuis le 1er décembre 1948, le Costa Rica est un pays neutre et est devenu la première nation du monde à avoir constitutionnellement supprimé son armée."
+        }
+      ]
+    },
+    {
+      "id": "CRI-4",
+      "topic": "geographie",
+      "title": "Un quart du pays protégé",
+      "short": "Environ un quart du territoire est classé en aires protégées. Le relief est dominé par quatre chaînes de montagnes, dont deux volcaniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Environ 25 % du territoire national est protégé par le SINAC (Système national des aires de conservation), qui supervise toutes les zones protégées du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Costa_Rica",
+          "quote": "Il existe quatre chaînes de montagnes principales: la chaîne volcanique de Guanacaste, la chaîne minière de Tilarán, la chaîne volcanique centrale et la chaîne de Talamanca."
+        }
+      ]
+    },
+    {
+      "id": "CRI-5",
+      "topic": "drapeau",
+      "era": "1848",
+      "title": "Un hommage aux révolutions de 1848",
+      "short": "En 1848, le Costa Rica ajoute à son drapeau les couleurs de la France, bleu, blanc et rouge, en hommage aux révolutions qui secouent alors l'Europe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Costa_Rica",
+          "quote": "En 1848, en hommage à l'activité révolutionnaire en Europe, il a été décidé d'incorporer les couleurs françaises dans le drapeau national."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CRI-C1",
+      "topic": "histoire",
+      "era": "1823",
+      "title": "La capitale prise à Cartago",
+      "short": "Fondée en 1738, San José devient capitale en 1823 à la place de Cartago, après une bataille entre partisans et adversaires d'un rattachement à l'Empire mexicain.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_José_(Costa_Rica)",
+          "quote": "Fondée en 1738, la ville devient capitale du Costa Rica en 1823, à la place de Cartago."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_José_(Costa_Rica)",
+          "quote": "En effet, Cartago, qui est jusqu'alors la capitale, a apporté son soutien à une adhésion à l'Empire mexicain prôné par le général Iturbide et c'est donc logiquement[Selon qui ?] qu'elle est destituée de son statut après la victoire des indépendantistes commandes par Gregorio José Ramírez en 1823 à lors de la bataille d'Ochomogo"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Amérique centrale, entre le Nicaragua au nord et le Panama au sud-est, avec une côte sur la mer des Caraïbes et une sur le Pacifique.",
+    "flag": "Bleu, blanc, rouge (double), blanc, bleu à l'horizontale. La Thaïlande a exactement le même ordre, mais avec du rouge à l'extérieur et du bleu au centre.",
+    "capital": "San José, comme le saint patron : un nom très répandu, retiens « San José du Costa Rica »."
+  }
+}

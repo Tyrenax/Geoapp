@@ -1,0 +1,192 @@
+{
+  "id": "GBR",
+  "facts": [
+    {
+      "id": "GBR-1",
+      "topic": "histoire",
+      "era": "1707-1927",
+      "title": "Un royaume assemblé pièce par pièce",
+      "short": "En 1707, l'Angleterre et l'Écosse s'unissent pour former la Grande-Bretagne. L'Irlande s'y ajoute en 1801, puis la majeure partie de l'île fait sécession en 1922 : seul le nord-est reste, d'où le nom actuel, adopté en 1927.",
+      "long": "Le rapprochement avait commencé un siècle plus tôt, en 1603, quand le roi d'Écosse Jacques VI hérite aussi des trônes d'Angleterre et d'Irlande. En 1604, il se proclame « roi de Grande-Bretagne », mais les parlements ne fusionneront qu'en 1707.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Le traité d'Union entre les royaumes d'Angleterre et d'Écosse en 1707 forme le royaume de Grande-Bretagne. Son union en 1801 avec le royaume d'Irlande crée le royaume-Uni de Grande-Bretagne et d'Irlande. À la suite de la guerre d'indépendance irlandaise de 1919 à 1921, la majeure partie de l'Irlande fait sécession en 1922, laissant l'actuel Royaume-Uni de Grande-Bretagne et d'Irlande du Nord, qui adopte officiellement ce nom en 1927."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Royaume-Uni",
+          "quote": "En 1603, Jacques VI d'Écosse hérite des trônes d'Angleterre et d'Irlande comme Jacques Ier, unissant les couronnes d'Angleterre, d'Écosse et d'Irlande en une union personnelle (avec cependant trois États différents)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Le 20 octobre 1604, le roi publia une proclamation, changeant son titre en King of Great Britain (« Roi de Grande-Bretagne »)."
+        }
+      ]
+    },
+    {
+      "id": "GBR-2",
+      "topic": "histoire",
+      "era": "43-1066",
+      "title": "Une île conquise par vagues",
+      "short": "Les Romains conquièrent le sud de l'île à partir de l'an 43. Viennent ensuite les peuples germaniques au Ve siècle, les Vikings aux VIIIe et IXe siècles, puis les Normands, qui s'emparent de l'Angleterre en 1066.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "La partie méridionale de la Grande-Bretagne est conquise par l'Empire romain, de 43 à 84 apr. J.-C. Des peuples germaniques commencent à coloniser l’île de Grande-Bretagne au Ve siècle, alors que la puissance romaine décline."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Les invasions vikings s'étendent du VIIIe au IXe siècle dans l'ensemble des îles, et sont suivies par la conquête normande de l'Angleterre et de l'Irlande, à partir de 1066 et 1169."
+        }
+      ]
+    },
+    {
+      "id": "GBR-3",
+      "topic": "histoire",
+      "era": "1780-1825",
+      "title": "Le berceau de la révolution industrielle",
+      "short": "La révolution industrielle démarre en Grande-Bretagne vers 1780. En 1825, pour la première fois dans l'histoire, l'industrie d'un pays produit plus de richesse que son agriculture.",
+      "long": "C'est aussi la Grande-Bretagne qui, en 1807, vote le Slave Trade Act : elle devient la première puissance à abolir durablement la traite des esclaves, dont elle avait pourtant largement profité au XVIIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "La révolution industrielle débuta en Grande-Bretagne vers 1780 et en 1825, pour la première fois dans l'Histoire, la valeur ajoutée industrielle d'un pays dépasse celle de son agriculture."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Cependant au début du XIXe siècle, la Grande-Bretagne a voté le Slave Trade Act en 1807 et est devenue la première entité politique à avoir aboli durablement le commerce d'esclaves."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "La richesse de l'Empire britannique, comme celle des autres grandes puissances, fut aussi en partie générée par l'exploitation coloniale dont l'industrialisation, après 1750, du commerce des esclaves, avec la flotte britannique du XVIIIe siècle, la plus importante à l'époque."
+        }
+      ]
+    },
+    {
+      "id": "GBR-4",
+      "topic": "histoire",
+      "era": "1920",
+      "title": "L'empire où le soleil ne se couchait jamais",
+      "short": "À son apogée, dans les années 1920, l'Empire britannique englobe près d'un quart des terres du globe. On le disait « empire sur lequel le soleil ne se couche jamais » : il y faisait toujours jour quelque part.",
+      "long": "Il reste quatorze territoires britanniques d'outre-mer, derniers vestiges de cet empire : ils relèvent du Royaume-Uni mais ne font pas partie du Royaume-Uni proprement dit.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Le Royaume-Uni possède également quatorze territoires d'outre-mer, constituant les derniers vestiges de l'Empire britannique qui, à son apogée dans les années 1920, englobait près d'un quart de la masse continentale mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "On l'appelait communément l'« empire sur lequel le Soleil ne se couche jamais » (The empire on which the sun never sets) ; en effet, on dit qu'il y avait toujours une partie de l'empire où il faisait jour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Les quatorze territoires britanniques d'outre-mer (British Overseas Territories, en anglais) sont sous la souveraineté et le contrôle formel du Royaume-Uni, mais ne sont pas une partie du Royaume proprement dit (Grande-Bretagne et Irlande du Nord)."
+        }
+      ]
+    },
+    {
+      "id": "GBR-5",
+      "topic": "geographie",
+      "title": "Grande-Bretagne n'est pas Royaume-Uni",
+      "short": "La Grande-Bretagne, c'est l'île principale : Angleterre, Écosse et pays de Galles. Le Royaume-Uni y ajoute l'Irlande du Nord, de l'autre côté de la mer d'Irlande, et une foule de petites îles, dont les Orcades et les Shetland.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Le Royaume-Uni comprend l'île de Grande-Bretagne, la partie nord-est de l'île d'Irlande — appelée Irlande du Nord — et de nombreuses petites îles autour des deux principales îles de l'archipel britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "L'Irlande du Nord, de l'autre côté de la mer d'Irlande sur l'Irlande, ainsi que les nombreuses petites îles entourant la Grande-Bretagne et l'Irlande du Nord, y compris les Orcades et les Shetland, composent le reste du Royaume-Uni métropolitain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Royaume-Uni",
+          "quote": "Au Moyen Âge tardif, la Grande-Bretagne est divisée entre le royaume d'Angleterre, le royaume d'Écosse et la principauté de Galles,"
+        }
+      ]
+    },
+    {
+      "id": "GBR-6",
+      "topic": "drapeau",
+      "era": "1606-1801",
+      "title": "Trois croix… et pas de dragon gallois",
+      "short": "L'Union Jack superpose trois croix de saints patrons : saint Georges pour l'Angleterre, saint André pour l'Écosse (dès 1606) et saint Patrick pour l'Irlande (en 1801). Le pays de Galles n'y figure pas : en 1606, il était considéré comme une partie de l'Angleterre.",
+      "long": "Le premier drapeau de 1606 a déplu aux Écossais : leur croix de saint André passait sous la croix anglaise de saint Georges, qui la « divisait deux fois ». En 2007, un député a proposé d'y ajouter le dragon rouge gallois, sans succès.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Royaume-Uni",
+          "quote": "Il combine la croix de saint Georges du drapeau anglais et la croix de saint André du drapeau écossais. Après les actes d'Union de 1801, ce drapeau fut augmenté de la croix de saint Patrick pour représenter l'Irlande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Royaume-Uni",
+          "quote": "La première version du drapeau — à laquelle manquait l'élément irlandais — est antérieure au Royaume-Uni lui-même et a été créée en 1606,"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Union_Jack",
+          "quote": "The lack of any Welsh symbol or colours in the flag is a result of Wales having been considered an integral part of the Kingdom of England at the time the flag of Great Britain was created in 1606."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Royaume-Uni",
+          "quote": "Le Conseil privé d'Écosse (en) s'est opposé à ce drapeau, car la Croix de saint André d'Écosse était sous la Croix de saint Georges d'Angleterre et divisée deux fois (« is twyse divydit »)"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Union_Jack",
+          "quote": "Since there is no Welsh element in the Union Jack, Wrexham's Labour MP Ian Lucas proposed on 26 November 2007 in a House of Commons debate that the Union Flag be combined with the Welsh flag to reflect Wales's status within the UK, and that the red dragon be added to the Union Flag's red, white, and blue pattern."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GBR-C1",
+      "topic": "histoire",
+      "era": "43",
+      "title": "Londinium, une ville romaine",
+      "short": "Les plus anciennes traces d'installation durable remontent à l'an 43 : les Romains, après avoir conquis l'île, fondent Londinium. Dix-huit ans plus tard, la reine celte Boadicée se soulève et prend la ville pour cible.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Londres",
+          "quote": "Les plus anciennes traces certaines d'installations durables remontent à l'an 43 et sont dues aux Romains qui, à la suite de leur conquête de la Bretagne, y bâtissent une première ville. Ce premier campement est appelé Londinium."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Londres",
+          "quote": "Seulement 18 ans après la fondation de la ville par les Romains, la reine Boadicée, à la tête du peuple celte des Iceni, se dresse contre l'invasion romaine et prend Londres pour cible."
+        }
+      ]
+    },
+    {
+      "id": "GBR-C2",
+      "topic": "histoire",
+      "era": "410-600",
+      "title": "Une ville abandonnée puis refondée",
+      "short": "Après le départ des Romains en 410, Londres est en ruine et presque abandonnée. Vers l'an 600, les Anglo-Saxons fondent une nouvelle ville, Lundenwic, un kilomètre en amont, là où se trouve aujourd'hui Covent Garden.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Londres",
+          "quote": "Il existe peu d'informations sur cette période appelée Dark Ages of London (« Les âges sombres de Londres »), mais après le départ des Romains de Grande-Bretagne en 410, il est largement établi qu'au Ve siècle, Londres est en ruine et pratiquement abandonnée.\n\n\n=== Moyen Âge ===\n\n\n==== Occupation anglo-saxonne ====\nLa position privilégiée de la ville sur la Tamise en fait un lieu stratégique et vers l'an 600, les Anglo-Saxons fondent une nouvelle ville, Lundenwic, à environ 1 km en amont de la ville romaine, à l'endroit où se trouve aujourd'hui Covent Garden."
+        }
+      ]
+    },
+    {
+      "id": "GBR-C3",
+      "topic": "histoire",
+      "era": "1666",
+      "title": "Le grand incendie de 1666",
+      "short": "En 1666, un grand incendie détruit une grande partie des maisons en bois de Londres. Rares sont les bâtiments plus anciens : quelques vestiges romains, la tour de Londres et des restes de l'époque Tudor.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Londres",
+          "quote": "L'année suivante, le grand incendie de 1666 détruit une grande partie des maisons en bois de la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Londres",
+          "quote": "Peu de constructions sont antérieures au grand incendie de 1666 à l'exception de quelques restes romains, de la tour de Londres et de quelques restes de l'époque Tudor."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au nord-ouest de l'Europe, de l'autre côté de la Manche : la grande île de Grande-Bretagne (l'Angleterre au sud, l'Écosse au nord, le pays de Galles à l'ouest) et le nord-est de l'île d'Irlande. Le tunnel sous la Manche le relie à la France, près de Douvres.",
+    "flag": "L'Union Jack : sur fond bleu, une croix rouge droite bordée de blanc et des croix en X blanche et rouge. On le retrouve en coin sur les drapeaux de l'Australie, de la Nouvelle-Zélande, des Tuvalu ou des Fidji ; quand il occupe tout le drapeau, c'est le Royaume-Uni.",
+    "capital": "London vient de Londinium, la ville fondée par les Romains au bord de la Tamise."
+  }
+}

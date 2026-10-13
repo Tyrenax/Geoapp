@@ -1,0 +1,139 @@
+{
+  "id": "GUM",
+  "facts": [
+    {
+      "id": "GUM-1",
+      "topic": "histoire",
+      "era": "1500 av. J.-C.",
+      "title": "Les pierres latte des Chamorros",
+      "short": "Guam est peuplée vers 1500 av. J.-C. par des migrants venus des Philippines, ancêtres des Chamorros. Ceux-ci bâtissaient leurs maisons sur des colonnades de piliers de pierre coiffés, les pierres latte, qu'on ne trouve que dans les îles Mariannes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guam",
+          "quote": "Le premier peuplement de Guam et du reste des îles Mariannes a lieu vers 1500 av. J.-C. depuis les Philippines. Les descendants de cette migration sont le peuple autochtone de Guam, les Chamorros"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Guam",
+          "quote": "The Chamorro people raised colonnades of megalithic capped pillars called latte stones upon which they built their homes."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Guam",
+          "quote": "Latte stones are stone pillars that are found only in the Mariana Islands."
+        }
+      ]
+    },
+    {
+      "id": "GUM-2",
+      "topic": "histoire",
+      "era": "1521-1898",
+      "title": "L'escale de Magellan",
+      "short": "En mars 1521, Fernand de Magellan mouille dans une baie de l'île : c'est le premier contact connu avec des Européens. Guam reste espagnole jusqu'en 1898, quand elle est cédée aux États-Unis après la guerre hispano-américaine.",
+      "long": "Les guerres, les typhons et surtout l'épidémie de variole de 1688 font chuter la population chamorro d'environ 50 000 à moins de 5 000 personnes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guam",
+          "quote": "Le premier contact connu avec les Européens se produit en mars 1521 lorsque le navigateur Fernand de Magellan mouille dans une baie de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guam",
+          "quote": "qui perdure jusqu'en 1898, année durant laquelle elle est cédée aux États-Unis après la guerre hispano-américaine."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Guam",
+          "quote": "Intermittent warfare, plus the typhoons of 1671 and 1693, and in particular the smallpox epidemic of 1688, reduced the Chamorro population from 50,000 to 10,000, and finally to less than 5,000."
+        }
+      ]
+    },
+    {
+      "id": "GUM-3",
+      "topic": "histoire",
+      "era": "1941-1944",
+      "title": "Deux batailles de Guam",
+      "short": "Trois jours après Pearl Harbor, en décembre 1941, le Japon s'empare de Guam. Les États-Unis la reprennent pendant l'été 1944 ; l'île reste depuis une grande base militaire américaine dans le Pacifique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guam",
+          "quote": "Pendant la Seconde Guerre mondiale, Guam est attaquée par l'empire du Japon et conquise trois jours après l'attaque de Pearl Harbor, après la première bataille de Guam en décembre 1941. Dans le cadre de la campagne des îles Mariannes et Palaos pendant l'été 1944, l'île fut reconquise par les États-Unis lors de la seconde bataille de Guam"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guam",
+          "quote": "Elle demeure une importante base pour les forces armées des États-Unis dans le Pacifique."
+        }
+      ]
+    },
+    {
+      "id": "GUM-4",
+      "topic": "geographie",
+      "title": "Le serpent qui a décimé les oiseaux",
+      "short": "L'introduction du serpent brun arboricole a entraîné la disparition locale des espèces d'oiseaux endémiques de Guam.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Guam",
+          "quote": "These include the local extinction of endemic bird species after the introduction of the brown tree snake"
+        }
+      ]
+    },
+    {
+      "id": "GUM-5",
+      "topic": "culture",
+      "title": "Là où commence le jour américain",
+      "short": "La devise officieuse de Guam est « Where America's Day Begins », « Là où commence le jour de l'Amérique », car l'île est toute proche de la ligne de changement de date.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Guam",
+          "quote": "Guam's de facto motto is \"Where America's Day Begins\", which refers to the island's proximity to the International Date Line."
+        }
+      ]
+    },
+    {
+      "id": "GUM-6",
+      "topic": "drapeau",
+      "era": "1948",
+      "title": "Une pierre de fronde",
+      "short": "Adopté en 1948, le drapeau bleu foncé bordé de rouge porte au centre le sceau de Guam. Sa forme d'amande rappelle les pierres de fronde des anciens habitants ; on y voit un prao, pirogue à balancier, naviguant dans la baie de Hagåtña.",
+      "long": "La falaise à l'arrière-plan est Puntan Dos Amantes, le cap des Deux Amants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Guam",
+          "quote": "Le drapeau de Guam a été adopté le 9 février 1948. Le drapeau territorial est bleu foncé avec une bordure rouge tout autour (la bordure a été ajoutée ultérieurement). Dans le centre du drapeau se trouve le sceau de Guam, un emblème en forme d'amande, qui représente un prao en train de naviguer dans la baie Hagåtña, et GUAM en lettres rouges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Guam",
+          "quote": "La forme de l'emblème est un souvenir à la mémoire des lance-pierres utilisés par les ancêtres de l'île. La bande de terre en arrière-plan représente la falaise de Puntan Dos Amantes de Guam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GUM-C1",
+      "topic": "histoire",
+      "era": "1668-1944",
+      "title": "Une capitale de mille habitants",
+      "short": "En 1668, le missionnaire espagnol San Vitores y fonde la première église de l'île. Lourdement endommagée par les bombardements américains de 1944, Hagåtña est restée le siège du gouvernement, mais ne compte que 943 habitants en 2020.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hagåtña",
+          "quote": "En 1668, le premier missionnaire espagnol, l'aumônier San Vitores est arrivé sur l'île. La famille du chef Kepuha (premier chef catholique au Guam) fait le don d'un terrain à Hagåtña permettant à San Vitores de construire la première église du Guam."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hagåtña",
+          "quote": "Pendant la libération du Guam en 1944, lors de la Seconde Guerre mondiale, la ville a été lourdement endommagée par le bombardement naval américain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hagåtña",
+          "quote": "La ville compte actuellement 943 habitants en 2020."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hagåtña",
+          "quote": "la ville reste le siège du gouvernement territorial."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'île la plus au sud de l'archipel des Mariannes, dans le Pacifique Ouest, à l'est des Philippines et au sud du Japon.",
+    "flag": "Bleu foncé bordé de rouge, avec au centre un médaillon en forme d'amande : une pirogue, un cocotier et le mot GUAM.",
+    "capital": "Hagåtña (ou Agana), petite ville historique sur la côte ouest ; la plus grande ville est Dededo."
+  }
+}

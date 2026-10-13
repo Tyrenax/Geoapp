@@ -1,0 +1,158 @@
+{
+  "id": "ZWE",
+  "facts": [
+    {
+      "id": "ZWE-1",
+      "topic": "histoire",
+      "era": "IXe-XVe siècle",
+      "title": "Le Grand Zimbabwe, la cité de pierre",
+      "short": "Entre le IXe et le XIIIe siècle, une civilisation bantoue édifie le monument de pierre du Grand Zimbabwe, berceau du peuple shona. La cité, qui commerce avec les marchands arabes de la côte, aurait compté jusqu'à 20 000 habitants.",
+      "long": "Son origine africaine a longtemps été contestée, à tort. Organisée autour d'un roi, d'une caste dirigeante et d'une armée, la cité a donné son nom au pays : « Zimbabwe » signifie « maison de pierre » en shona.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Zimbabwe",
+          "quote": "Entre le IXe et le XIIIe siècle, une civilisation édifie le monument de pierre de « Grand Zimbabwe », à l'origine de la civilisation shona, même si le monument a longtemps fait l'objet de polémiques sur son origine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Zimbabwe",
+          "quote": "Les fondateurs du « Grand Zimbabwe », près de Masvingo, sont sans nul doute des bantous entretenant des contacts commerciaux avec les commerçants arabes de la côte orientale de l'Afrique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Zimbabwe",
+          "quote": "La cité elle-même de Grand Zimbabwe devait accueillir jusqu'à 20 000 habitants et son organisation sociale était structurée autour d'un roi, d'une caste dirigeante et d'une armée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "la Rhodésie du Sud prend le nom de Zimbabwe (« Maison de pierre » en shona), en référence à la cité du même nom."
+        }
+      ]
+    },
+    {
+      "id": "ZWE-2",
+      "topic": "histoire",
+      "era": "vers 1420",
+      "title": "L'empire du Monomotapa",
+      "short": "Vers 1420, des héritiers du Grand Zimbabwe fondent plus au nord le royaume du roi Mwene Mutapa, que les Européens appelleront le Monomotapa. Au XVIIe siècle, les Portugais finissent par y imposer un roi vassal.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Zimbabwe",
+          "quote": "Vers 1420, des membres issus de la civilisation de Grand Zimbabwe fondent un état shona plus au nord, le royaume du roi Mwene Mutapa (1400c-1450c) (« Le Grand Maraudeur »), connu sous le nom de Monomotapa"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Zimbabwe",
+          "quote": "En 1629, le roi Mwene Mutapa Kapararidze échoue à fédérer les tribus indigènes contre les Portugais. Il est déposé et remplacé par Mwene Mutapa Mavura, un vassal à la solde des Portugais."
+        }
+      ]
+    },
+    {
+      "id": "ZWE-3",
+      "topic": "histoire",
+      "era": "1890-1965",
+      "title": "La Rhodésie de Cecil Rhodes",
+      "short": "Dans les années 1890, la British South Africa Company de Cecil Rhodes taille le territoire du pays, qui devient en 1923 la colonie de Rhodésie du Sud. Elle attire l'essentiel des colons et des investissements de la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "La British South Africa Company de Cecil Rhodes délimite dans les années 1890 l'actuel territoire du pays, qui devient la colonie britannique de Rhodésie du Sud en 1923."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "En 1912, la Rhodésie du Sud, qui attire l'essentiel des colons et des investissements, devient rentable pour les actionnaires"
+        }
+      ]
+    },
+    {
+      "id": "ZWE-4",
+      "topic": "histoire",
+      "era": "1965-1980",
+      "title": "Une indépendance proclamée par la minorité blanche",
+      "short": "En 1965, la minorité blanche de Ian Smith proclame unilatéralement l'indépendance de la Rhodésie, sans reconnaissance internationale. Il faut une guerre et des accords de paix pour que le pays devienne, en avril 1980, le Zimbabwe indépendant.",
+      "long": "Robert Mugabe devient alors Premier ministre, puis dirige le pays jusqu'au coup d'État de novembre 2017.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "En 1965, la minorité blanche déclare unilatéralement l'indépendance de la Rhodésie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "Les conflits se terminent par des accords de paix établissant le suffrage universel, et la Rhodésie accède enfin à une indépendance internationalement reconnue le 17 avril 1980 sous le nom de Zimbabwe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "=== Ère Mugabe (1980-2017) ===\n\nLe 18 avril 1980, quinze ans après la déclaration unilatérale d’indépendance de Ian Smith, la Rhodésie cesse d'exister et Robert Mugabe devient le premier Premier ministre du nouvel État indépendant du Zimbabwe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "ce dernier connaît un coup d'État le 15 novembre 2017."
+        }
+      ]
+    },
+    {
+      "id": "ZWE-5",
+      "topic": "economie",
+      "era": "2008",
+      "title": "Un billet de cent milliards",
+      "short": "Au tournant du siècle, le Zimbabwe connaît une hyperinflation vertigineuse : plus de 10 millions de % par an en 2008, au point qu'il faut imprimer des billets de 100 milliards de dollars zimbabwéens, qui valent environ 3 euros.",
+      "long": "Le pays finit par abandonner sa monnaie et par utiliser le dollar américain à partir de 2009.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "L’inflation dépassant les 10 millions de % en rythme annuel, l'édition de billets de 100 milliards de dollars zimbabwéens (environ 3 EUR fin juillet 2008) devient nécessaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zimbabwe",
+          "quote": "La monnaie était auparavant le dollar zimbabwéen, jusqu'à son remplacement par le dollar américain et quelques autres monnaies adossées au dollar à la suite de la crise d'hyperinflation de 2009."
+        }
+      ]
+    },
+    {
+      "id": "ZWE-6",
+      "topic": "drapeau",
+      "title": "L'oiseau de stéatite",
+      "short": "Sur le triangle blanc du drapeau, l'oiseau du Zimbabwe reproduit une statuette en stéatite retrouvée dans les ruines du Grand Zimbabwe. Il symbolise l'histoire du pays.",
+      "long": "L'oiseau figurait déjà en 1924 sur les armoiries de la Rhodésie du Sud. L'étoile rouge placée derrière lui représente officiellement les aspirations de la nation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Zimbabwe",
+          "quote": "Le drapeau national du Zimbabwe se compose de sept bandes horizontales régulières de couleur verte, or, rouge et noire avec un triangle blanc contenant une étoile rouge à cinq branches avec un oiseau du Zimbabwe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Zimbabwe",
+          "quote": "L'oiseau en stéatite représenté sur le drapeau représente une statuette d'oiseau trouvée dans les ruines du Grand Zimbabwe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Zimbabwe",
+          "quote": "L'oiseau, utilisé pour la première fois en 1924 sur les armoiries de la Rhodésie du Sud, symbolise l'histoire du Zimbabwe ; l'étoile rouge en dessous représente officiellement les aspirations de la nation"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ZWE-C1",
+      "topic": "histoire",
+      "era": "1890-1982",
+      "title": "De Salisbury à « celui qui ne dort pas »",
+      "short": "Fondée en 1890 sous le nom de Salisbury, d'après le Premier ministre britannique, la ville est rebaptisée Harare en 1982. Le nom rappelle un chef shona, Neharawa, dont le nom signifiait « celui qui ne dort pas ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Harare",
+          "quote": "Baptisée Salisbury lors de sa fondation en 1890, au nom du Premier ministre britannique de l'époque"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Harare",
+          "quote": "Rebaptisée Harare en 1982, au nom du chef Shona Neharawa"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Harare",
+          "quote": "Le site de la capitale du Zimbabwe était autrefois habité par des Shonas qui se désignaient comme Ne-Harawa, d'après le nom de leur chef et qui signifiait « Celui qui ne dort pas »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays enclavé d'Afrique australe entre deux grands fleuves : le Zambèze au nord (frontière avec la Zambie) et le Limpopo au sud (frontière avec l'Afrique du Sud). Le Mozambique à l'est, le Botswana à l'ouest.",
+    "flag": "Sept bandes horizontales vert, jaune, rouge, noir, rouge, jaune, vert, avec un triangle blanc côté mât portant un oiseau doré sur une étoile rouge. Le seul drapeau avec cet oiseau sculpté.",
+    "capital": "Harare, l'ancienne Salisbury, sur les hauts plateaux du nord-est du pays."
+  }
+}

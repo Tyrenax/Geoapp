@@ -1,0 +1,197 @@
+{
+  "id": "GIN",
+  "facts": [
+    {
+      "id": "GIN-1",
+      "topic": "histoire",
+      "era": "1958",
+      "title": "Le « non » à de Gaulle",
+      "short": "Au référendum de septembre 1958, la Guinée est le seul territoire de l'Afrique française à rejeter la communauté proposée par de Gaulle. Elle devient indépendante dès le 2 octobre 1958, la première de l'Afrique subsaharienne française.",
+      "long": "La France retire aussitôt ses crédits et les cadres qui faisaient tourner l'administration et l'économie, et le pays est déstabilisé. Plus tard, un responsable des services secrets français reconnaîtra avoir armé et entraîné des opposants guinéens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée",
+          "from": "Lors du référendum de septembre 1958",
+          "to": "l'intégration des colonies de l'A.O.F."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Elle prend son indépendance de la France le 2 octobre 1958",
+          "to": "de l'Afrique subsaharienne française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "À la suite de l'indépendance du 2 octobre 1958",
+          "to": "la Guinée fut déstabilisée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Maurice Robert, chef du secteur Afrique",
+          "to": "nous avons armé et entraîné ces opposants guinéens"
+        }
+      ]
+    },
+    {
+      "id": "GIN-2",
+      "topic": "histoire",
+      "era": "1958-1984",
+      "title": "Sékou Touré, du héros au dictateur",
+      "short": "Arrière-petit-fils de Samory Touré, le syndicaliste Ahmed Sékou Touré devient président à 36 ans, en 1958. Très populaire dans toute l'Afrique, il impose pourtant une dictature, jusqu'en 1984, qui pousse de nombreux Guinéens à l'exil.",
+      "long": "En 1970, le Portugal, en guerre contre les indépendantistes de Guinée-Bissau soutenus par Conakry, organise même un débarquement militaire pour tenter de le renverser.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée",
+          "from": "Ahmed Sékou Touré, arrière-petit-fils de Samory Touré",
+          "to": "dans le gouvernement local."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Le pays accède à l'indépendance le 2 octobre 1958 et Ahmed Sékou Touré",
+          "to": "à 36 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée",
+          "from": "Sékou Touré, alors très populaire dans son pays",
+          "to": "il prône le panafricanisme"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "==== Présidence de Sékou Touré (1958-1984) ====",
+          "to": "(1958-1984) ===="
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "La période de dictature d'Ahmed Sékou Touré",
+          "to": "vers les pays développés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Le Portugal, enlisé dans des guerres coloniales",
+          "to": "de leur plus proche allié"
+        }
+      ]
+    },
+    {
+      "id": "GIN-3",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Samory Touré, le résistant",
+      "short": "Né dans une famille de commerçants malinkés, Samory Touré s'impose par les armes, prend Kankan, puis mène une guerre organisée contre l'occupation française, avant d'être vaincu en 1898.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Né dans une famille de commerçants malinkés",
+          "to": "l’influence des chefs musulmans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Après avoir imposé sa loi et sa religion, Samory s’empara de Kankan",
+          "to": "en défenseur de l’islam."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Samory Touré, relayé ensuite par les peuples de la forêt",
+          "to": "avant d'être vaincu en 1898."
+        }
+      ]
+    },
+    {
+      "id": "GIN-4",
+      "topic": "histoire",
+      "era": "XVIIIe siècle",
+      "title": "Le royaume théocratique du Fouta-Djalon",
+      "short": "Attirés par les riches pâturages, les pasteurs peuls arrivent à partir du XVe siècle. Ils apportent l'islam et fondent dans les montagnes le royaume théocratique du Fouta-Djalon, repoussant les Soussous vers la côte.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Les riches pâturages avaient en outre attirés les pasteurs peuls",
+          "to": "une région très prospère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Entre-temps et jusqu'au XVIIIe siècle, les Peuls apportent l'Islam",
+          "to": "repoussant les Soussous vers le littoral."
+        }
+      ]
+    },
+    {
+      "id": "GIN-5",
+      "topic": "geographie",
+      "title": "Le château d'eau de l'Afrique de l'Ouest",
+      "short": "Le Niger, le Sénégal et la Gambie prennent tous leur source en Guinée : on l'appelle le « château d'eau de l'Afrique de l'Ouest ». Son sous-sol renferme aussi un tiers des réserves mondiales de bauxite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "De nombreux fleuves, tels le Niger, le Sénégal (Bafing), la Gambie",
+          "to": "de l'Afrique de l'Ouest."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "Elle est surnommée le château d'eau de l'Afrique de l'Ouest",
+          "to": "« scandales géologiques »."
+        }
+      ]
+    },
+    {
+      "id": "GIN-6",
+      "topic": "drapeau",
+      "era": "1958",
+      "title": "Le Mali à l'envers",
+      "short": "Rouge, jaune, vert en bandes verticales, le rouge côté mât : adopté le 10 novembre 1958, le drapeau guinéen reprend presque les couleurs du Mali, mais dans l'ordre inverse.",
+      "long": "Le rouge rappelle le sang des martyrs de la lutte contre la colonisation et pour l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée",
+          "from": "Il a été adopté le 10 novembre 1958",
+          "to": "l’indépendance du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée",
+          "from": "Il se compose de trois bandes verticales, rouge, jaune et verte",
+          "to": "à partir de la hampe du drapeau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée",
+          "from": "Le drapeau de la Guinée ne doit pas être confondu",
+          "to": "à partir de la hampe du drapeau)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée",
+          "from": "Le rouge représente le sang de tous les martyrs",
+          "to": "le 2 octobre 1958."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GIN-C1",
+      "topic": "culture",
+      "title": "Chez Cona, sur l'autre rive",
+      "short": "Selon la légende, un paysan baga nommé Cona vivait sous un fromager géant, sur l'île de Tombo. Son vin de palme était le meilleur de l'île, et l'on disait : « Je vais chez Cona, sur l'autre rive (nakiri) ». De là viendrait le nom de Conakry.",
+      "long": "La ville se termine par la péninsule de Kaloum et l'île de Tombo. On appelle souvent le pays « Guinée-Conakry » pour le distinguer de ses voisins.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conakry",
+          "from": "Selon une légende, à l’origine, il y avait dans l’île Tombo",
+          "to": "le lieu devint Conakry."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Conakry",
+          "from": "Le territoire de la ville est orienté",
+          "to": "la péninsule de Kaloum et l'île de Tombo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guinée",
+          "from": "parfois appelée de manière informelle Guinée-Conakry",
+          "to": "du nom de sa capitale"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique de l'Ouest, en arc de cercle : la Guinée-Bissau et le Sénégal au nord, le Mali au nord-est, la Côte d'Ivoire à l'est, la Sierra Leone et le Liberia au sud.",
+    "flag": "Rouge, jaune, vert en bandes verticales, le rouge côté mât. Le Mali a l'ordre inverse (vert côté mât). Truc : la Guinée « rougit » côté mât.",
+    "capital": "Conakry, « chez Cona, sur l'autre rive ». C'est aussi ce qui distingue la Guinée-Conakry de la Guinée-Bissau et de la Guinée équatoriale."
+  }
+}

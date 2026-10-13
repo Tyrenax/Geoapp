@@ -1,0 +1,144 @@
+{
+  "id": "SSD",
+  "facts": [
+    {
+      "id": "SSD-1",
+      "topic": "histoire",
+      "era": "2011",
+      "title": "Le plus jeune pays d'Afrique",
+      "short": "Après un référendum d'autodétermination en janvier 2011, le Soudan du Sud fait sécession du Soudan le 9 juillet 2011. C'est le plus récent des pays africains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "À la suite du référendum d'autodétermination organisé du 9 au 15 janvier 2011, le Soudan du Sud a fait sécession de la république du Soudan le 9 juillet 2011."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Namibie",
+          "quote": "La Namibie est le troisième pays le plus jeune d'Afrique après l'indépendance de l'Érythrée en 1993 et du Soudan du Sud en 2011"
+        }
+      ]
+    },
+    {
+      "id": "SSD-2",
+      "topic": "histoire",
+      "era": "1955-2005",
+      "title": "Un demi-siècle de guerres",
+      "short": "Une mutinerie d'officiers sudistes déclenche en 1955 la première guerre civile soudanaise, qui dure dix-sept ans. En 1983, la décision de Khartoum d'étendre la charia au droit pénal relance une seconde guerre, de vingt-deux ans.",
+      "long": "La rébellion est menée par John Garang et l'Armée populaire de libération du Soudan. L'accord de paix de 2005 rend l'autonomie au sud ; Garang devient vice-président du Soudan, mais il meurt six mois plus tard dans un accident d'hélicoptère.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "Une mutinerie d'officiers sudistes déclencha la première guerre civile soudanaise qui dura 17 ans, de 1955 à 1972."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan_du_Sud",
+          "quote": "En 1983, le colonel Gaafar Nimeiry, au pouvoir à Khartoum depuis son coup d'État de 1969, décide unilatéralement d'étendre au droit pénal, le domaine de la « Charia »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan_du_Sud",
+          "quote": "Cela déclenche la seconde guerre civile (1983-2005) qui embrasera le pays pendant 22 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "La rébellion était menée depuis le début par l'Armée populaire de libération du Soudan (APLS) dirigé par John Garang, un vétéran de la première guerre civile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "La révocation de l'autonomie en 1983 provoque une seconde guerre civile, qui se termine avec la restauration de l'autonomie en 2005."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "John Garang devient vice-président de la République du Soudan mais meurt six mois plus tard dans un accident d'hélicoptère."
+        }
+      ]
+    },
+    {
+      "id": "SSD-3",
+      "topic": "histoire",
+      "era": "2013-2020",
+      "title": "Une guerre civile deux ans après l'indépendance",
+      "short": "De 2013 à 2020, le jeune pays connaît une guerre civile très meurtrière entre les partisans du président Salva Kiir et ceux du vice-président Riek Machar, sur fond de rivalité entre Dinkas et Nuers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "Entre 2013 et 2020, ce pays connaît une guerre civile particulièrement meurtrière et sanglante entre les partisans du président de la République, Salva Kiir, et ceux du vice-président de la République, Riek Machar"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan_du_Sud",
+          "quote": "Leur rivalité à la fois personnelle et ethnique (dinka et nuer) dégénère six mois plus tard lorsqu'une fusillade éclate à Djouba (capitale du Soudan du Sud) entre les partisans de ces derniers."
+        }
+      ]
+    },
+    {
+      "id": "SSD-4",
+      "topic": "geographie",
+      "title": "Le Sudd, un des plus grands marais du monde",
+      "short": "Le Nil Blanc et son affluent le Bahr el-Ghazal forment au centre du pays le Sudd, le deuxième plus grand marécage du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan_du_Sud",
+          "quote": "Les principaux sont le Nil Blanc et son affluent le Bahr el-Ghazal, qui contribuent à la fertilisation des régions qu'ils traversent et forment le second plus grand marécage du monde au milieu du pays, le Sudd"
+        }
+      ]
+    },
+    {
+      "id": "SSD-5",
+      "topic": "drapeau",
+      "era": "2011",
+      "title": "Un drapeau cousin de celui du Kenya",
+      "short": "Le drapeau s'inspire de l'emblème des rebelles de l'Armée populaire de libération du Soudan, et reprend la composition et les couleurs du drapeau kényan. L'étoile jaune, symbole d'optimisme, est posée sur un triangle bleu qui figure le Nil.",
+      "long": "Le noir représente l'identité du peuple, le rouge le sang versé pour l'indépendance, le blanc la paix et le vert l'agriculture.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan_du_Sud",
+          "quote": "À l'origine, le drapeau s'inspire de l'emblème utilisé par l'Armée populaire de libération du Soudan qui luttait pour l'indépendance de la région, acquise le 9 juillet 2011, il s'inspire aussi du drapeau du Kenya en en reprenant la composition et les couleurs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan_du_Sud",
+          "quote": "L'étoile jaune signifie l'optimisme du peuple sur un triangle bleu figurant le Nil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan_du_Sud",
+          "quote": "La couleur noire représente l'identité du peuple, le rouge le sang versé dans la lutte pour l'indépendance, le blanc la paix et le vert l'agriculture et les ressources naturelles."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SSD-C1",
+      "topic": "histoire",
+      "era": "2005",
+      "title": "Une capitale au bord du Nil Blanc",
+      "short": "Djouba, sur la rive gauche du Nil Blanc, devient en 2005 le siège du gouvernement autonome du Soudan du Sud, puis la capitale du pays indépendant. Un projet de nouvelle capitale à Ramciel, plus au nord, n'a pas abouti à cause de la guerre.",
+      "long": "Ses premiers bâtiments en dur ont été construits par des commerçants grecs arrivés dans la région en 1922.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djouba",
+          "quote": "Elle est située sur la rive gauche du Nil Blanc à environ 110 km au nord de la frontière avec l'Ouganda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djouba",
+          "quote": "En 2005, la ville devient le siège provisoire et la capitale du gouvernement autonome du Soudan du Sud (GOSS)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djouba",
+          "quote": "Il est prévu que la capitale du pays déménage dans une ville nouvelle, Ramciel, plus au nord, mais ce projet extrêmement coûteux n'est pas réalisé à cause de la guerre civile qui fait rage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djouba",
+          "quote": "En 1922, un petit nombre de commerçants grecs arrivèrent dans la région de Djouba et s'établirent sur la rive ouest du Nil Blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djouba",
+          "quote": "ont été à l'origine construits par ces commerçants et étaient les seules structures permanentes"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Afrique de l'Est, sans accès à la mer, sous le Soudan dont il s'est séparé : l'Éthiopie à l'est, le Kenya et l'Ouganda au sud, la RD Congo et la Centrafrique à l'ouest. Le Nil Blanc le traverse.",
+    "flag": "Noir, rouge, vert en bandes horizontales séparées de blanc, avec un triangle bleu côté mât portant une étoile jaune. Le Kenya a les mêmes bandes, mais un bouclier au lieu du triangle.",
+    "capital": "Djouba (Juba), au bord du Nil Blanc, tout au sud du pays, près de l'Ouganda."
+  }
+}

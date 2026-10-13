@@ -1,0 +1,151 @@
+{
+  "id": "KWT",
+  "facts": [
+    {
+      "id": "KWT-1",
+      "topic": "histoire",
+      "era": "1600-1715",
+      "title": "Un port sans eau douce",
+      "short": "Faute d'eau douce, la côte du Koweït est longtemps restée presque vide. Vers 1600, l'eau arrive par bateau dans des tonneaux pour les pêcheurs de perles. Vers 1680, des puits d'eau saumâtre permettent une installation permanente, et la ville naît vers 1685 ; la famille Al Sabah fonde le Koweït actuel en 1715.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "L'absence d'eau douce, et les précipitations quasi inexistantes, expliquent que le territoire est longtemps resté quasiment vide d'habitants sédentaires. Vers 1600, après le passage des Portugais, de l'eau pourra être acheminée par bateaux (boutres), dans de gros tonneaux en bois, pour approvisionner des chercheurs de perles, car cette ressource rare fut découverte à la fin du XVIe siècle le long de cette côte désertique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Vers 1680, des chercheurs de perles entreprennent de creuser des puits, et accèdent à la nappe phréatique, mais l'eau puisée sera très saumâtre (eau douce mélangée avec du sel). Les quelques puits vont alors permettre l'installation sur la côte d'une population permanente, et les livraisons d'eau douce à partir du port de Bassorah cessent. La ville de Koweït, petit port de pêche voit le jour vers 1685."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Le Koweït actuel a été fondé par la famille d'Al Sabah en 1715."
+        }
+      ]
+    },
+    {
+      "id": "KWT-2",
+      "topic": "culture",
+      "title": "La petite forteresse près de la mer",
+      "short": "Al-Kuwayt signifie en arabe « la petite forteresse construite près de la mer » : le nom est un diminutif. La baie de Koweït est le seul bon port naturel du fond du golfe Persique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Al-Kuwayt (/al ku'wajt/, prononciation littéraire) signifie en arabe classique « la petite forteresse construite près de la mer ». Le nom est d'ailleurs morphologiquement un diminutif, sur le schème fuʿayl."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "La baie de Koweït constitue le seul bon port naturel du fond du golfe Persique."
+        }
+      ]
+    },
+    {
+      "id": "KWT-3",
+      "topic": "histoire",
+      "era": "1899-1961",
+      "title": "Un protectorat britannique",
+      "short": "En 1899, le cheikh du Koweït signe un traité de protectorat avec le Royaume-Uni. Après la chute de la monarchie irakienne en 1958, l'Irak revendique le Koweït ; le pays obtient son indépendance le 2 juin 1961.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "En 1899, celui-ci conclut un traité de protectorat avec le Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "En juillet 1958, la chute de la monarchie en Irak, assimilée à « la chute d'un protectorat britannique » par les Irakiens, voit les premières revendications modernes de l'Irak sur le Koweït. Avec la chute du régime monarchique en Irak, les Britanniques décident d'attendre jusqu'en 1961 pour donner l'indépendance au Koweït."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Il obtient son indépendance du Royaume-Uni le 2 juin 1961."
+        }
+      ]
+    },
+    {
+      "id": "KWT-4",
+      "topic": "histoire",
+      "era": "1990-1991",
+      "title": "L'invasion irakienne",
+      "short": "Le 2 août 1990, l'Irak de Saddam Hussein envahit et annexe le Koweït, déclaré « 19e province irakienne ». Sous l'égide de l'ONU, une coalition de 500 000 soldats, venus surtout des États-Unis, d'Arabie saoudite et du Royaume-Uni, se forme pour chasser l'armée irakienne : c'est la guerre du Golfe.",
+      "long": "L'armée irakienne incendie quelque 700 puits de pétrole, qui brûlent pendant neuf mois. Le sud-est du pays est depuis inhabitable.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "La crise éclate le 2 août 1990, lorsque l'Irak, dirigé par le président Saddam Hussein, envahit et annexe le Koweït."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "L'Irak décrète officiellement que le Koweït redevient la 19e province irakienne, le 28 août. Entre août et novembre, le Conseil de sécurité des Nations unies entérine une série de résolutions, puis exige finalement de l'Irak un retrait inconditionnel et total du Koweït, le 15 janvier 1991, au plus tard."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Sous l'égide des Nations unies, une coalition multinationale forte de 500 000 hommes provenant des armées de terre, de l'air et des forces navales — envoyées principalement par les États-Unis, l'Arabie saoudite, le Royaume-Uni, l'Égypte, la Syrie et la France (la division Daguet) — se constitue en vue de s'opposer à l'armée irakienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Des produits cancérigènes, des dioxines, furanes et organochlorés ont été émis durant neuf mois par 700 puits incendiés par l'Irak"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Le sud-est du pays est inhabitable depuis 1991 en raison des incendies de puits de pétrole par l'Irak lors de l'invasion du Koweït"
+        }
+      ]
+    },
+    {
+      "id": "KWT-5",
+      "topic": "politique",
+      "era": "2005",
+      "title": "Le vote des femmes en 2005",
+      "short": "Jusqu'en mai 2005, seuls 15 % des habitants pouvaient voter : les femmes et les militaires étaient exclus. Le 16 mai 2005, le Parlement donne le droit de vote aux femmes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït",
+          "quote": "Jusqu'en mai 2005, 15 % de la population avait le droit de vote : les femmes ainsi que les militaires étaient exclus du corps électoral. L'âge minimum pour voter est de 21 ans. Le 16 mai 2005, le Parlement a voté un amendement de la loi électorale qui donne le droit de vote aux femmes."
+        }
+      ]
+    },
+    {
+      "id": "KWT-6",
+      "topic": "drapeau",
+      "era": "1961",
+      "title": "Les couleurs d'un poème",
+      "short": "Adopté à l'indépendance, en 1961, le drapeau tire ses couleurs d'un poème : le noir pour la défaite des ennemis, le rouge pour le sabre rougi de leur sang, le blanc pour la pureté des actes, le vert pour la fertilité du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Koweït",
+          "quote": "Il a été promulgué par la loi le 7 septembre 1961 (27 Rabi 1 1381 AH) et hissé officiellement le 24 novembre 1961."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Koweït",
+          "quote": "Les couleurs du drapeau sont inspirées d'un poème de Safie Al-Deen Al-Hili :\n\nLe noir symboliserait la défaite des ennemis sur le champ de bataille.\nLe rouge représente le sabre rougi de leur sang.\nLe blanc la pureté de leurs actions.\nLe vert la fertilité de leurs pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KWT-C1",
+      "topic": "histoire",
+      "era": "XVIIIe-XXe siècle",
+      "title": "La ville des boutres",
+      "short": "Koweït, surnommée simplement « la Ville », regroupe plus de 90 % de la population du pays. Dès le milieu du XVIIIe siècle, ses navires en bois étaient réputés dans toute la région : en 1912, un administrateur britannique affirmait que le Koweït « fabriquait les plus beaux navires de bois de la région ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït_(ville)",
+          "quote": "Avec près de 2 400 000 habitants, l'agglomération de Koweït totalise plus de 90 % de la population du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït_(ville)",
+          "quote": "Au Koweït, la ville est simplement surnommée « la Ville »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Koweït_(ville)",
+          "quote": "Au milieu des années 1700, les navires de fabrication koweïtienne ont suscité des éloges régionaux et internationaux, auprès des États de la péninsule arabique qui ont pris commande de navires à diverses fins. Les voyageurs européens, qui visitaient la région à cette époque, appréciaient également les navires de fabrication koweïtienne. Les plus célèbres éloges émanent du lieutenant-colonel H. R. P. Dickson (en), administrateur colonial britannique, qui affirmait en 1912 que le Koweït « fabriquait les plus beaux navires de bois la région. »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays au fond du golfe Persique, coincé entre l'Irak au nord et l'Arabie saoudite au sud.",
+    "flag": "Bandes horizontales vert, blanc, rouge, avec un trapèze noir côté mât. Les Émirats ont une bande rouge verticale à la place du trapèze.",
+    "capital": "Koweït (la ville porte le même nom que le pays), sur la baie du même nom."
+  }
+}

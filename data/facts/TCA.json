@@ -1,0 +1,111 @@
+{
+  "id": "TCA",
+  "facts": [
+    {
+      "id": "TCA-1",
+      "topic": "histoire",
+      "title": "Des îles nommées d'après un cactus",
+      "short": "Le nom des îles Turques vient d'un petit cactus, Melocactus intortus : son sommet rouge rappelait aux marins européens le fez porté par les Turcs, d'où ses surnoms de « tête de Turc » ou « chapeau turc ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Celui des îles Turques provient des surnoms Turk’s cap cactus et Turk’s head (cactus chapeau turc et tête de Turc en français) donnés par les marins européens du début de l'époque coloniale, notamment britanniques et espagnols, au petit cactus surmonté d’un sommet rouge, Melocactus intortus, présent dans les îles et dont le céphalium rouge rappelle le fez, couvre-chef porté par les Turcs"
+        }
+      ]
+    },
+    {
+      "id": "TCA-2",
+      "topic": "histoire",
+      "title": "Le premier débarquement de Colomb ?",
+      "short": "Avant les Européens, les îles étaient peuplées de Lucayens, cousins des Taïnos. Christophe Colomb pourrait y avoir posé le pied pour la première fois en Amérique, mais le lieu exact reste incertain : un parc national commémore cette hypothèse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Avant la période coloniale, les îles Turques-et-Caïques étaient habitées par des populations amérindiennes apparentées aux Lucayens, un sous-groupe des Taïnos des Bahamas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Christophe Colomb pourrait y avoir fait son premier débarquement dans le Nouveau Monde lors de son premier voyage, bien que les récits de cette expédition soient très vagues et que l’identification exacte du lieu reste incertaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Aujourd’hui, cette hypothèse est commémorée par le Columbus Landfall National Park (Parc national du débarquement de Colomb en français) situé à l’ouest de Grand Turk"
+        }
+      ]
+    },
+    {
+      "id": "TCA-3",
+      "topic": "histoire",
+      "era": "1512",
+      "title": "Les îles du sel",
+      "short": "Conquises par l'Espagnol Juan Ponce de León en 1512, les îles sont ensuite occupées par des colons anglais venus des Bermudes avec des esclaves africains. Leurs salines deviennent le cœur de l'économie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Elles furent conquises en 1512 par l'Espagnol Juan Ponce de León, puis par des colons anglais venus des Bermudes, accompagnés d’Africains réduits en esclavage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Les salines de Grand Turk, Salt Cay et South Caicos devinrent les principaux centres d’activité."
+        }
+      ]
+    },
+    {
+      "id": "TCA-4",
+      "topic": "histoire",
+      "era": "1917-1974",
+      "title": "Presque canadiennes",
+      "short": "En 1917, le Canada propose que Londres lui transfère les îles. En 1974, un député canadien dépose même un projet d'association, à la demande des habitants. Le territoire n'a jamais engagé de démarche officielle en ce sens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "En 1917, le Bureau du Conseil privé du Canada publie un mémoire plaidant pour que Londres transfère les Indes orientales britanniques, y compris les îles Turques-et-Caïques, au Canada en compensation des efforts du Dominion pendant la Première Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "En 1974, à la demande des habitants du territoire, le député canadien Max Saltsman (du Nouveau Parti démocratique canadien) dépose le projet de loi d'initiative parlementaire C-249 (Loi concernant un projet d'association entre le Canada et les îles Turques-et-Caïques des Caraïbes) à la Chambre des communes d'Ottawa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "En outre, aucun référendum ni démarche officielle en direction du Canada n’a été entrepris par les autorités du territoire."
+        }
+      ]
+    },
+    {
+      "id": "TCA-5",
+      "topic": "drapeau",
+      "title": "Une conque, une langouste et un cactus",
+      "short": "L'écu jaune des armoiries porte une conque, une langouste et le fameux cactus « tête de Turc ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "quote": "Les armoiries des îles Turques-et-Caïques, présentent un écu d'or (jaune) chargé d'une conque, d'une langouste et d'un cactus \"tête de turc\" (Melocactus intortus)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TCA-C1",
+      "topic": "histoire",
+      "era": "1681",
+      "title": "La première colonie permanente",
+      "short": "Fondée en 1681 sur l'île de Grand Turk, Cockburn Town a été la première colonie permanente de l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cockburn_Town",
+          "quote": "Fondée en 1681, la ville fut la première colonie permanente sur l'une des îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cockburn_Town",
+          "quote": "Elle est située au centre de l’île de Grand Turk (la plus grande des îles de l’archipel des îles Turks) dont elle occupe la majeure partie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel au sud-est des Bahamas, au nord d'Haïti, dans l'Atlantique.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, un écu jaune : conque, langouste et cactus. Les îles Caïmans ont aussi un fond bleu, mais un écu avec une tortue et des étoiles.",
+    "capital": "Cockburn Town, sur Grand Turk : la plus ancienne colonie de l'archipel."
+  }
+}

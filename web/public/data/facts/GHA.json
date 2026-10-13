@@ -1,0 +1,179 @@
+{
+  "id": "GHA",
+  "facts": [
+    {
+      "id": "GHA-1",
+      "topic": "histoire",
+      "era": "1471-1482",
+      "title": "La Côte-de-l'Or et le fort d'Elmina",
+      "short": "Les Portugais débarquent sur cette côte en 1471 et l'appellent bientôt la Côte-de-l'Or, pour ses très nombreuses mines. En 1482, ils construisent à Elmina la forteresse de Saint-Georges-de-la-Mine pour protéger leur commerce.",
+      "long": "La côte attire ensuite d'autres Européens, Néerlandais et Suédois notamment, qui y bâtissent forts et comptoirs. Les Britanniques finissent par absorber tous ces établissements dans leur colonie de la Gold Coast.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "En 1471, les Portugais débarquent sur la côte du futur Ghana, qui reçoit par la suite le nom de Gold Coast (Côte-de-l’Or)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Le nom colonial de Côte-de-l'Or vient des très nombreuses mines d'or du pays qui, avant d'être exploitées par les colons britanniques, hollandais, portugais, étaient abondamment utilisées par l'ethnie ashanti"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Pour protéger ce commerce de l'or des marchands interlopes venus d'autres nations européennes, ils construisent en 1482 une forteresse imposante, Saint-Georges-de-la-Mine (São Jorge da Mina) dans le village d'Edina (Elmina)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Côte de l'Or\nCompagnie portugaise des Indes orientales\n1612-1672 : Côte-de-l'Or néerlandaise, Compagnie néerlandaise des Indes occidentales\n1650-1663 : Côte-de-l'Or suédoise, Compagnie suédoise d'Afrique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "La Côte-de-l'Or britannique (1821-1957) résulte de l'absorption des portions de côte (forts, comptoirs, marchés) des autres puissances coloniales"
+        }
+      ]
+    },
+    {
+      "id": "GHA-2",
+      "topic": "histoire",
+      "era": "1701",
+      "title": "L'Empire ashanti et le tabouret d'or",
+      "short": "En 1701, la confédération ashanti l'emporte à Feyiase et devient la grande puissance de la région, avec Kumasi pour capitale. Son objet le plus sacré est le « tabouret d'or », le trône royal où résident, selon la croyance, les esprits des ancêtres.",
+      "long": "Le tabouret est toujours soigneusement gardé à Kumasi, au palais de l'Asantehene, le roi des Ashantis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "À la suite de la bataille de Feyiase en 1701, la confédération Ashanti subjugue le royaume de Denkyira et ouvre la voie à l'établissement de l'hégémonie ashantie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Les gouvernements Ashanti fonctionnent d'abord comme un réseau lâche puis mettent en place progressivement une bureaucratie centralisée, avec comme capitale Kumasi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Le symbole le plus sacré des gens de Ashanti est le trône royal Ashanti, le « tabouret doré », où résident les esprits des ancêtres selon les croyances animistes locales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Il est soigneusement gardé à Kumasi, capitale culturelle des gens d’Ashanti et siège du palais de l’Asantehene."
+        }
+      ]
+    },
+    {
+      "id": "GHA-3",
+      "topic": "histoire",
+      "era": "1957",
+      "title": "Le pionnier des indépendances africaines",
+      "short": "Le 6 mars 1957, sous la conduite de Kwame Nkrumah, la Gold Coast devient indépendante : la première colonie à obtenir son indépendance après le Soudan.",
+      "long": "Panafricaniste, Nkrumah devient président en 1960. Sa politique lui vaut l'hostilité des pays occidentaux ; la CIA écrit qu'il « faisait plus pour saper nos intérêts qu'aucun autre noir africain ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Nkrumah, fort de son succès, obligea alors le Royaume-Uni à concéder l’indépendance, qui fut proclamée le 6 mars 1957."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "La Côte-de-l'Or devint ainsi la première colonie à obtenir son indépendance après le Soudan (1956)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "L'un des principaux hommes politiques du Ghana fut le panafricaniste Kwame Nkrumah (1909-1972)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "En 1960, Nkrumah devient naturellement le premier président du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Ces initiatives valent à Nkrumah l'hostilité des pays occidentaux (la CIA indique que « Nkrumah faisait plus pour saper nos intérêts qu'aucun autre noir africain."
+        }
+      ]
+    },
+    {
+      "id": "GHA-4",
+      "topic": "histoire",
+      "era": "1957",
+      "title": "Un nom emprunté à un empire lointain",
+      "short": "Le jour de l'indépendance, Nkrumah abandonne le nom colonial de Côte-de-l'Or pour celui de Ghana, en hommage à l'empire médiéval du Ghana. Pourtant, cet empire n'avait aucun lien géographique ou historique direct avec le pays.",
+      "long": "L'empire du Ghana, décrit au XIe siècle par le géographe andalou al-Bakri, devait lui-même son nom au titre de son empereur, le « ghana ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Le jour même de l’indépendance, Nkrumah décida d’abandonner le nom colonial du pays au profit de l'actuel, en référence à l'empire du Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "Le Ghana moderne n'a pas de liens géographiques ou historiques directs avec l'empire du Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Cet Empire a lui-même été désigné en Europe et en Arabie, comme l'Empire du Ghana, d'après le titre de son empereur, le Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Al-Bakri (1014-1094), compilateur andalou décrit le royaume"
+        }
+      ]
+    },
+    {
+      "id": "GHA-5",
+      "topic": "geographie",
+      "title": "Là où se rejoignent les Volta",
+      "short": "La Volta Noire, la Volta Blanche et d'autres rivières se rejoignent au Ghana pour former le lac Volta.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "quote": "La Volta Noire, la Volta Blanche ainsi que les rivières Oti (voir Pendjari) et Daka se rencontrent au Ghana pour former le lac Volta."
+        }
+      ]
+    },
+    {
+      "id": "GHA-6",
+      "topic": "drapeau",
+      "era": "1957",
+      "title": "L'étoile noire de Marcus Garvey",
+      "short": "Dessiné en 1957 par Theodosia Okoh, le drapeau porte une étoile noire sur des bandes rouge, jaune et verte. Cette étoile rend hommage au militant panafricain Marcus Garvey et à sa compagnie maritime, la Black Star Line.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "quote": "Le drapeau national du Ghana est élaboré en remplacement du drapeau du Royaume-Uni par Theodosia Okoh en 1957, et adopté dès l'indépendance du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "quote": "Au centre de la bande jaune, se trouve une étoile noire à cinq branches."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "quote": "L'étoile noire est un hommage au militant panafricain Marcus Garvey et à sa compagnie maritime la Black Star Line"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GHA-C1",
+      "topic": "histoire",
+      "era": "1677-1874",
+      "title": "Du royaume ga à la capitale coloniale",
+      "short": "En 1677, Accra devient la capitale d'un royaume côtier ga. En 1874, elle remplace Cape Coast comme capitale de la colonie britannique de la Côte-de-l'Or.",
+      "long": "Dans les années 1850, le fils de James Bannerman, un métis nommé lieutenant-gouverneur de la colonie, fonde le premier journal africain du pays : l'Accra Herald.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Accra",
+          "quote": "En 1677, Accra devient la capitale d'un royaume côtier Ga."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Accra",
+          "quote": "En 1874, Accra remplace Cape Coast comme capitale de la colonie britannique de Côte-de-l'Or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "quote": "Dans les années 1850, un métis né de père écossais et de mère africaine, James Bannerman, est nommé lieutenant gouverneur de la Gold Coast et son fils fonde le premier journal africain du Ghana, l'Accra Herald."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte du golfe de Guinée, entre la Côte d'Ivoire à l'ouest et le Togo à l'est, avec le Burkina Faso au nord. Le grand lac Volta occupe son centre-est.",
+    "flag": "Rouge, jaune, vert en bandes horizontales, avec une étoile noire au milieu. La Bolivie a les mêmes couleurs sans étoile ; la Guinée et le Mali les mettent en bandes verticales.",
+    "capital": "Accra, sur la côte : « Accra, accrochée à l'Atlantique »."
+  }
+}

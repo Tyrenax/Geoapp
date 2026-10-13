@@ -1,0 +1,173 @@
+{
+  "id": "TGO",
+  "facts": [
+    {
+      "id": "TGO-1",
+      "topic": "histoire",
+      "title": "Un pays nommé d'après un village",
+      "short": "Le nom « Togo » vient de la langue éwé. Il désignait à l'origine un petit village de pêcheurs, l'actuelle Togoville, et signifierait « derrière la falaise ». Les explorateurs européens l'ont étendu à toute la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le nom « Togo » provient de la langue éwé",
+          "to": "près de l'actuelle capitale Lomé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le Togo tire son nom de l'actuel Togoville.",
+          "to": "de l'actuel Togoville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Ce terme est adopté par les explorateurs européens",
+          "to": "sous la colonisation allemande en 1884"
+        }
+      ]
+    },
+    {
+      "id": "TGO-2",
+      "topic": "histoire",
+      "era": "1884",
+      "title": "Un traité signé sur une plage",
+      "short": "Le 5 juillet 1884, sur la plage de Baguida, l'explorateur allemand Gustav Nachtigal signe un traité de protectorat avec Mlapa III de Togoville, chef du lac Togo. Le Togoland devient une colonie allemande.",
+      "long": "Sous la colonisation allemande, l'éwé devient une langue écrite très vivante : en 1914, aucune autre langue africaine ne peut faire état d'une littérature imprimée aussi abondante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Togo",
+          "from": "En 1884, l'explorateur allemand Gustav Nachtigal signe",
+          "to": "Mlapa III de Togoville"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le territoire est exploré en 1470 par les Portugais",
+          "to": "sous le nom de Togoland."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Togo",
+          "from": "En 1914, aucune langue africaine ne peut faire état",
+          "to": "aussi abondante que l'éwé."
+        }
+      ]
+    },
+    {
+      "id": "TGO-3",
+      "topic": "histoire",
+      "era": "1914-1956",
+      "title": "Un Togoland coupé en deux",
+      "short": "Dès août 1914, les Allemands capitulent et sont expulsés. Le Togoland est partagé : l'ouest revient au Royaume-Uni et l'est à la France. La partie britannique est intégrée en 1956 à ce qui deviendra le Ghana ; la partie française forme le Togo actuel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Les Allemands capitulent dès août 1914 et sont expulsés.",
+          "to": "et sont expulsés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Pendant la Première Guerre mondiale, le Togoland est divisé en deux mandats",
+          "to": "en 1916."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Alors que le mandat britannique est intégré à ce qui est aujourd'hui le Ghana en 1956",
+          "to": "comme premier président."
+        }
+      ]
+    },
+    {
+      "id": "TGO-4",
+      "topic": "histoire",
+      "era": "1960-1967",
+      "title": "Indépendance et coups d'État",
+      "short": "Le Togo devient indépendant le 27 avril 1960, avec Sylvanus Olympio pour président. En 1963, Olympio est renversé et assassiné lors du premier coup d'État du pays ; en 1967, un second coup porte au pouvoir Gnassingbé Eyadéma, qui instaure un régime autoritaire à parti unique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le Togo acquiert son indépendance complète le 27 avril 1960.",
+          "to": "le 27 avril 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "En 1963, Olympio est renversé et assassiné",
+          "to": "premier coup d'État du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "À l'issue d'un second coup d'État en 1967",
+          "to": "règne autoritaire à parti unique."
+        }
+      ]
+    },
+    {
+      "id": "TGO-5",
+      "topic": "economie",
+      "title": "Le port en eau profonde de Lomé",
+      "short": "Le port de Lomé est le seul port en eau profonde de la sous-région : c'est une zone franche en plein essor et le cœur de l'économie togolaise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le port de Lomé, seul port en eau profonde de la sous-région",
+          "to": "ne cesse de se développer rapidement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Togo",
+          "from": "Le littoral du Togo, bien que moins large que celui de ses voisins",
+          "to": "un point central pour l'économie du pays."
+        }
+      ]
+    },
+    {
+      "id": "TGO-6",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Un drapeau dessiné par un grand peintre",
+      "short": "Le drapeau togolais, avec son étoile blanche sur un canton rouge et ses cinq bandes vertes et jaunes, est né d'un concours remporté par le peintre Paul Ahyi, l'un des grands artistes africains de sa génération. Il est adopté le jour de l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Togo",
+          "from": "Le drapeau du Togo arbore, en haut à la hampe",
+          "to": "dans un canton rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Togo",
+          "from": "Ce canton est accompagné de cinq bandes horizontales",
+          "to": "intercalées entre les vertes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Togo",
+          "from": "Ce drapeau a été adopté au moment de l’indépendance",
+          "to": "le 27 avril 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Togo",
+          "from": "Il a été conçu à l'issue d'un concours",
+          "to": "de sa génération."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TGO-C1",
+      "topic": "histoire",
+      "title": "« Au milieu des arbres alo »",
+      "short": "Lomé a été fondée au XIXe siècle par les Éwés, pour le commerce. Son nom viendrait d'Alomé, « au milieu des arbres alo » en éwé, d'après la forêt qui couvrait le site.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lomé",
+          "from": "Elle a été fondée par les Éwé à la fin du XIXe siècle pour le commerce.",
+          "to": "pour le commerce."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lomé",
+          "from": "Son nom viendrait de Alo(ti)mé ou Alomé",
+          "to": "pour désigner une forêt d'alo."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une bande très étroite et longue en Afrique de l'Ouest, coincée entre le Ghana à l'ouest et le Bénin à l'est, qui monte de la côte du golfe de Guinée jusqu'au Burkina Faso.",
+    "flag": "Cinq bandes horizontales vertes et jaunes, avec un carré rouge portant une étoile blanche en haut à gauche. Le Liberia a aussi un carré à étoile, mais bleu sur des bandes rouges et blanches.",
+    "capital": "Lomé, tout au bord de l'océan, collée à la frontière du Ghana : la capitale est sur la plage."
+  }
+}

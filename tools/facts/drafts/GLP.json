@@ -1,0 +1,150 @@
+{
+  "id": "GLP",
+  "facts": [
+    {
+      "id": "GLP-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Un nom venu d'un monastère espagnol",
+      "short": "Christophe Colomb aborde l'île le 4 novembre 1493 et la nomme Guadeloupe, en hommage à Notre-Dame de Guadalupe, la Vierge protectrice des navigateurs, vénérée dans un monastère royal d'Espagne. Les Amérindiens l'appelaient Karukera.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Christophe Colomb y aborde le 4 novembre 1493",
+          "to": "Notre-Dame de Guadalupe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "En Espagne, à Guadalupe, le monastère royal",
+          "to": "dédié à la Vierge des navigateurs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "La partie principale (Karukera en langues amérindiennes)",
+          "to": "appelé « la Rivière Salée »."
+        }
+      ]
+    },
+    {
+      "id": "GLP-2",
+      "topic": "histoire",
+      "era": "1635",
+      "title": "Des Kalinagos aux colons français",
+      "short": "Les Kalinagos occupent l'île jusqu'au milieu du XVIIe siècle. Les Français s'y installent en 1635 et l'esclavage s'y développe rapidement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Les Kalinagos sont les principaux occupants des lieux",
+          "to": "bien après l'arrivée des premiers Européens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "La population augmente cependant rapidement",
+          "to": "l'esclavage se développe."
+        }
+      ]
+    },
+    {
+      "id": "GLP-3",
+      "topic": "histoire",
+      "era": "1802",
+      "title": "La révolte contre le retour de l'esclavage",
+      "short": "En mai 1802, des troupes menées par les chefs de bataillon Delgrès et Ignace se soulèvent contre l'armée envoyée par le Consulat pour rétablir l'esclavage. Elles sont vaincues, et l'esclavage est rétabli en Guadeloupe le 16 juillet 1802.",
+      "long": "La révolte a fait émerger d'autres figures, comme la Mulâtresse Solitude ou Marthe-Rose Toto. L'esclavage ne sera définitivement aboli qu'en 1848, sous la Deuxième République, grâce à la commission présidée par Victor Schœlcher.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Face à cet acte d'autonomie de l'île contre le pouvoir consulaire",
+          "to": "ainsi que l'esclavage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "À leur arrivée le 6 mai 1802 devant Pointe-à-Pitre",
+          "to": "Delgrès et Ignace."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Les soldats noirs fait prisonniers sont exécutés",
+          "to": "(16 juillet 1802)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Puis lors de la révolte contre le rétablissement de l'esclavage en 1802",
+          "to": "ou Joseph Ignace."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "En 1848, sous la Deuxième République, l'esclavage est finalement aboli définitivement.",
+          "to": "aboli définitivement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "En effet, le gouvernement provisoire de 1848",
+          "to": "présidée par Victor Schœlcher"
+        }
+      ]
+    },
+    {
+      "id": "GLP-4",
+      "topic": "geographie",
+      "title": "L'île papillon",
+      "short": "Vue d'en haut, la Guadeloupe a la forme d'un papillon : deux îles, la Grande-Terre à l'est et la Basse-Terre à l'ouest, séparées par un étroit bras de mer, la Rivière Salée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "La partie principale (Karukera en langues amérindiennes)",
+          "to": "appelé « la Rivière Salée »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "On doit aux agences de voyages la périphrase",
+          "to": "des deux îles principales."
+        }
+      ]
+    },
+    {
+      "id": "GLP-5",
+      "topic": "geographie",
+      "title": "Le plus haut sommet des Petites Antilles",
+      "short": "Le volcan de la Soufrière, toujours actif, culmine à 1 467 m : c'est le point le plus haut des Petites Antilles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Son sommet est le volcan en activité de la Soufrière",
+          "to": "la plus haute altitude des Petites Antilles."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GLP-C1",
+      "topic": "histoire",
+      "era": "1650",
+      "title": "Chef-lieu face à Pointe-à-Pitre",
+      "short": "Fondée en 1650 par le gouverneur Charles Houël, Basse-Terre est le chef-lieu administratif de la Guadeloupe, avec la préfecture et la cour d'appel. Mais la capitale économique est Pointe-à-Pitre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Basse-Terre",
+          "from": "Fondé par le gouverneur Charles Houël, en 1650",
+          "to": "comme place forte pour le commerce"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Basse-Terre",
+          "from": "Principal centre administratif de l'île",
+          "to": "la cour d'appel de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guadeloupe",
+          "from": "Le chef-lieu est Basse-Terre",
+          "to": "la capitale économique est Pointe-à-Pitre."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le papillon des Petites Antilles, entre Antigua et Montserrat au nord et la Dominique au sud.",
+    "flag": "Officiellement, la Guadeloupe utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Basse-Terre, sur l'aile ouest du papillon (qui s'appelle aussi Basse-Terre !) : ne la confonds pas avec Pointe-à-Pitre, la plus grande ville."
+  }
+}

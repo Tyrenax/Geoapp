@@ -1,0 +1,157 @@
+{
+  "id": "OMN",
+  "facts": [
+    {
+      "id": "OMN-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Le pays de l'encens",
+      "short": "À l'époque sumérienne, la région d'Oman s'appelle Magan. Dans l'Antiquité, elle devient une grande productrice d'encens et commerce avec la Mésopotamie, l'Égypte, la Perse et l'Inde. Son nom viendrait d'une racine sémitique signifiant « sédentaire », par opposition aux Bédouins nomades.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "La région d'Oman est connue à l'époque sumérienne sous le nom de Magan.",
+          "to": "l'Inde et l'île de Dilmun."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Le nom Oman dérive de la racine sémitique",
+          "to": "nomades de l'intérieur de la péninsule arabique)."
+        }
+      ]
+    },
+    {
+      "id": "OMN-2",
+      "topic": "histoire",
+      "era": "751",
+      "title": "Le pays des ibadites",
+      "short": "Islamisé dès le VIIe siècle, Oman prend une voie à part lors du schisme entre sunnites et chiites : il devient la principale terre de l'ibadisme. Son histoire commence vraiment en 751, avec l'élection du premier imam ibadite à Nizwa.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Le territoire est islamisé du vivant de Mahomet",
+          "to": "la principale région d'obédience ibadite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "L'histoire d'Oman ne commence véritablement qu'en l'an 751",
+          "to": "du premier imam ibadite à Nizwa."
+        }
+      ]
+    },
+    {
+      "id": "OMN-3",
+      "topic": "histoire",
+      "era": "1507-1650",
+      "title": "Les Portugais chassés",
+      "short": "Les Portugais occupent une partie du pays de 1507 à 1650. En 1649-1650, les Omanais les chassent puis s'emparent des grands ports swahilis d'Afrique de l'Est : Mombasa, Kilwa, Zanzibar et Pemba, prenant part au lucratif commerce des esclaves.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Le pays est partiellement occupé par les Portugais de 1507 à 1650.",
+          "to": "commerce d'esclaves."
+        }
+      ]
+    },
+    {
+      "id": "OMN-4",
+      "topic": "histoire",
+      "era": "1749-XIXe siècle",
+      "title": "Un empire de l'océan Indien",
+      "short": "En 1749, Ahmed ibn Saïd est élu imam et fonde la dynastie qui règne toujours. Au début du XIXe siècle, Oman est au centre d'un véritable empire colonial, du Baloutchistan jusqu'à Zanzibar, et son influence s'étend jusqu'à Madagascar.",
+      "long": "De 1891 à 1971, le sultanat est de fait sous protectorat britannique, tout en restant officiellement indépendant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Après l'expulsion de ces derniers, Ahmed ibn Saïd est élu imam en 1749",
+          "to": "jusqu'à Madagascar."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Au début du XIXe siècle, Oman est devenu le centre d'un véritable empire colonial",
+          "to": "tout en conservant nominalement son indépendance."
+        }
+      ]
+    },
+    {
+      "id": "OMN-5",
+      "topic": "histoire",
+      "era": "1970-2020",
+      "title": "Le long règne de Qabus",
+      "short": "En 1970, le sultan Qabus ibn Saïd renverse son père et entreprend de développer le pays, tout en restant en paix avec ses voisins : l'ONU classe Oman parmi les dix pays qui se sont le plus développés depuis 1970. Il meurt en 2020, après 49 ans de règne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "En 1970, le sultan Saïd ibn Taïmour, d'une nature despotique",
+          "to": "le plus fort développement depuis 1970."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oman",
+          "from": "Le 10 janvier 2020, après plus de 49 ans de règne",
+          "to": "dans une lettre, ouverte après sa mort."
+        }
+      ],
+      "long": "Son cousin Haïtham ben Tariq lui succède : il avait été désigné dans une lettre ouverte après la mort du sultan."
+    },
+    {
+      "id": "OMN-6",
+      "topic": "drapeau",
+      "era": "1970",
+      "title": "La montagne Verte",
+      "short": "Adopté le 17 décembre 1970, le drapeau porte une bande verticale rouge avec l'emblème national, et trois bandes blanche, rouge et verte. Le vert évoquerait la fertilité du pays et le Djebel Akhdar, la « montagne Verte ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Oman",
+          "from": "Le drapeau d'Oman comporte une bande verticale rouge",
+          "to": "trois bandes horizontales blanche, rouge et verte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Oman",
+          "from": "Le vert représente la fertilité du pays",
+          "to": "Djebel Akhdar (montagne Verte)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Oman",
+          "from": "Le drapeau a été adopté le 17 décembre 1970",
+          "to": "le 17 décembre 1970"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "OMN-C1",
+      "topic": "histoire",
+      "era": "1507-1650",
+      "title": "Le port caché",
+      "short": "Ptolémée appelait Mascate Cryptus Portus, « le port caché ». En juin 1507, elle est prise par le Portugais Afonso de Albuquerque, au prix de massacres et de pillages ; une révolte locale chasse les Portugais en 1650. Les forts Al Jalali et Al-Mirani dominent toujours le port.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mascate",
+          "from": "La ville portuaire est connue en Occident depuis le Ier siècle",
+          "to": "Cryptus Portus (le port caché)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mascate",
+          "from": "En juin 1507, Mascate est attaquée et prise",
+          "to": "à la suite de massacres et de pillages."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mascate",
+          "from": "En 1650, une révolte locale chasse les Portugais",
+          "to": "lui redonne l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mascate",
+          "from": "le fort Al Jalali donnant sur le port",
+          "to": "et le fort Al-Mirani."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe sud-est de la péninsule Arabique, face à l'Iran de l'autre côté du détroit d'Ormuz, entre les Émirats, l'Arabie saoudite et le Yémen.",
+    "flag": "Une bande rouge verticale côté mât avec un emblème blanc (deux sabres et un poignard) en haut, puis trois bandes blanc, rouge, vert.",
+    "capital": "Mascate, sur la côte nord-est, au bord du golfe d'Oman."
+  }
+}

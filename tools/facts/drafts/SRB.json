@@ -1,0 +1,169 @@
+{
+  "id": "SRB",
+  "facts": [
+    {
+      "id": "SRB-1",
+      "topic": "histoire",
+      "era": "1170-1371",
+      "title": "L'âge d'or des Nemanjić",
+      "short": "De 1170 à 1371, la dynastie des Nemanjić fait de la Serbie un vaste empire. Sous Stefan Dušan, elle devient l'État le plus puissant des Balkans.",
+      "long": "En 1219, Rastko, fils du fondateur de la dynastie et futur saint Sava, devient le premier archevêque d'une Église orthodoxe serbe indépendante. Avec son père, il fonde au mont Athos le monastère de Hilandar, toujours un haut lieu de la culture serbe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "La dynastie des Nemanjić, ou Némanides",
+          "to": "en un vaste empire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Par la suite tous les Nemanjić feront attention",
+          "to": "sous Stefan Uroš IV Dušan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Son fils, Stefan Ier Nemanjić",
+          "to": "d'une Église orthodoxe serbe indépendante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Stefan Nemanja se retire dans un monastère en 1196",
+          "to": "un haut lieu de la culture Serbe."
+        }
+      ]
+    },
+    {
+      "id": "SRB-2",
+      "topic": "histoire",
+      "era": "1389",
+      "title": "La bataille du Champ des merles",
+      "short": "En 1389, à la bataille de Kosovo Polje, le « Champ des merles », les Serbes du prince Lazar, mort au combat, sont battus par les Ottomans. Cette défaite symbolique marque le début de la chute des principautés serbes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "En 1389, la défaite symbolique de la Bataille de Kosovo Polje",
+          "to": "ayant été défaites."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Souverain faible, son fils et successeur Stefan Uroš V",
+          "to": "à partir de 1371."
+        }
+      ]
+    },
+    {
+      "id": "SRB-3",
+      "topic": "histoire",
+      "era": "1804-1878",
+      "title": "Deux soulèvements contre les Ottomans",
+      "short": "Après les soulèvements de 1804 et de 1815 contre les Turcs, la Serbie devient une principauté autonome, reconnue en 1830. Le congrès de Berlin lui accorde l'indépendance en 1878, et elle devient un royaume en 1882.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "À la suite du premier soulèvement serbe",
+          "to": "officiellement indépendante en 1878."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "La principauté devint royaume de Serbie en 1882.",
+          "to": "en 1882."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "En 1878, le Congrès de Berlin accorda son indépendance",
+          "to": "devint roi de Serbie"
+        }
+      ]
+    },
+    {
+      "id": "SRB-4",
+      "topic": "histoire",
+      "era": "1914",
+      "title": "L'attentat qui déclencha la Grande Guerre",
+      "short": "Le 28 juin 1914, à Sarajevo, Gavrilo Princip assassine l'archiduc François-Ferdinand, héritier de l'Autriche-Hongrie. Les conjurés, de jeunes Serbes de Bosnie étudiant à Belgrade, avaient obtenu leurs armes d'une société secrète serbe. Vienne y voit une provocation de la Serbie : c'est le début de la Première Guerre mondiale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "En 1914, le double assassinat de l’archiduc François-Ferdinand",
+          "to": "déclenchèrent la Première Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Les organisateurs de l’attentat contre le prince François-Ferdinand",
+          "to": "leurs études à Belgrade."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Membres de l’organisation Jeune Bosnie",
+          "to": "pour leur projet d’attentat."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Les diplomates autrichiens considérèrent l’attentat",
+          "to": "une provocation directe de la Serbie ;"
+        }
+      ]
+    },
+    {
+      "id": "SRB-5",
+      "topic": "histoire",
+      "era": "1918-2006",
+      "title": "De la Yougoslavie à la Serbie seule",
+      "short": "En 1918, les Slaves du Sud se rassemblent autour de la monarchie serbe dans le royaume des Serbes, Croates et Slovènes, rebaptisé Yougoslavie en 1929. En 2006, le départ du Monténégro laisse la Serbie à nouveau seule et indépendante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "Après la Première Guerre mondiale, se constitua progressivement",
+          "to": "royaume de Yougoslavie en 1929."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Serbie",
+          "from": "En 2006, la Serbie est redevenue totalement indépendante",
+          "to": "l'union de Serbie-et-Monténégro."
+        }
+      ]
+    },
+    {
+      "id": "SRB-6",
+      "topic": "drapeau",
+      "title": "Les couleurs panslaves",
+      "short": "Le drapeau serbe porte les couleurs panslaves en trois bandes égales : rouge en haut, bleu au milieu, blanc en bas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Serbie",
+          "from": "Le drapeau de la Serbie est un tricolore",
+          "to": "blanche en bas."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SRB-C1",
+      "topic": "histoire",
+      "title": "La « ville blanche », maintes fois détruite",
+      "short": "Beograd signifie « la ville blanche ». Ancienne Singidunum romaine, elle a été détruite entre 28 et 33 fois selon les historiens : sa position stratégique fut à la fois sa chance et son malheur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgrade",
+          "from": "Le nom slave Beograd apparaît pour la première fois",
+          "to": "la « ville blanche »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgrade",
+          "from": "Historiquement, Belgrade est l’antique cité de Singidunum",
+          "to": "dans la province de Mésie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgrade",
+          "from": "Selon les historiens, on évalue la destruction de la ville",
+          "to": "son bonheur et son malheur,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur des Balkans, sans accès à la mer : le Danube la traverse et passe à Belgrade. La Hongrie est au nord, la Roumanie et la Bulgarie à l'est, la Macédoine du Nord au sud, la Croatie, la Bosnie-Herzégovine et le Monténégro à l'ouest. Au sud se trouve aussi le Kosovo, dont la Serbie ne reconnaît pas l'indépendance.",
+    "flag": "Rouge, bleu, blanc en bandes horizontales, avec des armoiries décalées vers le mât. La Russie a les mêmes couleurs dans l'ordre inverse (blanc, bleu, rouge).",
+    "capital": "Belgrade, Beograd, « la ville blanche », au confluent de la Save et du Danube."
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "id": "VEN",
+  "facts": [
+    {
+      "id": "VEN-1",
+      "topic": "histoire",
+      "era": "1499",
+      "title": "La « petite Venise » des maisons sur pilotis",
+      "short": "En 1499, les premiers explorateurs européens, dont Amerigo Vespucci, longent la côte. Les maisons sur pilotis des Indiens du golfe de Maracaibo leur rappellent Venise : la « petite Venise », Venezuola, donne son nom au pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "En 1499, une expédition menée par Amerigo Vespucci et Alonso de Ojeda explore cette région pour la première fois (côte nord-ouest)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "Les maisons sur pilotis des Indiens du golfe de Maracaibo font penser à une petite Venise, Venezziola ou Venezuola, ce qui donne le nom du pays."
+        }
+      ]
+    },
+    {
+      "id": "VEN-2",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Une colonie confiée à des banquiers allemands",
+      "short": "Au XVIe siècle, Charles Quint confie le Venezuela à la famille Welser, des marchands allemands, en gage d'un emprunt. Ce sont eux qui tentent la première colonisation en profondeur du territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "quote": "Après la première colonie permanente, à Nueva Cadiz créée en 1522 par les Espagnols, la famille Welser, des marchands allemands mandatés par Charles Quint, tenta la première colonisation en profondeur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "quote": "Il reçoit le droit de coloniser le Venezuela, comme gage d'un emprunt, fait à l'empire espagnol"
+        }
+      ]
+    },
+    {
+      "id": "VEN-3",
+      "topic": "histoire",
+      "era": "1811-1830",
+      "title": "Le pays de Bolívar",
+      "short": "Le Venezuela se déclare indépendant le 5 juillet 1811, sous l'impulsion de Simón Bolívar. Après avoir fait partie de la Grande Colombie, il devient un État à part en 1830. Son nom officiel, « république bolivarienne », rend hommage à Simón Bolívar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "Le 5 juillet 1811, le Venezuela se déclare indépendant et cela déclenche la réaction de la couronne espagnole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "Simón Bolívar est le grand leader de ce mouvement et des luttes pour la construction d'une nouvelle nation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "quote": "En 1830, le Venezuela devient alors un État indépendant (séparé de l'État de la Grande Colombie) la même année que l'État de l'Équateur et du Panama."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "en espagnol República Bolivariana de Venezuela, nom officiel en l'honneur de Simón Bolívar"
+        }
+      ]
+    },
+    {
+      "id": "VEN-4",
+      "topic": "economie",
+      "era": "1914",
+      "title": "Un océan de pétrole sous le sol",
+      "short": "Le pétrole découvert en 1914 enrichit vite le pays. Le Venezuela possède les plus grandes réserves prouvées du monde, devant l'Arabie saoudite, mais près des trois quarts sont des sables bitumineux, difficiles et polluants à exploiter.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "quote": "En 1914, la découverte et l'exploitation d'importants gisements de pétrole dotent le Venezuela d'une source de richesses considérable, ce qui permet à l'État de rembourser la dette extérieure du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "Le Venezuela est une puissance énergétique majeure avec des réserves prouvées de 302 milliards de barils de pétrole en 2019, ce qui en fait le premier pays au monde dans le classement par réserves de pétrole prouvées devant l'Arabie saoudite, mais près des trois quarts de ces réserves (224 milliards de barils) sont des sables bitumineux, dont l'exploitation est malaisée et très polluante."
+        }
+      ]
+    },
+    {
+      "id": "VEN-5",
+      "topic": "geographie",
+      "title": "La plus haute chute d'eau du monde",
+      "short": "Dans le massif guyanais, le Salto Ángel tombe de 979 mètres : ce sont les plus hautes chutes d'eau du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "quote": "c'est une région sauvage, qui constitue un des lieux les plus attractifs du pays : les chutes de Salto Ángel, hautes de 979 mètres, sont reconnues comme les plus hautes chutes d'eau du monde."
+        }
+      ]
+    },
+    {
+      "id": "VEN-6",
+      "topic": "drapeau",
+      "era": "1806-2006",
+      "title": "Sept étoiles, puis huit",
+      "short": "Francisco de Miranda crée le drapeau en 1806 avec sept étoiles. En 2006, le Parlement, acquis au président Hugo Chávez, en ajoute une huitième ; les étoiles représentent les provinces.",
+      "long": "Les députés ont aussi retourné le cheval blanc des armoiries : il galope désormais vers la gauche, comme sur les écussons de la Grande Colombie de 1822.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "quote": "Le général Francisco de Miranda créa le drapeau original avec 7 étoiles et celui-ci fut le premier à l'utiliser le 12 mars 1806."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "quote": "Le 7 mars 2006, Le Parlement du Venezuela adopte la modification du drapeau national afin de l'adapter à la révolution socialiste du président Hugo Chávez, à l'initiative du projet."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "quote": "Entièrement contrôlé par les partisans du chef de l'État à la suite du boycott des élections législatives par l'opposition en décembre, le Parlement a approuvé l'ajout d'une huitième étoile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "quote": "Un arc de cercle constitué de 8 étoiles sur la bande bleue ; les 8 étoiles représentent les 8 provinces."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "quote": "Les députés vénézuéliens ont également modifié le galop du cheval blanc figurant sur l'écusson national afin de le tourner, non plus vers la droite, mais vers la gauche, afin de le rendre semblable aux écussons de la Grande-Colombie adoptés en 1822."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VEN-C1",
+      "topic": "histoire",
+      "era": "1567",
+      "title": "Santiago de León de Caracas",
+      "short": "L'explorateur espagnol Diego de Losada fonde la ville en 1567 sous le nom de Santiago de León de Caracas. Elle s'étend dans une vallée entre 760 et 910 m d'altitude, au pied du massif de l'Ávila, tout près de la mer des Caraïbes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Caracas",
+          "quote": "Caracas est fondée en 1567 sous le nom de Santiago de León de Caracas par l'explorateur espagnol Diego de Losada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Caracas",
+          "quote": "Elle est située au nord du Venezuela, à proximité de la mer des Caraïbes dans une vallée entourée de montagnes de près de 2 130 m, entre 760 et 910 m d'altitude (cette montagne s'appelle l'Avila)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le nord de l'Amérique du Sud, face à la mer des Caraïbes, entre la Colombie à l'ouest et le Guyana à l'est ; l'Orénoque le traverse avant de finir en un immense delta.",
+    "flag": "Jaune, bleu, rouge à bandes égales, avec un arc de huit étoiles blanches sur le bleu. La Colombie a un jaune deux fois plus large et pas d'étoiles ; l'Équateur a le jaune large et un blason central.",
+    "capital": "Caracas, cap sur les Caraïbes : la capitale est tout près de la mer, juste de l'autre côté de la montagne de l'Ávila."
+  }
+}

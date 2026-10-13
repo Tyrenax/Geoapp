@@ -1,0 +1,196 @@
+{
+  "id": "JPN",
+  "facts": [
+    {
+      "id": "JPN-1",
+      "topic": "histoire",
+      "era": "VIIIe siècle",
+      "title": "Le pays de l'origine du soleil",
+      "short": "Les deux caractères du nom japonais, 日本, signifient « soleil » et « origine » : le Japon est « là où naît le soleil ». D'abord lu Hi-no-moto, le nom se prononce Nihon ou Nippon depuis l'époque de Nara.",
+      "long": "Les deux lectures coexistent encore : Nippon s'affiche sur les timbres, les billets et les maillots des sportifs, tandis que Nihon domine dans la vie courante. On le retrouve dans Nihonjin, « personne du Japon », et Nihongo, la langue japonaise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Le nom 日本 veut dire « origine du soleil »",
+          "to": "appellations encore en usage de nos jours."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Le nom japonais Nippon est utilisé sur les timbres",
+          "to": "plus fréquemment dans la vie quotidienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Nihon se retrouve dans le gentilé",
+          "to": "Nihongo (日本語)."
+        }
+      ]
+    },
+    {
+      "id": "JPN-2",
+      "topic": "histoire",
+      "era": "1573-1603",
+      "title": "Trois guerriers pour unifier le Japon",
+      "short": "Après un siècle de guerres entre seigneurs, trois « unificateurs » se succèdent : Oda Nobunaga, Toyotomi Hideyoshi, puis Tokugawa Ieyasu, vainqueur à Sekigahara en 1600. En 1603, il fonde le shogunat qui gouvernera l'archipel depuis Edo pendant deux siècles et demi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Ces trois « unificateurs du Japon » sont successivement",
+          "to": "(époque d'Edo)."
+        }
+      ]
+    },
+    {
+      "id": "JPN-3",
+      "topic": "histoire",
+      "era": "1639-1854",
+      "title": "Deux siècles portes closes",
+      "short": "En 1639, le shogunat coupe presque tout contact avec l'étranger : seuls quelques marchands chinois et néerlandais restent tolérés, sur l'îlot de Dejima à Nagasaki. Il faut les canons américains du commodore Perry, en 1853, pour rouvrir le pays.",
+      "long": "La fermeture répond à la peur d'une conquête européenne : dès 1635, le christianisme est interdit sous peine de mort. L'isolement dure deux siècles.\n\nArrivé dans la baie d'Edo, Perry impose l'ouverture par la « politique de la canonnière ». La convention de Kanagawa, signée en 1854, est le premier d'une série de traités inégaux que le Japon doit ensuite accepter des autres puissances.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "et la religion chrétienne fut formellement interdite en 1635",
+          "to": "précisément sur l'île de Dejima."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Cette politique d'isolement volontaire de deux siècles",
+          "to": "avec d'autres puissances."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Japon",
+          "from": "L'arrivée de l'amiral américain Perry en 1853",
+          "to": "la fin de la politique d'isolement du pays."
+        }
+      ]
+    },
+    {
+      "id": "JPN-4",
+      "topic": "histoire",
+      "era": "1868",
+      "title": "La fin des samouraïs",
+      "short": "En 1867, le dernier shogun rend le pouvoir à l'empereur Meiji. L'ère qui s'ouvre en 1868 abolit l'ordre des samouraïs et transforme rapidement un pays féodal en puissance industrielle.",
+      "long": "Les dirigeants envoient la mission Iwakura étudier les institutions occidentales, puis s'en inspirent : préfectures, nouveaux codes, armée moderne et, en 1890, une constitution. Le pays s'industrialise à grande vitesse et devient une puissance régionale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Lors de l'ère Meiji qui commence en 1868",
+          "to": "en une puissance régionale."
+        }
+      ]
+    },
+    {
+      "id": "JPN-5",
+      "topic": "geographie",
+      "title": "Des milliers d'îles, quatre géantes",
+      "short": "Selon la façon de compter, le Japon compte de 6 852 à 14 125 îles, dont environ 430 sont habitées. Quatre d'entre elles, Honshū, Hokkaidō, Kyūshū et Shikoku, font 95 % du territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Le Japon est un archipel dont le nombre d'îles varie",
+          "to": "superficie terrestre du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Japon",
+          "from": "Sur les 6 852 îles que compte le Japon",
+          "to": "sont habitées."
+        }
+      ]
+    },
+    {
+      "id": "JPN-6",
+      "topic": "drapeau",
+      "era": "1999",
+      "title": "Un drapeau officiel… depuis 1999",
+      "short": "Le Hinomaru, « drapeau au disque solaire », sert de drapeau national depuis 1868. Pourtant, aucun texte ne l'avait officiellement adopté avant une loi du 13 août 1999.",
+      "long": "Associé au passé militariste du pays, le drapeau a été critiqué après la Seconde Guerre mondiale, et son usage fut sévèrement limité au début de l'occupation américaine. La loi de 1999 adopte à la fois le drapeau et l'hymne Kimi ga yo ; elle a été accueillie avec méfiance en Chine et en Corée du Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon",
+          "from": "Il est connu sous le nom de Hinomaru",
+          "to": "en japonais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon",
+          "from": "Depuis la restauration Meiji, en 1868",
+          "to": "drapeau de l'Empereur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon",
+          "from": "Depuis la Seconde Guerre mondiale, le drapeau du Japon a été critiqué",
+          "to": "passé militariste de son pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon",
+          "from": "L'utilisation du Hinomaru a été sévèrement limitée",
+          "to": "assouplies par la suite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon",
+          "from": "Dans la république populaire de Chine et la Corée du Sud",
+          "to": "une étape vers la remilitarisation."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "JPN-C1",
+      "topic": "histoire",
+      "era": "1603-1868",
+      "title": "D'un village de pêcheurs à la ville du shogun",
+      "short": "Tokyo n'était à l'origine qu'un village de pêcheurs, Edo, « l'estuaire ». Devenue la capitale des shoguns Tokugawa, elle compte près d'un million d'habitants à la fin du XVIIIe siècle, l'une des plus grandes villes du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokyo",
+          "from": "À l'origine, Tokyo n’était qu’un petit village",
+          "to": "près d'un million d'habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokyo",
+          "from": "Son ancien nom est Edo (江戸)",
+          "to": "la rivière Sumida qui la traverse."
+        }
+      ]
+    },
+    {
+      "id": "JPN-C2",
+      "topic": "histoire",
+      "era": "1868",
+      "title": "La « capitale de l'Est »",
+      "short": "En 1868, l'empereur Meiji quitte Kyoto et s'installe au château d'Edo. La ville est rebaptisée Tōkyō, « capitale de l'Est », par opposition à Kyoto, l'ancienne capitale impériale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokyo",
+          "from": "Avec la restauration de l'empereur en 1868",
+          "to": "l'ancienne capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokyo",
+          "from": "En japonais, Tokyo [to.kjo] s'écrit",
+          "to": "« Capitale de l'est »."
+        }
+      ]
+    },
+    {
+      "id": "JPN-C3",
+      "topic": "histoire",
+      "era": "1923",
+      "title": "La ville rasée de 1923",
+      "short": "Le 1er septembre 1923, le grand tremblement de terre de Kantō détruit une grande partie de Tokyo : plus de 140 000 victimes et près de deux millions de sans-abri.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokyo",
+          "from": "Certains sont en revanche extrêmement violents",
+          "to": "détruisant une grande partie de la ville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un long arc d'îles à l'est de l'Asie, de l'autre côté de la mer du Japon face à la Corée et à la Russie. Quatre grandes îles du nord au sud : Hokkaidō, Honshū (la plus grande, en croissant), Shikoku et Kyūshū ; puis la traînée des îles Ryūkyū descend jusqu'à la latitude de Taïwan.",
+    "flag": "Un simple disque rouge au centre d'un fond blanc. Le Bangladesh a lui aussi un disque rouge, mais sur fond vert et décalé vers le mât ; les Palaos ont un disque jaune sur fond bleu.",
+    "capital": "Tō-kyō, « capitale de l'Est », et Kyō-to, l'ancienne capitale : les mêmes syllabes, inversées. Quand l'empereur part vers l'est en 1868, Edo devient Tokyo."
+  }
+}

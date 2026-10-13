@@ -1,0 +1,158 @@
+{
+  "id": "TKM",
+  "facts": [
+    {
+      "id": "TKM-1",
+      "topic": "histoire",
+      "title": "Merv, l'oasis géante",
+      "short": "L'histoire du Turkménistan remonte à plusieurs millénaires, comme le montre le site de Gonur-depe. Merv, l'une des plus anciennes villes-oasis d'Asie centrale, fut autrefois l'une des plus grandes villes du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "L'histoire du Turkménistan s'étend sur plusieurs millénaires",
+          "to": "dans le désert du Karakoum."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Merv est l'une des plus anciennes villes-oasis",
+          "to": "l'une des plus grandes villes au monde."
+        }
+      ]
+    },
+    {
+      "id": "TKM-2",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Indépendant en 1991",
+      "short": "Le Turkménistan proclame son indépendance le 27 octobre 1991, pendant la dislocation de l'URSS. L'ancien chef du parti communiste local, Saparmyrat Nyýazow, en devient le président.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Il a déclaré son indépendance pendant la dislocation de l'URSS",
+          "to": "de l'URSS en 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Le 27 octobre 1991 a lieu la proclamation",
+          "to": "d'indépendance du Turkménistan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Saparmyrat Nyýazow, ancien partisan des putschistes",
+          "to": "jusqu'à sa mort en décembre 2006."
+        }
+      ]
+    },
+    {
+      "id": "TKM-3",
+      "topic": "politique",
+      "era": "1991-2006",
+      "title": "Le « chef des Turkmènes »",
+      "short": "Nyýazow, dit Türkmenbaşy, « chef des Turkmènes », instaure un culte de la personnalité extrême : le mois de janvier prend son nom, et son livre, le Ruhnama, occupe près d'un tiers du temps scolaire. Il faut même le connaître pour passer le permis de conduire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Depuis son indépendance en 1991, il est dirigé par un régime",
+          "to": "jusqu'à sa mort en 2006 ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Les noms des mois de l'année sont changés",
+          "to": "comme le mot pain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Le Ruhnama, livre prétendument de Nyýazow",
+          "to": "tels que le permis de conduire."
+        }
+      ]
+    },
+    {
+      "id": "TKM-4",
+      "topic": "histoire",
+      "era": "2010",
+      "title": "La statue qui suivait le soleil",
+      "short": "À Achgabat, une statue dorée de Nyýazow, haute de 12 m, tournait sur elle-même au sommet de l'Arche de la Neutralité pour faire toujours face au soleil. Son successeur fait démonter l'arche en 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Une statue de Nyýazow d'une hauteur de 12 m",
+          "to": "toujours tourné vers le soleil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "En janvier 2010, le nouveau président Berdimuhamedow",
+          "to": "durant le mois de mai 2010."
+        }
+      ]
+    },
+    {
+      "id": "TKM-5",
+      "topic": "geographie",
+      "title": "Désert et gaz",
+      "short": "Le désert du Karakoum couvre 80 % du pays, avec des étés jusqu'à 50 °C. Sous le sol, le Turkménistan possède les cinquièmes plus grandes réserves de gaz naturel du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "La caractéristique géographique la plus significative",
+          "to": "80 % de la superficie du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Les étés sont très chauds (jusqu'à 50 °C",
+          "to": "(jusqu'à 50 °C dans le désert du Karakoum)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "from": "Le Turkménistan possède les cinquièmes plus grandes réserves",
+          "to": "de gaz naturel."
+        }
+      ]
+    },
+    {
+      "id": "TKM-6",
+      "topic": "drapeau",
+      "era": "1997",
+      "title": "Les motifs des tapis",
+      "short": "Sur fond vert, une bande rouge porte cinq médaillons de tapis, pour les cinq principales tribus du pays, au-dessus de deux rameaux d'olivier, symboles de neutralité. En haut, un croissant et cinq étoiles blancs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Turkménistan",
+          "from": "Il est frappé d'une bande rouge verticale sur laquelle",
+          "to": "symboles de neutralité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Turkménistan",
+          "from": "En haut du drapeau, à côté de la bande rouge",
+          "to": "blanches également."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TKM-C1",
+      "topic": "culture",
+      "era": "2013",
+      "title": "La ville de marbre blanc",
+      "short": "Frappée par un très violent séisme en 1948, Achgabat est entrée en 2013 dans le Livre Guinness des records pour la plus grande concentration au monde de bâtiments en marbre blanc.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Achgabat",
+          "from": "À partir de là, la ville connut une croissance",
+          "to": "le très violent séisme du 6 octobre 1948."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Achgabat",
+          "from": "En 2013, la ville a été incluse dans le Livre Guinness",
+          "to": "bâtiments en marbre blanc."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Asie centrale, entre la mer Caspienne à l'ouest et l'Ouzbékistan au nord-est, au nord de l'Iran et de l'Afghanistan.",
+    "flag": "Vert avec une bande rouge verticale ornée de motifs de tapis côté hampe, et un croissant avec cinq étoiles. Les motifs de tapis le rendent unique.",
+    "capital": "Achgabat, tout au sud, près de la frontière iranienne, au pied des montagnes."
+  }
+}

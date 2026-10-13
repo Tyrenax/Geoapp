@@ -1,0 +1,132 @@
+{
+  "id": "ASM",
+  "facts": [
+    {
+      "id": "ASM-1",
+      "topic": "histoire",
+      "era": "Il y a 3 000 ans",
+      "title": "Le pays des matai",
+      "short": "Des Polynésiens peuplent ces îles il y a environ 3 000 ans et y fondent une culture centrée sur la vie communautaire et les chefs de clan, les matai. Le premier contact avec des Européens a lieu en 1722, avec le Néerlandais Jacob Roggeveen.",
+      "long": "Ce mode de vie traditionnel, le fa’a Samoa, reste aujourd'hui un pilier de l'identité locale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Samoa_américaines",
+          "quote": "Les Samoa américaines furent initialement peuplées il y a environ 3 000 ans par des Polynésiens, qui établirent une culture centrée sur la vie communautaire et les chefs de clan (matai). Le premier contact avec des européens se produisit en 1722 avec l'explorateur hollandais Jacob Roggeveen."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Samoa_américaines",
+          "quote": "La culture samoane, notamment le système fa’a Samoa (mode de vie traditionnel centré sur les clans et les matai), demeure un pilier de l'identité locale."
+        }
+      ]
+    },
+    {
+      "id": "ASM-2",
+      "topic": "histoire",
+      "era": "1787",
+      "title": "Le drame de La Pérouse",
+      "short": "En 1787, l'expédition française de La Pérouse accoste à Tutuila. Une escarmouche avec les habitants y coûte la vie au capitaine de Langle, au naturaliste Lamanon et à neuf autres marins.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Samoa_américaines",
+          "quote": "L’expédition de La Pérouse accoste en 1787 l'île de Tutuila (qu'il appelle « Maouna »), dans la baie de A'asu, connue pour le tragique événement qui vit la mort du capitaine de Langle, du naturaliste Lamanon, ainsi que celle de neuf autres marins, lors d'une escarmouche avec les indigènes."
+        }
+      ]
+    },
+    {
+      "id": "ASM-3",
+      "topic": "histoire",
+      "era": "1899-1904",
+      "title": "La moitié américaine de l'archipel",
+      "short": "Lors du partage de l'archipel samoan en 1899, la partie orientale revient aux États-Unis. Tutuila devient officiellement américaine en 1900, les îles Manu’a en 1904, et le port naturel de Pago Pago devient une base navale stratégique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Samoa_américaines",
+          "quote": "Rapidement devenues un enjeu de domination coloniale, elles furent, lors de la partition de l'archipel samoan en 1899, attribuées aux États-Unis qui les occupèrent l'année suivante (les Samoa occidentales revenant à l'Allemagne puis, en 1920, à la Nouvelle-Zélande). Depuis, elles constituent un territoire non incorporé des États-Unis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Samoa_américaines",
+          "quote": "En 1900, l'île de Tutuila devint officiellement un territoire américain, suivie des îles Manu’a en 1904. Pago Pago, grâce à son port naturel protégé, fut rapidement transformé en base navale stratégique."
+        }
+      ]
+    },
+    {
+      "id": "ASM-4",
+      "topic": "histoire",
+      "era": "1969-1972",
+      "title": "Le retour des astronautes",
+      "short": "Les équipages d'Apollo 10, 12, 13, 14 et 17 ont été repêchés à quelques centaines de milles de Pago Pago, puis transportés en hélicoptère jusqu'à l'aéroport de l'île avant d'être envoyés à Honolulu.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoa",
+          "quote": "The astronaut crews of Apollo 10, 12, 13, 14, and 17 were retrieved a few hundred miles from Pago Pago and transported by helicopter to the airport prior to being flown to Honolulu on C-141 Starlifter military aircraft."
+        }
+      ]
+    },
+    {
+      "id": "ASM-5",
+      "topic": "politique",
+      "title": "Américains, mais pas citoyens",
+      "short": "Les Samoa américaines sont le seul territoire habité en permanence des États-Unis où la citoyenneté n'est pas accordée à la naissance. Leurs habitants sont des « nationaux non citoyens », aux droits limités.",
+      "long": "S'ils s'installent ailleurs aux États-Unis, ils ne peuvent pas voter aux élections fédérales ni dans la plupart des élections locales.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoa",
+          "quote": "American Samoa is the only permanently inhabited territory of the United States in which citizenship is not granted at birth, and people born there are considered \"non-citizen nationals\" with limited rights."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/American_Samoa",
+          "quote": "As U.S. nationals, American Samoans can vote in local elections in the territory; however, if they live in other parts of the United States, they are not allowed to vote in federal, state or the vast majority of local elections"
+        }
+      ]
+    },
+    {
+      "id": "ASM-6",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Un drapeau allé sur la Lune",
+      "short": "Le drapeau montre un aigle américain qui tient dans ses serres deux emblèmes samoans : l'uatogi, symbole du pouvoir des chefs, et le fue, bâton rituel de la sagesse. Il a été adopté le 17 avril 1960, soixante ans jour pour jour après l'arrivée du drapeau américain.",
+      "long": "L'idée vient d'un concours organisé dans un lycée de l'île. Une copie du drapeau, emportée sur la Lune lors de quatre missions Apollo, est exposée dans un musée de Pago Pago.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa_américaines",
+          "quote": "Un aigle américain est représenté tenant dans ses serres l'uatogi, égide symbole du pouvoir des chefs samoans et le fue, bâton rituel qui représente la sagesse. Ainsi, l'Amérique protège les emblèmes traditionnels du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa_américaines",
+          "quote": "Le drapeau a été officiellement adopté le 17 avril 1960, soixante ans jour pour jour après que les États-Unis ont hissé leur drapeau sur les Samoa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa_américaines",
+          "quote": "L'année précédente, le concept du drapeau a été retenu lors d'une compétition à la Samoana High School, réalisé par un lycéen du nom de Fareti Sotoa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa_américaines",
+          "quote": "Une copie du drapeau, qui a été amené sur la lune par des astronautes lors de quatre missions Apollo de 1969 à 1971, est exposée au Jean P. Haydon Museum à Pago Pago."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ASM-C1",
+      "topic": "economie",
+      "title": "Le port du thon",
+      "short": "Pago Pago est la capitale de fait, mais le parlement siège à Fagatogo. Son port en eaux profondes, abrité des vents, est le seul accessible du territoire : la valeur du poisson qui y est pêché est la plus élevée de tous les ports américains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pago_Pago",
+          "quote": "est la capitale de facto des Samoa américaines, un territoire des États-Unis situé dans l'océan Pacifique. Le parlement de ce territoire siège à Fagatogo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pago_Pago",
+          "quote": "Le port de Pago Pago est le seul port accessible des Samoa américaines. Son emplacement, en eaux profondes et à l'abri des vents, est particulièrement stratégique, notamment pour la pêche. La valeur totale du poisson pêché à Pago Pago (environ 200 000 000 US$ par an dans les années 2000) est la plus élevée de tous les ports américains."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La partie est de l'archipel des Samoa, en Polynésie, juste à l'est de l'État du Samoa : c'est le territoire le plus au sud des États-Unis.",
+    "flag": "Bleu, avec un grand triangle blanc bordé de rouge qui pointe vers le mât, et un aigle américain serrant deux emblèmes samoans.",
+    "capital": "Pago Pago, au fond d'une baie profonde de l'île de Tutuila ; le parlement siège tout près, à Fagatogo."
+  }
+}

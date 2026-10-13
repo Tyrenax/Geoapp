@@ -1,0 +1,127 @@
+{
+  "id": "LIE",
+  "facts": [
+    {
+      "id": "LIE-1",
+      "topic": "histoire",
+      "era": "1719",
+      "title": "Un pays qui porte le nom de son prince",
+      "short": "Le 23 janvier 1719, l'empereur Charles VI réunit deux petites seigneuries et les élève au rang de principauté, baptisée Liechtenstein en l'honneur de son nouveau prince, Antoine-Florian de Liechtenstein.",
+      "long": "La famille princière n'y vivait pas : elle ne s'y installe qu'en 1918, chassée d'Autriche par la chute des Habsbourg et la crainte du bolchevisme.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Ces deux petites parcelles répondant aux critères requis, l'empereur Charles VI les unifia et les éleva le 23 janvier 1719 au rang de principauté, laquelle fut baptisée Liechtenstein en l'honneur de son nouveau prince, Antoine-Florian de Liechtenstein."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "En 1918, la chute de la maison de Habsbourg-Lorraine, la proclamation de la république en Autriche et la crainte du bolchevisme poussèrent la famille princière à se réfugier dans sa principauté sur laquelle elle régnait depuis deux siècles mais qu'elle ne connaissait guère."
+        }
+      ]
+    },
+    {
+      "id": "LIE-2",
+      "topic": "histoire",
+      "era": "1806",
+      "title": "Le survivant du Saint-Empire",
+      "short": "En 1806, quand le Saint-Empire, envahi par la France napoléonienne, est dissous, presque tous les petits États allemands disparaissent. Le Liechtenstein, lui, entre dans la confédération du Rhin en restant indépendant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "En 1806, le Saint-Empire fut envahi par la France napoléonienne, ce qui eut d'importantes conséquences pour le Liechtenstein : les anciennes structures politiques et administratives se délitèrent rapidement à la suite de l'abdication de l'empereur germanique, et le Saint-Empire lui-même fut dissous."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Alors que presque tous les petits États allemands disparaissaient, le Liechtenstein réussit à intégrer cette Confédération du Rhin en restant indépendant."
+        }
+      ]
+    },
+    {
+      "id": "LIE-3",
+      "topic": "histoire",
+      "era": "1945",
+      "title": "Le petit pays qui a dit non à Staline",
+      "short": "En 1945, le Liechtenstein accueille environ 500 soldats et civils russes et ukrainiens qui avaient combattu aux côtés de la Wehrmacht contre le régime de Staline. Il est le seul État occidental à refuser de les livrer à l'URSS, malgré les pressions soviétiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "En effet, le Liechtenstein donna asile à environ 500 soldats et civils constituant une « armée nationale russe » sous la direction du général Boris Smyslovski, similaire à l'Armée Vlassov, constituée de Russes et d'Ukrainiens qui avaient combattu avec la Wehrmacht contre le régime de Staline."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "d'autant qu'il fut le seul État occidental à refuser de livrer à Joseph Staline les réfugiés antisoviétiques se trouvant sur son territoire en 1945."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Le prince du Liechtenstein François-Joseph II et son gouvernement furent les seuls qui refusèrent de livrer à l'URSS ces soldats de l'armée d'Holmston, réfugiés sur sa minuscule principauté, et à tenir tête aux pressions soviétiques."
+        }
+      ]
+    },
+    {
+      "id": "LIE-4",
+      "topic": "politique",
+      "era": "1984",
+      "title": "Le vote des femmes en 1984",
+      "short": "Ce n'est que le 1er juillet 1984 que les électeurs, jusque-là uniquement des hommes, accordent par référendum le droit de vote aux femmes pour les scrutins nationaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Lors d'un référendum organisé le 1er juillet 1984 et activement soutenu par le prince, les électeurs, jusque-là exclusivement masculins, se prononcent en faveur du droit de vote pour les femmes, mais uniquement pour les scrutins nationaux et non locaux."
+        }
+      ]
+    },
+    {
+      "id": "LIE-5",
+      "topic": "geographie",
+      "title": "Doublement enclavé",
+      "short": "Coincé entre la Suisse et l'Autriche, le Liechtenstein pourrait être, avec l'Ouzbékistan, l'un des deux seuls pays doublement enclavés : il faut traverser au moins deux autres États pour atteindre la mer.",
+      "long": "Une nuance toutefois : la Suisse a un accès à la mer par le Rhin, une voie navigable à statut international.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Le Liechtenstein, en forme longue la principauté du Liechtenstein ou principauté de Liechtenstein (en allemand : Fürstentum Liechtenstein), est un pays alpin d'Europe centrale, sans accès à la mer, bordé par la Suisse à l'ouest et au sud et par l'Autriche à l'est et au nord."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liechtenstein",
+          "quote": "Cela pourrait en faire, avec l'Ouzbékistan, un des deux seuls États au monde à être doublement enclavé, c'est-à-dire qu'il faudrait traverser au moins deux autres États pour avoir un accès à l'Océan mondial, à ceci près que la Suisse a un accès direct à l'Océan mondial par le Rhin,"
+        }
+      ]
+    },
+    {
+      "id": "LIE-6",
+      "topic": "drapeau",
+      "era": "1937",
+      "title": "Une couronne pour ne plus ressembler à Haïti",
+      "short": "Aux Jeux olympiques de 1936, l'équipe du Liechtenstein découvre que son drapeau de l'époque ressemble beaucoup à celui d'Haïti. En 1937, on y ajoute une couronne d'or.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liechtenstein",
+          "quote": "Une couronne d'or figure sur le côté gauche de la bande bleue.\nLes couleurs sont probablement inspirées de la livrée à la cour princière au XVIIIe siècle. La couronne fut ajoutée en 1937, après que l’équipe du Liechtenstein aux Jeux olympiques d'été de 1936 s'est rendu compte de la similitude du drapeau de l'époque avec celui d’Haïti."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LIE-C1",
+      "topic": "histoire",
+      "title": "La ville du château princier",
+      "short": "Depuis le milieu du XIVe siècle, le château de Vaduz était le siège des comtes de Vaduz. Aujourd'hui, la ville est le siège du gouvernement, une place financière internationale et la résidence de la famille princière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vaduz",
+          "quote": "Depuis le milieu du XIVe siècle, le château de Vaduz était le siège des comtes du même nom."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vaduz",
+          "quote": "Siège du gouvernement de la principauté, Vaduz est également le lieu de résidence de la famille princière et constitue une place financière internationale."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule pays alpin coincé entre la Suisse à l'ouest et au sud et l'Autriche à l'est et au nord, le long de la rive droite du Rhin.",
+    "flag": "Bleu en haut, rouge en bas, avec une couronne d'or dans le coin supérieur gauche. Haïti a aussi du bleu sur du rouge, mais avec ses armoiries au centre, sur un carré blanc.",
+    "capital": "Vaduz, au pied du château où réside le prince."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "MAF",
+  "facts": [
+    {
+      "id": "MAF-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Le jour de la Saint-Martin",
+      "short": "Selon la tradition, Christophe Colomb aperçoit l'île sans y débarquer le 11 novembre 1493, jour de la fête de saint Martin de Tours, d'où son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Selon la tradition, l'île doit son nom à Christophe Colomb",
+          "to": "lors de son deuxième voyage"
+        }
+      ]
+    },
+    {
+      "id": "MAF-2",
+      "topic": "histoire",
+      "era": "1648",
+      "title": "Une île partagée sans frontière tracée",
+      "short": "En 1648, le traité de Concordia partage l'île entre la France et les Provinces-Unies, sans en fixer le tracé précis. Aujourd'hui encore, on passe de la partie française à la partie néerlandaise sans contrôle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Néerlandais et Français s'y installent",
+          "to": "à plusieurs reprises par les Britanniques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Elle ne comporte aucun contrôle douanier ni migratoire physique",
+          "to": "sans en fixer le tracé précis."
+        }
+      ]
+    },
+    {
+      "id": "MAF-3",
+      "topic": "histoire",
+      "era": "2007",
+      "title": "Une collectivité depuis 2007",
+      "short": "Ancienne commune de la Guadeloupe, Saint-Martin est devenue une collectivité d'outre-mer le 15 juillet 2007.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Ancienne commune de la Guadeloupe",
+          "to": "le 15 juillet 2007."
+        }
+      ]
+    },
+    {
+      "id": "MAF-4",
+      "topic": "geographie",
+      "title": "La plus petite île partagée entre deux États",
+      "short": "Avec environ 87 km², dont 53 km² côté français, Saint-Martin est la plus petite île habitée du monde partagée entre deux États souverains. Le sud forme Sint Maarten, dans le royaume des Pays-Bas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "La partie sud de l'île forme Sint Maarten",
+          "to": "partagée entre deux États souverains."
+        }
+      ]
+    },
+    {
+      "id": "MAF-5",
+      "topic": "histoire",
+      "era": "2017",
+      "title": "Irma, septembre 2017",
+      "short": "Le 6 septembre 2017, l'ouragan Irma frappe l'île de plein fouet : onze morts côté français et presque tous les bâtiments endommagés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Le 6 septembre 2017, l'ouragan Irma frappe directement l'île",
+          "to": "la quasi-totalité du bâti."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MAF-C1",
+      "topic": "histoire",
+      "title": "La ville des marigots",
+      "short": "Marigot doit son nom aux nombreux marécages, les « marigots », qui occupaient autrefois l'emplacement du bourg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Marigot_(Saint-Martin)",
+          "from": "Marigot doit son nom aux nombreux marécages",
+          "to": "à l'emplacement du bourg."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié nord d'une petite île au nord des Petites Antilles, au sud d'Anguilla ; la moitié sud, c'est Sint Maarten, néerlandaise.",
+    "flag": "Officiellement, Saint-Martin utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Marigot, la ville des marécages : un « marigot », c'est un bras d'eau stagnante."
+  }
+}

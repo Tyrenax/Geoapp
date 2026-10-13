@@ -1,0 +1,194 @@
+{
+  "id": "TON",
+  "facts": [
+    {
+      "id": "TON-1",
+      "topic": "histoire",
+      "era": "XIIIe siècle av. J.-C.",
+      "title": "Les îles « vers le Sud »",
+      "short": "Des navigateurs venus d'Asie du Sud-Est colonisent les Tonga vers le XIIIe siècle av. J.-C. Ils apportent chiens, porcs, poulets, la poterie de la civilisation Lapita et leurs pirogues à balancier.",
+      "long": "Le nom du pays vient du mot polynésien fakatonga, « vers le Sud » : l'archipel est le groupe le plus méridional de la Polynésie centrale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Les humains colonisent les Tonga vers le XIIIe siècle av. J.-C.",
+          "to": "l'Afrique de l'Est à l'ouest."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Ces Polynésiens apportent avec eux chiens",
+          "to": "(pirogues à balancier)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Dans de nombreuses langues polynésiennes, dont le tongien",
+          "to": "de la Polynésie centrale."
+        }
+      ]
+    },
+    {
+      "id": "TON-2",
+      "topic": "histoire",
+      "era": "Xe-XVIIIe siècle",
+      "title": "Un empire maritime",
+      "short": "Une royauté s'établit à Tongatapu au début du Xe siècle, et la dynastie actuelle se réclame encore de l'empire Tuʻi Tonga. Au XIIIe siècle, le pouvoir royal s'étend jusqu'à Hawaï ; au XVIIIe, l'empire tongien inclut des régions conquises des Fidji.",
+      "long": "Les Tongiens ont aussi bâti des monuments de pierre, comme le Haʻamonga ʻa Maui : un trilithon de cinq mètres de haut, fait de trois blocs de calcaire de plus de quarante tonnes chacun. Les langi, des pyramides basses en terrasses, marquent les tombes des anciens rois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Une royauté s'établit à Tongatapu",
+          "to": "jusqu'à Hawaï."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Au XVIIIe siècle, les Tonga unifient",
+          "to": "conquises des Fidji."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Des siècles avant l'arrivée des Occidentaux, les Tongiens construisent",
+          "to": "les tombes des anciens rois."
+        }
+      ]
+    },
+    {
+      "id": "TON-3",
+      "topic": "histoire",
+      "era": "1643-1777",
+      "title": "Les « îles des Amis »",
+      "short": "Abel Tasman découvre Tongatapu le 21 janvier 1643. Entre 1773 et 1777, James Cook baptise l'archipel « îles des Amis » en raison de l'accueil chaleureux qu'il y a reçu, malgré le massacre de plusieurs de ses hommes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Le 21 janvier 1643, Abel Tasman",
+          "to": "une partie des îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Entre 1773 et 1777, James Cook",
+          "to": "plusieurs de ses hommes)."
+        }
+      ]
+    },
+    {
+      "id": "TON-4",
+      "topic": "histoire",
+      "era": "1845-2010",
+      "title": "Un royaume jamais aboli",
+      "short": "Les îles sont unies en un royaume en 1845, deviennent une monarchie constitutionnelle en 1875, puis un protectorat britannique en 1900. Indépendantes le 4 juin 1970, elles restent un royaume ; en 2008, le roi George Tupou V renonce à l'essentiel de son pouvoir politique.",
+      "long": "Il annonce des élections parlementaires, tenues en 2010, qui instaurent un plus grand degré de démocratie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "En 1845, les îles sont unies en un royaume.",
+          "to": "membre du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Son successeur, George (Siaosi) Tupou V",
+          "to": "plus grand degré de démocratie."
+        }
+      ]
+    },
+    {
+      "id": "TON-5",
+      "topic": "histoire",
+      "era": "2022",
+      "title": "L'éruption du Hunga Tonga",
+      "short": "Le 14 janvier 2022, le volcan sous-marin Hunga Tonga entre en éruption et provoque un tsunami qui inonde une partie de l'archipel, y compris la capitale. Le pays reste quasiment coupé du monde pendant plusieurs jours.",
+      "long": "Selon la Banque mondiale, l'éruption aurait coûté l'équivalent de 18,5 % du PIB annuel du royaume.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "Le 14 janvier 2022, le volcan Hunga Tonga",
+          "to": "coupant la majorité des communications."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "La population reste quasiment coupée du monde",
+          "to": "plusieurs jours après l'événement"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "L'impact économique pour le pays est considérable",
+          "to": "18,5 % du PIB annuel."
+        }
+      ]
+    },
+    {
+      "id": "TON-6",
+      "topic": "drapeau",
+      "era": "1875",
+      "title": "Un drapeau qu'on ne doit jamais modifier",
+      "short": "Le premier drapeau, blanc à croix rouge, ressemblait trop à celui de la Croix-Rouge, adopté en 1864 : la croix a donc été placée en canton sur un drapeau rouge. La Constitution de 1875 précise qu'il ne doit jamais être modifié.",
+      "long": "Le roi George Tupou Ier voulait que le drapeau porte la croix de Jésus et soit rouge, pour rappeler le sang répandu sur la croix.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tonga",
+          "from": "La première version du drapeau des Tonga",
+          "to": "avec la croix en canton d'un drapeau rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tonga",
+          "from": "La constitution de 1875 précise",
+          "to": "ne doit jamais être modifié."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tonga",
+          "from": "Devant la première assemblée des Tonga, en 1862",
+          "to": "le sang répandu sur la croix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TON-C1",
+      "topic": "geographie",
+      "era": "1875",
+      "title": "La patrie de l'amour",
+      "short": "Nukuʻalofa signifie « la patrie de l'amour » en tongien. Capitale depuis le 4 novembre 1875, elle se trouve aux antipodes de Tamanrasset, en Algérie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tonga",
+          "from": "et la capitale est Nukuʻalofa",
+          "to": "sur l'île de Tongatapu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nukuʻalofa",
+          "from": "Le 4 novembre 1875, Nukuʻalofa devient la capitale",
+          "to": "la Constitution des Tonga."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nukuʻalofa",
+          "from": "Elle est située aux antipodes de Tamanrasset",
+          "to": "en Algérie."
+        }
+      ]
+    },
+    {
+      "id": "TON-C2",
+      "topic": "histoire",
+      "era": "2006",
+      "title": "Les émeutes de 2006",
+      "short": "En 2006, faute de réformes démocratiques, des émeutes éclatent à Nukuʻalofa : six morts, et 80 % du quartier des affaires détruit. Il est reconstruit à partir de 2008 grâce à un prêt de la Chine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nukuʻalofa",
+          "from": "Le gouvernement tongien instaure une commission nationale",
+          "to": "examiné par l'Assemblée législative."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nukuʻalofa",
+          "from": "En l'absence d'actions à la suite du rapport",
+          "to": "de la part de la Chine."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un chapelet d'îles du Pacifique Sud, au sud-est des Fidji et au sud de Wallis-et-Futuna, à l'est de l'Australie.",
+    "flag": "Rouge, avec un canton blanc portant une croix rouge en haut à gauche. Au premier coup d'œil, on dirait le drapeau de la Croix-Rouge posé dans un coin.",
+    "capital": "Nukuʻalofa, « la patrie de l'amour », sur la côte nord de l'île de Tongatapu."
+  }
+}

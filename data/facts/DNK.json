@@ -1,0 +1,163 @@
+{
+  "id": "DNK",
+  "facts": [
+    {
+      "id": "DNK-1",
+      "topic": "histoire",
+      "era": "Xe siècle",
+      "title": "La « marche » des Danes",
+      "short": "Danmark signifierait « le champ des Danes », un peuple scandinave du Jutland ; « mark » rappellerait nos « marches », les terres frontières. Le nom apparaît pour la première fois sur les pierres de Jelling.",
+      "long": "Le Danemark existe en tant que tel depuis le Xe siècle, quand le roi Harald, premier roi de Danemark, réalise l'unité de la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le nom signifierait littéralement « le champ des Danes », soit une région peuplée par les Danes, un peuple scandinave installé sur l'actuelle péninsule du Jutland. Ce champ correspondrait à sa position entre la Germanie et les pays nordiques. Cette étymologie est encore sujette à débats par les linguistes.\n« Dan » pourrait dériver d'une racine germanique signifiant « plaine », « terre plate ». « Mark » pourrait être similaire au français « marches » (au sens de « limite », « frontière »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le nom de Danemark apparaît pour la première fois sur les pierres de Jelling."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le Danemark existe en tant que tel depuis le Xe siècle, lorsque Harald, premier roi de Danemark, a réalisé l'unité de la région."
+        }
+      ]
+    },
+    {
+      "id": "DNK-2",
+      "topic": "histoire",
+      "era": "1387-1814",
+      "title": "Une reine pour trois royaumes",
+      "short": "À partir de 1387, Marguerite Ire devient reine de Danemark, de Norvège et de Suède. Le Danemark domine cette union scandinave ; il reste uni à la Norvège jusqu'en 1814.",
+      "long": "En 1814, le traité de Kiel oblige le Danemark à céder la Norvège à la Suède. Il garde toutefois le Groenland, l'Islande et les îles Féroé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "La peste noire décime la population danoise à partir de 1350, entraînant par là-même une crise économique et des bouleversements sociaux : la dynastie régnante, les Esthrithides, éteinte, entame une lutte de succession résolue sous l'impulsion de Marguerite Ire de Danemark, qui, à partir de 1387, devient reine de Danemark, de Norvège et de Suède"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le Danemark prend la tête économique et politique de cet ensemble, face à la puissance des villes de la Hanse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "formant avec cette dernière une union personnelle, le royaume de Danemark-Norvège jusqu'en 1814."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "La Suède de Charles-Jean en profite pour attaquer le Danemark, forçant Frédéric VI à signer le traité de Kiel le 14 janvier 1814 transférant le royaume de Norvège à la Suède, à l'exception du Groenland, de l'Islande et des îles Féroé, qui sont laissées au Danemark."
+        }
+      ]
+    },
+    {
+      "id": "DNK-3",
+      "topic": "histoire",
+      "era": "1864",
+      "title": "La guerre des Duchés",
+      "short": "En 1864, la seconde guerre des Duchés, déclenchée pour le contrôle du Schleswig et du Holstein, tourne au désastre : le Danemark doit céder le Schleswig, le Holstein et le Lauenbourg. Il ne récupère le nord du Schleswig qu'en 1920, après deux plébiscites.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "À la mort de Frédéric VII de Danemark (1863), l'Allemagne réunie à Francfort réclame l'indépendance du Holstein et du Schleswig, ce qui donne lieu à deux guerres des Duchés dont la seconde en 1864 est désastreuse pour le Danemark : il est contraint de céder ces trois duchés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le règlement de la future succession au trône donne lieu en 1848 à des troubles entre nationalistes danois et activistes allemands, le Schleswig, le Holstein et le Lauenbourg ayant tenté à cette occasion de se séparer du Danemark, avec l'appui de la Prusse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Néanmoins, le Danemark a repris en 1920 une partie du Schleswig-Holstein, le Nord-Schleswig à l'issue de deux plébiscites prévus par le traité de Versailles."
+        }
+      ]
+    },
+    {
+      "id": "DNK-4",
+      "topic": "histoire",
+      "era": "1940-1943",
+      "title": "Le sauvetage des Juifs danois",
+      "short": "Envahi par l'Allemagne le 9 avril 1940, le Danemark ne résiste pas. Mais la population s'oppose de plus en plus à l'occupant et organise le sauvetage des Juifs : quelque 99 % d'entre eux sont évacués ou protégés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Bien que le Danemark se soit déclaré neutre au début de la Seconde Guerre mondiale, le 9 avril 1940, la Wehrmacht envahit son territoire, sans rencontrer de résistance, le roi Christian X étant conscient de la supériorité militaire du Troisième Reich."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Malgré cela la population devint de plus en plus hostile aux Allemands ; les actes violents de résistance et l'organisation du sauvetage des Juifs, qui permit de faire évacuer et de protéger quelque 99 % de la population juive, conduisirent l'Allemagne nazie à considérer le Danemark comme territoire ennemi dès 1942 et à dissoudre le gouvernement danois en 1943."
+        }
+      ]
+    },
+    {
+      "id": "DNK-5",
+      "topic": "geographie",
+      "title": "Petit pays, immense royaume",
+      "short": "Avec 42 924 km², le Danemark est le plus petit État de Scandinavie : la péninsule du Jutland et 443 îles. Mais avec le Groenland et les îles Féroé, le royaume couvre 2 210 579 km².",
+      "long": "Sa seule frontière terrestre en Europe le relie à l'Allemagne. Depuis le règlement du conflit sur l'île Hans, il en partage aussi une avec le Canada.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le royaume de Danemark est composé de trois pays constitutifs réunis sous l'entité politique de l'Unité du Royaume :\n\nle Danemark métropolitain, constitué de la péninsule continentale du Jutland, ainsi que 443 autres îles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "Le Danemark métropolitain couvre une superficie de 42 924 km2, ce qui en fait le plus petit État de Scandinavie, mais il a une superficie totale de 2 210 579 km2 en incluant les îles Féroé et le Groenland."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Danemark",
+          "quote": "et au nord de l'Allemagne, seul pays avec lequel il partage une frontière terrestre, outre le Canada depuis la résolution du conflit portant sur l'île Hans."
+        }
+      ]
+    },
+    {
+      "id": "DNK-6",
+      "topic": "drapeau",
+      "era": "1219",
+      "title": "Un drapeau tombé du ciel",
+      "short": "Selon la légende, le Dannebrog, « le tissu danois », serait apparu dans le ciel le 15 juin 1219, pendant la bataille de Lyndanisse, en Estonie. Il est présenté comme le plus ancien drapeau existant.",
+      "long": "Le plus ancien document qui l'atteste est un armorial de la fin du XIVe siècle, conservé à Bruxelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Danemark",
+          "quote": "Le drapeau du Danemark est aussi nommé Dannebrog (« vêtement danois » ou « tissu danois »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Danemark",
+          "quote": "La légende veut que le drapeau soit apparu dans le ciel lors de la bataille de Lyndanisse, impliquant les danois emmenés par le roi Valdemar II de Danemark alliés aux Ordres religieux de moines-soldats allemands, alors en pleine croisades contre les tribus Estoniennes, le 15 juin 1219."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Danemark",
+          "quote": "Ce drapeau est le plus ancien existant, ayant été utilisé pour la première fois en 1625."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Danemark",
+          "quote": "Le document le plus ancien attestant l'usage du Dannebrog est le folio 55 de l'armorial de Gelre élaboré à la fin du XIVe siècle et conservé à la bibliothèque royale Albert-Ier, à Bruxelles."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DNK-C1",
+      "topic": "histoire",
+      "era": "1167",
+      "title": "« Le port des marchands »",
+      "short": "København vient de Købmandshavn, « le port des commerçants ». Fondée au Xe siècle par les Vikings, Copenhague n'est d'abord qu'un village de pêcheurs, fortifié en 1167.",
+      "long": "En 1157, le roi Valdemar Ier donne la ville à l'évêque Absalon, de Roskilde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Copenhague",
+          "quote": "Son nom danois, København, déformation de Købmandshavn (« le port des commerçants »), rappelle sa position stratégique sur le Kattegat, à proximité immédiate de la mer Baltique.\nFondée au Xe siècle par les Vikings, Copenhague est à l'origine un village de pêcheurs, fortifié en 1167."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Copenhague",
+          "quote": "En 1157, Valdemar Ier de Danemark fait don de la ville et des villages des environs à Absalon, évêque de Roskilde."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La péninsule du Jutland, qui pointe vers le nord au-dessus de l'Allemagne, sa seule voisine terrestre en Europe, et un chapelet d'îles à l'est, entre la mer du Nord et la Baltique. Copenhague est sur une île, face à la Suède.",
+    "flag": "Une croix blanche sur fond rouge, décalée vers le mât (croix scandinave). La Suisse a aussi une croix blanche sur rouge, mais centrée, dans un drapeau carré. Même croix, autres couleurs : la Norvège (croix bleue bordée de blanc sur rouge) et la Suède (croix jaune sur bleu).",
+    "capital": "Copenhague, København, « le port des marchands », sur le détroit qui fait face à la Suède."
+  }
+}

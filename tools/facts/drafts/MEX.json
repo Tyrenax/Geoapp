@@ -1,0 +1,189 @@
+{
+  "id": "MEX",
+  "facts": [
+    {
+      "id": "MEX-1",
+      "topic": "histoire",
+      "era": "1325",
+      "title": "Une capitale bâtie sur une île d'un lac",
+      "short": "En 1325, les Mexicas fondent Tenochtitlan sur une île du lac Texcoco. Elle devient la capitale de l'État le plus vaste qu'ait connu la Mésoamérique, et Mexico s'élève aujourd'hui à sa place.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "En 1325, les Mexicas fondent Mexico-Tenochtitlan",
+          "to": "les Tarasques de Tzintzuntzan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "Mexico s'étendait il y a 500 ans autour du lac Texcoco",
+          "to": "après la conquête de 1519-1521."
+        }
+      ]
+    },
+    {
+      "id": "MEX-2",
+      "topic": "histoire",
+      "era": "1519-1521",
+      "title": "Cortés et la chute des Aztèques",
+      "short": "En 1519, Hernán Cortés débarque avec ses conquistadors, alliés à des peuples ennemis des Aztèques comme les Tlaxcaltèques. Le 13 août 1521, la chute de Tenochtitlan met fin à l'empire aztèque.",
+      "long": "La ville conquise devient la capitale de la Nouvelle-Espagne, la vice-royauté d'où l'Espagne gouverne le territoire. La colonisation dure trois siècles, de 1521 à 1821, et façonne un pays métis, hispanophone et catholique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "En 1519, les conquistadors espagnols, alliés à de nombreuses tribus",
+          "to": "conduits par Hernán Cortés"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Le 13 août 1521, la fin du siège de Tenochtitlan",
+          "to": "la fin de l'empire aztèque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "En 1521, l'Espagne conquiert et colonise le territoire",
+          "to": "vice-royauté de Nouvelle-Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Les trois siècles de colonisation espagnole (1521 - 1821)",
+          "to": "telle que nous le connaissons aujourd’hui."
+        }
+      ]
+    },
+    {
+      "id": "MEX-3",
+      "topic": "histoire",
+      "era": "1846-1848",
+      "title": "La moitié du pays perdue face aux États-Unis",
+      "short": "Indépendant en 1821, le Mexique traverse un demi-siècle d'instabilité. Sa guerre contre les États-Unis, de 1846 à 1848, lui coûte la moitié de son territoire.",
+      "long": "Dans la même période, le pays subit une tentative de reconquête espagnole en 1829, un blocus français resté sous le nom de « guerre des Pâtisseries » en 1838-1839, puis une intervention française de 1861 à 1867.\n\nLe territoire mexicain s'étendait alors sur une bonne partie du sud des États-Unis actuels, dont la Californie, l'Arizona, le Nouveau-Mexique et le Texas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Les insurgés déclarent la séparation en 1813",
+          "to": "victorieux en 1821."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Le pays connaît ensuite un demi-siècle d'instabilité",
+          "to": "deux empires."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Le territoire s'étendra jusqu'à une importante partie",
+          "to": "et le Texas)."
+        }
+      ]
+    },
+    {
+      "id": "MEX-4",
+      "topic": "histoire",
+      "title": "Le berceau des Olmèques et des Mayas",
+      "short": "Bien avant les Aztèques, le territoire mexicain a vu fleurir les civilisations olmèque, toltèque, zapotèque et maya.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Diverses civilisations fleurissent",
+          "to": "les Mayas et les Aztèques."
+        }
+      ]
+    },
+    {
+      "id": "MEX-5",
+      "topic": "drapeau",
+      "era": "1968",
+      "title": "Un aigle né d'une erreur de traduction",
+      "short": "L'aigle qui dévore un serpent sur un cactus vient de la légende de la fondation de Tenochtitlan. Mais la phrase nahuatl disait « le serpent siffle », pas « le serpent est détruit » : l'image est née d'une traduction espagnole erronée.",
+      "long": "Selon la version du moine dominicain Diego Durán, les Aztèques nomades se seraient installés là où ils avaient vu ce signe. Le lac et l'îlot des armes rappellent cette origine indigène.\n\nLe drapeau date de l'indépendance, en 1821, mais sa version actuelle a été dessinée en 1968, pour les Jeux olympiques de Mexico.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mexique",
+          "from": "L'aigle perché sur le cactus dévorant un serpent est issu",
+          "to": "à l'endroit où ils ont observé ce symbole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mexique",
+          "from": "Le lac et l'îlot, symboles aztèques également",
+          "to": "issue du métissage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mexique",
+          "from": "Le drapeau est créé lors de la consommation de l'indépendance en 1821",
+          "to": "symbolisme des couleurs différent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mexique",
+          "from": "La version actuelle du drapeau date de 1968",
+          "to": "Jeux olympiques de Mexico."
+        }
+      ]
+    },
+    {
+      "id": "MEX-6",
+      "topic": "culture",
+      "title": "Le plus grand pays hispanophone",
+      "short": "Plus de 99 % des Mexicains parlent espagnol : aucun pays ne compte autant d'hispanophones. Plus de 7 millions d'habitants parlent aussi une langue autochtone, reconnue comme langue nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Plus de 99 % des Mexicains parlent l'espagnol mexicain",
+          "to": "le plus d'hispanophones."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexique",
+          "from": "Plus de 7 millions (environ 6 %) d'habitants parlent une langue autochtone",
+          "to": "le statut de langue officielle."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MEX-C1",
+      "topic": "geographie",
+      "title": "Une ville qui s'enfonce dans son ancien lac",
+      "short": "Les Espagnols ont peu à peu asséché le lac Texcoco pour éviter les inondations ; il n'en reste guère que les canaux de Xochimilco. Privé d'eau, le sol argileux s'affaisse : par endroits, la ville s'enfonce de 30 centimètres par an.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "Mexico s'étendait il y a 500 ans autour du lac Texcoco",
+          "to": "après la conquête de 1519-1521."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "Ces digues ont été détruites lors du siège de Tenochtitlan",
+          "to": "pour prévenir les inondations."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "De ce lac progressivement asséché",
+          "to": "les canaux de Xochimilco."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "Une partie de l'entité fédérative s'enfonce actuellement",
+          "to": "de nombreuses entreprises."
+        }
+      ]
+    },
+    {
+      "id": "MEX-C2",
+      "topic": "histoire",
+      "era": "1521",
+      "title": "La première grande ville européenne d'Amérique",
+      "short": "Sur les ruines de Tenochtitlan, les conquérants espagnols bâtissent en 1521 la première grande ville au tracé européen du continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mexico",
+          "from": "Fondée au début du XIVe siècle par les Mexicas",
+          "to": "de tracé européen du continent."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Juste sous les États-Unis, le pays qui se rétrécit vers le sud-est comme un entonnoir jusqu'au Guatemala et au Belize. Repère ses deux longues péninsules : la Basse-Californie à l'ouest, le Yucatán à l'est.",
+    "flag": "Vert, blanc, rouge en bandes verticales, avec l'aigle sur son cactus au centre. L'Italie a les mêmes couleurs dans le même ordre, mais sans emblème ; l'Irlande et la Côte d'Ivoire ont du vert et du blanc, avec de l'orange à la place du rouge.",
+    "capital": "Le pays a pris le nom de sa capitale : Mexico, l'ancienne Tenochtitlan des Mexicas, a donné son nom au Mexique."
+  }
+}

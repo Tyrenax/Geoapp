@@ -1,0 +1,131 @@
+{
+  "id": "CHN",
+  "facts": [
+    {
+      "id": "CHN-1",
+      "topic": "histoire",
+      "era": "221 av. J.-C.",
+      "title": "Le premier empereur",
+      "short": "En 221 av. J.-C., Qin Shi Huang unifie la Chine et fonde la dynastie Qin, qui a donné son nom au pays. On lui doit aussi la Grande Muraille. L'armée enterrée qui garde son mausolée, près de Xi'an, n'a été découverte qu'en 1974.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "le grand unificateur de la Chine est l'empereur Qin Shi Huang, fondateur de la dynastie Qin (qui a donné son nom à la Chine) en 221 av. J.-C., ainsi que de la Grande Muraille de Chine. Elle est alors devenue une vaste zone relativement unifiée politiquement et linguistiquement, avec une culture avancée, devançant le reste du monde dans de nombreux domaines tels que les arts, la médecine et les techniques. L'armée enterrée qui garde encore aujourd'hui son mausolée à côté de Xi'an a été retrouvée en 1974."
+        }
+      ]
+    },
+    {
+      "id": "CHN-2",
+      "topic": "culture",
+      "title": "Boussole, papier, poudre",
+      "short": "La Chine est à l'origine de nombreuses inventions majeures : la boussole, le papier, la monnaie de papier ou encore la poudre noire.",
+      "long": "Sa civilisation a profondément marqué toute l'Asie de l'Est : religions (confucianisme, taoïsme, bouddhisme chan), caractères chinois, vocabulaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "Elle est à l'origine de nombreuses inventions majeures telles que la boussole, le papier, la monnaie de papier ou la poudre noire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "La civilisation chinoise a fortement imprégné toute l'Asie de l'Est, notamment aux niveaux religieux (confucianisme, taoïsme et développement du bouddhisme chan), linguistique (les caractères chinois ont été utilisés dans toute la région et de nombreux mots chinois sont présents"
+        }
+      ]
+    },
+    {
+      "id": "CHN-3",
+      "topic": "culture",
+      "title": "Une écriture qui unit",
+      "short": "L'unité de la Chine, malgré la diversité de ses dialectes et de ses cultures, tient en partie à son écriture : les caractères, assez détachés de la prononciation, permettent d'écrire de la même façon des langues et des dialectes très différents.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "Même pendant les périodes d'unité, la culture chinoise a toujours consisté en un tissu très composite, et la variété des cuisines, des dialectes, des habitudes et des modes de vie ne doit pas être éclipsée par l'étonnante unité culturelle, administrative et politique de ce pays à l'échelle d'un continent. Cette unité et continuité ne sont pas sans rapport avec l'emploi d'une écriture relativement détachée de la phonétique, qui permet de noter de la même façon des langues et des dialectes très différents."
+        }
+      ]
+    },
+    {
+      "id": "CHN-4",
+      "topic": "histoire",
+      "era": "1839-1912",
+      "title": "La fin du dernier empire",
+      "short": "Affaiblie par les guerres de l'opium et les traités inégaux, la dynastie Qing s'effondre avec la révolution de 1911. La république de Chine est proclamée par Sun Yat-sen début 1912, et le « dernier empereur », Puyi, abdique en février.",
+      "long": "À la suite des guerres de l'opium, les traités inégaux avaient découpé l'empire en zones d'influence étrangères : l'Allemagne dominait le Shandong, la France le Yunnan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "Elle s'achèvera après la Révolution de 1911 qui débouchera sur la proclamation de la république de Chine par le Dr Sun Yat-sen au 1er janvier 1912 et l'abdication de l'empereur Puyi, « le dernier empereur » en février de la même année."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "À la suite des guerres de l'opium (1839 et 1856), les Traités inégaux forcèrent l'empire Qing à diviser son territoire en zones d'influence attribuées aux Huit armées étrangères alliées, ouvertes sans conditions au commerce étranger : l'Allemagne, par exemple, dominait le Shandong, la France le Yunnan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "La dernière dynastie impériale, les Qing (la dynastie d'origine mandchoue qui régnait sur le pays depuis 1644), a connu une période de déclin durant la phase d'expansion coloniale des pays occidentaux, menant le pays de défaite en défaite à partir des guerres de l'opium."
+        }
+      ]
+    },
+    {
+      "id": "CHN-5",
+      "topic": "histoire",
+      "era": "1949",
+      "title": "Deux républiques, un nom",
+      "short": "Après la victoire des communistes sur le Kuomintang, qui s'exile à Taïwan avec le gouvernement de la république de Chine, la république populaire de Chine est proclamée le 1er octobre 1949. Les deux revendiquent depuis le nom de « Chine ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "À la suite de la victoire militaire du Parti communiste chinois sur le Kuomintang qui s'est exilé à Taïwan avec le gouvernement de la république de Chine, la république populaire de Chine est proclamée le 1er octobre 1949 en Chine continentale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chine",
+          "quote": "La république populaire de Chine est souvent appelée « Chine », bien que la république de Chine (Taïwan) revendique également cette appellation dans sa constitution de 1947."
+        }
+      ]
+    },
+    {
+      "id": "CHN-6",
+      "topic": "drapeau",
+      "era": "1949",
+      "title": "Le drapeau rouge aux cinq étoiles",
+      "short": "Le drapeau rouge porte cinq étoiles dorées : une grande et quatre petites disposées en arc autour d'elle. Le rouge représente la révolution, et les étoiles l'unité du peuple chinois sous la direction du Parti communiste.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_populaire_de_Chine",
+          "quote": "C'est un champ rouge qui contient cinq étoiles à cinq branches dorées dans son canton (coin supérieur gauche). Le dessin comporte une grande étoile située dans l'angle supérieur gauche du drapeau avec quatre étoiles plus petites placées sur sa droite disposées sur un arc de cercle 13h30/16h30 centré sur celle-ci."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_populaire_de_Chine",
+          "quote": "Le rouge représente la révolution, les cinq étoiles et leur relation représentent l'unité du peuple chinois sous la direction du Parti communiste chinois."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CHN-C1",
+      "topic": "histoire",
+      "era": "1421",
+      "title": "La « capitale du Nord »",
+      "short": "Pékin, ou Beijing, signifie « capitale du nord ». Choisie comme capitale par les Jürchen en 1153, puis par Kubilai Khan, elle devient en 1421 la capitale officielle des Ming.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pékin",
+          "quote": "« capitale du nord »), ou Beijing, est la capitale de la république populaire de Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pékin",
+          "quote": "D'abord ville périphérique de l'empire chinois sous les dynasties Han et les Tang, elle prend de l'importance lorsque les peuples Jürchen, qui fondent la dynastie Jin, la choisissent comme leur capitale principale en 1153. Le prince mongol Kubilai Khan en fait de même sous le nom de Dadu (« grande métropole »), enfin la dynastie Ming y transfère son administration en 1421, parachevant le choix de Pékin comme capitale de la Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pékin",
+          "quote": "À partir de 1421, Pékin, également connue sous le nom de Jingshi (京师), devient la capitale officielle de la dynastie Ming et Nankin est reléguée au statut de capitale secondaire."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'immense pays de l'Asie de l'Est, des déserts et de l'Himalaya à l'ouest jusqu'aux côtes du Pacifique à l'est. Il a quatorze voisins terrestres, de la Russie et la Mongolie au nord jusqu'à l'Inde, au Népal et au Vietnam au sud.",
+    "flag": "Rouge, avec dans le coin supérieur gauche une grande étoile jaune et quatre petites en arc de cercle. Le Vietnam a aussi une étoile jaune sur fond rouge, mais une seule, grande et centrée.",
+    "capital": "Pékin, Beijing, « la capitale du Nord », face à Nankin, « la capitale du Sud »."
+  }
+}

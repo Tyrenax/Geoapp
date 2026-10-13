@@ -1,0 +1,108 @@
+{
+  "id": "FLK",
+  "facts": [
+    {
+      "id": "FLK-1",
+      "topic": "histoire",
+      "era": "1764",
+      "title": "Malouines, comme Saint-Malo",
+      "short": "En 1764, le Français Louis-Antoine de Bougainville installe une colonie dans l'archipel et le baptise « îles Malouines », d'après les habitants de Saint-Malo, d'où venaient ses premiers colons. Les Anglais disent Falkland, les Espagnols Malvinas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Le Français Louis-Antoine de Bougainville les visite à son tour en 1764 et les baptise « îles Malouines » d'après le nom des habitants de Saint-Malo, port breton dont proviennent les premiers colons permanents connus de ces îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Les îles Malouines ou îles Falkland (en anglais : Falkland Islands ; en espagnol : Islas Malvinas)"
+        }
+      ]
+    },
+    {
+      "id": "FLK-2",
+      "topic": "histoire",
+      "era": "1592-1767",
+      "title": "Un archipel aux mille noms",
+      "short": "Désert jusqu'à l'arrivée des Européens, l'archipel est nommé « îles méridionales de Davis » par les Anglais en 1592, puis « Maiden-Land » en 1594. Colonisé par les Français en 1764, il passe dès 1767 sous souveraineté espagnole.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "les îles Malouines sont baptisées en 1592 par les Anglais « îles méridionales de Davis », nom que leur donna le navigateur anglais John Davis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Deux ans plus tard, en 1594, le navigateur anglais Richard Hawkins les nomme « Hawkins’s Maiden-Land »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Désertes jusqu'à leur découverte par les Européens au XVIe siècle, les îles Malouines sont colonisées en 1764 sous la direction du français Louis-Antoine de Bougainville, mais passent en 1767 sous souveraineté espagnole, Louis XV voulant endiguer l'avancée britannique."
+        }
+      ]
+    },
+    {
+      "id": "FLK-3",
+      "topic": "histoire",
+      "era": "1833-1982",
+      "title": "Revendiquées par l'Argentine",
+      "short": "Le Royaume-Uni contrôle l'archipel depuis 1833 et y installe des colons britanniques. L'Argentine en revendique la souveraineté : en 1982, les deux pays s'affrontent lors de la guerre des Malouines.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Le Royaume-Uni contrôle cependant l'archipel à partir de 1833, et y installe progressivement des colons d'origine britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Elles sont revendiquées par l'Argentine, qui en conteste la souveraineté au Royaume-Uni, et ont été l'enjeu d'un affrontement militaire, la guerre des Malouines, entre les deux pays en 1982."
+        }
+      ]
+    },
+    {
+      "id": "FLK-4",
+      "topic": "politique",
+      "era": "2013",
+      "title": "Un référendum contesté",
+      "short": "En mars 2013, 98,8 % des votants choisissent de rester un territoire britannique d'outre-mer. L'Argentine ne reconnaît pas ce référendum, qu'elle juge illégitime.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Un référendum d'auto-détermination a lieu en mars 2013 pour permettre aux habitants de choisir leur statut, une consultation par laquelle ceux-ci choisissent à 98,8 % de conserver le statut de territoire britannique d'outre-mer, mais ce référendum n'est pas reconnu par les autorités argentines, qui le jugent illégitime."
+        }
+      ]
+    },
+    {
+      "id": "FLK-5",
+      "topic": "economie",
+      "title": "Le pays des moutons",
+      "short": "Presque tout le territoire sert de pâturage : l'élevage de moutons, pour une laine de haute qualité, est la principale activité des habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Pratiquement l'intégralité du territoire sert de zone de pâturage pour les moutons."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "L'élevage de moutons est la principale activité des habitants de l'île (en 2002, on recensait 583 000 moutons sur l'archipel) apportant une importante source de revenus avec l'exportation de laine de haute qualité vers Londres."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FLK-C1",
+      "topic": "geographie",
+      "title": "Les deux tiers des habitants",
+      "short": "L'archipel compte environ 3 000 habitants, dont les deux tiers vivent dans la capitale, Port Stanley.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Malouines",
+          "quote": "Il abrite une population d'environ 3 000 habitants (appelés Malouins), dont les deux tiers résident dans la capitale Port Stanley."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel de l'Atlantique Sud, à quelques centaines de kilomètres à l'est de la pointe de l'Argentine et de la Terre de Feu.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, un écu où figurent un mouton et un navire. La Géorgie du Sud a aussi un fond bleu, avec un écu tenu par une otarie et un manchot.",
+    "capital": "Stanley (Port Stanley) : un nom anglais pour le seul vrai bourg de l'archipel."
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "id": "ATA",
+  "facts": [
+    {
+      "id": "ATA-1",
+      "topic": "histoire",
+      "era": "1820",
+      "title": "Un continent aperçu seulement en 1820",
+      "short": "Le continent antarctique n'est aperçu pour la première fois qu'en 1820. Le capitaine russe Fabian Gottlieb von Bellingshausen le voit le 27 janvier, trois jours avant Edward Bransfield, de la Royal Navy britannique.",
+      "long": "Bien avant, des navigateurs avaient cru l'atteindre : en 1739, Bouvet de Lozier, missionné par la Compagnie des Indes, découvre une île brumeuse qu'il prend pour un continent, l'actuelle île Bouvet, pourtant à 1 700 km de l'Antarctique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Selon la Fondation nationale pour la science (NSF), la NASA, l'université de Californie à San Diego et d'autres organisations, le premier aperçu de l'Antarctique est effectué en 1820 par les équipages de navires dont les trois capitaines étaient : Fabian Gottlieb von Bellingshausen (un capitaine de la Marine impériale russe), Edward Bransfield (un capitaine de la Royal Navy, envoyé par le consul britannique Shirreff à la suite de la découverte de William Smith), et Nathaniel Palmer (un marin américain de Stonington dans le Connecticut)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Von Bellingshausen voit l'Antarctique le 27 janvier 1820, trois jours avant que Bransfield aperçoive la terre, et dix mois avant que Palmer le fasse en novembre 1820."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Le 1er janvier 1739, Jean-Baptiste Charles Bouvet de Lozier, missionné par la Compagnie des Indes pour découvrir des terres inconnues et y établir des comptoirs, découvre une île brumeuse qu'il prendra pour un continent : l'actuelle île Bouvet pourtant située à 1 700 km de l'Antarctique."
+        }
+      ]
+    },
+    {
+      "id": "ATA-2",
+      "topic": "histoire",
+      "era": "1911",
+      "title": "La course au pôle Sud",
+      "short": "Roald Amundsen est le premier à atteindre le pôle Sud, le 14 décembre 1911, grâce aux skis et aux chiens de traîneau. Le Britannique Robert Falcon Scott y arrive un mois plus tard et meurt sur le chemin du retour.",
+      "long": "C'est le point culminant de l'« âge héroïque » de l'exploration antarctique, de 1895 à 1922.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Roald Amundsen participera à la course au pôle Sud géographique, et sera le premier à y parvenir, le 14 décembre 1911, en un temps réduit grâce à l'usage de skis et de chiens de traîneau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Robert Falcon Scott, un Britannique, arrive un mois plus tard et meurt sur le chemin du retour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "La période qui s'étend de 1895 à 1922 correspond à l'âge héroïque de l'exploration en Antarctique, durant laquelle de nombreuses expéditions sont menées afin de parvenir au pôle Sud."
+        }
+      ]
+    },
+    {
+      "id": "ATA-3",
+      "topic": "histoire",
+      "era": "1959",
+      "title": "Un continent consacré à la science",
+      "short": "Le traité sur l'Antarctique, signé en 1959 par douze États et complété en 1991 par le protocole de Madrid, donne un statut particulier à tout ce qui se trouve au sud du 60e parallèle : les activités militaires y sont interdites.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "À la suite du traité sur l'Antarctique, signé en 1959 par douze États et suivi en 1991 par le protocole de Madrid, l'ensemble des territoires situés au sud du 60e parallèle sud acquiert un statut particulier : les activités militaires y sont interdites"
+        }
+      ]
+    },
+    {
+      "id": "ATA-4",
+      "topic": "geographie",
+      "title": "Le continent le plus froid, le plus sec et le plus venteux",
+      "short": "Environ 98 % de l'Antarctique sont couverts d'une couche de glace de 1,6 km d'épaisseur en moyenne. C'est le continent le plus froid, le plus sec et le plus venteux du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Quelque 98 % de sa surface sont recouverts d'une couche de glace d'une épaisseur moyenne de 1,6 km."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "L'Antarctique est le continent dont le climat est le plus froid, le plus sec et le plus venteux."
+        }
+      ]
+    },
+    {
+      "id": "ATA-5",
+      "topic": "geographie",
+      "title": "Plus de touristes que de scientifiques",
+      "short": "L'Antarctique n'a ni population autochtone ni habitat permanent, en dehors des bases scientifiques. En 2019, il a pourtant accueilli 74 000 touristes, quatorze fois plus que de scientifiques présents.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "À part les bases scientifiques, il n'y a pas d'habitat humain permanent et l'Antarctique n'a pas de population autochtone connue."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antarctique",
+          "quote": "Modeste ressource jusque dans les années 1980, le tourisme attire de plus en plus de visiteurs : 10 000 en 2000, 37 000 en 2010, 74 000 en 2019 soit 14 fois plus de touristes que de scientifiques présents."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Tout en bas de la carte, autour du pôle Sud : le continent blanc, entouré par l'océan Austral, au sud de l'Amérique du Sud, de l'Afrique et de l'Australie.",
+    "flag": "L'Antarctique n'a pas de drapeau officiel : il n'appartient à aucun État.",
+    "capital": "L'Antarctique n'a pas de capitale : seulement des bases scientifiques."
+  }
+}

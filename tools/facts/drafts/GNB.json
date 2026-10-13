@@ -1,0 +1,90 @@
+{
+  "id": "GNB",
+  "facts": [
+    {
+      "id": "GNB-1", "topic": "histoire", "era": "XIIIe-XIXe siècle",
+      "title": "Le Kaabu, héritier de l'empire du Mali",
+      "short": "À partir du XIIIe siècle, des baronnies mandingues de l'empire du Mali s'installent dans la région. L'une d'elles, le Kaabu, finit par dominer tout l'espace entre les fleuves Gambie et Geba, et proclame son indépendance au XVIIe siècle.",
+      "long": "À la fin du XIXe siècle, le Kaabu déclinant est vaincu par le royaume peul du Fouta-Djalon, soutenu par le Portugal.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "À partir du XIIIe siècle, les Mansayas (baronnies de l'empire du Mali)", "to": "par le général mandingue Tiramighan Traoré"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "Progressivement, le Mansaya du Kaabu (Kaabunké) dirige", "to": "entre les fleuves Gambie et Rio Geba."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "Au XVIIe siècle, le Kaabunké décrète son indépendance.", "to": "décrète son indépendance."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "La fin du XIXe est marqué par deux conflits majeurs", "to": "avec l'appui du royaume de Portugal."}
+      ]
+    },
+    {
+      "id": "GNB-2", "topic": "histoire", "era": "1936",
+      "title": "Les Bijagos, derniers à se rendre",
+      "short": "Il faut au Portugal trente ans de combats pour contrôler l'intérieur de sa colonie. Les derniers à se rendre, en 1936, sont les habitants de l'archipel des Bijagos, quelque 80 îles et îlots au large de la côte.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "L'intérieur de la Guinée portugaise est à peu près « maîtrisé »", "to": "la reddition des Bijagos en 1936."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "et comprend environ 80 îles et îlots de l'archipel des Bijagos", "to": "(ou « archipel des Bissagos »)."}
+      ]
+    },
+    {
+      "id": "GNB-3", "topic": "histoire", "era": "1959-1974",
+      "title": "Amílcar Cabral et la guerre d'indépendance",
+      "short": "En 1959, une grève ouvrière au port de Bissau finit en massacre. Le PAIGC d'Amílcar Cabral choisit alors la lutte armée : la guerre d'indépendance commence en 1963.",
+      "long": "Cabral voulait plus qu'un drapeau et un hymne : « que plus jamais nos peuples ne soient exploités ». Il est assassiné à Conakry en 1973, l'année même où la guérilla proclame l'indépendance. Le Portugal ne la reconnaît qu'en 1974, après la révolution des Œillets.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "En 1959, une grève ouvrière au port de Bissau aboutit à un massacre.", "to": "aboutit à un massacre."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "Ce massacre constitue un « tournant de la réflexion", "to": "pour envisager la lutte armée"},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "En 1963, le Parti africain pour l'indépendance", "to": "déclenche la guerre d'indépendance."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "Selon Cabral : « Nous ne luttons pas simplement", "to": "nos peuples ne soient exploités"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "Amílcar Cabral mourut assassiné à Conakry en 1973", "to": "premier président du Cap-Vert."},
+        {"url": "https://fr.wikipedia.org/wiki/Bissau", "from": "Après la déclaration d'indépendance en 1973 par la guérilla", "to": "sous contrôle du Portugal."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "Après la révolution des Œillets en 1974", "to": "qui devient indépendant."}
+      ]
+    },
+    {
+      "id": "GNB-4", "topic": "histoire", "era": "1980",
+      "title": "Un coup d'État contre le frère du héros",
+      "short": "Le premier président, Luís Cabral, est le demi-frère d'Amílcar. Le 14 novembre 1980, João Bernardo « Nino » Vieira le renverse par un coup d'État sans effusion de sang. Depuis, le pays a connu une vie politique très instable.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Guinée-Bissau", "from": "Luís Cabral (1931-2009), demi-frère d'Amílcar Cabral", "to": "devint président de la Guinée-Bissau."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "Le 14 novembre 1980, João Bernardo Vieira", "to": "sans effusion"},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "Le pays accède à l'indépendance en 1974, et connaît depuis", "to": "avec plusieurs coups d'État."}
+      ]
+    },
+    {
+      "id": "GNB-5", "topic": "economie",
+      "title": "Le pays de la noix de cajou",
+      "short": "La noix de cajou est la principale source de devises du pays : elle représente 60 % de ses revenus. La Guinée-Bissau en est le troisième producteur d'Afrique.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "La principale source de devises est l'exportation de noix de cajou", "to": "60 % des revenus du pays."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "La Guinée-Bissau est le 3e producteur de noix de cajou d'Afrique", "to": "le 6e mondial"}
+      ]
+    },
+    {
+      "id": "GNB-6", "topic": "drapeau",
+      "title": "Une étoile noire aux cinq sens",
+      "short": "Bande rouge verticale avec une étoile noire, puis jaune et vert : les couleurs panafricaines. Le rouge évoque le sang des combattants de la liberté, et les cinq branches de l'étoile, les cinq sens de l'être humain.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée-Bissau", "from": "Il est composé de trois couleurs", "to": "plus une étoile noire."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée-Bissau", "from": "Les couleurs du panafricanisme sont représentés", "to": "dans les jungles de Guinée."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Guinée-Bissau", "from": "Les cinq branches de l'étoile", "to": "l'odorat et le toucher."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GNB-C1", "topic": "histoire", "era": "1687",
+      "title": "Un comptoir fortifié devenu capitale",
+      "short": "Bissau est fondée en 1687 par les Portugais comme comptoir fortifié. Elle devient la capitale de la colonie en 1942, et le pays a fini par prendre son nom : la Guinée-Bissau.",
+      "long": "Pendant la guerre, la guérilla proclame en 1973 sa propre capitale, Madina do Boé, tandis que Bissau reste aux mains des Portugais. La ville redevient capitale en 1974.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Bissau", "from": "La ville fut fondée en 1687 par les Portugais", "to": "un comptoir fortifié."},
+        {"url": "https://fr.wikipedia.org/wiki/Bissau", "from": "En 1942, elle devint la capitale de la Guinée portugaise.", "to": "de la Guinée portugaise."},
+        {"url": "https://fr.wikipedia.org/wiki/Guinée-Bissau", "from": "La Guinée-Bissau, qui doit son nom à sa capitale, Bissau", "to": "qui doit son nom à sa capitale, Bissau"},
+        {"url": "https://fr.wikipedia.org/wiki/Bissau", "from": "Après la déclaration d'indépendance en 1973 par la guérilla", "to": "sous contrôle du Portugal."},
+        {"url": "https://fr.wikipedia.org/wiki/Bissau", "from": "En 1974, lorsque les Portugais reconnurent", "to": "Bissau redevint la capitale"}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays côtier d'Afrique de l'Ouest, découpé en estuaires et en îles (les Bijagos), entre le Sénégal au nord et la Guinée au sud et à l'est.",
+    "flag": "Une bande rouge verticale côté mât avec une étoile noire, puis deux bandes horizontales, jaune en haut et vert en bas. Le Bénin a le même schéma, mais vert côté mât et sans étoile.",
+    "capital": "Bissau a donné son nom au pays : Guinée-BISSAU, capitale BISSAU."
+  }
+}

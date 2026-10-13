@@ -1,0 +1,136 @@
+{
+  "id": "MOZ",
+  "facts": [
+    {
+      "id": "MOZ-1",
+      "topic": "histoire",
+      "era": "1498",
+      "title": "Un pays nommé d'après un sultan",
+      "short": "En 1498, Vasco de Gama longe la côte est de l'Afrique. Sur une petite île régnait un sultan, Mussa Mbiki : son nom, devenu Moçambique en portugais, a désigné l'île, puis toute la région.",
+      "long": "Les Portugais s'emparent de l'île de Mozambique en 1507, lors de la deuxième expédition de Vasco de Gama. Les échanges avec le monde swahili et l'océan Indien existaient alors depuis des siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "Ces échanges existent donc depuis plusieurs siècles lorsque Vasco de Gama, lors de sa première expédition en 1498, reconnaît la côte est de l’Afrique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "C'est le nom de ce sultan, Mussa Mbiki, qui donne en portugais Moçambique, qui a servi tout d’abord à désigner l’île puis toute la région côtière environnante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "L'implantation portugaise commence dès le début du XVIe siècle, par la capture de la petite île de Moçambique en 1507, lors de la deuxième expédition de Vasco de Gama"
+        }
+      ]
+    },
+    {
+      "id": "MOZ-2",
+      "topic": "histoire",
+      "era": "1962-1975",
+      "title": "Le FRELIMO et l'indépendance",
+      "short": "Fondé en 1962, le Front de libération du Mozambique (FRELIMO) lance en 1964 la guerre d'indépendance contre le Portugal. Après la révolution des Œillets, la république populaire du Mozambique est proclamée le 25 juin 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "Le 25 juin 1962, au Tanganyika, plusieurs groupes anticoloniaux fondent le Front de libération du Mozambique (FRELIMO)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mozambique",
+          "quote": "Après plus de quatre siècles de domination coloniale, une guerre d'indépendance se déclenche en 1964 opposant le Portugal au Front de libération du Mozambique (FRELIMO), un mouvement armé anticolonialiste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mozambique",
+          "quote": "Le pays obtient son indépendance en 1975 à la suite de la révolution des Œillets en tant que république communiste avec le FRELIMO comme parti unique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maputo",
+          "quote": "La République populaire du Mozambique est proclamée le 25 juin 1975, conformément à l'accord de Lusaka signé en septembre 1974."
+        }
+      ]
+    },
+    {
+      "id": "MOZ-3",
+      "topic": "histoire",
+      "era": "1977-1992",
+      "title": "Une guerre civile meurtrière",
+      "short": "Peu après l'indépendance, la RENAMO, soutenue par la Rhodésie puis l'Afrique du Sud, mène une guérilla contre le gouvernement du FRELIMO. La guerre civile fait près d'un million de morts avant les accords de paix de 1992.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "La campagne de sabotage systématique menée par la Résistance nationale du Mozambique (RENAMO), financée et soutenue d'abord par la Rhodésie puis par l'Afrique du Sud, finit par plonger le pays dans une guerre civile"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mozambique",
+          "quote": "La RENAMO, anti-marxiste et soutenu par la Rhodésie et l'Afrique du Sud , entretient une guérilla qui s'étend et fait près d'un million de morts en quinze ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mozambique",
+          "quote": "Elle se termine en 1992 à l'issue des accords de paix entre la RENAMO et le FRELIMO instaurant le multipartisme."
+        }
+      ]
+    },
+    {
+      "id": "MOZ-4",
+      "topic": "politique",
+      "era": "1995",
+      "title": "Dans le Commonwealth sans avoir été britannique",
+      "short": "En 1995, le Mozambique, ancienne colonie portugaise, entre dans le Commonwealth : c'est le premier membre à n'avoir jamais fait partie de l'Empire britannique. Il voulait se rapprocher des pays anglophones qui l'entourent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mozambique",
+          "quote": "En 1995, le Mozambique adhère au Commonwealth, devenant le premier membre de celui-ci à n’avoir jamais fait partie de l’Empire britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mozambique",
+          "quote": "En 1995, le Mozambique entre dans le Commonwealth alors qu'il n'a jamais été administré par le Royaume-Uni, pariant sur les bienfaits d'une intégration économique plus poussée avec les six États anglophones qui l'entourent"
+        }
+      ]
+    },
+    {
+      "id": "MOZ-5",
+      "topic": "drapeau",
+      "title": "Une kalachnikov sur le drapeau",
+      "short": "Le drapeau mozambicain porte un fusil d'assaut AK-47 croisé avec une houe, sur un livre et une étoile jaune. Le fusil évoque la détermination à défendre la liberté ; la houe, les paysans ; le livre, l'éducation.",
+      "long": "Il a été question de retirer le fusil, mais la population a tenu à le garder, en souvenir des combats pour l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mozambique",
+          "quote": "Il présente l’image d’un fusil AK-47."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mozambique",
+          "quote": "Les emblèmes symbolisent quant à eux :\n\nl’étoile jaune : la solidarité du peuple et la croyance du peuple au socialisme ;\nle livre: l’éducation ;\nla houe : les paysans et l’agriculture ;\nle AK-47: la détermination du peuple à protéger sa liberté."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mozambique",
+          "quote": "La population ne voulait pas retirer l’image du fusil d’assaut AK-47 qui symbolise les combats du peuple pour l’indépendance du pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MOZ-C1",
+      "topic": "histoire",
+      "era": "1976",
+      "title": "De Lourenço Marques à Maputo",
+      "short": "Fondée par les Portugais sous le nom de Lourenço Marques, en hommage à un navigateur, la capitale est rebaptisée Maputo le 3 février 1976, quelques mois après l'indépendance.",
+      "long": "La rupture avec la colonisation est spectaculaire : la devise « Aqui é Portugal » (« Ici, c'est le Portugal ») gravée devant la mairie est effacée, les statues coloniales déboulonnées et la plupart des rues renommées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maputo",
+          "quote": "Fondée par les colons portugais en tant que Lourenço Marques, en hommage au navigateur et explorateur, la ville a été rebaptisée Maputo le 3 février 1976 par les autorités de la toute nouvelle et indépendante république populaire du Mozambique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maputo",
+          "quote": "Les mots Aqui é Portugal, inscrits sur le parterre devant la mairie de la capitale, sont immédiatement martelés et effacés, les statues déboulonnées (puis transférées au fort) et la plupart des rues"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une longue côte sur l'océan Indien, face à Madagascar, de la Tanzanie au nord jusqu'à l'Afrique du Sud au sud. À l'intérieur, il touche le Malawi, la Zambie, le Zimbabwe et l'Eswatini.",
+    "flag": "Vert, noir, jaune en bandes horizontales séparées de blanc, avec un triangle rouge côté mât portant une étoile jaune, un livre, une houe et une kalachnikov. C'est le seul drapeau national avec un fusil d'assaut.",
+    "capital": "Maputo, tout au sud du pays, près de la frontière sud-africaine : l'ancienne Lourenço Marques."
+  }
+}

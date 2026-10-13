@@ -1,0 +1,196 @@
+{
+  "id": "NLD",
+  "facts": [
+    {
+      "id": "NLD-1",
+      "topic": "histoire",
+      "title": "La Hollande n'est qu'une région",
+      "short": "On dit souvent « la Hollande » pour les Pays-Bas, mais c'est un abus de langage : la Hollande n'est qu'une région de l'ouest du pays, partagée en deux provinces, où se trouvent Amsterdam, La Haye et Rotterdam. Son nom signifierait « pays creux ».",
+      "long": "Le nom « Pays-Bas » remonte à l'État bourguignon de la fin du Moyen Âge : on appelait ainsi les possessions du nord des ducs, sur les actuelles Belgique et Pays-Bas, pour les distinguer de la Bourgogne proprement dite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La Hollande est souvent utilisée dans le langage courant et de manière impropre pour désigner les Pays-Bas dans leur ensemble, appellation désignant une région historique à l'ouest du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La Hollande stricto sensu n'est que l'une des régions des Pays-Bas divisées en deux provinces (Hollande-Septentrionale et Hollande-Méridionale), abritant les grandes villes du pays (Amsterdam, La Haye, Rotterdam),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Cependant, pour l'appellation « Hollande », la signification du nom est « pays creux »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "À l'apogée de l'État bourguignon à la fin de la période médiévale, la partie nord des possessions ducales, dans ce qui est actuellement le territoire belge et néerlandais, est appelée « États de par-deçà » ou « Pays-Bas » pour les distinguer des « États de par-delà » (Bourgogne proprement dite et Franche-Comté)."
+        }
+      ]
+    },
+    {
+      "id": "NLD-2",
+      "topic": "histoire",
+      "era": "1568-1648",
+      "title": "Quatre-vingts ans pour l'indépendance",
+      "short": "En 1568, les habitants des Pays-Bas se révoltent contre le roi d'Espagne Philippe II. La guerre de Quatre-Vingts Ans s'achève en 1648, quand l'Espagne reconnaît enfin la république des Provinces-Unies.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Alors que Charles Quint affirme une unité nationale en 1549, son fils, Philippe II, voit la révolte des habitants des Pays-Bas contre son autorité lors de la guerre de Quatre-Vingts Ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Il en résultera une guerre connue sous le nom de guerre de Quatre-Vingts Ans de 1568 à 1648, conduisant les Néerlandais à l'indépendance de la couronne d'Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La jeune république des Provinces-Unies ne sera reconnue qu'en 1596 par la France et en 1648 par l'Espagne."
+        }
+      ]
+    },
+    {
+      "id": "NLD-3",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Le Siècle d'or",
+      "short": "Au XVIIe siècle, la jeune république vit son « Siècle d'or ». Ses compagnies des Indes orientales et occidentales en font l'une des premières puissances maritimes, et Rembrandt, Vermeer et Frans Hals portent sa peinture au sommet.",
+      "long": "Cet empire marchand a aussi perdu des territoires : la Nouvelle-Néerlande est passée aux Britanniques. Elle correspond aux futurs États de New York et du New Jersey.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Le nouvel État connaît un « siècle d'or », lorsqu'il constitue un Empire colonial, dont les vestiges sont les territoires caribéens conservés aujourd'hui, portant son rayonnement culturel et artistique à un niveau mondial."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Avec sa Compagnie néerlandaise des Indes orientales et Compagnie néerlandaise des Indes occidentales qui utilisent la rixdale comme monnaie internationale, l'armada des Pays-Bas est l'une des plus puissantes au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Au cours du siècle d'or néerlandais, nombre de peintres atteignent la gloire historique : Rembrandt van Rijn, Johannes Vermeer et Frans Hals vont s'imposer comme les grands maîtres de l'école hollandaise du XVIIe siècle,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Le pays doit cependant parfois céder des territoires aux autres puissances : la Nouvelle-Néerlande (futurs États américains de New York et du New Jersey, perdus à la suite de la signature du traité de Westminster) et la Nouvelle-Hollande d'Australie sont intégrées à l'Empire britannique,"
+        }
+      ]
+    },
+    {
+      "id": "NLD-4",
+      "topic": "geographie",
+      "era": "1953-1997",
+      "title": "Un quart du pays sous la mer",
+      "short": "Environ un quart du territoire européen des Pays-Bas se trouve sous le niveau de la mer, à plus de 6,76 m au-dessous par endroits : un record en Europe.",
+      "long": "Dans la nuit du 31 janvier au 1er février 1953, une tempête combinée aux grandes marées fait céder les digues de Zélande et des provinces voisines. Pour que cela ne se reproduise plus, le pays construit le plan Delta, un immense réseau de barrages, d'écluses et de digues achevé en 1997 après 47 ans de travaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Un quart du territoire néerlandais européen se situe sous le niveau de la mer et atteint même plus de 6,76 mètres en négatif, record en Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Dans la nuit du 31 janvier au 1er février 1953, de nombreuses digues des provinces de Zélande, de Hollande-Méridionale et du Brabant-Septentrional ne résistent pas à la combinaison des grandes marées et d'une tempête venant du Nord-Ouest."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Pour éviter que de pareilles catastrophes se reproduisent, un ambitieux projet est imaginé et mis en œuvre : le plan Delta, construit entre 1950 et 1997, composé de barrages, d'écluses, de digues, et de barrières pour contrer les montées subites d'eau dans le Sud-Ouest des Pays-Bas, pour protéger de grandes zones de terre contre la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La construction du plan Delta, système de protection des terres contre la mer, l'une des Sept Merveilles du monde moderne, est achevée en 1997, après 47 ans de travaux."
+        }
+      ]
+    },
+    {
+      "id": "NLD-5",
+      "topic": "economie",
+      "title": "Le pays des tulipes",
+      "short": "Les tulipes, et les fleurs en général, sont un symbole des Pays-Bas, premier exportateur de fleurs au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "Les tulipes, mais plus généralement les fleurs, restent un symbole des Pays-Bas, qui en sont le premier exportateur au monde."
+        }
+      ]
+    },
+    {
+      "id": "NLD-6",
+      "topic": "drapeau",
+      "title": "Quand le rouge était orange",
+      "short": "Selon la tradition, le drapeau descend du « drapeau du prince » de Guillaume d'Orange, meneur de la révolution et de la guerre de Quatre-Vingts Ans : orange, blanc, bleu. L'orange aurait peu à peu cédé la place au rouge.",
+      "long": "L'histoire est plus compliquée qu'il n'y paraît : des historiens néerlandais ont montré qu'un drapeau rouge-blanc-bleu existait peut-être dès 1409-1410. La marine de guerre, elle, a arboré l'orange de 1572 à 1653 en l'honneur de la maison d'Orange.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Pays-Bas",
+          "quote": "Selon la tradition, c'est à Guillaume d'Orange, meneur de la révolution et de la guerre de Quatre-Vingts Ans, que l'on doit le précurseur du drapeau tricolore des Pays-Bas : le Drapeau du prince avait les couleurs orange, blanc, bleu. L'orange aurait été remplacé par le rouge au fil du temps."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Pays-Bas",
+          "quote": "Certains historiens néerlandais comme De Jong et Muller (voir notes) ont cependant démontré l'existence du drapeau rouge-blanc-bleu, peut-être dès en 1409-1410 sous le règne de Guillaume IV de Hainaut."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Pays-Bas",
+          "quote": "L'usage du Drapeau du prince (Prinsenvlag, orange-blanc-bleu) s'est substitué au drapeau néerlandais rouge-blanc-bleu dans la marine militaire en l'honneur de la Maison d'Orange de 1572 à 1653,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NLD-C1",
+      "topic": "histoire",
+      "title": "La digue sur l'Amstel",
+      "short": "Amsterdam vient d'Amstelredamme, attesté sous la forme Amestelledamme en 1275 : la digue (dam) sur la rivière Amstel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amsterdam",
+          "quote": "Le nom de la commune vient de l'ancien nom néerlandais Amstelredamme, qui évoque les origines de la ville : la digue (dam) sur l'Amstel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amsterdam",
+          "quote": "Le nom de la ville qui a connu une croissance urbaine assurée dès le XIIe siècle s'est écrit de différentes façons par le passé : Aemstelredam, Aemstelredamme, Amestelledamme (1275), Amestelredamme (1285), Amstelredam, et Amstelredamme."
+        }
+      ]
+    },
+    {
+      "id": "NLD-C2",
+      "topic": "politique",
+      "title": "Capitale sans gouvernement",
+      "short": "Amsterdam est la capitale inscrite dans la Constitution, mais le gouvernement, le Parlement et les hautes juridictions siègent à La Haye, sur la côte. La Haye est aussi devenue la « capitale mondiale du droit ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La ville d'Amsterdam est la capitale du royaume (plus précisément la capitale constitutionnelle), bien que les institutions gouvernementales — exécutives, législatives et judiciaires — siègent à La Haye, sur la côte de la mer du Nord."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas",
+          "quote": "La Haye est devenue au cours du XXe siècle la capitale mondiale du droit."
+        }
+      ]
+    },
+    {
+      "id": "NLD-C3",
+      "topic": "geographie",
+      "era": "XVIIe siècle",
+      "title": "Une ville posée sur des pieux",
+      "short": "Presque toute la ville, canaux compris, est sous le niveau de la mer : ses bâtiments reposent sur des pilotis, la gare centrale à elle seule sur 8 687. Sa ceinture de canaux du XVIIe siècle est inscrite au patrimoine mondial depuis 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amsterdam",
+          "quote": "Comme presque toute la ville, canaux compris, se trouve sous le niveau de la mer, les bâtiments anciens ou modernes sont posés sur pilotis qui s'appuient sur des couches de sable plus ou moins profondes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amsterdam",
+          "quote": "Jusqu'au XIXe siècle, la ville s'ouvre sur son port et sur le Zuiderzee, dont elle est séparée par la construction de la grande gare centrale posée sur 8 687 pilotis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amsterdam",
+          "quote": "Le 14 juin 2010, les canaux d'Amsterdam obtiennent le label de patrimoine mondial sous l'intitulé « Zone des canaux concentriques du XVIIe siècle à l'intérieur du Singelgracht »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays plat au bord de la mer du Nord, entre la Belgique au sud et l'Allemagne à l'est. Repères : le grand delta du Rhin et de la Meuse au sud-ouest, et le lac de l'IJsselmeer, ancienne mer fermée par une digue, au centre.",
+    "flag": "Rouge, blanc, bleu en bandes horizontales, le rouge en haut. Le Luxembourg a la même disposition, mais avec un bleu ciel plus clair et un drapeau plus allongé. La France a les mêmes couleurs en bandes verticales.",
+    "capital": "Amsterdam, c'est le dam, la digue, sur l'Amstel. Mais attention : le gouvernement siège à La Haye."
+  }
+}

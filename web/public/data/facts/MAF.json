@@ -1,0 +1,92 @@
+{
+  "id": "MAF",
+  "facts": [
+    {
+      "id": "MAF-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Le jour de la Saint-Martin",
+      "short": "Selon la tradition, Christophe Colomb aperçoit l'île sans y débarquer le 11 novembre 1493, jour de la fête de saint Martin de Tours, d'où son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "Selon la tradition, l'île doit son nom à Christophe Colomb, qui l'aurait aperçue sans y débarquer le 11 novembre 1493, jour de la fête de saint Martin de Tours, lors de son deuxième voyage"
+        }
+      ]
+    },
+    {
+      "id": "MAF-2",
+      "topic": "histoire",
+      "era": "1648",
+      "title": "Une île partagée sans frontière tracée",
+      "short": "En 1648, le traité de Concordia partage l'île entre la France et les Provinces-Unies, sans en fixer le tracé précis. Aujourd'hui encore, on passe de la partie française à la partie néerlandaise sans contrôle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "Néerlandais et Français s'y installent dans la première moitié du XVIIe siècle, et le traité de Concordia de 1648 partage l'île entre la France et les Provinces-Unies ; la partie française est ensuite occupée à plusieurs reprises par les Britanniques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "Elle ne comporte aucun contrôle douanier ni migratoire physique, la libre circulation des personnes et des biens étant un usage coutumier né de l'application du traité de Concordia de 1648, qui avait posé le principe du partage de l'île sans en fixer le tracé précis."
+        }
+      ]
+    },
+    {
+      "id": "MAF-3",
+      "topic": "histoire",
+      "era": "2007",
+      "title": "Une collectivité depuis 2007",
+      "short": "Ancienne commune de la Guadeloupe, Saint-Martin est devenue une collectivité d'outre-mer le 15 juillet 2007.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "Ancienne commune de la Guadeloupe, elle est devenue une collectivité d'outre-mer le 15 juillet 2007."
+        }
+      ]
+    },
+    {
+      "id": "MAF-4",
+      "topic": "geographie",
+      "title": "La plus petite île partagée entre deux États",
+      "short": "Avec environ 87 km², dont 53 km² côté français, Saint-Martin est la plus petite île habitée du monde partagée entre deux États souverains. Le sud forme Sint Maarten, dans le royaume des Pays-Bas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "La partie sud de l'île forme Sint Maarten, l'un des quatre États du royaume des Pays-Bas ; avec environ 87 km2, dont 53 km2 pour la partie française, Saint-Martin est la plus petite île habitée partagée entre deux États souverains."
+        }
+      ]
+    },
+    {
+      "id": "MAF-5",
+      "topic": "histoire",
+      "era": "2017",
+      "title": "Irma, septembre 2017",
+      "short": "Le 6 septembre 2017, l'ouragan Irma frappe l'île de plein fouet : onze morts côté français et presque tous les bâtiments endommagés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "quote": "Le 6 septembre 2017, l'ouragan Irma frappe directement l'île, fait onze morts dans la partie française et endommage la quasi-totalité du bâti."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MAF-C1",
+      "topic": "histoire",
+      "title": "La ville des marigots",
+      "short": "Marigot doit son nom aux nombreux marécages, les « marigots », qui occupaient autrefois l'emplacement du bourg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Marigot_(Saint-Martin)",
+          "quote": "Marigot doit son nom aux nombreux marécages, appelés des « marigots », que l'on trouvait autrefois à l'emplacement du bourg."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié nord d'une petite île au nord des Petites Antilles, au sud d'Anguilla ; la moitié sud, c'est Sint Maarten, néerlandaise.",
+    "flag": "Officiellement, Saint-Martin utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Marigot, la ville des marécages : un « marigot », c'est un bras d'eau stagnante."
+  }
+}

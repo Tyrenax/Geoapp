@@ -1,0 +1,195 @@
+{
+  "id": "SWE",
+  "facts": [
+    {
+      "id": "SWE-1",
+      "topic": "histoire",
+      "era": "98",
+      "title": "Les Suiones de Tacite",
+      "short": "La toute première mention écrite du peuple suédois remonte à l'an 98 : Tacite parle des Suiones. En suédois, le pays s'appelle Sverige.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "La toute première mention écrite",
+          "to": "par Tacite en l'an 98."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "La Suède (en suédois : Sverige",
+          "to": "est un pays d'Europe du Nord et de Scandinavie."
+        }
+      ]
+    },
+    {
+      "id": "SWE-2",
+      "topic": "histoire",
+      "era": "1397-XVIe siècle",
+      "title": "Gustave Vasa, père de la nation",
+      "short": "En 1397, la Suède, la Norvège et le Danemark s'unissent sous un même monarque : c'est l'union de Kalmar. Au XVIe siècle, le roi Gustave Vasa adopte la Réforme protestante, consolide l'État et crée le Riksdag ; on le considère souvent comme le père de la nation suédoise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "En 1397, les trois États de Norvège",
+          "to": "dans le cadre de l’union de Kalmar."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Le règne de Gustave Vasa se caractérise",
+          "to": "le père de la nation suédoise."
+        }
+      ]
+    },
+    {
+      "id": "SWE-3",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Une grande puissance européenne",
+      "short": "Au XVIIe siècle, la Suède devient une grande puissance européenne, notamment grâce à son engagement dans la guerre de Trente Ans, voulu par le roi Gustave II Adolphe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Au cours du XVIIe siècle, la Suède s’affirme",
+          "to": "à l’initiative du roi Gustave II Adolphe."
+        }
+      ]
+    },
+    {
+      "id": "SWE-4",
+      "topic": "histoire",
+      "era": "1810-1818",
+      "title": "Un maréchal de Napoléon sur le trône",
+      "short": "Le maréchal français Jean-Baptiste Bernadotte est élu héritier du trône de Suède, puis devient roi sous le nom de Charles XIV Jean. Ses troupes combattent la France napoléonienne en 1813 et 1814.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Le maréchal français Jean-Baptiste Bernadotte",
+          "to": "sous le nom de Charles XIV."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Les troupes suédoises dirigées par Bernadotte",
+          "to": "et le Danemark."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "from": "Toutefois, depuis 1810, c'est le prince héritier de Suède",
+          "to": "sous le titre de Charles XIV Jean."
+        }
+      ]
+    },
+    {
+      "id": "SWE-5",
+      "topic": "histoire",
+      "era": "1814",
+      "title": "Pas de guerre depuis 1814",
+      "short": "La dernière guerre de la Suède remonte à 1814, contre la Norvège. Le pays choisit ensuite le non-alignement et la neutralité, y compris pendant les deux guerres mondiales, jusqu'à son entrée dans l'OTAN, le 7 mars 2024.",
+      "long": "Seule exception notable : le soutien logistique et militaire apporté à la Finlande face à la tentative d'invasion soviétique de 1939-1940. Après l'invasion de l'Ukraine par la Russie en 2022, la Suède dépose sa demande d'adhésion à l'OTAN, en même temps que la Finlande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "L’histoire contemporaine de la Suède est remarquablement pacifique",
+          "to": "à domination suédoise est établie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Après sa dernière guerre en 1814",
+          "to": "de neutralité en temps de guerre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "La Suède parvient à conserver sa neutralité",
+          "to": "de 1939-1940."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "En 2022, après l'invasion de l'Ukraine par la Russie, la Suède modifie radicalement",
+          "to": "en même temps que la Finlande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Deux ans plus tard le 7 mars 2024 la Suède rejoint l'OTAN",
+          "to": "32e pays membre de l'OTAN."
+        }
+      ]
+    },
+    {
+      "id": "SWE-6",
+      "topic": "drapeau",
+      "era": "XIVe-XVIe siècle",
+      "title": "Les trois couronnes d'or sur fond bleu",
+      "short": "Le bleu et le jaune du drapeau sont les couleurs des armes de la Suède au XIVe siècle : trois couronnes d'or sur fond bleu. La forme en croix date du XVIe siècle, sous Gustave Ier.",
+      "long": "Le bleu et le jaune représentent la Suède au moins depuis les armoiries du roi Magnus III, en 1275.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Suède",
+          "from": "Sur le drapeau de la Suède, se présentent les couleurs",
+          "to": "à la forme de la croix scandinave."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Suède",
+          "from": "C'est au XVIe siècle que la forme en croix",
+          "to": "pendant le règne de Gustave Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Suède",
+          "from": "Les couleurs bleu et jaune sont utilisées",
+          "to": "Magnus III, en 1275."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SWE-C1",
+      "topic": "geographie",
+      "title": "« L'île des pieux », sur quatorze îles",
+      "short": "Stockholm signifie « l'île des pieux » ou « des rondins ». La ville s'étend sur quatorze îles, là où le lac Mälar rejoint la Baltique, d'où son surnom de « Venise du Nord » ; au large, son archipel compte environ 24 000 îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Stockholm",
+          "from": "Ce toponyme, qui se rencontre une vingtaine de fois",
+          "to": "des pieux ou des poteaux (stock) »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Stockholm",
+          "from": "Située au bord de la mer Baltique",
+          "to": "son surnom de « Venise du Nord »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Stockholm",
+          "from": "La ville elle-même s'étend sur quatorze îles",
+          "to": "l'archipel de Stockholm,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Stockholm",
+          "from": "L'important archipel, constitué d'environ 24 000 îles",
+          "to": "environ 24 000 îles,"
+        }
+      ]
+    },
+    {
+      "id": "SWE-C2",
+      "topic": "culture",
+      "era": "1901",
+      "title": "La ville des prix Nobel",
+      "short": "La première cérémonie de remise des prix Nobel, créés par le chimiste suédois Alfred Nobel, a lieu à Stockholm en 1901.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "La première cérémonie de remise des prix Nobel",
+          "to": "à Stockholm en 1901."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suède",
+          "from": "Chimie : Alfred Nobel (qui créa le prix Nobel)",
+          "to": "(qui créa le prix Nobel)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le grand pays du milieu de la Scandinavie, entre la Norvège à l'ouest et la mer Baltique à l'est. La Finlande est au nord-est, et au sud un pont la relie au Danemark.",
+    "flag": "Une croix scandinave jaune sur fond bleu. L'Ukraine a les mêmes couleurs, mais en deux bandes horizontales ; la Finlande a une croix bleue sur fond blanc.",
+    "capital": "Stockholm, « l'île des pieux », bâtie sur quatorze îles : la Venise du Nord."
+  }
+}

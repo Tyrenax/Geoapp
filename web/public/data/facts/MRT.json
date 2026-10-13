@@ -1,0 +1,153 @@
+{
+  "id": "MRT",
+  "facts": [
+    {
+      "id": "MRT-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Le pays des Maures",
+      "short": "Le nom de la Mauritanie vient de la Maurétanie antique, le territoire des « Maures », un peuple berbère. Le mot a été repris par les Français et a fini par s'imposer face aux autres noms du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Le nom du pays lui vient de la Maurétanie, désignant le territoire des « Maures », peuple berbère, dans l'Antiquité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Ce terme de Mauritanie, utilisé par les Français, supplante progressivement les autres dénominations utilisées pour désigner le pays."
+        }
+      ]
+    },
+    {
+      "id": "MRT-2",
+      "topic": "histoire",
+      "era": "XIe siècle",
+      "title": "Les Almoravides, partis du désert",
+      "short": "Au XIe siècle, des tribus berbères sanhadja nomadisant dans l'actuelle Mauritanie forment le mouvement religieux des Almoravides. En peu de temps, ils s'emparent de villes comme Aoudaghost et Sijilmassa.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Le mouvement religieux des Almoravides, de rite sunnite malékite, formé par des tribus Sanhadja (originaires de l'Adrar, nomadisant entre le nord de l'actuel Sénégal, l'actuelle Mauritanie"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "En peu de temps, les Almoravides s'emparent d'Aoudaghost, d'Awlil et de Sijilmassa."
+        }
+      ]
+    },
+    {
+      "id": "MRT-3",
+      "topic": "culture",
+      "era": "XIVe siècle",
+      "title": "Les bibliothèques du désert",
+      "short": "Au XIVe siècle, des cités caravanières comme Oualata, Chinguetti et Ouadane se développent. Leurs bibliothèques conservent encore des milliers de manuscrits anciens.",
+      "long": "Chinguetti était si réputée que les géographes arabes appelaient tout le pays Bilad Chinguit, les « provinces de Chinguetti ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Au XIVe siècle, plusieurs villes comme Oualata, Chinguetti, Ouadane se développent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Très ancienne terre d'islam, comme en témoignent les milliers de manuscrits conservés dans les bibliothèques de Chinguetti, Ouadane ou Oualata"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Il était plus généralement connu des géographes arabes sous le nom de Bilad Chinguit, ou provinces de Chenguit (de la cité de Chinguetti)."
+        }
+      ]
+    },
+    {
+      "id": "MRT-4",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "Indépendante en 1960",
+      "short": "Colonie française à partir de 1903, la Mauritanie devient indépendante le 28 novembre 1960. Mokhtar Ould Daddah en est le premier président.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Le territoire devient une colonie française en 1903 et obtient son indépendance en 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "L'indépendance est proclamée le 28 novembre 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "En 1961, la nouvelle Constitution instaure un régime de type présidentiel et Moktar Ould Daddah est élu premier président de la Mauritanie."
+        }
+      ]
+    },
+    {
+      "id": "MRT-5",
+      "topic": "economie",
+      "era": "1963",
+      "title": "Le train du minerai de fer",
+      "short": "Depuis 1963, une voie ferrée de 700 km traverse le désert pour relier les mines de fer de Zouerate au port de Nouadhibou, sur l'Atlantique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "La ligne ferroviaire du chemin de fer de Mauritanie, ouverte en 1963 et longue de 700 km, exploitée par la SNIM, relie le site minier de Zouerate au port de Nouadhibou."
+        }
+      ]
+    },
+    {
+      "id": "MRT-6",
+      "topic": "drapeau",
+      "era": "2017",
+      "title": "Deux bandes rouges pour les martyrs",
+      "short": "Le drapeau montre un croissant et une étoile d'or sur fond vert, symboles de l'islam. En 2017, un référendum y ajoute deux bandes rouges, en mémoire du sang versé par les résistants à la colonisation française.",
+      "long": "L'or représenterait l'immensité des dunes du Sahara et les ressources minières du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Mauritanie",
+          "quote": "Il présente, sur un fond vert, une demi-lune dorée surmontée d'une étoile de même couleur à cinq pointes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Mauritanie",
+          "quote": "Deux bandes rouges sont ajoutées, une à la base et une autre au sommet du drapeau depuis le référendum de 2017 organisé par le président Mohamed Ould Abdel Aziz, qui totalise 85,61 % des suffrages en faveur de cette modification."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "ainsi que sur une modification du drapeau national qui portera désormais deux bandes rouges symbolisant le sang versé par les « martyrs de la résistance » durant la période coloniale française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Mauritanie",
+          "quote": "Le vert, ainsi que le croissant et l'étoile, symboliserait l'islam, principale religion du pays, tandis que la couleur or représenterait l'immensité dunaire du Sahara et les ressources minières du pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MRT-C1",
+      "topic": "histoire",
+      "title": "Une capitale bâtie de toutes pièces",
+      "short": "Avant l'indépendance, la Mauritanie était administrée depuis Saint-Louis, une ville… du Sénégal. Nouakchott est créée de toutes pièces pour devenir sa capitale ; elle ne comptait que 6 000 habitants en 1965.",
+      "long": "Aujourd'hui, la ville rassemble environ un tiers des Mauritaniens, dont beaucoup d'anciens nomades. En 1923, l'écrivain Joseph Kessel y voyait encore « le pire endroit de la côte », tenu par quinze tirailleurs et un sergent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouakchott",
+          "quote": "Nouakchott (en arabe : نُوَاكْشُوط) est la capitale de la Mauritanie depuis 1957 (auparavant la capitale était Saint-Louis)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "quote": "la France établit en 1659 celui de Saint-Louis qui deviendra la première capitale du Sénégal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mauritanie",
+          "quote": "Nouakchott, capitale créée de toutes pièces en 1958 et qui comptait 6 000 habitants en 1965, est devenue une agglomération importante qui accueille aujourd'hui un tiers des Mauritaniens, dont de très nombreux anciens nomades"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouakchott",
+          "quote": "Dans un récit de voyage intitulé Vent de sable, écrit en 1923, Joseph Kessel évoque « le pire endroit de la côte » tenu par « quinze tirailleurs sénégalais et un sergent corse »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand pays saharien, sur la côte atlantique : le Sahara occidental et l'Algérie au nord, le Mali à l'est et au sud-est, le Sénégal au sud, de l'autre côté du fleuve Sénégal.",
+    "flag": "Vert avec un croissant et une étoile dorés, entre deux fines bandes rouges en haut et en bas. Le Pakistan a un croissant blanc sur vert, avec une bande blanche côté mât.",
+    "capital": "Nouakchott, posée au bord de l'Atlantique entre océan et dunes : la ville neuve du désert."
+  }
+}

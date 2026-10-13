@@ -1,0 +1,77 @@
+{
+  "id": "PCN",
+  "facts": [
+    {
+      "id": "PCN-1", "topic": "histoire", "era": "1767",
+      "title": "Le nom du premier qui l'a vue",
+      "short": "Des Polynésiens ont vécu sur Pitcairn jusqu'à la fin du XVe siècle. L'île est redécouverte le 2 juillet 1767 par l'expédition de Philip Carteret ; elle porte le nom de Robert Pitcairn, le premier membre de l'équipage à l'avoir aperçue.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "Les archéologues pensent que des Polynésiens vécurent à Pitcairn", "to": "le premier membre de l'équipage de cette expédition à apercevoir l'île."}
+      ]
+    },
+    {
+      "id": "PCN-2", "topic": "histoire", "era": "1790",
+      "title": "Le refuge des mutins du Bounty",
+      "short": "Après la célèbre mutinerie du Bounty, Fletcher Christian et ses hommes, accompagnés de Tahitiens, atteignent Pitcairn le 15 janvier 1790 et brûlent leur navire. L'île était mal placée sur les cartes : les mutins pensaient qu'on ne les retrouverait jamais.",
+      "long": "L'épave du Bounty repose toujours dans Bounty Bay, le seul accès à l'île.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "L'histoire des îles Pitcairn débute véritablement en 1789", "to": "l'on n'arriverait pas à les retrouver."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "par Bounty Bay, où se trouve l'épave du HMS Bounty", "to": "où se trouve l'épave du HMS Bounty"}
+      ]
+    },
+    {
+      "id": "PCN-3", "topic": "histoire", "era": "1793-1808",
+      "title": "Le dernier mutin",
+      "short": "Neuf Européens et dix-huit Tahitiens fondent la communauté. Les tensions culminent en 1793 avec des assassinats en série : John Adams reste le seul survivant masculin européen et éduque la communauté avec la Bible du navire. Le monde ne la découvre qu'en 1808, avec le navire américain Topaz.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "Initialement composée de neuf Européens et dix-huit Tahitiens", "to": "à l'aide de la Bible trouvée sur le navire."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "Le premier contact avec le monde extérieur survient en 1808", "to": "découvre cette communauté isolée."}
+      ]
+    },
+    {
+      "id": "PCN-4", "topic": "histoire", "era": "1838",
+      "title": "Le vote des femmes dès 1838",
+      "short": "En 1838, Pitcairn adopte une constitution pionnière qui accorde le droit de vote aux femmes et rend l'école obligatoire, un fait unique pour l'époque. En 1856, 194 habitants partent s'installer sur l'île Norfolk, plus grande et plus fertile.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "En 1838, sous la protection britannique", "to": "un fait unique pour l’époque."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "En 1856, 194 habitants déménagent sur l’île Norfolk", "to": "sous financement britannique."}
+      ]
+    },
+    {
+      "id": "PCN-5", "topic": "geographie",
+      "title": "Le territoire le moins peuplé du monde",
+      "short": "Seule l'île Pitcairn est habitée, par une cinquantaine de personnes issues de neuf familles : c'est l'entité politique la moins peuplée du monde. La plupart descendent des neuf mutins du Bounty et des douze Tahitiennes qui les accompagnaient.",
+      "long": "Depuis 2016, une aire marine protégée de près de 830 000 km² entoure les îles, soit 99 % de leur zone économique exclusive.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "Bien que Henderson comprenne 86 % de la superficie des îles", "to": "qu'ils avaient emmenés avec eux."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Pitcairn", "from": "En septembre 2016, le Royaume-Uni crée une aire marine protégée", "to": "soit 99% de leur zone économique exclusive."}
+      ]
+    },
+    {
+      "id": "PCN-6", "topic": "drapeau", "era": "1984",
+      "title": "L'ancre du Bounty",
+      "short": "Approuvé en 1984, le drapeau porte un blason avec l'ancre du Bounty et une bible, symbole de l'héritage chrétien des habitants. Au sommet, une brouette transporte un plant de bois de rose : l'agriculture.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Pitcairn", "from": "fut créé par le Conseil de l'île en décembre 1980", "to": "qu'au mois d'avril 1984"},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Pitcairn", "from": "Sur le blason est représenté l'ancre du navire HMS Bounty", "to": "représentant l'agriculture."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PCN-C1", "topic": "histoire", "era": "1790",
+      "title": "Le village de John Adams",
+      "short": "Adamstown porte le nom de John Adams, l'un des mutins du Bounty. C'est le seul village de l'île, et donc sa capitale, avec une quarantaine d'habitants. Un navire de ravitaillement vient de Nouvelle-Zélande tous les trois mois.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Adamstown", "from": "Adamstown, nommée d’après le nom d'un des mutins", "to": "seule l’île principale dite île Pitcairn est habitée)."},
+        {"url": "https://fr.wikipedia.org/wiki/Adamstown", "from": "Sa population regroupe toute la population de l’île", "to": "soit environ 40 habitants."},
+        {"url": "https://fr.wikipedia.org/wiki/Adamstown", "from": "Un navire de ravitaillement vient de Nouvelle-Zélande", "to": "tous les 3 mois."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Quatre petites îles perdues au milieu du Pacifique Sud, à l'est de la Polynésie française, à mi-chemin entre Tahiti et l'île de Pâques.",
+    "flag": "Bleu avec l'Union Jack et, à droite, un blason vert et bleu portant une ancre et une bible, surmonté d'une brouette.",
+    "capital": "Adamstown, le seul village de l'île, nommé d'après le dernier mutin du Bounty."
+  }
+}

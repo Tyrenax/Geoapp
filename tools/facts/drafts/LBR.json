@@ -1,0 +1,91 @@
+{
+  "id": "LBR",
+  "facts": [
+    {
+      "id": "LBR-1", "topic": "histoire", "era": "1822",
+      "title": "Un pays fondé pour d'anciens esclaves américains",
+      "short": "En 1822, l'American Colonization Society commence à installer sur cette côte des Noirs libres et d'anciens esclaves venus des États-Unis, persuadée qu'ils auraient plus de chances d'être libres et prospères en Afrique.",
+      "long": "Jusqu'à la guerre de Sécession, en 1861, des milliers d'Afro-Américains et d'Afro-Caribéens s'y établissent.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "En 1822, l'American Colonization Society commence à coloniser", "to": "qu'aux États-Unis."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Entre 1822 et le début de la guerre de Sécession en 1861", "to": "s'y installent."}
+      ]
+    },
+    {
+      "id": "LBR-2", "topic": "histoire", "era": "1847",
+      "title": "La première république indépendante d'Afrique",
+      "short": "Le Liberia proclame son indépendance en 1847 : c'est la première nation africaine à obtenir son indépendance à l'époque contemporaine. Les États-Unis ne la reconnaissent qu'en 1862.",
+      "long": "La déclaration d'indépendance est rédigée par Hilary Teague, un colon venu des États-Unis.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Le pays déclare son indépendance en 1847", "to": "obtenu son indépendance."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Liberia", "from": "La déclaration d'indépendance du Liberia (en) (1847) est rédigée par Hilary Teague", "to": "venu des États-Unis"}
+      ]
+    },
+    {
+      "id": "LBR-3", "topic": "histoire", "era": "1847-1980",
+      "title": "Un siècle de domination des Américano-Libériens",
+      "short": "Les descendants des colons, les Américano-Libériens, forment une petite élite qui gouverne le pays pendant plus d'un siècle, au détriment des peuples autochtones, jusqu'au coup d'État de 1980.",
+      "long": "En 1931, la Société des Nations condamne même le travail forcé qu'ils imposent aux autochtones pour le compte des multinationales du caoutchouc.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Les Américano-Libériens deviennent une petite élite", "to": "tout en défavorisant les peuples indigènes."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Après la dissolution du Parti républicain en 1876", "to": "jusqu'au coup d'État de 1980."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Liberia", "from": "Le suffrage censitaire permet aux américano-libériens", "to": "durant un siècle."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "En 1931, la Société des Nations (SDN) condamne", "to": "l’industrie du caoutchouc."}
+      ]
+    },
+    {
+      "id": "LBR-4", "topic": "histoire", "era": "1989-2003",
+      "title": "Deux guerres civiles",
+      "short": "De 1989 à 1997, une guerre civile fait près de 150 000 morts, surtout des civils, et provoque l'effondrement de l'État. Le chef rebelle Charles Taylor est élu président en 1997, avant d'être renversé à son tour en 2003, à l'issue d'une seconde guerre.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Entre 1989 et 1997, la guerre civile a coûté la vie", "to": "un effondrement total de l'État."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Le 19 juillet 1997, Charles Taylor est élu président", "to": "avec 75 % des voix."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "En 1999, la deuxième guerre civile libérienne se déclenche", "to": "à la fin de la guerre en 2003."}
+      ]
+    },
+    {
+      "id": "LBR-5", "topic": "politique", "era": "2005",
+      "title": "La première présidente élue d'Afrique",
+      "short": "En novembre 2005, l'économiste Ellen Johnson Sirleaf bat l'ancien footballeur George Weah au second tour. Elle devient la première femme élue démocratiquement à la tête d'un pays africain.",
+      "long": "Elle gouverne deux mandats, jusqu'en 2018. Son successeur n'est autre que George Weah, ancien footballeur devenu l'une des personnalités libériennes les plus connues au monde.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Le 23 novembre 2005, Ellen Johnson Sirleaf sort victorieuse", "to": "contre 40,6 % pour George Weah."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Elle devient ainsi la première femme élue démocratiquement", "to": "d’un pays en Afrique."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Liberia", "from": "Parmi les vingt-deux candidats, George Weah", "to": "sont les favoris dans les sondages."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "Ellen Johnson Sirleaf leur succède, élue sur deux mandats", "to": "puis George Weah."},
+        {"url": "https://fr.wikipedia.org/wiki/Liberia", "from": "L'ancien footballeur George Weah, une des personnalités libériennes", "to": "une des personnalités libériennes les plus connues dans le monde"}
+      ]
+    },
+    {
+      "id": "LBR-6", "topic": "drapeau", "era": "1827-1847",
+      "title": "Onze bandes et une seule étoile",
+      "short": "Le drapeau imite celui des États-Unis, mais avec onze bandes : une pour chacun des onze signataires de la déclaration d'indépendance. L'étoile unique, qui a remplacé une croix, affirmait l'indépendance de la seule république libre d'Afrique.",
+      "long": "Le premier drapeau, de 1827, comptait treize bandes comme le drapeau américain et portait une croix, signe de la foi chrétienne des colons.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liberia", "from": "Les bandes furent portées de 13 à 11", "to": "qui signèrent la déclaration d'indépendance."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liberia", "from": "L’étoile remplace la croix", "to": "de la seule République libre d’Afrique."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liberia", "from": "Ils se dotent d'un drapeau en 1827", "to": "24 étoiles au canton."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liberia", "from": "Les bandes sont au nombre de 13", "to": "pour la construction du pays (rouge)."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Liberia", "from": "Il portait alors la croix au lieu d’une étoile en canton", "to": "la dévotion chrétienne des colons"}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LBR-C1", "topic": "histoire", "era": "1822",
+      "title": "La ville du président Monroe",
+      "short": "Fondée en 1822 comme refuge pour les esclaves affranchis d'Amérique du Nord, la ville s'appelait d'abord Christopolis. Elle a ensuite été rebaptisée Monrovia en l'honneur du président des États-Unis James Monroe.",
+      "long": "Aujourd'hui, Monrovia rassemble un tiers de la population du Liberia.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Monrovia", "from": "Monrovia a été fondée en 1822, sur l’île Providence", "to": "esclaves affranchis d'Amérique du Nord."},
+        {"url": "https://fr.wikipedia.org/wiki/Monrovia", "from": "Elle est appelée ainsi en l'honneur du président des États-Unis James Monroe", "to": "l'eut nommée Christopolis."},
+        {"url": "https://fr.wikipedia.org/wiki/Monrovia", "from": "Fondée en 1822, elle est située sur le cap Mesurado", "to": "soit 33,5 % de la population totale du Libéria."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique de l'Ouest, là où elle s'incurve vers l'est : la Sierra Leone au nord-ouest, la Guinée au nord, la Côte d'Ivoire à l'est.",
+    "flag": "Des bandes rouges et blanches et un carré bleu avec une étoile blanche : un « petit drapeau américain » à une seule étoile. La Malaisie a aussi des bandes rouges et blanches, mais un croissant et une étoile jaunes.",
+    "capital": "MONrovia, la ville du président MONroe : un nom américain pour un pays fondé par des Américains."
+  }
+}

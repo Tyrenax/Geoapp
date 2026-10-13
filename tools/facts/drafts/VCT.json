@@ -1,0 +1,116 @@
+{
+  "id": "VCT",
+  "facts": [
+    {
+      "id": "VCT-1",
+      "topic": "histoire",
+      "era": "1498-1719",
+      "title": "Une île qui a longtemps repoussé les Européens",
+      "short": "Christophe Colomb visite l'île dès 1498, mais la résistance des Kalinagos empêche les Européens de s'y installer durablement jusqu'en 1719.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingstown",
+          "from": "Bien que Christophe Colomb ait visité Saint-Vincent",
+          "to": "jusqu'en 1719."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines",
+          "from": "Les amérindiens Kalinago se sont vivement opposés",
+          "to": "jusqu'au XVIIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "VCT-2",
+      "topic": "histoire",
+      "era": "1783-1796",
+      "title": "La déportation des Caraïbes noirs",
+      "short": "Disputée entre Français et Britanniques, l'île devient britannique en 1783. Après l'écrasement d'une révolte en 1796, plus de 5 000 Caraïbes noirs sont déportés vers l'île de Baliceaux, puis vers Roatán, au large du Honduras.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines",
+          "from": "Saint-Vincent est ensuite l'objet d'une lutte",
+          "to": "(au large du Honduras)."
+        }
+      ]
+    },
+    {
+      "id": "VCT-3",
+      "topic": "histoire",
+      "era": "1979",
+      "title": "Indépendant en 1979",
+      "short": "Le pays devient indépendant le 27 octobre 1979, tout en restant un royaume du Commonwealth.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines",
+          "from": "Elle est un royaume du Commonwealth, indépendant depuis le 27 octobre 1979",
+          "to": "le roi Charles III."
+        }
+      ]
+    },
+    {
+      "id": "VCT-4",
+      "topic": "geographie",
+      "era": "2021",
+      "title": "La Soufrière, un volcan bien vivant",
+      "short": "Le point culminant du pays est un volcan, la Soufrière, à 1 220 mètres. Il est entré en éruption en 1979, puis de nouveau le 9 avril 2021.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines",
+          "from": "Le point culminant du pays est le volcan de la Soufrière",
+          "to": "à 1 220 mètres d'altitude."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Vincent-et-les-Grenadines",
+          "from": "Les dernières éruptions connues de son volcan",
+          "to": "du 9 avril 2021."
+        }
+      ]
+    },
+    {
+      "id": "VCT-5",
+      "topic": "drapeau",
+      "era": "1985",
+      "title": "Un V de losanges",
+      "short": "Sur le drapeau adopté en 1985, trois losanges verts forment un « V », comme Vincent. Ils figurent des diamants : le pays se veut un « joyau des Antilles ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Vincent-et-les-Grenadines",
+          "from": "L’actuel drapeau de Saint-Vincent-et-les-Grenadines a été adopté",
+          "to": "le 21 octobre 1985."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Vincent-et-les-Grenadines",
+          "from": "Trois losanges verts sont placés au milieu du drapeau",
+          "to": "aux « joyaux des Antilles\""
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VCT-C1",
+      "topic": "histoire",
+      "era": "1722-1763",
+      "title": "Fondée par des Français, nommée par des Anglais",
+      "short": "Des colons français fondent la ville en 1722. Quand l'île devient britannique, en 1763, les nouveaux maîtres donnent à ce plus grand établissement de l'île le nom de Kingstown, « la ville du roi ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingstown",
+          "from": "Trois ans plus tard, en 1722, les colons français",
+          "to": "la ville de Kingstown."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingstown",
+          "from": "En 1763, l'île de Saint-Vincent devient britannique",
+          "to": "le nom de « Kingstown »"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Saint-Vincent et sa traînée d'îlots, les Grenadines, qui descendent vers la Grenade, au sud de Sainte-Lucie dans les petites Antilles.",
+    "flag": "Bleu, jaune (large), vert en bandes verticales, avec trois losanges verts en V au centre. Le Gabon a vert-jaune-bleu, mais à l'horizontale et sans losanges.",
+    "capital": "Kingstown, la ville du roi, comme Kingston en Jamaïque, avec un « s » en plus : « Kings-town » pour l'île de Saint-Vincent."
+  }
+}

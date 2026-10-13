@@ -1,0 +1,137 @@
+{
+  "id": "GEO",
+  "facts": [
+    {
+      "id": "GEO-1",
+      "topic": "histoire",
+      "title": "Rien à voir avec saint Georges",
+      "short": "Contrairement à une idée répandue, « Géorgie » ne vient pas de saint Georges, le protecteur du pays. Le nom dérive vraisemblablement de Gorj, le nom persan des Géorgiens. Eux-mêmes appellent leur pays Sakartvelo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "La dénomination française du pays, Géorgie, n'est pas dérivée de saint Georges — saint protecteur du pays — comme cela est parfois avancé, ni non plus dérivée du grec γεωργία (geōrgía), signifiant « agriculture » comme Jean Chardin l'avait affirmé dans le récit de son voyage au Caucase. Le nom est vraisemblablement dérivé de Gorj(i)], la dénomination persane des Géorgiens, qui est également la racine des mots turc Gürcü et russe Gruzin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "Les Géorgiens nomment leur terre, la Géorgie, Sakartvelo, se nomment eux-mêmes Kartvelebi (ქართველები) et appellent leur langue, le géorgien, kartuli (ქართული)."
+        }
+      ]
+    },
+    {
+      "id": "GEO-2",
+      "topic": "histoire",
+      "era": "IVe siècle",
+      "title": "L'un des premiers pays chrétiens",
+      "short": "Au début du IVe siècle, le roi Mirian III d'Ibérie se convertit au christianisme : la Géorgie est l'une des premières nations à en faire sa religion officielle. Lors de la séparation des Églises d'Orient et d'Occident, elle reste orthodoxe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "La Géorgie est l'une des premières nations à avoir adopté le christianisme comme religion officielle, au début du IVe siècle ; lors de la séparation des Églises d'Orient et d'Occident, elle choisit de demeurer orthodoxe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "À l'époque, le roi Mirian III d'Ibérie se convertit au christianisme et abandonne les divinités païennes."
+        }
+      ]
+    },
+    {
+      "id": "GEO-3",
+      "topic": "histoire",
+      "era": "XIIe siècle",
+      "title": "L'âge d'or de la reine Tamar",
+      "short": "Née de la réunion des royaumes antiques de Colchide et d'Ibérie, la Géorgie connaît son âge d'or au XIIe siècle, sous le règne de Tamar Ire. Elle affronte ensuite tour à tour Byzantins, Perses, Mongols et Ottomans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "L'histoire de la Géorgie remonte aux royaumes antiques de Colchide et d'Ibérie, qui furent ensuite unifiés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "Elle connaît son âge d'or au XIIe siècle, sous le règne de Tamar Ire. Confrontée tour à tour aux Romains devenus Byzantins, aux Perses, aux Mongols et aux Ottomans,"
+        }
+      ]
+    },
+    {
+      "id": "GEO-4",
+      "topic": "histoire",
+      "era": "1800-1991",
+      "title": "Russe, soviétique, puis indépendante",
+      "short": "En 1800, la Russie annexe le royaume de Kartl-Kakhétie. Indépendante de 1918 à 1921, la Géorgie est ensuite annexée par la Russie soviétique, jusqu'à la dislocation de l'URSS.",
+      "long": "L'un de ses enfants a dirigé l'Union soviétique : Staline, né Joseph Djougachvili à Gori, en Géorgie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "à sa mort, en 1800, la Russie annexe le Royaume de Kartl-Kakhétie, qui devient une simple province de l'empire d'Alexandre Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "mais retrouve son indépendance de 1918 à 1921. Elle est ensuite annexée par la Russie soviétique en tant que république socialiste soviétique de Géorgie au sein de l'Union soviétique.\nÀ la faveur de la dislocation de l'URSS,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "En 1927, Staline arrive à la tête de l'Union soviétique après avoir procédé à des éliminations politiques. À partir de cette époque, la destinée de la Géorgie change. En effet, le dictateur soviétique était né sous le nom de Joseph Djougachvili à Gori, en Géorgie"
+        }
+      ]
+    },
+    {
+      "id": "GEO-5",
+      "topic": "geographie",
+      "title": "Le faisan de Colchide",
+      "short": "L'ouest de la Géorgie correspond à l'antique Colchide. C'est là qu'a été découvert le célèbre faisan de Colchide, qui en tire son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "la Colchide occidentale, partiellement hellénisée est sous influence pontique tandis que l'Ibérie orientale est sous influence parthe (Arsacides)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "quote": "Par ailleurs, le célèbre faisan de Colchide a été nommé en raison de sa découverte dans l'ouest du pays."
+        }
+      ]
+    },
+    {
+      "id": "GEO-6",
+      "topic": "drapeau",
+      "era": "2004",
+      "title": "Le drapeau aux cinq croix",
+      "short": "Le « drapeau aux cinq croix » aurait pour ancêtre, selon beaucoup, la bannière adoptée au Ve siècle par le roi Vakhtang Ier pour le royaume d'Ibérie : une grande croix de saint Georges et quatre petites croix rouges. Il est réadopté le 14 janvier 2004, après la révolution des Roses.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "quote": "D'abord utilisé comme symbole du royaume d'Ibérie par le roi Vakhtang Ier Gorgassali au Ve siècle, il fut réadopté le 14 janvier 2004 par le nouveau gouvernement géorgien issu de la révolution des Roses."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "quote": "Ce drapeau, communément appelé « drapeau aux cinq croix » (en géorgien : ხუთჯვრიანი დროშა), fut précédé par plusieurs autres drapeaux, le plus ancien datant du Moyen Âge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "quote": "Composé d'une grande croix de saint Georges et de quatre autres petites croix rouges, il est considéré par beaucoup comme l'ancêtre de l'actuel drapeau aux cinq croix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GEO-C1",
+      "topic": "histoire",
+      "title": "La ville des sources chaudes",
+      "short": "Tbilissi vient de l'ancien géorgien Tp'ilisi, « (source) chaude » : une source d'eau chaude riche en soufre jaillit près de la place qui porte le nom du fondateur de la ville, le roi Vakhtang Gorgasali. Jusqu'en 1936, on l'appelait Tiflis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tbilissi",
+          "quote": "Le nom dérive de l'ancien géorgien თბილისი Tp'ilisi signifiant (source) chaud(e) — effectivement il y a une source d'eau chaude, riche en soufre dans une zone adjacente à l'actuelle place portant le nom du fondateur de la ville, le roi Vakhtang Gorgasali"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tbilissi",
+          "quote": "Tbilissi (en géorgien თბილისი, T’bilisi, /tʰbi.li.si/), appelée Tiflis jusqu'au 17 août 1936,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Dans le Caucase, au bord de l'est de la mer Noire : le Grand Caucase et la Russie au nord, la Turquie et l'Arménie au sud, l'Azerbaïdjan au sud-est.",
+    "flag": "Fond blanc, une grande croix rouge et quatre petites croix rouges dans les coins. L'Angleterre a la même grande croix rouge, mais sans les petites croix.",
+    "capital": "Tbilissi, « la (source) chaude », célèbre pour ses bains de soufre."
+  }
+}

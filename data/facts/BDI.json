@@ -1,0 +1,198 @@
+{
+  "id": "BDI",
+  "facts": [
+    {
+      "id": "BDI-1",
+      "topic": "histoire",
+      "era": "1796-1850",
+      "title": "Un royaume doublé par Ntare IV",
+      "short": "Le royaume du Burundi, fondé probablement au XVIIe siècle, connaît sa plus grande expansion sous Ntare IV : de 1796 à 1850, ce roi double sa superficie.",
+      "long": "Le roi, le mwami, règne sur une aristocratie princière, les ganwa, qui détient la majorité des terres et prélève un tribut sur les récoltes et les troupeaux des paysans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Le Royaume du Burundi, fondé probablement au XVIIe siècle, est devenu nominalement une composante de l'Afrique orientale allemande en 1890."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Il a connu sa plus grande expansion sous le règne de Ntare IV, qui a dirigé le pays de 1796 à 1850 et a doublé sa superficie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Le roi, (mwami), est à la tête d'une aristocratie princière (ganwa) détenant la majorité des terres, et prélève un tribut sur les récoltes et troupeaux des fermiers qui les exploitent."
+        }
+      ]
+    },
+    {
+      "id": "BDI-2",
+      "topic": "histoire",
+      "era": "1890-1962",
+      "title": "Allemand, puis belge",
+      "short": "Le royaume entre dans l'Afrique orientale allemande en 1890. Après la Première Guerre mondiale, il passe à la Belgique, qui l'administre avec le Rwanda sous le nom de Ruanda-Urundi.",
+      "long": "La Belgique gouverne de manière indirecte, en s'appuyant sur l'aristocratie tutsie. Après la Seconde Guerre mondiale, le Ruanda-Urundi devient un territoire sous tutelle des Nations unies, toujours administré par la Belgique, jusqu'à l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Le Royaume du Burundi, fondé probablement au XVIIe siècle, est devenu nominalement une composante de l'Afrique orientale allemande en 1890."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Après la Première Guerre mondiale, il passe sous la domination de l'Empire colonial belge, au sein de la province du Ruanda-Urundi, elle-même intégrée au Congo belge en 1925."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "La Belgique administre le territoire de manière indirecte, en s'appuyant sur l'aristocratie tutsi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "Après la Seconde Guerre mondiale, le Ruanda-Urundi devient un territoire sous tutelle de l'Organisation des Nations unies sous autorité administrative belge (1923-1962)."
+        }
+      ]
+    },
+    {
+      "id": "BDI-3",
+      "topic": "histoire",
+      "era": "1962-1966",
+      "title": "Quatre ans de royauté indépendante",
+      "short": "Le Burundi devient indépendant le 1er juillet 1962 sous la forme d'une monarchie constitutionnelle, avec le roi Mwambutsa IV. Un coup d'État renverse la monarchie dès 1966.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Burundi",
+          "quote": "L'indépendance du pays est proclamée le 1er juillet 1962, date alors choisie pour célébrer la fête nationale, et le roi Mwambutsa IV (1911-1977) établit un régime de monarchie constitutionnelle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Après l'indépendance du pays en 1962, la monarchie est renversée par un coup d'État en 1966 et un gouvernement républicain est établi."
+        }
+      ]
+    },
+    {
+      "id": "BDI-4",
+      "topic": "histoire",
+      "era": "1972-2005",
+      "title": "Des décennies de violences",
+      "short": "En 1972, une insurrection hutue est réprimée dans le sang, avec des dizaines de milliers de victimes. En 1993, l'assassinat de Melchior Ndadaye, premier président hutu élu, déclenche des massacres de Tutsis et douze ans de guerre civile.",
+      "long": "Ndadaye avait été élu en juin 1993 lors de la première présidentielle multipartite de l'histoire du pays. Il est tué en octobre, après trois mois seulement au pouvoir. Une nouvelle constitution est promulguée en 2005.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "En 1972, l'insurrection des Hutus contre le régime dictatorial du président Michel Micombero (d’origine tutsi) est durement réprimée, les massacres atteignent plusieurs dizaines de milliers de victimes chez les Hutus (estimation : 100 000)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "En juin 1993, la première élection présidentielle multipartite dans l'histoire du pays amène au pouvoir Melchior Ndadaye, le premier président Hutu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Son assassinat en octobre 1993 après seulement trois mois au pouvoir provoque un génocide des Tutsi ainsi qu'une guerre civile qui a duré douze ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Cette décision est contraire à la constitution du Burundi, promulguée en mars 2005."
+        }
+      ]
+    },
+    {
+      "id": "BDI-5",
+      "topic": "culture",
+      "title": "Les tambourinaires",
+      "short": "Le tambour est au cœur de la culture burundaise. Autrefois, on pensait que ses messages ne pouvaient être compris que par le roi, qui les traduisait en lois.",
+      "long": "Les tambourinaires du Burundi, dont le célèbre ensemble des Royal-Tambours qui a joué plus de quarante ans à travers le monde, ont une réputation internationale. Autour de Gitega se trouvent plusieurs sanctuaires des tambours sacrés Karyenda.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Le tambour est une partie importante de l'héritage culturel burundais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burundi",
+          "quote": "On pensait que les messages du tambour ne pouvaient être compris que par les dirigeants (mwami) qui les traduisaient en lois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Le Royal-Tambours du Burundi, qui s'est produit plus de quarante ans à travers le monde entier, est connu pour ses tambours traditionnels comme les amashāko, les ibishikiso, l'inkiránya et kirotsa, le petit tambour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "La réputation des tambourinaires a dépassé les limites du Burundi pour devenir internationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gitega",
+          "quote": "On y trouve le Musée national de Gitega, qui est le musée national du pays, et dans les environs, plusieurs sanctuaires de tambours Karyenda et l'ibwami (cour de justice royale)."
+        }
+      ]
+    },
+    {
+      "id": "BDI-6",
+      "topic": "geographie",
+      "title": "Une pyramide sur une source du Nil",
+      "short": "À Rutovu, à plus de 2 000 m d'altitude, une pyramide marque la source la plus méridionale du Nil.",
+      "long": "Le pays, sans accès à la mer, borde le lac Tanganyika. Seule une étroite bande le long de la rivière Rusizi, au nord du lac, descend sous les 1 000 mètres d'altitude.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "À 114 km de la capitale, sur la route Bujumbura-Ijenda-Matana, à Rutovu, est érigée une pyramide sur la source la plus méridionale du Nil à plus de 2 000 m d’altitude."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Une bande de terre longeant le fleuve Rusizi, au nord du lac Tanganyika, est la seule région dont l'altitude est inférieure à 1 000 mètres."
+        }
+      ]
+    },
+    {
+      "id": "BDI-7",
+      "topic": "drapeau",
+      "title": "Trois étoiles pour trois mots",
+      "short": "Un sautoir blanc partage le drapeau, avec au centre un disque blanc portant trois étoiles rouges à six branches. Elles représentent la devise : « Unité, Travail, Progrès ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burundi",
+          "quote": "De forme rectangulaire, ce drapeau est divisé par un sautoir, portant en son centre un disque frappé de trois étoiles rouges à six branches"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burundi",
+          "quote": "Le sautoir et le disque sont de couleur blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Burundi",
+          "quote": "Les trois étoiles du drapeau symbolisent les trois mots de la devise nationale « Unité, Travail, progrès »."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BDI-C1",
+      "topic": "politique",
+      "title": "Une capitale rendue au centre du pays",
+      "short": "Bujumbura a longtemps été la capitale. La capitale politique est désormais Gitega, au centre du pays ; Bujumbura reste la capitale économique et la plus grande ville.",
+      "long": "Gitega, anciennement Kitega, est la deuxième ville du pays. On y trouve le Musée national et, dans les environs, l'ibwami, l'ancienne cour de justice royale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Sa capitale politique est Gitega, qui a succédé à Bujumbura en 2019."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gitega",
+          "quote": "Gitega (anciennement Kitega) est la capitale politique, depuis 2018, et la deuxième plus grande ville du Burundi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gitega",
+          "quote": "Située au centre du pays et à l'est de Bujumbura (capitale économique et ancienne capitale politique)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Burundi",
+          "quote": "Bujumbura, l'ancienne capitale (au statut particulier mixte de ville et province), est la ville la plus peuplée avec son million d'habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gitega",
+          "quote": "On y trouve le Musée national de Gitega, qui est le musée national du pays, et dans les environs, plusieurs sanctuaires de tambours Karyenda et l'ibwami (cour de justice royale)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays des Grands Lacs, juste sous le Rwanda, son « jumeau » : la RD Congo à l'ouest, la Tanzanie à l'est et au sud, et la pointe nord du long lac Tanganyika à son flanc ouest.",
+    "flag": "Une grande croix blanche en X (un sautoir) qui découpe des triangles rouges en haut et en bas, verts sur les côtés, et au centre un disque blanc avec trois étoiles rouges. Aucun autre drapeau africain n'a ce X blanc.",
+    "capital": "Piège : ce n'est plus Bujumbura, la grande ville au bord du lac. La capitale politique est Gitega, au centre du pays, comme un cœur."
+  }
+}

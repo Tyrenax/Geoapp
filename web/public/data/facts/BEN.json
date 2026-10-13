@@ -1,0 +1,196 @@
+{
+  "id": "BEN",
+  "facts": [
+    {
+      "id": "BEN-1",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Le Dahomey, « dans le ventre du serpent »",
+      "short": "Au XVIIe siècle, le roi Hwegbaja (1645-1689) fonde le royaume du Dahomey autour de sa capitale, Abomey. Son nom, Dã Homè, signifie « dans le ventre du serpent Dã ».",
+      "long": "Les rois du Dahomey étendent leur domaine vers la côte : Agadja s'empare du royaume d'Allada en 1724, et Ouidah tombe sous son successeur Tegbessou en 1741. Le royaume devient une entité politique organisée, très originale dans la région. Les palais royaux d'Abomey se visitent encore.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Et au nord, Hwegbaja (1645-1689) institue le royaume du Dahomey (ou Danhomè), à partir de sa capitale Abomey."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+          "quote": "Les trois royaumes d’Allada, de Porto-Novo et de Dã Homè - dans le ventre du serpent Dã (dan) - sont fondés par les Fons"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "En 1724, Agadja (1708-1732), roi du Dahomey, s'empare du royaume d'Allada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "En 1741, c'est au tour de Ouidah de tomber sous le joug de son successeur Tegbessou."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Le Dahomey devient une entité politique organisée, très originale dans la région."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Ses principaux atouts sont les plages et les cités lacustres du sud (Ganvié), les parcs animaliers au nord (Pendjari et W), Abomey et ses palais royaux, Ouidah, lieu de mémoire de l'esclavage et berceau du culte vaudou."
+        }
+      ]
+    },
+    {
+      "id": "BEN-2",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Les Amazones du Dahomey",
+      "short": "Le roi Hwegbaja disposait déjà d'un contingent de guerrières, les « amazones » du Dahomey : d'anciennes chasseresses d'éléphants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Le roi Hwegbaja a même à sa disposition un contingent de femmes amazones, anciennes chasseresses d'éléphants."
+        }
+      ]
+    },
+    {
+      "id": "BEN-3",
+      "topic": "culture",
+      "title": "Ouidah, berceau du vaudou",
+      "short": "Ancien port de la traite des esclaves, Ouidah est aussi le berceau du culte vaudou. Interdit dans les années 1970, le vaudou a sa fête nationale, le 10 janvier, depuis 1993.",
+      "long": "Le vaudou est né dans cette région au XVIIe siècle. Diabolisé par les voyageurs, combattu par les missionnaires puis interdit sous le régime marxiste de Kérékou, il a été réhabilité après le retour au multipartisme : le président Soglo a fait du 10 janvier la Journée nationale du vaudou.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+          "quote": "L'enclave portugaise de Ouidah, ancien port de la traite esclavagiste, revient au sein de cette nouvelle république."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Ses principaux atouts sont les plages et les cités lacustres du sud (Ganvié), les parcs animaliers au nord (Pendjari et W), Abomey et ses palais royaux, Ouidah, lieu de mémoire de l'esclavage et berceau du culte vaudou."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "D'abord diabolisé par les voyageurs, combattu par les missionnaires, interdit dans les années 1970 sous le régime marxiste de Kérékou, le culte du vaudou est l’objet, depuis 1993, d’une fête nationale, célébrée le 10 janvier et de plus en plus populaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Les statistiques ne reflètent pas la place réelle du vaudou au Bénin, son berceau historique au XVIIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "À la faveur du renouveau du système de gouvernement, le président Soglo redorera le blason des religions endogènes en se conciliant les pouvoirs traditionnels et fait du 10 janvier de chaque année la Journée nationale du vaudou."
+        }
+      ]
+    },
+    {
+      "id": "BEN-4",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "L'indépendance du Dahomey",
+      "short": "Le pays devient indépendant le 1er août 1960 sous le nom de république du Dahomey. Hubert Maga, élu premier président quelques jours plus tôt, proclame l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "Le Bénin a accédé à l'indépendance complète le 1er août 1960, sous la dénomination de république du Dahomey."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+          "quote": "l’UDD-RDA soutient la candidature d’Hubert Maga qui est élu premier président du Dahomey le 26 juillet 1960 et qui proclame l’indépendance du Dahomey le 1er août de cette même année"
+        }
+      ]
+    },
+    {
+      "id": "BEN-5",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "Un nom emprunté au voisin",
+      "short": "En 1975, le régime marxiste de Mathieu Kérékou abandonne le nom de Dahomey, jugé trop lié au Sud. Le pays prend celui de Bénin, un royaume qui avait prospéré dans l'actuel Nigeria.",
+      "long": "Le 30 novembre 1975, le Dahomey devient la république populaire du Bénin. Le nom a été conservé après la fin du régime marxiste, en 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "En 1972, l'officier Mathieu Kérékou prend le pouvoir : il adopte en 1974 le marxisme-léninisme comme idéologie officielle du gouvernement et, en 1975, rebaptise le pays république populaire du Bénin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "En 1975, pour réduire le poids politique du Sud, le nom de Dahomey est symboliquement abandonné pour celui de Bénin, du nom du royaume qui s'était autrefois épanoui au Nigeria voisin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+          "quote": "Le 30 novembre 1975, le pays devient la république populaire du Bénin, adhère au marxisme-léninisme et le Parti de la révolution populaire du Bénin (PRPB) est créé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Bénin",
+          "quote": "Le régime de la république populaire du Bénin connaît des transformations importantes au cours de son existence : une brève période nationaliste (1972-1974), une phase socialiste (1974-1982) enfin une étape comportant une ouverture vers les pays occidentaux et le libéralisme économique (1982-1990)."
+        }
+      ]
+    },
+    {
+      "id": "BEN-6",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Le drapeau effacé puis revenu",
+      "short": "Adopté en 1959, le drapeau vert, jaune et rouge est abandonné en 1975 par le régime marxiste au profit d'un drapeau vert à étoile rouge, avant d'être rétabli.",
+      "long": "L'hymne national en donne la clé : le vert est l'espoir du renouveau, le rouge le courage des aïeux, le jaune la promesse des plus riches trésors. La Constitution de 1990 décrit de nouveau le drapeau tricolore.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bénin",
+          "quote": "Le drapeau actuel est adopté le 16 novembre 1959 et utilisé pour la première fois le 1er août 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bénin",
+          "quote": "Le drapeau tricolore est abandonné en 1975 pendant la période marxiste de Mathieu Kérékou."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bénin",
+          "quote": "Le pays prend alors le nom de république populaire du Bénin et adopte, le 2 janvier 1976, un drapeau vert à étoile rouge, en haut à la hampe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bénin",
+          "quote": "La signification des couleurs est expliquée dans l'hymne national du Bénin, L'Aube nouvelle : « Dans le vert, tu liras l'espoir du renouveau ; de tes aïeux le rouge évoque le courage ; des plus riches trésors, le jaune est le présage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bénin",
+          "quote": "L'article premier de la constitution béninoise de 1990 le décrit ainsi : « L’Emblème national est le drapeau tricolore vert, jaune et rouge."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BEN-C1",
+      "topic": "histoire",
+      "era": "1782",
+      "title": "Le « nouveau port » des Portugais",
+      "short": "La ville s'appelait Xogbonou. Les Portugais, installés en 1752, la rebaptisent Porto-Novo, « port nouveau », en 1782.",
+      "long": "Une autre explication voit dans ce « nouveau port » un port de traite fondé vers 1750 par des marchands qui voulaient échapper aux taxes que le roi d'Abomey imposait à Ouidah.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "1752 : installation des Portugais à Xogbonou qu'ils rebaptisent Porto-Novo en 1782"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto-Novo",
+          "quote": "Une autre explication est avancée : Porto Novo désigne le ''nouveau port'' de traite d'esclaves fondé en 1750 par les marchands qui voulaient échapper aux taxes imposées à Ouidah par le roi d'Abomey."
+        }
+      ]
+    },
+    {
+      "id": "BEN-C2",
+      "topic": "politique",
+      "era": "1894",
+      "title": "Capitale officielle, mais pas la plus grande ville",
+      "short": "Porto-Novo devient la capitale de la colonie du Dahomey en 1894 et reste la capitale officielle du Bénin. Mais c'est Cotonou qui est la capitale économique et le siège du pouvoir politique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Porto-Novo",
+          "quote": "Le 22 juin 1894, les Français créent la colonie du Dahomey, Porto-Novo en devient la capitale, marquant ainsi la fin de l'indépendance de la cité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bénin",
+          "quote": "C'est là que les plus grandes villes du Bénin sont concentrées, notamment Porto-Novo, la capitale officielle, et Cotonou, la capitale économique et politique."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une bande étroite et longue en Afrique de l'Ouest, coincée entre le Togo à l'ouest et le géant Nigeria à l'est, qui monte de la côte du golfe de Guinée jusqu'au fleuve Niger, au contact du Burkina Faso et du Niger.",
+    "flag": "Une bande verte verticale côté mât, puis deux bandes horizontales : jaune en haut, rouge en bas. Ne pas confondre avec la Guinée-Bissau (bande rouge côté mât avec une étoile noire, jaune et vert à droite).",
+    "capital": "Porto-Novo, c'est « port nouveau » en portugais : un nom laissé par les Portugais. Piège classique : la plus grande ville est Cotonou, mais la capitale officielle est bien Porto-Novo."
+  }
+}

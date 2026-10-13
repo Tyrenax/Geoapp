@@ -1,0 +1,144 @@
+{
+  "id": "MMR",
+  "facts": [
+    {
+      "id": "MMR-1",
+      "topic": "histoire",
+      "era": "1057",
+      "title": "Le royaume de Pagan",
+      "short": "En 1057, le roi Anawrahta unifie la Birmanie et fonde le premier Empire birman, autour de la ville de Pagan. Au milieu du XIIe siècle, Pagan et l'Empire khmer dominent l'essentiel de l'Asie du Sud-Est continentale. Le royaume est détruit par les Mongols en 1287.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "En 849, ils prennent le relais des Pyus",
+          "to": "(royaume de Pagan) en 1057."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "Ses successeurs consolident le royaume",
+          "to": "détruit par les Mongols en 1287."
+        }
+      ]
+    },
+    {
+      "id": "MMR-2",
+      "topic": "histoire",
+      "era": "1824-1886",
+      "title": "Un « cadeau de nouvel an »",
+      "short": "Trois guerres anglo-birmanes, à partir de 1824, livrent peu à peu le pays aux Britanniques. Le 1er janvier 1886, la reine Victoria reçoit la Birmanie comme cadeau de nouvel an. Le pays est intégré au Raj britannique, puis devient une colonie distincte en 1937.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "La première des guerres anglo-birmanes (1824-1826)",
+          "to": "toute la Basse-Birmanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "En dépit des efforts du roi Mindon",
+          "to": "distincte à partir de 1937."
+        }
+      ]
+    },
+    {
+      "id": "MMR-3",
+      "topic": "histoire",
+      "era": "1948",
+      "title": "L'indépendance sans son artisan",
+      "short": "Après la Seconde Guerre mondiale, le général Aung San mène le pays vers l'indépendance. Il est assassiné le 19 juillet 1947, quelques mois avant que la Birmanie ne devienne indépendante, le 4 janvier 1948.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "Après la fin de la Seconde Guerre mondiale, la voie est tracée",
+          "to": "une démocratie parlementaire."
+        }
+      ]
+    },
+    {
+      "id": "MMR-4",
+      "topic": "politique",
+      "era": "1990-2021",
+      "title": "Aung San Suu Kyi face à l'armée",
+      "short": "En 1990, la Ligue nationale pour la démocratie d'Aung San Suu Kyi, fille d'Aung San, remporte les élections, mais l'armée les annule et l'assigne à résidence ; elle reçoit le prix Nobel de la paix en 1991. Revenue au pouvoir en 2016, elle est de nouveau arrêtée lors du coup d'État militaire du 1er février 2021.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "En 1990, ils organisent des élections libres",
+          "to": "assignée à résidence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "À la suite de la victoire de son parti",
+          "to": "équivalent de Premier ministre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "Le 1er février 2021, moins de trois mois",
+          "to": "l'état d'urgence pour un an."
+        }
+      ]
+    },
+    {
+      "id": "MMR-5",
+      "topic": "politique",
+      "era": "1989",
+      "title": "Birmanie ou Myanmar ?",
+      "short": "Le 18 juin 1989, les généraux au pouvoir changent le nom officiel anglais du pays, de Burma en Myanmar. Ce changement controversé n'est reconnu ni par l'opposition ni par plusieurs pays anglophones.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "Le pays devient indépendant du Royaume-Uni le 4 janvier 1948",
+          "to": "Union of Burma."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "from": "Le 18 juin 1989, le nom officiel en anglais",
+          "to": "ni par un voisin comme la Thaïlande."
+        }
+      ]
+    },
+    {
+      "id": "MMR-6",
+      "topic": "drapeau",
+      "title": "Une grande étoile blanche",
+      "short": "Trois bandes égales, jaune, verte et rouge, avec une grande étoile blanche à cinq branches au centre. Sans l'étoile et avec d'autres proportions, ce serait le drapeau de la Lituanie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Birmanie",
+          "from": "Le drapeau est constitué de trois bandes égales",
+          "to": "par la présence de l'étoile et les proportions."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MMR-C1",
+      "topic": "histoire",
+      "era": "2005",
+      "title": "Une capitale choisie par les astrologues ?",
+      "short": "Le 6 novembre 2005, à 6 h 37, une heure qu'auraient fixée les astrologues, la junte commence à transférer les fonctionnaires de Rangoun à Naypyidaw, une ville encore inachevée. Les journalistes y décrivent une ville fantôme aux autoroutes à dix voies presque vides.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "from": "La junte au pouvoir a commencé à déplacer les fonctionnaires",
+          "to": "n'était pas encore prête."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "from": "les grandes artères (autoroutes à dix voies)",
+          "to": "en cas de troubles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "from": "Plusieurs journalistes qui sont allés à Naypyidaw",
+          "to": "ne sont quasiment pas utilisées."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Asie du Sud-Est, au bord du golfe du Bengale et de la mer d'Andaman, entre le Bangladesh et l'Inde à l'ouest, la Chine au nord, le Laos et la Thaïlande à l'est.",
+    "flag": "Jaune, vert, rouge avec une grande étoile blanche. La Lituanie a les mêmes bandes, sans étoile.",
+    "capital": "Naypyidaw, au centre du pays, une capitale récente. Pas Rangoun, l'ancienne capitale et plus grande ville, dans le delta !"
+  }
+}

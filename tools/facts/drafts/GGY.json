@@ -1,0 +1,130 @@
+{
+  "id": "GGY",
+  "facts": [
+    {
+      "id": "GGY-1",
+      "topic": "histoire",
+      "era": "1204",
+      "title": "Le dernier morceau de Normandie",
+      "short": "Guernesey et les autres îles Anglo-Normandes sont les derniers vestiges du duché médiéval de Normandie, partagé depuis 1204 entre l'Angleterre et la France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "L'île de Guernesey et les autres îles Anglo-Normandes",
+          "to": "entre l'Angleterre et la France."
+        }
+      ]
+    },
+    {
+      "id": "GGY-2",
+      "topic": "politique",
+      "title": "Une dépendance de la Couronne",
+      "short": "Le bailliage de Guernesey, au large du Cotentin, est une dépendance de la Couronne britannique. Outre Guernesey, il comprend Aurigny, Sercq, Herm, Jéthou, Brecqhou et d'autres petites îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Le bailliage de Guernesey (en anglais",
+          "to": "Burhou et d'autres petites îles."
+        }
+      ]
+    },
+    {
+      "id": "GGY-3",
+      "topic": "histoire",
+      "era": "1855-1870",
+      "title": "Victor Hugo en exil",
+      "short": "Chassé de France après le coup d'État de Louis-Napoléon Bonaparte, puis expulsé de Jersey, Victor Hugo vit à Guernesey de 1855 à 1870. Il y écrit Les Contemplations, La Légende des siècles et Les Travailleurs de la mer, et y termine Les Misérables.",
+      "long": "Il refuse l'amnistie de 1859 et ne rentre en France que le 5 septembre 1870, après la proclamation de la République.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "En 1851, à la suite du coup d'État",
+          "to": "contraint de s'exiler de France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "En octobre 1855, les autorités de Jersey expulsent",
+          "to": "Victor Hugo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "L'écrivain Victor Hugo, en exil, vint s'y réfugier",
+          "to": "de 1855 à 1870,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Pendant ses 15 ans d'exil à Guernesey",
+          "to": "terminé la rédaction des Misérables."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Malgré l'amnistie accordée aux proscrits républicains",
+          "to": "se refuse à regagner la France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Victor Hugo quitte finalement Guernesey le 5 septembre 1870",
+          "to": "la formation du gouvernement provisoire."
+        }
+      ]
+    },
+    {
+      "id": "GGY-4",
+      "topic": "histoire",
+      "era": "1940-1945",
+      "title": "Cinq ans d'occupation allemande",
+      "short": "Pendant la Seconde Guerre mondiale, les îles Anglo-Normandes sont occupées par l'Allemagne pendant cinq ans, et la population est évacuée. Les nazis transforment l'île d'Aurigny en un vaste camp de concentration.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Durant la Seconde Guerre mondiale, la population de l'île est évacuée.",
+          "to": "par cinq années d'occupation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "Il s'y est ajouté pendant l'occupation allemande",
+          "to": "de 1940 à 1945"
+        }
+      ]
+    },
+    {
+      "id": "GGY-5",
+      "topic": "drapeau",
+      "era": "1985",
+      "title": "La croix de Guillaume le Conquérant",
+      "short": "Guernesey utilisait la croix de saint Georges, le drapeau de l'Angleterre, ce qui prêtait à confusion. Le 9 mai 1985, pour les 40 ans de la Libération, on y ajoute la croix d'or de l'étendard de Guillaume le Conquérant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Guernesey",
+          "from": "Le drapeau de Guernesey, dépendance de la Couronne britannique",
+          "to": "de la Libération de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Guernesey",
+          "from": "À l'origine, le drapeau de Guernesey était constitué",
+          "to": "l'étendard de Guillaume le Conquérant."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GGY-C1",
+      "topic": "culture",
+      "title": "La maison de Victor Hugo",
+      "short": "À Saint-Pierre-Port, Victor Hugo s'installe rue Hauteville, dans une maison qu'il baptise « Hauteville House ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bailliage_de_Guernesey",
+          "from": "À Guernesey, Victor Hugo s'installe rue Hauteville",
+          "to": "Il la baptise « Hauteville House »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île de la Manche, l'une des îles Anglo-Normandes, à l'ouest du Cotentin et au nord-ouest de Jersey. Elle dépend de la Couronne britannique.",
+    "flag": "La croix rouge de saint Georges sur fond blanc, avec au centre une petite croix dorée. Sans la croix dorée, ce serait l'Angleterre ; Jersey, elle, a une croix en X.",
+    "capital": "Saint-Pierre-Port, le port où vécut Victor Hugo en exil."
+  }
+}

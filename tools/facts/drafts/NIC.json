@@ -1,0 +1,128 @@
+{
+  "id": "NIC",
+  "facts": [
+    {
+      "id": "NIC-1",
+      "topic": "histoire",
+      "era": "1855",
+      "title": "Quand une armée privée prit le pays",
+      "short": "En 1855, une armée privée financée par des entreprises de Boston s'empare du pays. Son chef, William Walker, se proclame président et rétablit l'esclavage, avec le soutien du président américain Franklin Pierce, avant d'être vaincu et chassé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "En 1855, une armée privée et financée par un groupe de firmes de Boston",
+          "to": "d'incorporer le Nicaragua aux États-Unis)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Les troupes de William Walker sont finalement vaincues",
+          "to": "contraintes de quitter le pays."
+        }
+      ]
+    },
+    {
+      "id": "NIC-2",
+      "topic": "histoire",
+      "era": "1934",
+      "title": "Sandino contre les Marines",
+      "short": "Augusto Sandino mène une guérilla contre les Marines américains. En 1934, Anastasio Somoza le fait assassiner, puis prend le pouvoir en 1936 avec le soutien des États-Unis ; sa dynastie gouverne jusqu'à la fuite du dernier Somoza, en juillet 1979.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Après la défaite des forces libérales, Augusto Sandino",
+          "to": "décide de continuer la lutte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "La guérilla, renommée l'« Armée de défense de la souveraineté nationale du Nicaragua »",
+          "to": "la popularité de l'armée rebelle de Sandino."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Avec le soutien des États-Unis, Somoza fait assassiner",
+          "to": "prend le pouvoir en 1936."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Un mois plus tard, en juillet 1979",
+          "to": "pour le Paraguay."
+        }
+      ]
+    },
+    {
+      "id": "NIC-3",
+      "topic": "histoire",
+      "era": "1524-1838",
+      "title": "De l'Espagne à la fédération centraméricaine",
+      "short": "Colonisé par l'Espagne en 1524, le Nicaragua devient indépendant le 15 septembre 1821 et rejoint les Provinces unies d'Amérique centrale. Il quitte la fédération en 1838.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Colonisé par l'Espagne en 1524",
+          "to": "complètement souveraine en 1854."
+        }
+      ]
+    },
+    {
+      "id": "NIC-4",
+      "topic": "geographie",
+      "title": "Deux grands lacs et une ligne de volcans",
+      "short": "Le long du Pacifique, une chaîne de volcans, la cordillère des Maribios, borde les deux grands lacs du pays : le lac Nicaragua et le lac de Managua.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicaragua",
+          "from": "Les plaines qui longent le Pacifique sont ponctuées de nombreux volcans",
+          "to": "et le lac de Managua."
+        }
+      ]
+    },
+    {
+      "id": "NIC-5",
+      "topic": "drapeau",
+      "title": "Cinq volcans pour cinq pays",
+      "short": "Au centre du drapeau, cinq volcans représentent les cinq États fondateurs de l'ancienne fédération d'Amérique centrale ; le bonnet phrygien symbolise la liberté, le soleil et l'arc-en-ciel un avenir radieux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Nicaragua",
+          "from": "Les 5 volcans représentent ces 5 États membres d'origine",
+          "to": "le symbole de l'avenir radieux."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NIC-C1",
+      "topic": "histoire",
+      "era": "1852",
+      "title": "Le compromis entre León et Granada",
+      "short": "León et Granada se disputaient le rôle de capitale. Le 5 février 1852, Managua, située entre les deux, le devient définitivement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Managua",
+          "from": "Le 5 février 1852 Managua devient définitivement la capitale",
+          "to": "s'étaient échangé ce rôle jusqu'alors."
+        }
+      ]
+    },
+    {
+      "id": "NIC-C2",
+      "topic": "histoire",
+      "era": "1972",
+      "title": "Le séisme de 1972",
+      "short": "Dans la nuit du 23 décembre 1972, un tremblement de terre détruit le centre de Managua et fait plus de 10 000 morts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Managua",
+          "from": "Le séisme du 23 décembre 1972",
+          "to": "20 000 blessés."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus grand pays d'Amérique centrale, entre le Honduras au nord et le Costa Rica au sud ; repère son grand lac, bien visible sur la carte près du Pacifique.",
+    "flag": "Bleu, blanc, bleu à l'horizontale avec un triangle d'armoiries (cinq volcans sous un arc-en-ciel) au centre. Le Salvador a les mêmes bandes mais un blason rond ; le Honduras, cinq étoiles.",
+    "capital": "Managua, entre León et Granada : le compromis au bord du lac de Managua, qui porte le même nom."
+  }
+}

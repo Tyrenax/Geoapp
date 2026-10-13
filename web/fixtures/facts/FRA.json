@@ -1,0 +1,17 @@
+{
+  "id": "FRA",
+  "facts": [
+    { "id": "FRA-1", "topic": "histoire", "era": "1792", "title": "[FICTIF] La Première République",
+      "short": "[FICTIF] Fait de démonstration daté de 1792.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/France", "quote": "[FICTIF] 1792" } ] },
+    { "id": "FRA-2", "topic": "geographie", "title": "[FICTIF] L'Hexagone",
+      "short": "[FICTIF] Fait de démonstration sur la forme du territoire.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/France", "quote": "[FICTIF] citation" } ] }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "[FICTIF] À l'ouest de l'Europe, entre la Manche, l'Atlantique et la Méditerranée.",
+    "flag": "[FICTIF] Bleu au mât, rouge au vent ; l'Italie remplace le bleu par du vert.",
+    "capital": "[FICTIF] Paris, sur la Seine."
+  }
+}

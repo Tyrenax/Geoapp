@@ -1,0 +1,143 @@
+{
+  "id": "AFG",
+  "facts": [
+    {
+      "id": "AFG-1",
+      "topic": "histoire",
+      "title": "Le pays des Pachtounes",
+      "short": "En dari, le suffixe « stān » veut dire « pays », et « afghān » était un nom persan des Pachtounes : Afghanistan signifie donc « pays des Pachtounes », l'ethnie majoritaire qui a fondé l'État moderne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Le nom « Afghanistan » dérive d'un mot ethnonyme désignant les Pachtounes, l’ethnie majoritaire du pays qui a fondé l’Afghanistan actuel. Le suffixe « stān » veut dire « pays » en langue dari, et « afghān » est à l'origine un exonyme persan — vraisemblablement dérivé du bactrien αβαγανο (abagano) — synonyme de « pachtoune » : le nom Afghanistan signifie donc « pays des Pachtounes »."
+        }
+      ]
+    },
+    {
+      "id": "AFG-2",
+      "topic": "histoire",
+      "title": "Un carrefour de conquérants",
+      "short": "Sur la route de la soie et sur le chemin de l'Inde, l'Afghanistan a vu passer Cyrus le Grand, Alexandre le Grand, Gengis Khan et Babur. Avant l'arrivée de l'islam au VIIe siècle, le pays était majoritairement bouddhiste : les Bouddhas géants de Bâmiyân en témoignaient, jusqu'à leur dynamitage par les talibans en 2001.",
+      "long": "Le pays a aussi exporté loin ses richesses : le bleu éclatant du ciel de la chapelle Sixtine, au Vatican, vient du lapis-lazuli afghan, transporté à dos de chameau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Carrefour de l'Asie, ce pays constituait, dans l'Antiquité, un point de passage important sur la route de la soie et pour les conquérants qui souhaitaient prendre le contrôle de l'Inde tels que Cyrus le Grand, Alexandre le Grand, Gengis Khan et Babur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Historiquement, les bouddhistes sont majoritaires avant le VIIe siècle et l'avènement de l'islam dans le pays. Les Bouddhas géants sculptés dans la roche, à Bâmiyân, témoignent de cette époque avant leur dynamitage par les talibans en 2001."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "À titre d'exemple, citons le bleu éclatant qui a servi à peindre le ciel sur le dôme de la chapelle Sixtine au Vatican, ou le bleu des palais nasrides à Grenade en Espagne musulmane, ce pigment bleu provient du lapis-lazuli venu sur le dos des chameaux afghans."
+        }
+      ]
+    },
+    {
+      "id": "AFG-3",
+      "topic": "histoire",
+      "era": "1747",
+      "title": "La « perle des perles »",
+      "short": "En 1747, une assemblée traditionnelle, la loya jirga, élit Ahmad Khan roi des Afghans. Il prend le titre de Durr-i-Durrân, « perle des perles ». Son fils transfère la capitale de Kandahar à Kaboul en 1775.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Lorsque Nader Chah est assassiné, en 1747, Ahmad Khan est élu roi des Afghans par la loya jirga et adopte le titre de Durr-i-Durrân, « perle des perles »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Son fils Timour Shah, en butte à l'hostilité des tribus pachtounes, tente de s'appuyer sur les élites urbaines tadjikes et qizilbash et transfère sa capitale de Kandahar à Kaboul en 1775."
+        }
+      ]
+    },
+    {
+      "id": "AFG-4",
+      "topic": "histoire",
+      "era": "1893",
+      "title": "Une frontière qui coupe un peuple",
+      "short": "En 1893, la ligne Durand trace la frontière entre l'Afghanistan et l'Inde britannique. Elle divise artificiellement les Pachtounes, et la question resurgit avec l'indépendance du Pakistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "Le tracé de la ligne Durand, en 1893, divise artificiellement les Pachtounes entre l'Afghanistan et l'Inde britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "La même année, l'indépendance du Pakistan ravive la question de la division des Pachtounes de part et d'autre de la ligne Durand."
+        }
+      ]
+    },
+    {
+      "id": "AFG-5",
+      "topic": "histoire",
+      "era": "1979-1989",
+      "title": "La présence soviétique, de 1979 à 1989",
+      "short": "Le 28 décembre 1979, l'Union soviétique fomente un coup d'État pour installer Babrak Karmal au pouvoir. Elle ne quitte l'Afghanistan qu'en février 1989.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "L'Union soviétique fomente un nouveau coup d’État le 28 décembre 1979 afin de permettre à Babrak Karmal, leader d'une faction plus modérée à l'intérieur du Parti communiste, de devenir président."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afghanistan",
+          "quote": "L’Union soviétique décide unilatéralement de quitter l'Afghanistan en février 1989, laissant à Mohammad Najibullah le contrôle du pays."
+        }
+      ]
+    },
+    {
+      "id": "AFG-6",
+      "topic": "drapeau",
+      "era": "2021",
+      "title": "Dix-sept drapeaux en un siècle",
+      "short": "Au cours du seul XXe siècle, l'Afghanistan a connu 17 drapeaux différents. Depuis la prise de Kaboul par les talibans, le 15 août 2021, un drapeau blanc portant en noir la chahada, la profession de foi musulmane, est utilisé dans le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afghanistan",
+          "quote": "Durant le seul XXe siècle, le pays a connu 17 drapeaux différents."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afghanistan",
+          "quote": "Le drapeau de l'émirat islamique d'Afghanistan, un drapeau blanc sur lequel est inscrite en noir la chahada, est utilisé dans le pays depuis la victoire des talibans sur la république islamique d'Afghanistan et la prise de Kaboul le 15 août 2021."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afghanistan",
+          "quote": "utilisent le drapeau blanc sur lequel est inscrit la chahada, en noir et en son centre qui est la profession de foi musulmane"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afghanistan",
+          "quote": "Le drapeau de la république islamique d'Afghanistan était un tricolore de bandes noires, rouges et vertes avec, centré sur la bande rouge, l'emblème national traditionnel composé d'une mosquée avec un mihrab faisant face à La Mecque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afghanistan",
+          "quote": "Son drapeau tricolore est donc toujours, en l'absence de reconnaissance internationale, celui utilisé par l'ONU, les organisations internationales, le standard Unicode et les ministères des Affaires étrangères de divers pays (France, Canada, etc.)."
+        }
+      ],
+      "long": "Le tricolore noir-rouge-vert de l'ancienne république islamique reste celui qu'utilisent l'ONU et les organisations internationales, en l'absence de reconnaissance internationale du gouvernement taliban."
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AFG-C1",
+      "topic": "histoire",
+      "era": "1504",
+      "title": "La capitale de Babur",
+      "short": "En 1504, Babur, descendant de Gengis Khan et de Tamerlan, chassé de Samarcande, s'empare de Kaboul avec quelques troupes. Avec Delhi, Kaboul devient l'une des deux capitales de son empire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kaboul",
+          "quote": "C'est en 1504 que Bâbour (1483-1530), descendant de Gengis Khan et de Tamerlan, chassé de Samarkand et du Ferghana par un rival, s'empare de la cité à la tête de quelques troupes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kaboul",
+          "quote": "Avec Delhi, Kaboul était l'autre capitale de l'empire de Bâbour."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays montagneux et enclavé au cœur de l'Asie, entre l'Iran à l'ouest et le Pakistan à l'est et au sud ; au nord, il touche le Turkménistan, l'Ouzbékistan et le Tadjikistan, et une étroite langue de terre, le corridor du Wakhan, va jusqu'à la Chine.",
+    "flag": "Deux drapeaux coexistent : le drapeau blanc des talibans, avec une inscription noire en écriture arabe (la chahada), et le tricolore vertical noir-rouge-vert de l'ancienne république, avec un emblème blanc, encore utilisé à l'ONU. L'Arabie saoudite porte aussi la chahada, mais en blanc sur fond vert, avec un sabre.",
+    "capital": "Kaboul, au pied de l'Hindou Kouch, dont Babur fit l'une des capitales de son empire."
+  }
+}

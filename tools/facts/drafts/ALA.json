@@ -1,0 +1,157 @@
+{
+  "id": "ALA",
+  "facts": [
+    {
+      "id": "ALA-1",
+      "topic": "histoire",
+      "title": "Suédoise avant la Finlande",
+      "short": "Åland a fait partie du royaume de Suède bien avant que la Suède n'étende son influence sur le reste de la Finlande actuelle. Aujourd'hui encore, 94 % de ses habitants ont le suédois pour langue maternelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Relevant de ce diocèse, Åland fait partie du royaume suédois",
+          "to": "du territoire finlandais actuel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Selon le recensement effectué en l'an 2000",
+          "to": "dont le russe."
+        }
+      ]
+    },
+    {
+      "id": "ALA-2",
+      "topic": "histoire",
+      "era": "1856",
+      "title": "Des îles qu'on n'a pas le droit d'armer",
+      "short": "Pendant la guerre de Crimée, en 1854, les Français prennent et détruisent la forteresse russe de Bomarsund. Au traité de Paris de 1856, la Russie s'engage à ne plus fortifier les îles : Åland est aujourd'hui encore un territoire démilitarisé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "La Russie édifie sur les îles la forteresse de Bomarsund.",
+          "to": "à ne pas fortifier l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Aujourd'hui, la province d'Åland reste un territoire démilitarisé",
+          "to": "(hors de l'OTAN et de l'UEO),"
+        }
+      ]
+    },
+    {
+      "id": "ALA-3",
+      "topic": "histoire",
+      "era": "1921",
+      "title": "Un litige tranché par la Société des Nations",
+      "short": "Après la guerre civile finlandaise, les Ålandais demandent leur rattachement à la Suède. Le 25 juin 1921, la Société des Nations tranche en faveur de la Finlande, qui doit garantir aux Ålandais leur langue suédoise, leur culture et leurs coutumes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "La Finlande n'accepte ni cette occupation",
+          "to": "l'appartenance définitive à la Finlande,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "en revendiquant ces îles sur la base de considérations politiques",
+          "to": "avaient réclamé leur réunion à la Suède"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "L'État finlandais doit s'engager à respecter",
+          "to": "de leurs coutumes locales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Le 14 mars, la majorité des troupes suédoises sont évacuées",
+          "to": "quand la guerre civile finlandaise s’achève."
+        }
+      ]
+    },
+    {
+      "id": "ALA-4",
+      "topic": "politique",
+      "title": "Une région qui ne parle que suédois",
+      "short": "Seule région autonome de Finlande, Åland a son propre drapeau depuis 1954 et émet ses propres timbres. Le suédois y est la seule langue officielle, alors que la Finlande continentale est bilingue ; même les panneaux routiers ne sont qu'en suédois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Åland (en suédois : /ˈoː.land/",
+          "to": "d'un statut d'autonomie gouvernementale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Åland dispose de son drapeau depuis 1954",
+          "to": "La signalisation routière n'est affichée qu'en suédois."
+        }
+      ]
+    },
+    {
+      "id": "ALA-5",
+      "topic": "geographie",
+      "title": "Six mille cinq cents îles",
+      "short": "Åland compte plus de 6 500 îles, à l'entrée du golfe de Botnie, entre la Finlande et la Suède, mais seulement quatre-vingts sont habitées. Une chaîne d'îlots la relie à la Finlande, tandis que la mer la sépare plus nettement de la Suède.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "Le territoire d'Åland comprend plus de 6 500 îles",
+          "to": "en mer Baltique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "l'archipel compte quatre-vingts îles habitées",
+          "to": "quatre-vingts îles habitées"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "L'archipel est relié à la Finlande par une chaîne d'îlots",
+          "to": "plus nettement de la Suède."
+        }
+      ]
+    },
+    {
+      "id": "ALA-6",
+      "topic": "drapeau",
+      "era": "1954",
+      "title": "La Suède et la Finlande dans une croix",
+      "short": "Le drapeau d'Åland, adopté en 1954, reprend le drapeau suédois, une croix d'or sur fond bleu, et y ajoute une croix rouge qui symbolise la Finlande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Åland",
+          "from": "Le drapeau, choisi en 1954",
+          "to": "une croix scandinave or sur fond azur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Åland",
+          "from": "Une deuxième croix rouge à l'intérieur de la croix or",
+          "to": "symbolise la Finlande."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ALA-C1",
+      "topic": "histoire",
+      "era": "1861",
+      "title": "Une ville nommée d'après une impératrice",
+      "short": "Mariehamn est fondée en 1861 par les Russes, alors maîtres de la Finlande. Elle doit son nom à Maria Alexandrovna, l'épouse du tsar Alexandre II.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mariehamn",
+          "from": "Fondée en 1861 par les Russes",
+          "to": "l'épouse du tsar Alexandre II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Åland",
+          "from": "La Finlande ayant fait partie de l'Empire russe entre 1809 et 1917",
+          "to": "entre 1809 et 1917"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel de la mer Baltique, à l'entrée du golfe de Botnie, à mi-chemin entre la Suède (à l'ouest) et la Finlande (à l'est), dont il dépend.",
+    "flag": "Le drapeau suédois (croix jaune sur fond bleu) avec, en plus, une croix rouge à l'intérieur de la croix jaune. Sans la croix rouge, c'est la Suède.",
+    "capital": "Mariehamn, « le port de Marie », baptisé en l'honneur d'une impératrice russe."
+  }
+}

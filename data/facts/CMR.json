@@ -1,0 +1,202 @@
+{
+  "id": "CMR",
+  "facts": [
+    {
+      "id": "CMR-1",
+      "topic": "histoire",
+      "era": "1472",
+      "title": "Un pays nommé d'après des crevettes",
+      "short": "En 1472, les marins portugais de Fernando Pó entrent dans l'estuaire du Wouri. Émerveillés par l'abondance de crevettes, ils l'appellent Rio dos Camarões, la « rivière des crevettes » : le nom du Cameroun en vient.",
+      "long": "En 1957, lors d'un débat sur le futur drapeau, un député a même proposé d'ajouter une crevette blanche au milieu de la bande rouge, en souvenir de ce nom. La proposition n'a pas été retenue.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "En revanche, on a la certitude que, en 1472, les marins portugais du navigateur Fernando Pó sont entrés dans l'estuaire du Wouri, s'extasiant de l'abondance des crevettes dans le cours d'eau qu'ils appellent aussitôt Rio dos Camarões"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "Étonné par le nombre de crevettes, le navigateur Fernando Pó  baptise le pays « Rio dos Camaroes» ce qui veut dire \"rivière des crevettes\" (l'estuaire du Wouri)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cameroun",
+          "quote": "En 1957, lors d'un débat sur le drapeau national au sein de l'Assemblée législative du Cameroun, le député Samuel Wanko a proposé l'ajout d'une crevette blanche au milieu de la bande rouge, en référence à l'étymologie du pays"
+        }
+      ]
+    },
+    {
+      "id": "CMR-2",
+      "topic": "histoire",
+      "era": "Ve s. av. J.-C.",
+      "title": "Le « char des dieux » d'Hannon",
+      "short": "Selon certains historiens, le navigateur carthaginois Hannon aurait atteint le mont Cameroun dans l'Antiquité et l'aurait baptisé le « char des dieux ».",
+      "long": "Ce volcan, toujours en activité, est le point culminant de l'Afrique de l'Ouest. Il domine la côte près de la station balnéaire de Limbé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "d'après certains historiens, le carthaginois Hannon aurait atteint le mont Cameroun qu'il aurait baptisé le « char des Dieux »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Les massifs les plus connus sont les monts Mandara (Extrême-Nord), Alantika (Nord), et les volcans encore en activité d'Oku (Nord-Ouest) et du mont Cameroun (Sud-Ouest) qui est, à 4 095 m d'altitude, le point culminant de l'Afrique occidentale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Le long de ses 590 km de côtes, on compte quelques cités balnéaires : Kribi, et Limbé près du mont Cameroun."
+        }
+      ]
+    },
+    {
+      "id": "CMR-3",
+      "topic": "histoire",
+      "era": "1884-1919",
+      "title": "Le Kamerun allemand",
+      "short": "En juillet 1884, les rois douala Bell et Akwa signent un traité avec des marchands de Hambourg : l'Allemagne proclame son protectorat du Kamerun. Elle y construit le premier chemin de fer et lance le port de Douala.",
+      "long": "Après la Première Guerre mondiale, la colonie, conquise par les forces franco-britanniques, est partagée en deux territoires : l'un sous administration française, l'autre britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "La colonisation allemande commence en 1884 avec la signature en juillet d'un traité entre les rois Bell et King Akwa et  les representants des firmes Hambourgeoises"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Dans l'optique de protéger leurs intérêts commerciaux, les Allemands établissent le 5 juillet 1884 leur protectorat du nom de Kamerun."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Afin d'assurer l'essor économique du protectorat, les Allemands se lancent dans des travaux importants : construction de routes et de la première ligne de chemin de fer, démarrage des travaux du port de Douala"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "Après la Première Guerre mondiale, pendant laquelle le Cameroun est conquis par les forces franco-britanniques, la colonie allemande est partagée en deux territoires"
+        }
+      ]
+    },
+    {
+      "id": "CMR-4",
+      "topic": "histoire",
+      "era": "1960-1961",
+      "title": "Indépendance, puis réunification",
+      "short": "Le Cameroun français devient indépendant le 1er janvier 1960, le premier des dix-huit pays africains à le faire cette année-là. En 1961, il est rejoint par le sud du Cameroun britannique.",
+      "long": "Un référendum de l'ONU, le 11 février 1961, laisse aux habitants du Cameroun britannique le choix entre le Nigeria et le Cameroun : le sud choisit le Cameroun. La république fédérale qui en naît devient un État unitaire en 1972.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "L'indépendance de la zone française est proclamée le 1er janvier 1960, le Cameroun devenant la première des dix-huit colonies africaines à accéder à l'indépendance en 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Il est rejoint par le Cameroun méridional (partie du territoire sous administration britannique) le 1er octobre 1961 pour former la république fédérale du Cameroun qui, le 20 mai 1972, est renommée en république unie du Cameroun, puis république du Cameroun en 1984."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "Un référendum est organisé par l'ONU le 11 février 1961 laissant deux choix aux populations locales : se rattacher au Nigeria ou se rattacher au Cameroun."
+        }
+      ]
+    },
+    {
+      "id": "CMR-5",
+      "topic": "histoire",
+      "era": "1948-1960",
+      "title": "L'UPC et une guerre longtemps cachée",
+      "short": "Fondée en 1948, l'Union des populations du Cameroun de Ruben Um Nyobe réclame l'indépendance. Pourchassés par la police, ses militants prennent le maquis ; sa répression, menée avec l'aide de la France, se prolonge jusqu'à la fin des années 1960.",
+      "long": "Des officiers français dirigent alors clandestinement les opérations de l'armée camerounaise contre les derniers bastions de l'insurrection. Ce conflit longtemps passé sous silence est considéré comme l'une des origines de la « Françafrique ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "Le 10 avril 1948, l'Union des Populations du Cameroun (UPC), un mouvement nationaliste, est fondée par 12 personnes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Au lendemain de la Seconde Guerre mondiale, l'Union des populations du Cameroun (UPC), parti politique dirigé par Ruben Um Nyobe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cameroun",
+          "quote": "Recherchés par la police, des militants de l'UPC se réfugient dans les forêts, où ils forment des maquis, ou au Cameroun britannique voisin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Il s'ensuit une période de violente répression contre le mouvement de l'UPC et l'ALNK, son « Armée de libération nationale du Kamerun », par le nouveau gouvernement avec l'assistance de la France, qui dure jusqu'à la fin des années 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Une guerre cachée aux origines de la Françafrique, ce sont des officiers français qui, au cours des années 1960, dirigent clandestinement les opérations de répression menées par l'armée camerounaise contre les derniers bastions de l'insurrection"
+        }
+      ]
+    },
+    {
+      "id": "CMR-6",
+      "topic": "geographie",
+      "title": "« L'Afrique en miniature »",
+      "short": "On surnomme le Cameroun « l'Afrique en miniature » : climats, paysages, ressources, peuples, langues et cultures, il réunit en un seul pays une grande part de la diversité du continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cameroun",
+          "quote": "Le Cameroun est surnommé « l'Afrique en miniature » en raison de sa diversité climatologique, minière, géographique, humaine, linguistique et culturelle."
+        }
+      ]
+    },
+    {
+      "id": "CMR-7",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "De deux étoiles à une seule",
+      "short": "Sous la république fédérale, le drapeau portait deux étoiles, une par État fédéré. Depuis 1975 et le passage à l'État unitaire, une seule étoile d'or symbolise un pays indivisible.",
+      "long": "Le vert représente la forêt équatoriale du Sud et l'espoir d'un pays prospère.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cameroun",
+          "quote": "Sous la République fédérale, le drapeau comportait deux étoiles dans le coin supérieur gauche, sur fond vert, représentant chacun des deux États de la Fédération."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cameroun",
+          "quote": "Il a été adopté le 21 mai 1975, à l'issue de la période fédérale, après le passage à un État unitaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cameroun",
+          "quote": "L'étoile en or représente l'unification en un État indivisible et unique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cameroun",
+          "quote": "Le vert représente la forêt équatoriale méridionale du Cameroun, le progrès et l’espérance d’un Cameroun riche et prospère."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CMR-C1",
+      "topic": "histoire",
+      "era": "1888",
+      "title": "Un malentendu entre explorateurs et planteurs",
+      "short": "En 1888, deux officiers allemands demandent à des planteurs d'arachides ewondo où ils se trouvent. Ceux-ci répondent qu'ils sont des « Mia wondo », des semeurs d'arachides : les Allemands notent « Jaunde ». Yaoundé était née.",
+      "long": "Le poste allemand, fondé en 1889, est d'abord scientifique, puis militaire. Les habitants le surnomment Ongola, la « clôture », d'après le mur qui l'entourait.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaoundé",
+          "quote": "En février 1888, partis de Grand Batanga, les lieutenants Kund et Tappenbeck arrivent dans une région à moins de 100 km des rives du Sanaga. Ils y aperçoivent des planteurs d'arachides, des Ewondo, dans cet endroit vallonné et leur demandent où ils se trouvent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaoundé",
+          "quote": "Les planteurs n'ayant probablement pas compris la question répondirent dans leur langue, qu’ils étaient des Mia wondo (litt. « semeurs d'arachides »), expression que les Allemands ont perçue comme la réponse à la question qu'ils avaient posée, transcrivant approximativement le nom de l'endroit en Jaundo ou Jaunde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaoundé",
+          "quote": "Fondée en 1889 par les Allemands, Yaoundé est structurée ensuite par les Français dès 1916."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaoundé",
+          "quote": "Yaoundé fut dès sa fondation un poste scientifique, puis dès 1895 un poste militaire sur une colline du pays ewondo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaoundé",
+          "quote": "Les populations locales surnomment la ville du nom de Ngola, qui vient du terme Ongola qui signifie « clôture » en ewondo et se réfère au mur de l'ancien poste allemand."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au fond du golfe de Guinée, à l'angle où la côte africaine tourne vers le sud : le Nigeria à l'ouest, le Tchad au nord (il touche le lac Tchad par une longue pointe), la Centrafrique à l'est, le Gabon, le Congo et la Guinée équatoriale au sud.",
+    "flag": "Trois bandes verticales vert, rouge, jaune, avec une étoile jaune au milieu de la bande rouge. Le Sénégal a les mêmes couleurs dans le même ordre, mais son étoile est verte.",
+    "capital": "Ce n'est pas Douala, la grande ville portuaire, mais Yaoundé, née d'un malentendu : les « semeurs d'arachides » (Mia wondo) ont donné leur nom à la ville."
+  }
+}

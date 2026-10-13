@@ -1,0 +1,138 @@
+{
+  "id": "ECU",
+  "facts": [
+    {
+      "id": "ECU-1",
+      "topic": "histoire",
+      "era": "1736-1743",
+      "title": "Un pays nommé par des savants",
+      "short": "De 1736 à 1743, une expédition franco-espagnole menée par La Condamine vient mesurer un arc de méridien près de Quito. Son récit de voyage « à l'Équateur » inspirera le nom du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "De 1736 à 1743 a lieu une mission géodésique franco-espagnole dirigée par Charles Marie de La Condamine, avec pour but de mesurer un arc du méridien de Quito."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Le journal de voyage de La Condamine, journal de voyage à l'Équateur, influera plus tard sur le choix du nom du pays lorsqu'il prendra son indépendance."
+        }
+      ]
+    },
+    {
+      "id": "ECU-2",
+      "topic": "histoire",
+      "era": "1809-1830",
+      "title": "Le premier cri d'indépendance",
+      "short": "Le 10 août 1809, Quito lance le « premier cri d'indépendance » contre l'Espagne. Le pays se libère en 1822, puis quitte la Grande Colombie en 1830 pour devenir un État à part entière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Après une première proclamation d'indépendance le 10 août 1809 à Quito (primer grito de independencia)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Depuis son indépendance du royaume d'Espagne en 1822, l'Équateur est une république"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "À la suite de l'explosion de la Grande Colombie en 1830, l'Équateur devient un pays indépendant à part entière"
+        }
+      ]
+    },
+    {
+      "id": "ECU-3",
+      "topic": "histoire",
+      "era": "1830-1845",
+      "title": "Les Galápagos, annexées par le premier président",
+      "short": "Le premier président de l'Équateur indépendant, Juan José Flores, annexe les îles Galápagos, un archipel perdu dans le Pacifique à un millier de kilomètres des côtes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Le premier président de l'Équateur indépendant est Juan José Flores (de 1830 à 1834 puis de 1839 à 1845), qui échoue dans une guerre contre la Colombie visant à conquérir le Cauca, mais parvient à maintenir l'unité du pays et à annexer les îles Galápagos."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "À ces trois grandes régions continentales s'ajoute une région insulaire formée par les îles Galápagos ; celles-ci forment un archipel situé dans le Nord-Est de l'océan Pacifique sud, à un millier de kilomètres à l'ouest de la côte équatorienne."
+        }
+      ]
+    },
+    {
+      "id": "ECU-4",
+      "topic": "geographie",
+      "title": "Le sommet le plus éloigné du centre de la Terre",
+      "short": "La Terre étant aplatie aux pôles et renflée à l'équateur, le sommet du Chimborazo est le point de sa surface le plus éloigné de son centre. Le pays abrite aussi le Cotopaxi, l'un des plus hauts volcans actifs du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Chimborazo (6 310 m), l'un des plus hauts volcans de l'hémisphère sud (le Nevado Ojos del Salado est le plus haut volcan, à 6 891 m), et également le point de la surface terrestre le plus éloigné du centre de la terre (à cause de l'aplatissement de la terre aux pôles)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Équateur_(pays)",
+          "quote": "Le point culminant du pays est le Chimborazo (6 263 m), dans la cordillère Occidentale, mais le Cotopaxi (5 897 m), plus haut volcan actif du monde, situé dans la cordillère Orientale, est également très emblématique."
+        }
+      ]
+    },
+    {
+      "id": "ECU-5",
+      "topic": "drapeau",
+      "era": "1860",
+      "title": "Le condor aux ailes déployées",
+      "short": "Adopté le 26 septembre 1860, le drapeau porte un blason surmonté d'un condor aux ailes déployées, symbole de pouvoir, de grandeur et de force.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Équateur",
+          "quote": "Le drapeau de l'Équateur a été adopté le 26 septembre 1860."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Équateur",
+          "quote": "Le condor au-dessus du bouclier étire ses ailes pour symboliser le pouvoir, la grandeur et la force de l'Équateur."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ECU-C1",
+      "topic": "histoire",
+      "era": "1534",
+      "title": "Ancienne ville inca, refondée par les Espagnols",
+      "short": "Deuxième centre de l'Empire inca, Quito est refondée par le conquistador Sebastián de Belalcázar le 6 décembre 1534 sous le nom de San Francisco de Quito. Son nom vient des Quitus, un peuple antérieur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Quito",
+          "quote": "Il a été le deuxième centre de l'empire inca jusqu'à ce que les Espagnols fondent la ville de San Francisco de Quito le 6 décembre 1534."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Quito",
+          "quote": "La ville espagnole de Quito est fondée par le conquistador Sebastián de Belalcázar le 6 décembre 1534 sous le nom de « San Francisco de Quito »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Quito",
+          "quote": "S'étendant sur 50 km du nord au sud, à une altitude de 2 800 m, sur les flancs du volcan Guagua Pichincha, la ville tire son nom des tribus Quitus qui ont précédé les Caras."
+        }
+      ]
+    },
+    {
+      "id": "ECU-C2",
+      "topic": "culture",
+      "era": "1978",
+      "title": "Patrimoine de l'humanité dès 1978",
+      "short": "Étirée sur 50 km à 2 800 m d'altitude, au pied du volcan Guagua Pichincha, Quito a vu son centre colonial classé au patrimoine mondial de l'UNESCO dès 1978.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Quito",
+          "quote": "Le centre névralgique de Quito se trouve dans la moitié nord de la ville, tandis que plus au sud se situe le centre colonial historique, déclaré Patrimoine de l'Humanité par l'UNESCO en 1978 pour son architecture coloniale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Quito",
+          "quote": "S'étendant sur 50 km du nord au sud, à une altitude de 2 800 m, sur les flancs du volcan Guagua Pichincha"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit pays coincé entre la Colombie au nord et le Pérou au sud, sur la côte Pacifique, que l'équateur traverse. N'oublie pas les Galápagos, loin au large.",
+    "flag": "Jaune (deux fois plus large), bleu, rouge, avec un blason et un condor au centre. La Colombie a les mêmes bandes sans blason ; le Venezuela a des bandes égales et des étoiles.",
+    "capital": "Quito, la capitale « à l'équateur » : la ligne passe à quelques kilomètres au nord de la ville."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "QAT",
+  "facts": [
+    {
+      "id": "QAT-1",
+      "topic": "histoire",
+      "era": "Préhistoire-VIIe siècle",
+      "title": "Perles et colorants",
+      "short": "Des traces d'habitation humaine remontant à 50 000 ans ont été trouvées au Qatar, ainsi que des objets mésopotamiens de la période d'Obeïd. Sous les Sassanides, la péninsule contribue au commerce des perles et des colorants ; en 628, la plupart des tribus arabes de l'est de la péninsule se convertissent à l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Les traces d'habitation humaine au Qatar remontent à 50 000 ans. Des colonies et des outils datant de l'âge de pierre ont été mis au jour dans la péninsule. Des objets mésopotamiens, datant de la période d'Obeïd (vers 6500-3800 av. J.-C.), ont été découverts dans des établissements côtiers abandonnés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Les territoires de l'actuel Qatar jouent un rôle dans l'activité commerciale des Sassanides, contribuant notamment à l'apparition de deux produits : les perles précieuses et les colorants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "En 628, le prophète de l'islam Mahomet envoie un émissaire musulman à un dirigeant en Arabie orientale nommé Munzir ibn Sawa Al Tamimi et demande que lui et ses sujets acceptent l'islam. Munzir accepte et, par conséquent, la plupart des tribus arabes de l'est se convertissent."
+        }
+      ]
+    },
+    {
+      "id": "QAT-2",
+      "topic": "histoire",
+      "era": "1517-1538",
+      "title": "Quatre siècles ottomans",
+      "short": "Les Portugais prennent le Qatar en 1517 pour contrôler le commerce du Golfe. En 1538, il est rattaché à l'Empire ottoman pour quatre siècles, une domination lointaine et surtout administrative.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Au XVIe siècle, les Portugais occupent le détroit d'Ormuz, puis Mascate et Bahreïn, d'où ils sont en concurrence avec l'Empire ottoman. En 1517, ils prennent le Qatar et imposent leurs contrôles maritimes et commerciaux dans le Golfe. En 1538, le Qatar est rattaché à l'Empire ottoman, rattachement qui dure quatre siècles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "de même leur domination demeure relativement lointaine et surtout administrative."
+        }
+      ]
+    },
+    {
+      "id": "QAT-3",
+      "topic": "histoire",
+      "era": "1867",
+      "title": "La naissance de la dynastie Al Thani",
+      "short": "Au XIXe siècle, la famille Al Khalifa de Bahreïn domine la péninsule. En 1867, elle attaque les rebelles qatariens ; les Britanniques négocient alors avec Mohammed Ben Thani, un notable de Doha. Le Qatar se sépare de Bahreïn, et la famille Al Thani y règne depuis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Pendant le XIXe siècle, période de développement des entreprises britanniques, la famille Al Khalifa règne sur la péninsule qatarienne et l'île de Bahreïn."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "En 1867, les Al Khalifa lancent une offensive massive contre les rebelles qatariens en envoyant une force navale à Wakrah. Malgré le succès de l'opération, l'agression bahreïnienne viole un traité de 1820 entre le Royaume-Uni et les Bahreïniens. La réponse diplomatique britannique ne se fait pas attendre, le colonel Lewis Pelly, responsable du protectorat, commence des pourparlers avec un responsable du Qatar. Ces pourparlers aboutissent à une séparation tacite du statut du Qatar d'avec celui de Bahreïn. L'homme choisi pour négocier avec le colonel Pelly est un entrepreneur respecté et un résident de longue date de Doha : Mohammed Ben Thani. La famille Al Thani a jusqu'alors été relativement inactive dans la politique du Golfe, mais cet événement lui assure l'ascendant sur le Qatar en tant que famille régnante, toujours en place à ce jour."
+        }
+      ]
+    },
+    {
+      "id": "QAT-4",
+      "topic": "histoire",
+      "era": "1971",
+      "title": "Indépendant plutôt qu'émirien",
+      "short": "Quand les Britanniques annoncent leur départ du Golfe, le Qatar envisage d'abord une fédération avec Bahreïn et les futurs Émirats arabes unis. Mais il choisit finalement de proclamer seul son indépendance, en 1971.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "La Seconde Guerre mondiale remet en cause l'emprise des Britanniques sur leur Empire, particulièrement quand l'Inde devient indépendante en 1947. L'incitation à un retrait semblable des émirats du Golfe s’accélère pendant les années 1950, et les Britanniques accueillent bien la déclaration d'indépendance du Koweït en 1961.\nSept ans plus tard, ils annoncent officiellement qu’ils se désengagent (politiquement, mais pas économiquement) du Golfe dans un délai de trois ans. Le Qatar, Bahreïn et sept autres États forment une fédération. Néanmoins, des conflits régionaux amènent le Qatar à déclarer son indépendance vis-à-vis de la coalition qui devient les Émirats arabes unis. L'année 1971 marque la naissance du Qatar comme État souverain, qui devient membre de l'Organisation des Nations unies."
+        }
+      ]
+    },
+    {
+      "id": "QAT-5",
+      "topic": "economie",
+      "title": "Le géant du gaz",
+      "short": "Fin 2013, le Qatar détient les troisièmes réserves de gaz du monde, après l'Iran et la Russie. Avec ses revenus, il investit dans les médias, comme la chaîne Al Jazeera, et dans le sport : il a accueilli la Coupe du monde de football 2022.",
+      "long": "Les chantiers de la Coupe du monde ont mis en lumière la situation des travailleurs migrants, soumis jusqu'en 2016 au système de parrainage de la kafala. Les immigrés représentent 65 % de la population.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Le Qatar détient actuellement[C'est-à-dire ?] les troisièmes réserves de gaz (24 700 milliards de mètres cubes soit 13,3 % des réserves prouvées mondiales à fin 2013) après l’Iran et la Russie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "abrite la chaîne d'informations Al Jazeera et accueille la Coupe du monde de football 2022."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Les fortes réactions suscitées dans le monde par les morts sur les chantiers de la Coupe du monde de football 2022 et la crainte que les conditions de travail sur ces chantiers n'occasionnent la mort de plus de 4 000 travailleurs étrangers avant même le début de la Coupe du monde ont amené le gouvernement du Qatar à promettre une nouvelle législation qui abolirait le système de « parrainage », le kafala, au cœur des problèmes constatés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "Jusqu'en 2016, les travailleurs migrants sont soumis à la « kafala »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "la population du Qatar est composée à 65 % d'ouvriers immigrés"
+        }
+      ]
+    },
+    {
+      "id": "QAT-6",
+      "topic": "politique",
+      "era": "2017",
+      "title": "Le blocus de 2017",
+      "short": "En juin 2017, l'Arabie saoudite, les Émirats arabes unis, Bahreïn et l'Égypte rompent leurs relations diplomatiques avec le Qatar, après des propos conciliants envers l'Iran attribués à son émir, qui les a démentis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Qatar",
+          "quote": "En 2017, une crise diplomatique secoue les pays du Golfe après des propos conciliants attribués à l'émir du Qatar envers l'Iran, le Hamas et le Hezbollah. Bien que l'émir Tamim ben Hamad Al Thani ait démenti avoir formulé de telles déclarations, l'Arabie saoudite, les Émirats arabes unis, l'Égypte, Bahreïn, le gouvernement yéménite d'Abdrabbo Mansour Hadi, le gouvernement libyen de Tobrouk, la Mauritanie, les Maldives, les Comores et l'île Maurice annoncent à partir du 5 juin 2017 la rupture de leurs relations diplomatiques avec le Qatar"
+        }
+      ]
+    },
+    {
+      "id": "QAT-7",
+      "topic": "drapeau",
+      "title": "Neuf pointes pour neuf émirats",
+      "short": "Le drapeau bordeaux a des proportions inhabituelles : il est 2,54 fois plus large que haut. Sa bande blanche à neuf pointes représente les neuf émirats du Golfe de l'époque : les sept émirats des actuels Émirats arabes unis, Bahreïn et le Qatar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Qatar",
+          "quote": "Le drapeau du Qatar adopte une proportion inhabituelle de 11:28, soit une largeur 2,54 fois plus grande que la hauteur. Il est bordeaux avec le côté blanc découpé en dents de scie (neuf pointes blanches) sur le côté de la hampe du drapeau (à gauche quand on regarde le drapeau dans le sens normal). Les neuf pointes représentent les neuf émirats du golfe Persique : les sept Émirats arabes unis (Abou Dabi, Ajman, Charjah, Dubaï, Fujaïrah, Ras el Khaïmah et Oumm al Qaïwaïn), Bahreïn et le Qatar."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "QAT-C1",
+      "topic": "histoire",
+      "era": "1850-1971",
+      "title": "Le port des perles",
+      "short": "Doha, « le rond » en arabe, désigne une baie. La ville est fondée en 1850 sous le nom d'Al-Bida'a, sur le site d'un petit port de pêche et de perles. Elle devient la capitale du Qatar indépendant en septembre 1971.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Doha",
+          "quote": "Doha (en arabe : الدوحة / ad-dawḥa, littéralement « rond », un mot arabe pour un golfe ou une baie) est la capitale du Qatar."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Doha",
+          "quote": "La ville est fondée en 1850 sous le nom de Al-Bida'a, sur un emplacement déjà connu, petit port de pêche et de perles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Doha",
+          "quote": "En septembre 1971, Doha devient la capitale du Qatar indépendant."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite péninsule en forme de pouce, pointée vers le nord au milieu du golfe Persique, collée à l'Arabie saoudite, à l'est de Bahreïn.",
+    "flag": "Bordeaux, avec une bande blanche dentelée à neuf pointes côté mât, et très allongé. Bahreïn est rouge vif avec cinq pointes.",
+    "capital": "Doha, sur la côte est de la péninsule."
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "JOR",
+  "facts": [
+    {
+      "id": "JOR-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Les bâtisseurs de Pétra",
+      "short": "Entre le Croissant fertile et l'Arabie, la Jordanie a vu se succéder de nombreux peuples : Ammonites, Édomites et Moabites y avaient leurs capitales. La civilisation la plus connue y est sans doute celle des Nabatéens, qui ont laissé de riches vestiges comme la cité de Pétra.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Beaucoup de civilisations et de royaumes se sont succédé sur le sol jordanien, à cheval entre le croissant fertile et l'Arabie. Certains peuples historiques y ont établi leurs capitales comme les Ammonites, les Édomites, les Moabites. D'autres civilisations ont également dominé cette région, tels les Akkadiens, les Qédarites, les Assyriens, les Babyloniens, les Perses, ainsi que l'Égypte pharaonienne ou encore la dynastie juive hasmonéenne des Maccabées. La civilisation la plus connue en Jordanie a probablement été la civilisation nabatéenne qui y a laissé de riches vestiges archéologiques comme Pétra."
+        }
+      ]
+    },
+    {
+      "id": "JOR-2",
+      "topic": "histoire",
+      "era": "1921-1946",
+      "title": "L'émirat de Transjordanie",
+      "short": "Après la Première Guerre mondiale, la région passe sous mandat britannique. En 1923, les Britanniques séparent les terres à l'est du Jourdain, qui forment l'émirat hachémite de Transjordanie, confié à Abdallah ben al-Hussein. L'émirat devient un royaume indépendant en 1946.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Au cours de la Première Guerre mondiale, les Britanniques conquièrent sur l’Empire ottoman"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1923, lors de l’officialisation du mandat sur la Palestine, et avec la volonté de respecter les promesses formulées envers Hussein ibn Ali et le mouvement sioniste (accords Hussein-Mac Mahon de 1915 et Déclaration Balfour de 1917), les Britanniques scindent la région en deux parties séparées par le Jourdain : la Palestine mandataire à l’Ouest du Jourdain incluant un « foyer national juif » et, à l’Est du Jourdain, l'« émirat hachémite de Transjordanie »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Ce territoire de Transjordanie est attribué par les Britanniques à Abdallah bin al-Hussein, déjà présent sur place"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1946, l'émirat acquiert l'indépendance totale et devient le « royaume hachémite de Transjordanie »."
+        }
+      ]
+    },
+    {
+      "id": "JOR-3",
+      "topic": "histoire",
+      "era": "1948-1967",
+      "title": "De la Transjordanie à la Jordanie",
+      "short": "Après la guerre de 1948, le royaume annexe la Cisjordanie et Jérusalem-Est, une annexion condamnée par la communauté internationale. En 1949, il abandonne le préfixe « Trans- » et devient la Jordanie. En 1967, pendant la guerre des Six Jours, il perd ces territoires en moins de 72 heures de combats.",
+      "long": "En 1974, le roi Hussein renonce à toute revendication sur la Cisjordanie et reconnaît l'OLP comme seul représentant légitime du peuple palestinien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1948, le royaume de Transjordanie est un acteur important de la guerre israélo-arabe de 1948 à l'issue de laquelle il occupe les collines de Samarie et le désert de Judée qu'il annexe et rebaptise Cisjordanie (faisant écho à la Transjordanie). De même, il avance dans Jérusalem et prend le contrôle de la moitié Est de la ville. Cette annexion est condamnée par la communauté internationale, sauf par la Grande-Bretagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1949, pour marquer ses modifications territoriales, le royaume change de nom pour devenir le « royaume hachémite de Jordanie » (sans le préfixe « Trans- ») ou plus communément, la Jordanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Lors de la guerre des Six Jours en 1967, son armée est vaincue en moins de 72 heures de combats contre les Israéliens, qui s'emparent de la Cisjordanie et de Jérusalem-Est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1974, Hussein renonce à toute revendication sur la Cisjordanie et reconnait l'Organisation de libération de la Palestine comme seul représentant légitime du peuple palestinien"
+        }
+      ]
+    },
+    {
+      "id": "JOR-4",
+      "topic": "histoire",
+      "era": "1994-1999",
+      "title": "La paix avec Israël",
+      "short": "En 1994, la Jordanie signe un traité de paix avec Israël. Le roi Hussein meurt le 7 février 1999 ; son fils Abdallah II lui succède.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "En 1994 est signé le traité de paix israélo-jordanien, donnant lieu à des modifications mineures sur les frontières"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Le roi Hussein meurt le 7 février 1999. Son fils, Abdallah II, lui succède"
+        }
+      ]
+    },
+    {
+      "id": "JOR-5",
+      "topic": "culture",
+      "title": "Une terre de refuge",
+      "short": "La Jordanie accueille de nombreux réfugiés palestiniens, venus fuir la guerre : on en compte près de 2 millions. S'y ajoutent plus de 2 millions de réfugiés syriens, ce qui aggrave le problème d'accès à l'eau dans ce pays aride.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Il accueille également sur son territoire plusieurs centaines de milliers de Palestiniens fuyant la guerre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Le royaume accueille 300 000 Palestiniens qui fuient les combats."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "il y a 1 951 603 réfugiés Palestiniens dans le pays et plus de 2 millions de réfugiés syriens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "Le problème d'accès à l'eau s'est aggravé du fait de l'afflux massif de réfugiés syriens en Jordanie"
+        }
+      ]
+    },
+    {
+      "id": "JOR-6",
+      "topic": "geographie",
+      "title": "Au bord du point le plus bas",
+      "short": "La Jordanie est surtout un plateau désertique, séparé d'Israël par le Jourdain et la vallée du Grand Rift. Son point le plus bas est la mer Morte ; son seul accès à la mer est un littoral de 26 km sur le golfe d'Aqaba, au fond de la mer Rouge.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "La Jordanie possède également 26 km de littoral le long du golfe d'Aqaba au nord-est de la mer Rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jordanie",
+          "quote": "La Jordanie est composée principalement d’un plateau désertique aride à l'Est, et d’une région montagneuse à l'Ouest. La vallée du Grand Rift et le Jourdain séparent la Jordanie d'Israël. Le point culminant du pays est le jabal Umm ad Dami (1 854 mètres), tandis que la mer Morte en est le point le plus bas."
+        }
+      ]
+    },
+    {
+      "id": "JOR-7",
+      "topic": "drapeau",
+      "era": "1916-1921",
+      "title": "Le drapeau de la révolte arabe",
+      "short": "Le drapeau reprend celui de la révolte arabe contre les Ottomans de 1916. Le noir, le blanc et le vert évoquent les grands califats (abbasside, omeyyade, fatimide), le triangle rouge la maison hachémite. L'étoile à sept branches représente les sept versets de la première sourate du Coran.",
+      "long": "L'étoile est la principale différence avec le drapeau palestinien. On dit aussi qu'elle peut symboliser les sept collines sur lesquelles Amman est bâtie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jordanie",
+          "quote": "Il est basé sur le drapeau de la révolte arabe contre les Ottomans pendant la Première Guerre mondiale. Il reprend donc les couleurs panarabes : le noir, le blanc et le vert en bandes horizontales avec un triangle rouge à la hampe (sur la gauche)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jordanie",
+          "quote": "Hussein ben Ali dessine une première version du drapeau lorsqu'il proclame l'indépendance du Hedjaz en 1916."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jordanie",
+          "quote": "Le triangle rouge symbolise la « maison hachémite » de Mahomet.\nLa bande noire symbolise les Abbassides de Bagdad (750-1258).\nLa bande blanche symbolise les Omeyyades de Damas (661-750).\nLa bande verte symbolise les Fatimides du Caire (969-1171).\nL'étoile à sept branches représente les sept versets de la première sourate du Coran. Elle peut aussi symboliser l'unité des peuples arabes ou les sept collines sur laquelle Amman, capitale de la Jordanie, est construite. Avec la taille du triangle rouge, c'est la seule différence entre le drapeau de la Jordanie et celui de la Palestine."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "JOR-C1",
+      "topic": "histoire",
+      "era": "Antiquité-1921",
+      "title": "Rabbath Ammon, Philadelphia, Amman",
+      "short": "Capitale des Ammonites sous le nom de Rabbath Ammon, la ville est rebaptisée Philadelphia par le souverain d'Égypte Ptolémée II, puis passe sous domination romaine. Bâtie à l'origine sur sept collines, d'où son surnom de « Rome du Moyen-Orient », elle est la capitale du pays depuis 1921.",
+      "long": "Son théâtre romain, le plus grand de Jordanie, compte 6 000 places.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amman",
+          "quote": "Amman avait pour nom Rabbath Ammon et était la capitale des Ammonites. Elle est ensuite envahie par les Assyriens, suivis par les Perses puis les Grecs. Ptolémée II Philadelphe, le dirigeant lagide d'Égypte, la renomme Philadelphia."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amman",
+          "quote": "où Philadelphia passe sous la domination de l'Empire romain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amman",
+          "quote": "La ville était à l'origine bâtie sur sept collines (ce qui lui a valu le surnom de Rome du Moyen-Orient)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amman",
+          "quote": "En 1921, Abdallah Ier la choisit comme capitale de son État nouvellement créé, l'émirat de Transjordanie, devenu plus tard le royaume hachémite de Jordanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Amman",
+          "quote": "Derrière l'emplacement de l'ancien forum se trouve le théâtre romain, le plus grand de Jordanie, avec 6 000 places."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "À l'est du Jourdain et de la mer Morte, entre Israël, la Syrie, l'Irak et l'Arabie saoudite, avec un petit accès à la mer Rouge par Aqaba.",
+    "flag": "Bandes noire, blanche et verte avec un triangle rouge côté mât, portant une petite étoile blanche à sept branches. Sans l'étoile, c'est le drapeau palestinien.",
+    "capital": "Amman, la ville aux sept collines, au nord-ouest du pays."
+  }
+}

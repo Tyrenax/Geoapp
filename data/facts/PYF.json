@@ -1,0 +1,160 @@
+{
+  "id": "PYF",
+  "facts": [
+    {
+      "id": "PYF-1",
+      "topic": "histoire",
+      "era": "IIe-XIIe siècle",
+      "title": "Le cœur de la Polynésie",
+      "short": "Les navigateurs austronésiens atteignent probablement les Marquises au IIe siècle, puis les îles de la Société vers 300. De là, les Polynésiens auraient essaimé vers l'île de Pâques, Hawaï et la Nouvelle-Zélande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "Les premières îles atteintes sont probablement les îles Marquises au IIe siècle, puis les îles de la Société vers 300 de notre ère. Les Polynésiens auraient alors depuis cette base essaimé vers l'île de Pâques (500), Hawaï (900) et la Nouvelle-Zélande (1100)."
+        }
+      ]
+    },
+    {
+      "id": "PYF-2",
+      "topic": "histoire",
+      "era": "1767-1797",
+      "title": "Wallis, Bougainville et Cook",
+      "short": "Tahiti n'est découverte par les Européens qu'en 1767, par le Britannique Samuel Wallis, suivi par Bougainville en 1768 et par Cook en 1769. À la fin du XVIIIe siècle, le chef tahitien Pōmare Ier fonde la dynastie des Pomare, alliée aux Anglais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "Tahiti n'est découverte par les Européens qu'en 1767 par le Britannique Samuel Wallis, suivi en 1768 par Bougainville et par Cook en 1769."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "La fin du XVIIIe siècle est marquée par la promotion de Pōmare Ier, un chef de Tahiti qui, allié aux Anglais, fonde la lignée des Pomare"
+        }
+      ]
+    },
+    {
+      "id": "PYF-3",
+      "topic": "histoire",
+      "era": "1843-1880",
+      "title": "La fin du royaume de Tahiti",
+      "short": "Après la guerre franco-tahitienne (1844-1847), la reine Pōmare IV doit accepter le protectorat français établi en 1843. En 1880, le roi Pōmare V cède son royaume à la France ; ses sujets deviennent citoyens français, avec le droit de vote, ce qui était rare dans les colonies.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "Les années 1840 sont marquées par le début de l'implantation coloniale française, d'abord aux Marquises puis à Tahiti, où, au terme de la guerre franco-tahitienne (1844-1847) la reine Pōmare IV doit finalement accepter le protectorat français établi en 1843. En 1880, le roi Pōmare V accepte de céder son royaume de Tahiti à la France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "La cession à la République française du royaume tahitien est ratifiée par la loi du 30 décembre 1880 qui donne la nationalité française de plein droit à tous les sujets du roi Pomare. Avec la citoyenneté française, les habitants ont le droit de vote, ce qui était rarement le cas pour les indigènes des autres colonies françaises, simples sujets français."
+        }
+      ]
+    },
+    {
+      "id": "PYF-4",
+      "topic": "histoire",
+      "era": "1949-1968",
+      "title": "Pouvanaa Oopa",
+      "short": "Ancien combattant de la Première Guerre mondiale, Pouvanaa Oopa est élu député en 1949 et fonde un parti autonomiste, le RDPT. Arrêté en 1958 malgré son immunité de député, il est condamné à 8 ans de prison et 15 ans d'exil ; à son retour en 1968, il est accueilli triomphalement à Papeete.",
+      "long": "En 1942, l'armée américaine installe à Bora-Bora une base qui accueille jusqu'à 6 000 soldats.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "Des habitants des Établissements français de l'Océanie (EFO) participent aux combats de la Première Guerre mondiale avec le bataillon du Pacifique ; parmi eux le futur chef du mouvement anticolonialiste, Pouvanaa Oopa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "en 1949, Pouvanaa Oopa est élu député et fonde le RDPT, parti autonomiste, qui domine la vie politique dans les années 1950"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "L'arrestation de Pouvanaa Oopa le 11 octobre 1958, bafouant son immunité de député, condamné à 8 ans de prison et à 15 ans d'exil"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "La mesure d'exil à l'encontre de Pouvanaa Oopa est levée en 1968, il est accueilli triomphalement à Papeete"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "En 1942, l'armée américaine installe une base militaire sur l'île de Bora-Bora dans le cadre de l'opération Bobcat. Accueillant jusqu'à 6 000 soldats"
+        }
+      ]
+    },
+    {
+      "id": "PYF-5",
+      "topic": "histoire",
+      "era": "1966-1996",
+      "title": "Les essais nucléaires",
+      "short": "À partir de 1962, la France installe en Polynésie son Centre d'expérimentations du Pacifique, à Moruroa et Fangataufa. Entre 1966 et 1974, elle y mène 46 essais nucléaires atmosphériques, suivis de plus de 150 essais souterrains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "À partir de 1962, et consécutivement au référendum sur l'autodétermination de l'Algérie de janvier 1961, la Polynésie française entre dans une ère nouvelle : celle de l'installation du Centre d'expérimentations du Pacifique (CEP) qui amène plusieurs milliers de militaires et de techniciens dans le territoire, à Moruroa, Fangataufa, Hao"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "La France a mené 46 essais nucléaires atmosphériques en Polynésie entre 1966 et 1974, suivis de plus de 150 essais souterrains."
+        }
+      ]
+    },
+    {
+      "id": "PYF-6",
+      "topic": "geographie",
+      "title": "Le fenua aux 118 îles",
+      "short": "La Polynésie française compte cinq archipels et 118 îles, dont 76 habitées : la Société, les Tuamotu, les Gambier, les Australes et les Marquises. Les Polynésiens l'appellent fenua, « le pays » en tahitien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Polynésie_française",
+          "quote": "composée de cinq archipels regroupant 118 îles dont 76 sont habitées : l'archipel de la Société avec les îles du Vent et les îles Sous-le-Vent, l'archipel des Tuamotu, l'archipel des Gambier, les îles Australes et l'archipel des Marquises. Les Polynésiens la désignent par le terme fenua, mot signifiant « le pays » en tahitien."
+        }
+      ]
+    },
+    {
+      "id": "PYF-7",
+      "topic": "drapeau",
+      "era": "1985",
+      "title": "La pirogue sur le soleil",
+      "short": "Adopté en 1985, le drapeau rouge, blanc, rouge s'inspire de celui de l'ancien royaume de Tahiti. Il a été conçu par Alfred Chalons, un professeur qui a participé au concours avec ses élèves. Il flotte aux côtés du drapeau français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Polynésie_française",
+          "quote": "Le drapeau de la Polynésie française a été officiellement adopté le 4 décembre 1985. Il est composé de trois bandes horizontales, respectivement rouge, blanche et rouge, la bande centrale étant deux fois plus large que les deux bandes externes et ornée de l'emblème de la Polynésie française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Polynésie_française",
+          "quote": "Le drapeau a été conçu par Alfred Chalons, professeur de technologie et d'arts plastiques au lycée-collège La Mennais, qui a participé au concours avec le soutien de ses élèves."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Polynésie_française",
+          "quote": "Il est inspiré du drapeau du royaume de Tahiti."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Polynésie_française",
+          "quote": "dans les manifestations publiques officielles aux côtés de l'emblème national et des signes de la République »."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PYF-C1",
+      "topic": "histoire",
+      "era": "1818",
+      "title": "Le panier à eau",
+      "short": "Le nom Papeete se traduit par « l'eau en forme de corbeille » ou « le panier à eau ». La ville est fondée en 1818 par le missionnaire anglais William Pascoe Crook, et devient la capitale du royaume de Tahiti lors de l'instauration du protectorat français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papeete",
+          "quote": "Il existe plusieurs traductions de ce toponyme dans différents ouvrages : l'« eau en forme de corbeille », l'« eau de la corbeille », la « corbeille d'eau » et le « panier à eau »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papeete",
+          "quote": "La ville de Papeete n'est fondée qu'en 1818 par le missionnaire anglais William Pascoe Crook.\nLa reine Pōmare IV y établit sa cour en 1827. Elle devient officiellement capitale de Tahiti (et plus généralement du royaume de Tahiti) lors de l'instauration du protectorat français en 1842."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un immense semis d'îles au centre du Pacifique Sud, à l'est des îles Cook, à mi-chemin entre l'Australie et l'Amérique du Sud.",
+    "flag": "Rouge, blanc, rouge, avec au centre un emblème rond : une pirogue sur un soleil et des vagues.",
+    "capital": "Papeete, sur l'île de Tahiti, dans l'archipel de la Société."
+  }
+}

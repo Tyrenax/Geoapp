@@ -1,0 +1,148 @@
+{
+  "id": "YEM",
+  "facts": [
+    {
+      "id": "YEM-1",
+      "topic": "histoire",
+      "era": "XIIe-VIIe siècle av. J.-C.",
+      "title": "Le royaume de Saba",
+      "short": "À partir du XIIe siècle av. J.-C. naissent des royaumes sudarabiques, dont le plus puissant est Saba, cité dans la Bible et le Coran. Vers 700 av. J.-C., les Sabéens bâtissent le grand barrage de Marib, considéré comme une merveille d'ingénierie du monde antique.",
+      "long": "À son apogée, Saba étend sa souveraineté sur une grande partie de l'Arabie du Sud et jusqu'au nord de l'Éthiopie et de l'Érythrée actuelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "À partir du XIIe siècle av. J.-C., les principaux royaumes sudarabiques commencèrent à prendre forme. Ils se nommaient Saba, Hadramaout, Qataban et Ma'in. Le plus puissant, Saba (en arabe : سَـبَـأ) est connu par ses mentions dans la Bible et dans le Coran. Les souverains sabéens portaient le titre de « mukarrib », signifiant « unificateur » ou « roi-prêtre ». Vers 700 av. J.-C, les Sabéens construisirent le grand barrage de Marib, pour résister aux crues soudaines et saisonnières qui déferlaient dans la vallée. L'ouvrage est considéré comme une merveille d'ingénierie du monde antique et l'un des plus beaux exemples d'architecture de la péninsule Arabique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "À son apogée, sous le règne de Karib'il Watar, le royaume de Saba étendit sa souveraineté sur une grande partie de l'Arabie du Sud et dans le nord de l'Éthiopie et de l'Érythrée actuelles."
+        }
+      ]
+    },
+    {
+      "id": "YEM-2",
+      "topic": "histoire",
+      "era": "IVe-VIe siècle",
+      "title": "Un royaume juif en Arabie",
+      "short": "Sous le roi Abîkarib As'ad (380-440), le royaume de Himyar fait du judaïsme sa religion officielle. Au VIe siècle, une lutte religieuse oppose juifs et chrétiens, jusqu'à l'invasion du pays par le royaume d'Aksoum, en 525.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Durant le règne d'Abîkarib As'ad (380-440 de notre ère), Himyar prit le contrôle de l'Arabie centrale (Nejd). Le judaïsme devint la religion officielle de l'État à la suite de la conversion d'Abîkarib As'ad."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Une lutte religieuse se développe entre chrétiens et juifs sous couvert d'une guerre civile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Mais l'Empire est impuissant à contrer la grande invasion du pays en 525 par le royaume d'Aksoum."
+        }
+      ]
+    },
+    {
+      "id": "YEM-3",
+      "topic": "culture",
+      "title": "L'Arabie heureuse",
+      "short": "En arabe, Yémen signifie « la droite » : les anciens Sémites s'orientaient face au soleil levant, le sud était donc à leur droite. Le mot est aussi rapproché d'un terme signifiant « prospérité », d'où l'ancien surnom d'« Arabie heureuse » : le Yémen est l'une des zones les plus irriguées de la péninsule.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "En arabe, Yemen signifie « la droite ». En effet, les anciens Sémites avaient pris l'habitude de s'orienter en regardant le soleil levant, c'est-à-dire vers l'est. Le sud était alors situé à leur droite, tandis que le nord était désigné sous le terme de ash-shamal, qui dérive du mot al-ashmal signifiant « la gauche »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Le terme arabe « al-yiumna » qui signifie « prospérité », expliquerait aussi l'interprétation selon laquelle le sud en général et le Yémen en particulier seraient associés à la richesse, d'où le surnom d'« Arabie Heureuse » qui lui a été attribué jadis. Il se trouve, en effet, que le Yémen est l'une des zones les plus irriguées de la péninsule arabique."
+        }
+      ]
+    },
+    {
+      "id": "YEM-4",
+      "topic": "histoire",
+      "era": "1839-1990",
+      "title": "Deux Yémen réunis",
+      "short": "Les Britanniques occupent Aden en 1839 pour contrôler la route des Indes ; au nord, les Ottomans occupent le pays de 1873 à 1918. Le nord devient une république en 1962, le sud un État indépendant pro-soviétique en 1967. Les deux Yémen se réunissent le 22 mai 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Au sud, les Britanniques occupent Aden en 1839 afin de contrôler la route des Indes et au nord les Ottomans profitent de l'instabilité politique et envahissent le pays en 1873, l'occupant jusqu'en 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "La monarchie (imamat), qui portait le nom de royaume mutawakkilite du Yémen, est abolie en 1962 et la partie nord du pays prend le nom de république arabe du Yémen (Yémen du Nord), où une guerre civile dure jusqu'en 1970.\nLa partie sud du Yémen correspond à l'ancienne colonie britannique, formée progressivement à partir de 1839 autour du port d'Aden. Après le départ des troupes britanniques, la fédération d'Arabie du Sud et le protectorat d'Arabie du Sud se regroupent en 1967 pour former un nouvel État indépendant, la république démocratique populaire du Yémen (Yémen du Sud), d'orientation pro-soviétique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Le 22 mai 1990, le Yémen du Nord et le Yémen du Sud se réunissent pour former la république du Yémen actuelle."
+        }
+      ]
+    },
+    {
+      "id": "YEM-5",
+      "topic": "histoire",
+      "era": "2014-2017",
+      "title": "La guerre et la famine",
+      "short": "En 2014-2015, les rebelles houthis, venus du nord, s'emparent du palais présidentiel et poussent le président Hadi à fuir, d'abord à Aden puis en Arabie saoudite. À partir de mars 2015, une coalition menée par l'Arabie saoudite bombarde les rebelles. Fin 2017, l'ONU estime que plus de huit millions de Yéménites sont au bord de la famine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Débordé en septembre 2014 par le mouvement chiite houthiste, venu de l'extrême nord du pays, et par certains éléments de l'armée, il est contraint à la démission en janvier 2015, lorsque les houthistes s'emparent du palais présidentiel. Il se réfugie en février à Aden, port stratégique du sud du pays, qui plonge dans les violences inter-confessionnelles et les attaques terroristes. Fin mars, alors que les rebelles houthis s'emparent peu à peu d'Aden, le président Hadi fuit le pays et se réfugie en Arabie saoudite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "À partir de mars 2015, une coalition de plusieurs pays arabes sunnites dirigée par l'Arabie saoudite lance de nombreuses frappes aériennes contre les positions rebelles houthis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "En décembre 2017, l'ONU indique que plus de huit millions de personnes sont « à deux doigts de la famine » en raison du blocus des ports."
+        }
+      ]
+    },
+    {
+      "id": "YEM-6",
+      "topic": "drapeau",
+      "era": "1990",
+      "title": "Le drapeau de la réunification",
+      "short": "Adopté en mai 1990, à la réunification, le drapeau reprend les couleurs panarabes. Officiellement, le rouge symbolise le sang des martyrs et l'unité, le blanc un avenir radieux, et le noir les heures sombres du passé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Yémen",
+          "quote": "Il est adopté en mai 1990 quand les deux Yémen se sont réunis pour former un seul et unique pays. Les trois couleurs du drapeau sont les couleurs panarabes, déjà présentes sur les drapeaux du Sud et du Nord Yémen comme sur de nombreux autres pays de la région.\nSelon les sources officielles, le rouge symbolise le sang des martyrs et l'unité ; le blanc, un avenir radieux et le noir, les heures sombres du passé."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "YEM-C1",
+      "topic": "culture",
+      "era": "1986",
+      "title": "Une vieille ville en péril",
+      "short": "Héritière de l'architecture des Sabéens, la vieille ville de Sanaa est inscrite au patrimoine mondial de l'UNESCO depuis 1986. En 2015, en pleine guerre, elle est placée sur la liste du patrimoine en péril.",
+      "long": "En 2015, le président Hadi, chassé de Sanaa par les Houthis, se réfugie à Aden, le grand port du sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sanaa",
+          "quote": "Sanaa est un chef-d'œuvre artistique et architectural ancien héritant de l'architecture sabéenne antique, ce qui rend la ville unique et l'a fait inscrire au patrimoine mondial de l'UNESCO en 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sanaa",
+          "quote": "Le 2 juillet 2015, la vieille ville est inscrite sur la liste du patrimoine mondial en péril."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Il se réfugie en février à Aden, port stratégique du sud du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "quote": "Débordé en septembre 2014 par le mouvement chiite houthiste, venu de l'extrême nord du pays, et par certains éléments de l'armée, il est contraint à la démission en janvier 2015, lorsque les houthistes s'emparent du palais présidentiel. Il se réfugie en février à Aden, port stratégique du sud du pays, qui plonge dans les violences inter-confessionnelles et les attaques terroristes. Fin mars, alors que les rebelles houthis s'emparent peu à peu d'Aden, le président Hadi fuit le pays et se réfugie en Arabie saoudite."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe sud-ouest de la péninsule Arabique, au sud de l'Arabie saoudite, face à Djibouti et à la Corne de l'Afrique.",
+    "flag": "Trois bandes rouge, blanc, noir, sans aucun emblème. L'Égypte ajoute un aigle doré, l'Irak une inscription verte.",
+    "capital": "Sanaa, dans les montagnes de l'ouest ; Aden, le grand port du sud, est aussi acceptée."
+  }
+}

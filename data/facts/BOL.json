@@ -1,0 +1,215 @@
+{
+  "id": "BOL",
+  "facts": [
+    {
+      "id": "BOL-1",
+      "topic": "histoire",
+      "era": "1825",
+      "title": "Un pays baptisé du nom de son libérateur",
+      "short": "La guerre d'indépendance commence en 1809 et ne s'achève qu'en 1825, grâce aux armées de Bolívar. Le nouveau pays prend alors son nom en son honneur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "Les luttes pour l'indépendance débutèrent en 1809 et celle-ci fut acquise en 1825, grâce aux armées de Bolívar, en hommage duquel la Bolivie prit son nom."
+        }
+      ]
+    },
+    {
+      "id": "BOL-2",
+      "topic": "histoire",
+      "era": "600-1150",
+      "title": "Tiwanaku, une civilisation millénaire",
+      "short": "Sur les rives du lac Titicaca est née la civilisation de Tiwanaku, devenue une puissance régionale à partir de l'an 600.",
+      "long": "Ses élites tiraient leur pouvoir des surplus de nourriture qu'elles collectaient dans les régions voisines, puis redistribuaient à la population. Plutôt que d'anéantir les peuples soumis, Tiwanaku les absorbait : on retrouve sa céramique dans toutes les cultures entrées dans son orbite.\n\nVers 1150, la production agricole s'effondre et ne suffit plus à nourrir une population nombreuse : la cité disparaît. Les Aymaras d'aujourd'hui se considèrent comme les héritiers de cette culture.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "Parmi les curiosités géographiques du pays, on peut citer le lac Titicaca, situé à cheval entre le Pérou et la Bolivie qui est le plus haut lac navigable du monde. Sa vaste étendue permet un microclimat clément sur ses rives qui furent le berceau de la civilisation tiwanaku"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Present-day Aymaras associate themselves with the advanced culture of Tiwanaku, which after 600 became an important regional power."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Tiwanaku continued to absorb cultures rather than eradicate them. Archaeologists note a dramatic adoption of Tiwanaku ceramics into the cultures which became part of the Tiwanaku empire."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Tiwanaku's elites gained their status through the surplus food they controlled, collected from outlying regions, and then redistributed to the general populace."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Tiwanaku disappeared around AD 1150 because food production collapses and could no longer sustain the large population."
+        }
+      ]
+    },
+    {
+      "id": "BOL-3",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Potosí, la montagne d'argent",
+      "short": "Au XVIe siècle, les Espagnols trouvent au Cerro Rico, la « montagne riche » de Potosí, tant d'argent que la ville devient le premier site d'extraction de ce métal au monde.",
+      "long": "La ville est fondée en 1546, peu après la découverte du gisement, que les Espagnols ont appris d'un Indien nommé Diego Huallpa. L'argent de Potosí a fait une bonne part de la richesse de l'Empire espagnol, et la ville a été pendant environ deux siècles la plus grande de tout l'hémisphère occidental.\n\nSon déclin a eu des suites inattendues : privée de ce moteur économique, Sucre a fini par perdre le siège du gouvernement au profit de La Paz.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "Les Espagnols découvrirent à leur arrivée au XVIe siècle une très grande quantité d'argent-métal, en particulier dans les mines de Potosí, qui deviennent au xvie siècle le premier site mondial d'extraction de ce métal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Bolivie",
+          "quote": "À Potosí, ils ont appris l'existence du Cerro Rico (montagne à richesse), la montagne qui domine la ville, grâce à un Indien du nom de Diego Huallpa"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Bolivie",
+          "quote": "En 1546, peu de temps après la découverte de la Cerro Rico, Juan de Villarroel (es) et Diego Centeno (es) fondent la ville de Potosí."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Bolivian silver mines produced much of the Spanish Empires wealth, and Potosí, site of the famed Cerro Rico (\"Rich Mountain\") was for a couple of centuries the largest city in the Western Hemisphere."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Bolivia",
+          "quote": "The seat of government moved to La Paz at the start of the 20th century as a consequence of Sucre's relative remoteness from economic activity after the decline of Potosí and its silver industry and of the Liberal Party in the Acre War."
+        }
+      ]
+    },
+    {
+      "id": "BOL-4",
+      "topic": "histoire",
+      "era": "1879-1904",
+      "title": "Un pays qui a perdu la mer",
+      "short": "Pendant la guerre du Pacifique (1879-1884), le Chili s'empare du littoral bolivien et de ses gisements de nitrate. Le traité de 1904 entérine la perte du seul accès du pays à la mer.",
+      "long": "La Bolivie n'a jamais renoncé : elle entretient toujours une marine, dont les navires naviguent sur les fleuves et les lacs. Son pavillon porte une grande étoile jaune qui symbolise le droit du pays à retrouver un accès à la mer.\n\nCe ne fut pas la dernière amputation. Battue par le Paraguay dans la très meurtrière guerre du Chaco (1932-1935), la Bolivie perd encore du terrain : c'est la fin d'un siècle de reculs de frontières, commencé dès l'indépendance de 1825.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/History_of_Bolivia",
+          "quote": "Bolivia's military weakness was demonstrated during the War of the Pacific (1879–83), when it lost its Pacific seacoast and the adjoining nitrate rich fields to Chile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "À l'issue des premiers revers de la guerre du Pacifique (1879-1884) menée contre le Chili,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "En 1904, elle perdit une partie de son territoire et son unique accès à la mer des suites de la guerre du Pacifique contre le Chili."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flag_of_Bolivia",
+          "quote": "Despite its landlocked status, Bolivia has a naval ensign that is used by navy vessels on rivers and lakes. It consists of a blue field with the state flag in the canton bordered by nine small yellow five-pointed stars, with a larger yellow five-pointed star in the fly.  The nine small stars represent the nine departments of Bolivia, and the larger star the nation's right to sea access (lost in 1884 during the War of the Pacific)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "La défaite après la guerre du Chaco (1932-1935) mit fin à une rétraction constante du territoire bolivien depuis l'indépendance acquise en 1825."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "elle conduisit le président Salamanca à engager son pays dans la très meurtrière guerre du Chaco contre le Paraguay,"
+        }
+      ]
+    },
+    {
+      "id": "BOL-5",
+      "topic": "geographie",
+      "title": "Le plus grand désert de sel du monde",
+      "short": "Sur l'Altiplano, le salar d'Uyuni est la plus vaste étendue de sel de la planète. Il est aussi au cœur des réserves de lithium, métal des batteries, dont la Bolivie détiendrait environ la moitié.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "le salar d'Uyuni, situé à l'ouest du pays, sur le Sud de l'Altiplano dans le département de Potosí, est la plus grande étendue de sel au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bolivie",
+          "quote": "Le pays possèderait la moitié des réserves mondiales de lithium (70 % des réserves étant situées dans le « triangle du lithium » entre trois salars andins : le salar d'Atacama au Chili, le salar d'Uyuni en Bolivie et le salar del Hombre Muerto en Argentine), élément privilégié des batteries modernes, notamment dans le salar d'Uyuni."
+        }
+      ]
+    },
+    {
+      "id": "BOL-6",
+      "topic": "drapeau",
+      "era": "1851",
+      "title": "Rouge, jaune, vert… et la wiphala",
+      "short": "Adopté en 1851, le drapeau évoque le sang des combattants (rouge), les richesses du sous-sol (jaune) et la nature (vert). Depuis 2009, la wiphala, emblème né chez les Quechuas, est aussi un symbole officiel.",
+      "long": "Seul le drapeau de l'État porte les armes de la Bolivie au centre ; le drapeau civil se contente des trois bandes. Le tout premier drapeau, créé à Oruro en 1825, était vert, rouge et vert, avec cinq étoiles pour les cinq départements d'alors.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bolivie",
+          "quote": "L'actuel drapeau de la Bolivie a été adopté le 31 octobre 1851. Il est composé de trois bandes horizontales de même largeur dont les couleurs sont, du haut vers le bas, le rouge, le jaune et le vert : la bande rouge représente le sang perdu par les combattants ayant protégé le pays, la bande jaune représente la richesse minérale et les ressources naturelles ; la bande verte représente la richesse de l'environnement naturel et de ses nombreuses plantes et fleurs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bolivie",
+          "quote": "Le wiphala — à l'origine un symbole des peuples quechuas — est également reconnu comme deuxième symbole de l'État plurinational de Bolivie depuis 2009 par la constitution bolivienne."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flag_of_Bolivia",
+          "quote": "The state and war flag is a horizontal tricolor of red, yellow and green with the Bolivian coat of arms in the center, whereas the civil flag is just the three colors without the coat of arms."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bolivie",
+          "quote": "Le premier drapeau de la Bolivie est créé sur la colline de K'onchupata de la ville d'Oruro, en même temps que les premières armes, le 17 août 1825. Il est constitué de trois bandes horizontales : une verte, une rouge et une verte. Dans la bande rouge sont disposées au centre et en croix, les cinq étoiles représentant les cinq départements créés en même temps que la Bolivie."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BOL-C1",
+      "topic": "histoire",
+      "era": "1898",
+      "title": "Deux capitales après une guerre civile",
+      "short": "Sucre est la capitale inscrite dans la Constitution et le siège de la Cour suprême. Mais depuis 1898, le gouvernement siège à La Paz, à la suite d'une guerre civile perdue par les conservateurs de Sucre face aux libéraux de La Paz.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)",
+          "quote": "Sucre (prononcé /ˈsu.kɾe/) est la capitale constitutionnelle de la Bolivie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Paz",
+          "quote": "La Paz devient le siège du gouvernement bolivien en 1898."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)",
+          "quote": "Perdant sa principale ressource après le déclin économique de Potosí, elle voit le siège du gouvernement bolivien transféré à La Paz à la suite d'une guerre civile perdue par les « conservateurs » sucrenses face aux « libéraux » paceños."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)",
+          "quote": "Elle abrite le siège de la Cour suprême du pays (es), ce qui en fait également la capitale judiciaire."
+        }
+      ]
+    },
+    {
+      "id": "BOL-C2",
+      "topic": "histoire",
+      "era": "1538-1825",
+      "title": "Une ville aux quatre noms",
+      "short": "Fondée en 1538, Sucre s'est appelée Charcas, puis La Plata, puis Chuquisaca. Elle prend son nom actuel en 1825, en l'honneur du maréchal Antonio José de Sucre, compagnon d'armes de Bolívar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)",
+          "quote": "Sucre est également connue sous les noms de Charcas (dénomination originelle jusqu'à 1538), La Plata (période de la vice-royauté du Pérou, entre 1538 et 1776), Chuquisaca (période de la vice-royauté du Río de la Plata entre 1776 et 1825) puis Sucre à partir de 1825 (période républicaine)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)",
+          "quote": "En 1825, lorsque la ville devient la capitale de la Bolivie, elle est rebaptisée en l'honneur du maréchal Antonio José de Sucre, compagnon d'armes du libérateur Simón Bolívar pour l'indépendance de la Bolivie, de la Colombie, de l'Équateur, du Pérou et du Venezuela."
+        }
+      ]
+    },
+    {
+      "id": "BOL-C3",
+      "topic": "geographie",
+      "title": "La Paz, où l'eau bout à 87 °C",
+      "short": "À 3 650 m d'altitude, La Paz est le siège de gouvernement le plus haut du monde. L'air y est si raréfié que l'eau pure bout à 87 °C.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Paz",
+          "quote": "Plusieurs records sont dus à l'altitude de la cité (3 650 m) :\n\ncapitale administrative la plus haute du monde (la capitale constitutionnelle de la Bolivie est Sucre) ;\naéroport international le plus élevé ;\nl'eau pure y bout à 87 °C ;\nstade olympique agréé le plus haut."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Amérique du Sud, sans accès à la mer : sur les Andes, entre le Pérou et le Chili à l'ouest et l'immense Brésil au nord et à l'est. Le lac Titicaca marque sa frontière avec le Pérou. Avec le Paraguay, au sud-est, c'est l'un des deux seuls pays enclavés du continent.",
+    "flag": "Trois bandes égales, rouge, jaune, vert de haut en bas ; le blason au centre n'apparaît que sur le drapeau d'État. Le Ghana a les mêmes couleurs dans le même ordre, mais avec une étoile noire au centre. L'Éthiopie inverse l'ordre (vert en haut), et la Guinée et le Mali reprennent ces couleurs en bandes verticales.",
+    "capital": "Sucre, « douce » comme le sucre, garde la Constitution et les juges ; La Paz, « la Paix », perchée à 3 650 m, abrite le gouvernement. Et Sucre ne doit rien au sucre : la ville porte le nom du maréchal Sucre, le bras droit de Bolívar."
+  }
+}

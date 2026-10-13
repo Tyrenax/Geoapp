@@ -1,0 +1,173 @@
+{
+  "id": "CZE",
+  "facts": [
+    {
+      "id": "CZE-1",
+      "topic": "histoire",
+      "title": "Des Celtes aux « Bohémiens »",
+      "short": "La Bohême, cœur du pays, doit son nom aux Boïens, une tribu celte installée là au IIIe siècle av. J.-C. Au XVe siècle, des Roms venus de Bohême répondent aux Français qu'ils viennent « de Bohême » : on les appelle alors « Bohémiens ».",
+      "long": "Les Tchèques, eux, sont des Slaves occidentaux arrivés en Bohême au VIe siècle. Le nom court « Tchéquie » (Česko) est un néologisme, à ne pas confondre avec Čechy, qui désigne la seule Bohême.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Le nom « Bohême » vient de la tribu celte qui résidait dans cette région au IIIe siècle av. J.-C. : les Boïens. Ceux-ci furent chassés de cette région ou absorbés d'abord par les Germains (Marcomans, Quades, Ruges), ensuite par les Slaves qui venaient du bassin de la Dniepr au VIe siècle apr. J.-C.. Au XVe siècle, lorsque des Français demandèrent à des Roms qui avaient quitté la Bohême pour venir en Europe occidentale, d'où ils venaient, ils répondirent « de Bohême », et c'est ainsi qu'on appela ces artisans nomades « Bohémiens »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Les Tchèques sont des Slaves occidentaux arrivés au VIe siècle en Bohême (en allemand Böhmen, nom hérité du peuple celte des Boïens), contrée qui avait été peuplée de Marcomans germaniques lors des invasions barbares."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Le terme Česko est ainsi un néologisme traduit en français par Tchéquie, à ne pas assimiler au toponyme Čechy qui désigne uniquement la Bohême."
+        }
+      ]
+    },
+    {
+      "id": "CZE-2",
+      "topic": "histoire",
+      "era": "1620",
+      "title": "La défaite de la Montagne-Blanche",
+      "short": "En 1620, au début de la guerre de Trente Ans, la révolte de Bohême est écrasée à la bataille de la Montagne-Blanche. Le pays est intégré à la monarchie des Habsbourg : les Tchèques vivront près de quatre siècles sous des souverains allemands.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Au début de la guerre de Trente Ans, la défaite de la Révolte de Bohême lors de la bataille de la Montagne-Blanche aboutit à l'intégration du pays au sein de la monarchie de Habsbourg en 1620."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Quand en 1918 les Slaves de l'Ouest s'émancipent de la tutelle austro-hongroise (les Slovaques ont passé mille ans sous la domination hongroise et les Tchèques près de quatre siècles sous celle de souverains allemands, notamment les Habsbourg),"
+        }
+      ]
+    },
+    {
+      "id": "CZE-3",
+      "topic": "histoire",
+      "era": "1918-1939",
+      "title": "La Tchécoslovaquie, de Masaryk à Munich",
+      "short": "En 1918, Tchèques, Slovaques et Ruthènes fondent la Tchécoslovaquie, avec Tomáš Masaryk pour premier président. Démocratique et prospère, elle compte parmi les dix premières puissances industrielles de l'époque.",
+      "long": "Les accords de Munich, en 1938, la privent des Sudètes, annexés par l'Allemagne nazie. En mars 1939, l'Allemagne annexe la Bohême et la Moravie : la Tchécoslovaquie disparaît.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Après la dislocation de l'Autriche-Hongrie à la fin de la Première Guerre mondiale, les Tchèques, les Slovaques et les Ruthènes subcarpatiques, qui aspiraient depuis longtemps à l'autonomie, forment la Tchécoslovaquie, dont Tomáš Masaryk (1850–1937) est le premier président."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Après la Première Guerre mondiale, la Tchécoslovaquie est établie en 1918 et connaît une période de démocratie pendant l'entre-deux-guerres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Sur le plan économique, le pays connaît une forte prospérité : la Tchécoslovaquie fait partie des dix premières puissances industrielles de l'époque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Cette première Tchécoslovaquie est très diminuée en 1938 par les accords de Munich, lorsque l'Allemagne nazie annexe la région des Sudètes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Elle disparaît en mars 1939 quand l'Allemagne annexe la Bohême et la Moravie, créant un « protectorat de Bohême-Moravie » sous administration militaire,"
+        }
+      ]
+    },
+    {
+      "id": "CZE-4",
+      "topic": "histoire",
+      "era": "1968",
+      "title": "Le Printemps de Prague",
+      "short": "En 1968, Alexander Dubček lance des réformes pour bâtir un « socialisme à visage humain » : c'est le Printemps de Prague. En août, l'Armée rouge envahit le pays et rétablit par les armes la dictature du parti unique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "En 1968, Alexander Dubček lance un programme de réformes destiné à démocratiser le régime et appelé « Printemps de Prague »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Les oligarques communistes du bloc de l'Est refusent d'envisager l'avènement de ce « socialisme à visage humain » et l'Armée rouge envahit la Tchécoslovaquie en août de la même année pour y imposer par les armes la « normalisation » c'est-à-dire le retour à la dictature du Parti unique ;"
+        }
+      ]
+    },
+    {
+      "id": "CZE-5",
+      "topic": "histoire",
+      "era": "1989-1993",
+      "title": "Deux révolutions « de velours »",
+      "short": "Le 17 novembre 1989 commence la révolution de Velours, qui met fin au régime communiste ; le 30 décembre, le dissident Václav Havel devient président. Le 1er janvier 1993, Tchèques et Slovaques se séparent d'un commun accord : c'est la « partition de velours ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "L'arrivée de Mikhaïl Gorbatchev au pouvoir en URSS permet de nouveaux espoirs de démocratisation, et le 17 novembre 1989, à l'occasion du cinquantième anniversaire de la répression de 1949[pas clair], débute la « révolution de Velours » qui, le 30 décembre porte le dissident tchèque Václav Havel à la présidence de la République tchécoslovaque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "En 1989, la révolution de Velours met fin au régime communiste et restaure la démocratie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "quote": "Après un épisode fédéral (la « Tchéco-Slovaquie » ou République fédérale tchèque et slovaque), la Tchécoslovaquie disparaît le 1er janvier 1993, d'un commun accord entre les autorités tchèques et slovaques, issues des élections de juin 1992 (d'où le nom de « partition de velours »),"
+        }
+      ]
+    },
+    {
+      "id": "CZE-6",
+      "topic": "drapeau",
+      "era": "1920",
+      "title": "Le blanc et rouge de Bohême, plus un coin bleu",
+      "short": "Pour représenter la nouvelle Tchécoslovaquie, on garde le drapeau historique blanc et rouge de la Bohême et on y ajoute un coin bleu, couleur panslave. Les députés adoptent cette version le 30 mars 1920 ; la Tchéquie l'a conservée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tchéquie",
+          "quote": "Avec la déclaration d'indépendance de la Tchécoslovaquie en octobre 1918, se pose la question des emblèmes nationaux à utiliser pour représenter la toute nouvelle république dans le monde et unifier les deux pays slaves. Une commission spéciale est alors créée, sous la houlette du professeur d'université G. Friedrich en 1919 pour proposer, entre autres emblèmes, un nouveau drapeau.\nLa solution finalement choisie est celle du drapeau bicolore historique de la Bohême avec un coin bleu qui avance jusqu'au tiers du drapeau. Après modifications, le coin s'avance jusqu'au milieu du drapeau. La chambre des députés approuve cette version finale le 30 mars 1920 à 18 h 45."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tchéquie",
+          "quote": "Le drapeau tchécoslovaque puis tchèque est composé de trois couleurs : bleu, blanc et rouge, couleurs panslaves adoptées à la convention panslave 1848."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CZE-C1",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "La capitale de Charles IV",
+      "short": "Au XIVe siècle, le roi de Bohême et empereur Charles IV fait de Prague la capitale du Saint-Empire. Il y fonde en 1348 la première université d'Europe centrale, crée la Nouvelle Ville et fait bâtir le pont de pierre qui porte aujourd'hui son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Prague",
+          "quote": "Capitale historique du royaume de Bohême, berceau du peuple tchèque, Prague connaît son apogée au XIVe siècle, sous le règne du roi de Bohême et empereur germanique Charles IV qui en fait la capitale de l'Empire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Prague",
+          "quote": "Il laisse dans la ville une empreinte considérable : fondation de l'Université en 1348 — la première d'Europe centrale — extension considérable et ambitieuse de la ville à l'est et au sud pour créer la Nouvelle Ville, édification du pont de pierre ou encore élévation de nombreux lieux de culte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Prague",
+          "quote": "Charles IV du Saint-Empire (1316-1378), empereur des Romains, roi de Bohême, fondateur de la nouvelle-ville, du pont qui porte son nom et de l'université de Prague."
+        }
+      ]
+    },
+    {
+      "id": "CZE-C2",
+      "topic": "histoire",
+      "era": "1419-1618",
+      "title": "La ville des défenestrations",
+      "short": "Prague a connu deux célèbres « défenestrations ». En 1419, la première permet aux hussites de prendre le contrôle de la ville ; en 1618, la seconde met fin à son âge d'or culturel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Prague",
+          "quote": "En 1419, survient la première défenestration de Prague et les hussites prennent le contrôle de la ville,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Prague",
+          "quote": "La seconde défenestration de Prague en 1618 met fin à cette ère de prospérité culturelle."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Europe centrale, sans accès à la mer : un pays allongé d'ouest en est, entre l'Allemagne à l'ouest, la Pologne au nord, l'Autriche au sud et la Slovaquie à l'est. À l'ouest, la Bohême forme une cuvette entourée de montagnes.",
+    "flag": "Blanc en haut, rouge en bas, et un triangle bleu côté mât qui s'avance jusqu'au milieu du drapeau. Les Philippines ont aussi un triangle au mât, mais blanc, avec un soleil, et des bandes bleue et rouge.",
+    "capital": "Prague, sur la Vltava : la capitale de l'empereur Charles IV, celle de son pont et de son université."
+  }
+}

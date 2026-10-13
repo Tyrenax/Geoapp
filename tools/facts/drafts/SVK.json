@@ -1,0 +1,162 @@
+{
+  "id": "SVK",
+  "facts": [
+    {
+      "id": "SVK-1",
+      "topic": "histoire",
+      "title": "Slovaquie, Slovénie, même racine",
+      "short": "La Slovaquie, la Slovénie et la Slavonie tirent leur nom de la même racine que le mot « Slave » : slovo, « le mot », ou slava, « la gloire ». D'où des confusions fréquentes entre les deux républiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Les noms de la Slovénie, de la Slavonie et de la Slovaquie",
+          "to": "peuvent prêter à confusion dans de nombreuses langues."
+        }
+      ]
+    },
+    {
+      "id": "SVK-2",
+      "topic": "histoire",
+      "era": "XIe siècle-1918",
+      "title": "Un millénaire dans le royaume de Hongrie",
+      "short": "Cœur de la Grande-Moravie, le territoire slovaque intègre le royaume de Hongrie au XIe siècle. Il n'en sort qu'en 1918 : à la fin, seul le hongrois y était langue officielle, et le slovaque ne permettait guère d'étudier au-delà de l'école primaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Slavisé au Ve siècle, le territoire slovaque",
+          "to": "occupé par la Pologne au XIe siècle)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Ces dénominations sont historiques",
+          "to": "au-delà de l'école primaire,"
+        }
+      ]
+    },
+    {
+      "id": "SVK-3",
+      "topic": "histoire",
+      "era": "1939-1945",
+      "title": "Un État sous la coupe d'Hitler",
+      "short": "En 1939, sous la pression d'Hitler, qui menace de livrer la Slovaquie à la Hongrie, un État slovaque indépendant est proclamé, dirigé par Jozef Tiso. Il reste jusqu'en 1945 un satellite du Troisième Reich.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Et en 1939, un État indépendant (République Slovaque)",
+          "to": "de donner la Slovaquie aux Hongrois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "De 1939 à 1945 fut constituée",
+          "to": "au Troisième Reich."
+        }
+      ]
+    },
+    {
+      "id": "SVK-4",
+      "topic": "histoire",
+      "era": "1993",
+      "title": "Une séparation à l'amiable",
+      "short": "Le 1er janvier 1993, la Tchécoslovaquie disparaît d'un commun accord entre Tchèques et Slovaques : c'est la « partition de velours ». La Slovaquie indépendante rejoint l'Union européenne en 2004, après un référendum approuvé à 92,4 %.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchéquie",
+          "from": "Après un épisode fédéral (la « Tchéco-Slovaquie »",
+          "to": "(d'où le nom de « partition de velours »),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Elle est membre de l'Union européenne depuis 2004.",
+          "to": "depuis 2004."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Le 17 mai 2003 92,4 % des Slovaques",
+          "to": "par référendum."
+        }
+      ]
+    },
+    {
+      "id": "SVK-5",
+      "topic": "economie",
+      "title": "Un pays d'usines automobiles",
+      "short": "L'industrie automobile pèse un tiers du PIB slovaque : c'était en 2006 le premier poste d'exportation du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovaquie",
+          "from": "Le secteur de l'industrie automobile",
+          "to": "premier poste à l'exportation en 2006."
+        }
+      ]
+    },
+    {
+      "id": "SVK-6",
+      "topic": "drapeau",
+      "era": "1992",
+      "title": "La double croix sur trois collines",
+      "short": "Adopté en septembre 1992, à la veille de l'indépendance, le drapeau reprend les couleurs panslaves (blanc, bleu, rouge) et porte un écu : une double croix blanche sur trois collines bleues.",
+      "long": "Dès le XIVe siècle, cette double croix sur trois collines symbolise la Haute-Hongrie, puis les Slovaques, majoritaires dans cette partie du royaume. On la retrouve aussi sur les armoiries de la Hongrie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovaquie",
+          "from": "Le drapeau actuel de la Slovaquie a été adopté par la constitution",
+          "to": "la dissolution de la fédération tchécoslovaque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovaquie",
+          "from": "Le drapeau slovaque reprend les couleurs panslaves",
+          "to": "à Prague en 1848."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovaquie",
+          "from": "L'écu se blasonne ainsi",
+          "to": "trois collines d'azur »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovaquie",
+          "from": "À partir du XIVe siècle, la double croix",
+          "to": "les armoiries actuelles de la Hongrie"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SVK-C1",
+      "topic": "histoire",
+      "era": "1536-1830",
+      "title": "La ville des couronnements hongrois",
+      "short": "Après la défaite hongroise de Mohács en 1526, le centre du royaume de Hongrie tombe aux mains des Ottomans. La ville devient en 1536 la capitale de la partie restée aux Habsbourg, et jusqu'en 1830, les rois et reines de Hongrie y sont couronnés, dans la cathédrale Saint-Martin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bratislava",
+          "from": "Après la défaite de Mohács en 1526",
+          "to": "depuis 1536, Požun ou Pozsony."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bratislava",
+          "from": "Pozsony devient le lieu de couronnement",
+          "to": "en la cathédrale Saint-Martin."
+        }
+      ]
+    },
+    {
+      "id": "SVK-C2",
+      "topic": "histoire",
+      "title": "Presbourg, Pozsony, Pressburg…",
+      "short": "Jusqu'en 1919, Bratislava portait d'autres noms : Pressburg en allemand, francisé en Presbourg, Pozsony en hongrois, Prešporok en slovaque. Presbourg viendrait du « château de Predeslav », un chef slave vers l'an 900.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bratislava",
+          "from": "Avant 1919, la ville portait le nom de Prešporok",
+          "to": "il y a d'autres hypothèses."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays sans accès à la mer, allongé d'ouest en est le long des Carpates (les Tatras au nord), entre la Tchéquie, la Pologne, l'Ukraine, la Hongrie et l'Autriche. Bratislava est tout à l'ouest, collée à l'Autriche et à la Hongrie.",
+    "flag": "Blanc, bleu, rouge en bandes horizontales, comme la Russie, mais avec un écu côté mât : une double croix blanche sur trois collines bleues. La Slovénie a les mêmes couleurs, mais son écu, en haut à gauche, montre une montagne à trois sommets et trois étoiles.",
+    "capital": "Bratislava, l'ancienne Presbourg, où l'on couronnait les rois de Hongrie, à une soixantaine de kilomètres de Vienne."
+  }
+}

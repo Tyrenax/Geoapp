@@ -1,0 +1,150 @@
+{
+  "id": "BGR",
+  "facts": [
+    {
+      "id": "BGR-1",
+      "topic": "histoire",
+      "era": "681",
+      "title": "Des cavaliers des steppes devenus slaves",
+      "short": "Les Bulgares doivent leur nom aux Proto-Bulgares, des cavaliers venus des steppes au nord de la mer Noire. Menés par le khan Asparoukh, ils fondent en 681 la « Bulgarie du Danube », puis se fondent dans la population slave, dont ils adoptent la langue et, en 864, la religion.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Le nom bŭlgar désignait les Proto-Bulgares",
+          "to": "khazares, petchénègues et coumanes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "l'autre moitié, menée par le khan Asparoukh",
+          "to": "fonde en 681 la « Bulgarie du Danube »,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Les bulgares finiront par être assimilés",
+          "to": "le nom de Bulgares."
+        }
+      ]
+    },
+    {
+      "id": "BGR-2",
+      "topic": "culture",
+      "title": "Le berceau de l'alphabet cyrillique",
+      "short": "Au Moyen Âge, la Bulgarie est le foyer culturel des peuples slaves : c'est dans ses écoles littéraires d'Ohrid et de Preslav que l'alphabet cyrillique a été développé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Pendant le Moyen Âge, la Bulgarie était le noyau culturel",
+          "to": "de Joan Cucuzel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "La Bulgarie possédait certains des meilleurs instituts",
+          "to": "où l'alphabet cyrillique a été développé,"
+        }
+      ]
+    },
+    {
+      "id": "BGR-3",
+      "topic": "histoire",
+      "era": "913",
+      "title": "Le premier « tsar »",
+      "short": "En 913, Constantinople reconnaît au souverain bulgare le titre de « tsar », un mot nouveau tiré de « César ». Jusque-là, les monarques bulgares portaient le titre de khan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "En 913, il sera reconnu par Constantinople comme « tsar »",
+          "to": "en 926 par le Pape de Rome."
+        }
+      ]
+    },
+    {
+      "id": "BGR-4",
+      "topic": "histoire",
+      "era": "1878-1908",
+      "title": "Une indépendance en trois temps",
+      "short": "En 1878, le traité de San Stefano dessine une grande Bulgarie, aussitôt réduite par le congrès de Berlin à deux petites principautés. Elles s'unissent en 1885, et le prince proclame enfin l'indépendance en 1908.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Après une série de révoltes durant le XIXe siècle",
+          "to": "parviennent à s'unir en 1885"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Néanmoins, ce n'est qu'en 1908",
+          "to": "par le parti Jeunes-Turcs à Constantinople."
+        }
+      ]
+    },
+    {
+      "id": "BGR-5",
+      "topic": "histoire",
+      "era": "1943",
+      "title": "Les Juifs de Bulgarie épargnés",
+      "short": "En mars 1943, un vaste mouvement d'opinion convainc le tsar Boris III, pourtant allié de l'Allemagne, de refuser de livrer les Juifs bulgares aux nazis. La communauté échappe ainsi en grande partie à la déportation.",
+      "long": "Ce sauvetage a ses limites : les 11 343 Juifs des territoires grecs occupés par la Bulgarie, ainsi que 8 000 Juifs bulgares, sont sacrifiés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "En mars 1943, un vaste mouvement d'opinion en Bulgarie",
+          "to": "la présence de la Wehrmacht sur le sol de son allié."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bulgarie",
+          "from": "Malgré cela, 11 343 juifs grecs",
+          "to": "échappe à la déportation."
+        }
+      ]
+    },
+    {
+      "id": "BGR-6",
+      "topic": "drapeau",
+      "era": "1861",
+      "title": "Paix, fertilité et courage",
+      "short": "Le blanc du drapeau symbolise la paix, le vert la fertilité des terres bulgares et le rouge le courage du peuple. Ces trois couleurs apparaissent ensemble dès 1861, sur les drapeaux des légions de Georgi Rakovski.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bulgarie",
+          "from": "Le blanc symbolise la paix",
+          "to": "le courage du peuple."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bulgarie",
+          "from": "Le premier drapeau utilisant les couleurs verte, blanche et rouge",
+          "to": "de Georgi Sava Rakovski."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BGR-C1",
+      "topic": "histoire",
+      "era": "1376",
+      "title": "Serdica, Sredets, puis Sofia",
+      "short": "Sofia s'est d'abord appelée Serdica, d'après la tribu thrace des Serdes. Conquise par les Bulgares en 809, elle devient Sredets, puis prend en 1376 le nom de Sofia, d'après sa basilique Sainte-Sophie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sofia",
+          "from": "La tribu thrace des Serdes",
+          "to": "Serdica au VIIe siècle av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sofia",
+          "from": "En 809, la ville est conquise par les Bulgares",
+          "to": "le nom de Sredets."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sofia",
+          "from": "En 1376, elle prit son nom actuel Sofia",
+          "to": "d'après la basilique Sainte-Sophie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "À l'est des Balkans, au bord de la mer Noire : le Danube la sépare de la Roumanie au nord ; la Serbie et la Macédoine du Nord sont à l'ouest, la Grèce et la Turquie au sud.",
+    "flag": "Blanc, vert, rouge en bandes horizontales, le blanc en haut. La Hongrie a rouge, blanc, vert ; l'Italie a vert, blanc, rouge en bandes verticales.",
+    "capital": "Sofia, la ville de Sainte-Sophie, au pied du mont Vitocha."
+  }
+}

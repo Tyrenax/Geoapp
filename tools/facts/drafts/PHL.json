@@ -1,0 +1,185 @@
+{
+  "id": "PHL",
+  "facts": [
+    {
+      "id": "PHL-1",
+      "topic": "histoire",
+      "era": "1521",
+      "title": "Magellan et Lapu-Lapu",
+      "short": "Le 16 mars 1521, l'explorateur portugais Magellan, au service de l'Espagne, est le premier Européen à atteindre les Philippines. Il y trouve la mort, face à Lapu-Lapu, de Mactan, considéré comme le premier à avoir repoussé les Européens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Fernand de Magellan (Fernão de Magalhães), explorateur portugais",
+          "to": "le 16 mars 1521."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "que Lapu-Lapu, de Mactan, est le premier",
+          "to": "la mort de Fernand de Magellan."
+        }
+      ]
+    },
+    {
+      "id": "PHL-2",
+      "topic": "histoire",
+      "era": "1565",
+      "title": "Les îles de Philippe II",
+      "short": "Les îles doivent leur nom à l'infant d'Espagne, futur roi Philippe II. À partir de 1565, l'archipel est gouverné par l'Espagne et le catholicisme y devient la religion dominante : en 2010, environ 81 % des habitants étaient catholiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Les îles ont été nommées ainsi en l'honneur de l'infant d'Espagne",
+          "to": "peu après leur découverte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "À partir de 1565, l'archipel est gouverné",
+          "to": "devient la religion dominante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Selon le Pew Research Center, en 2010",
+          "to": "principalement catholiques (81 %)"
+        }
+      ]
+    },
+    {
+      "id": "PHL-3",
+      "topic": "histoire",
+      "era": "1898-1946",
+      "title": "Vendues aux États-Unis",
+      "short": "Après la révolution philippine et la guerre hispano-américaine, le traité de Paris du 10 décembre 1898 oblige l'Espagne à vendre les Philippines aux États-Unis pour 20 millions de dollars. Le pays devient indépendant le 4 juillet 1946.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "La révolution philippine éclate en 1896",
+          "to": "à la suite de la guerre hispano-américaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Le 10 décembre 1898, le traité de Paris",
+          "to": "pour 20 millions de dollars."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Le pays obtient son indépendance le 4 juillet 1946",
+          "to": "avec la signature du traité de Manille,"
+        }
+      ]
+    },
+    {
+      "id": "PHL-4",
+      "topic": "histoire",
+      "era": "1972-1986",
+      "title": "La chute de Marcos",
+      "short": "Sous la dictature de Ferdinand Marcos, la loi martiale règne de 1972 à 1981. Une révolution populaire le renverse en 1986 ; Corazon Aquino lui succède.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Depuis lors, le pays subit notamment une période de loi martiale",
+          "to": "la révolution populaire de 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "=== Présidence de Corazon Aquino (1986-1992)",
+          "to": "(1986-1992)"
+        }
+      ]
+    },
+    {
+      "id": "PHL-5",
+      "topic": "geographie",
+      "title": "Un archipel sur la ceinture de feu",
+      "short": "Les Philippines forment un archipel de 7 641 îles. Situé sur la ceinture de feu du Pacifique, il est exposé aux séismes et aux volcans, ainsi qu'aux typhons, entre juin et octobre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "sont un pays d'Asie du Sud-Est constitué d'un archipel de 7 641 îles",
+          "to": "7 641 îles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "Aujourd'hui encore[Quand ?], l'action conjuguée des volcans",
+          "to": "la physionomie de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "L'archipel n'est pas épargné par les typhons",
+          "to": "entre juin et octobre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "from": "dans la ceinture de feu du Pacifique",
+          "to": "aux séismes,"
+        }
+      ]
+    },
+    {
+      "id": "PHL-6",
+      "topic": "drapeau",
+      "era": "1898",
+      "title": "À l'envers en temps de guerre",
+      "short": "Bleu en haut, rouge en bas, et un triangle blanc avec un soleil d'or et trois étoiles, pour Luçon, les Visayas et Mindanao. Usage unique au monde : en temps de guerre, il est hissé à l'envers, le rouge au-dessus du bleu.",
+      "long": "Le premier drapeau a été cousu à Hong Kong en 1898.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "from": "En haut, la bande bleue symbolise",
+          "to": "complète le dessin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "from": "Dans chaque coin du triangle, une étoile d'or",
+          "to": "Luçon, Visayas et Mindanao."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "from": "Le drapeau philippin est l'objet d'un usage unique au monde",
+          "to": "le rouge domine le bleu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "from": "Le premier drapeau a été cousu en 1898 à Hong Kong",
+          "to": "en 1898 à Hong Kong"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "from": "Au centre du triangle, un soleil stylisé d'or",
+          "to": "un soleil stylisé d'or"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PHL-C1",
+      "topic": "histoire",
+      "era": "1571",
+      "title": "Intramuros et la ville la plus dense",
+      "short": "Manille est fondée en 1571 par le conquistador Miguel López de Legazpi ; son quartier colonial fortifié, Intramuros, en est la vieille ville. Avec 43 079 habitants au km² en 2007, la municipalité est l'une des plus denses de la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "from": "1571 : fondation de la ville par le conquistador",
+          "to": "Miguel López de Legazpi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "from": "La plupart des destinations touristiques sont situées",
+          "to": "c'est-à-dire la vieille ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "from": "La municipalité de Manille au sens propre compte",
+          "to": "si ce n'est la plus dense."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand archipel en Asie du Sud-Est, entre la mer de Chine méridionale et l'océan Pacifique, au nord de l'Indonésie et au sud de Taïwan.",
+    "flag": "Bleu en haut, rouge en bas, et un triangle blanc côté hampe avec un soleil jaune. Le seul drapeau qui s'inverse en temps de guerre.",
+    "capital": "Manille, sur la grande île de Luçon, au nord de l'archipel."
+  }
+}

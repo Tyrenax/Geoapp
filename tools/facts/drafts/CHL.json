@@ -1,0 +1,156 @@
+{
+  "id": "CHL",
+  "facts": [
+    {
+      "id": "CHL-1",
+      "topic": "histoire",
+      "title": "Rien à voir avec le piment",
+      "short": "On ne sait pas d'où vient le nom du Chili, mais une chose est sûre : il n'a aucun rapport avec le mot espagnol chile, le piment. Une hypothèse le relie au río Chili, une rivière du sud du Pérou.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "De nombreuses hypothèses sont émises sur l'origine du nom du pays.",
+          "to": "le río Chili."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Cependant, le nom du pays n’a aucun rapport",
+          "to": "qui désigne le piment."
+        }
+      ]
+    },
+    {
+      "id": "CHL-2",
+      "topic": "histoire",
+      "era": "1541-1881",
+      "title": "Trois siècles de résistance mapuche",
+      "short": "Dès la fondation de Santiago en 1541, le conquistador Pedro de Valdivia se heurte aux Mapuches. La guerre d'Arauco ne s'achève qu'en 1881, avec la « pacification » de l'Araucanie.",
+      "long": "Le poète espagnol Alonso de Ercilla a raconté ce long conflit dans La Araucana, une épopée écrite entre 1569 et 1589. Les Mapuches forment aujourd'hui le plus grand groupe autochtone du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Valdivia fonde une série de villages",
+          "to": "relate avec passion dans son œuvre La Araucana (1569-1589)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Enfin, dans le sud du territoire se termine la guerre d'Arauco",
+          "to": "l’intégration de l'île de Pâques en 1888."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Les Mapuche représentent",
+          "to": "le plus grand groupe ethnique."
+        }
+      ]
+    },
+    {
+      "id": "CHL-3",
+      "topic": "histoire",
+      "era": "1888",
+      "title": "L'île de Pâques, chilienne à 3 000 km des côtes",
+      "short": "L'île de Pâques, à 3 000 km à l'ouest de Valparaíso, en plein Pacifique, appartient au Chili depuis 1888. On y parle toujours une langue polynésienne, le rapanui.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "L'île de Pâques, située à 3 000 km à l'ouest de Valparaíso",
+          "to": "fait partie du Chili depuis 1888."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "La langue officielle est de fait l’espagnol",
+          "to": "le rapanui sur l’île de Pâques."
+        }
+      ]
+    },
+    {
+      "id": "CHL-4",
+      "topic": "geographie",
+      "era": "1960",
+      "title": "Le plus fort séisme jamais mesuré",
+      "short": "Le tremblement de terre de Valdivia, en 1960, est le plus puissant jamais enregistré sur la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Il doit affronter les conséquences du Tremblement de terre de Valdivia de 1960",
+          "to": "le plus fort jamais enregistré"
+        }
+      ]
+    },
+    {
+      "id": "CHL-5",
+      "topic": "histoire",
+      "era": "1973-1990",
+      "title": "Le coup d'État du 11 septembre 1973",
+      "short": "Le 11 septembre 1973, le général Augusto Pinochet renverse le président Salvador Allende, retrouvé mort dans le palais présidentiel de la Moneda bombardé par les putschistes. La junte militaire garde le pouvoir jusqu'en 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Le 11 septembre 1973, un coup d'État mené par le général Augusto Pinochet",
+          "to": "bombardé par les putschistes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chili",
+          "from": "Mais la junte militaire prend le pouvoir",
+          "to": "imposant une dictature."
+        }
+      ]
+    },
+    {
+      "id": "CHL-6",
+      "topic": "drapeau",
+      "era": "1817",
+      "title": "« L'étoile solitaire »",
+      "short": "Les Chiliens surnomment leur drapeau « l'étoile solitaire ». Adopté le 18 octobre 1817, il porte une étoile blanche à cinq branches qui symboliserait les trois pouvoirs de l'État.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Chili",
+          "from": "Le drapeau du Chili (en espagnol : la estrella solitaria",
+          "to": "de la République du Chili."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Chili",
+          "from": "Il est officiellement adopté le 18 octobre 1817.",
+          "to": "le 18 octobre 1817."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Chili",
+          "from": "De son côté, l'étoile symboliserait les trois pouvoirs",
+          "to": "l'intégrité de la nation."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CHL-C1",
+      "topic": "histoire",
+      "era": "1541",
+      "title": "Saint Jacques et l'Estrémadure",
+      "short": "Pedro de Valdivia fonde la ville le 12 février 1541 et la nomme Santiago de la Nueva Extremadura, en mémoire de l'apôtre saint Jacques et de l'Estrémadure, une région d'Espagne.",
+      "long": "Il choisit l'endroit pour son climat, sa végétation abondante et parce qu'il était facile à défendre : la ville est établie entre les deux bras de la rivière Mapocho, au pied de la colline Santa Lucía.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Santiago",
+          "from": "Santiago fut fondée le 12 février 1541",
+          "to": "et de l'Estrémadure."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Santiago",
+          "from": "Valdivia choisit de s'y installer",
+          "to": "pourrait être défendue."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Santiago",
+          "from": "En effet, elle fut établie entre les deux bras",
+          "to": "(colline Santa Lucia)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le ruban le plus long et le plus fin du monde : 4 300 km du nord au sud, mais 180 km de large en moyenne, coincé entre les Andes et le Pacifique, du Pérou au cap Horn.",
+    "flag": "Une seule étoile blanche dans un carré bleu en haut à gauche, du blanc à côté et une bande rouge en bas. Le Texas a presque le même, mais avec une bande bleue verticale sur toute la hauteur ; Cuba et Porto Rico ont une étoile dans un triangle, pas dans un carré.",
+    "capital": "Santiago, c'est saint Jacques : le même que Santiago de Compostelle. Imagine les pèlerins arrivant au bout du monde, au pied des Andes."
+  }
+}

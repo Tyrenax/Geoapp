@@ -1,0 +1,236 @@
+{
+  "id": "ISR",
+  "facts": [
+    {
+      "id": "ISR-1",
+      "topic": "culture",
+      "era": "Vers 1200 av. J.-C.",
+      "title": "Celui qui lutte avec Dieu",
+      "short": "Dans la Genèse, le patriarche Jacob est renommé Israël, « celui qui lutte avec Dieu », après avoir combattu avec un ange. Hors de la Bible, le nom apparaît pour la première fois vers 1200 av. J.-C., sur la stèle du pharaon Mérenptah, pour désigner un peuple de Canaan.",
+      "long": "En 1948, les fondateurs de l'État choisissent le nom d'Israël plutôt que Sion, Judée ou Eretz Israel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "La tradition biblique rapporte l’origine de ce nom",
+          "to": "après avoir combattu avec un ange."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "La première mention non biblique du nom « Israël »",
+          "to": "sur les hauteurs de la Judée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Dans la déclaration d’indépendance de 1948",
+          "to": "(« Terre d'Israël »)."
+        }
+      ]
+    },
+    {
+      "id": "ISR-2",
+      "topic": "histoire",
+      "era": "Ier millénaire av. J.-C.-IIe siècle",
+      "title": "Des royaumes israélites à l'exil",
+      "short": "Les premiers royaumes israélites émergent au début du Ier millénaire av. J.-C. Après les guerres contre l'Empire romain, en 66-73 puis en 132, une majorité de la population, alors juive, est exilée de force, et les Romains renomment la région « Syrie-Palestine ».",
+      "long": "Une partie des textes majeurs du judaïsme, comme la Mishna et le Talmud de Jérusalem, est pourtant composée dans la région durant cette période.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Les historiens constatent l'émergence des premiers royaumes israélites",
+          "to": "aux alentours du début du Ier millénaire av"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Cependant, la population, majoritairement juive",
+          "to": "en province de « Syrie-Palestine »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "La Mishna, certaines parties du Talmud et le Talmud de Jérusalem",
+          "to": "sont composés en Israël durant cette période."
+        }
+      ]
+    },
+    {
+      "id": "ISR-3",
+      "topic": "histoire",
+      "era": "1897",
+      "title": "Le congrès de Bâle",
+      "short": "Du 29 au 31 août 1897, le premier congrès sioniste se réunit à Bâle, en Suisse. Theodor Herzl écrit dans son journal : « À Bâle j'ai fondé l'État juif. Peut-être dans cinq ans et certainement dans cinquante ans, chacun le saura. » L'État d'Israël naît cinquante et un ans plus tard.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Le premier congrès sioniste se réunit à Bâle",
+          "to": "qui devient officiellement mouvement « sioniste-politique »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Dans son journal, Herzl écrit",
+          "to": "chacun le saura »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Le congrès se déroule à dix reprises",
+          "to": "jusqu’à la fondation d’Israël en 1948."
+        }
+      ]
+    },
+    {
+      "id": "ISR-4",
+      "topic": "histoire",
+      "era": "1947-1949",
+      "title": "Le partage et la guerre",
+      "short": "Le 29 novembre 1947, l'ONU vote le partage de la Palestine sous mandat britannique en un État juif et un État arabe. Le 14 mai 1948, David Ben Gourion proclame l'indépendance d'Israël ; les pays arabes voisins lui déclarent aussitôt la guerre.",
+      "long": "Pendant cette guerre, près de 750 000 Arabes palestiniens fuient ou sont expulsés. Dans les années qui suivent, quelque 900 000 Juifs quittent les pays arabes et musulmans, dont 600 000 pour Israël.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Le 29 novembre 1947, l’ONU vote le plan de partage",
+          "to": "sous administration internationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Le 14 mai 1948, dernier jour du mandat britannique",
+          "to": "lui déclarent immédiatement la guerre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Lors de la guerre israélo-arabe de 1948-1949 près de 750 000 Arabes palestiniens",
+          "to": "au Liban et en Syrie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "L'expulsion des Palestiniens en 1948",
+          "to": "L'expulsion des Palestiniens en 1948"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Dans les années qui suivent la création d’Israël",
+          "to": "600 000 se réfugient en Israël."
+        }
+      ]
+    },
+    {
+      "id": "ISR-5",
+      "topic": "histoire",
+      "era": "1967-1993",
+      "title": "La guerre des Six Jours et les accords de paix",
+      "short": "En 1967, la guerre des Six Jours contre l'Égypte, la Syrie et la Jordanie conduit Israël à occuper le Sinaï, le Golan, la Cisjordanie, Jérusalem-Est et la bande de Gaza. Le Sinaï est rendu à l'Égypte après les accords de Camp David (1979) ; les accords d'Oslo (1993) visaient la création d'un État palestinien.",
+      "long": "Après l'attaque du Hamas contre Israël, en octobre 2023, le pays entre en guerre à Gaza, puis contre le Hezbollah, l'Iran et les Houthistes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "éclate la guerre des Six-Jours contre l'Égypte",
+          "to": "restitué à l'Égypte par les accords de Camp David (1979)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Accords d'Oslo (1993) qui visait la création d'un État palestinien",
+          "to": "la création d'un État palestinien"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Depuis l'attaque du Hamas contre Israël d'octobre 2023",
+          "to": "Hezbollah, Iran, Houthistes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Depuis 1967, trois cycles de négociations",
+          "to": "entre Israël et le monde arabe"
+        }
+      ]
+    },
+    {
+      "id": "ISR-6",
+      "topic": "culture",
+      "title": "Le seul État à majorité juive",
+      "short": "Israël est le seul État au monde dont la population est majoritairement juive, à 75 %. Les Arabes israéliens représentent 21 % de la population. L'hébreu est la langue officielle ; l'arabe a un « statut spécial ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "Israël est le seul État au monde où la population est majoritairement juive",
+          "to": "avec une proportion de 75 %"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "La population non juive comprend principalement des Arabes israéliens",
+          "to": "ils représentent 21 % de la population."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Israël",
+          "from": "La langue officielle du pays est l'hébreu",
+          "to": "revêt un « statut spécial »."
+        }
+      ]
+    },
+    {
+      "id": "ISR-7",
+      "topic": "drapeau",
+      "era": "1897-1948",
+      "title": "Un châle de prière",
+      "short": "Le drapeau a été créé par le mouvement sioniste en 1897, puis adopté par l'État d'Israël en octobre 1948. Au centre, l'étoile de David, le « bouclier de David » ; les deux bandes bleues sur fond blanc évoquent le talith, le châle de prière juif.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Israël",
+          "from": "Crée et adopté par le mouvement sioniste en août 1897",
+          "to": "châle de prière juif."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ISR-C1",
+      "topic": "histoire",
+      "era": "1947-1980",
+      "title": "Une ville au statut disputé",
+      "short": "Le plan de partage de 1947 prévoyait pour Jérusalem un statut international. Après la guerre, la ville est partagée entre Israël (à l'ouest) et la Jordanie (à l'est). Israël la proclame capitale en 1950, occupe l'Est en 1967 et l'annexe en 1980, une mesure non reconnue internationalement.",
+      "long": "La plupart des pays gardent leur ambassade à Tel Aviv-Jaffa. Jérusalem-Est est la capitale revendiquée par l'État de Palestine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "En 1947, dans son plan de partage de la Palestine mandataire",
+          "to": "et jordanienne (Jérusalem-Est)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "le 31 janvier 1950, lorsque le gouvernement israélien proclame",
+          "to": "internationalement reconnue comme capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "Après la guerre des Six Jours (1967)",
+          "to": "mesure non reconnue internationalement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "tandis que sa partie Est est la capitale proclamée",
+          "to": "revendiquée par l'État de Palestine."
+        }
+      ]
+    },
+    {
+      "id": "ISR-C2",
+      "topic": "culture",
+      "title": "La ville sainte",
+      "short": "La vieille ville de Jérusalem occupe une place centrale dans le judaïsme et le christianisme, et une place importante dans l'islam. Sur moins de 1 km², elle compte quatre quartiers : musulman, arménien, chrétien et juif, entourés de remparts bâtis au XVIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "sa vieille ville occupe une place centrale dans les religions juive et chrétienne",
+          "to": "une place importante dans la religion musulmane"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jérusalem",
+          "from": "La vieille ville, d'une superficie de moins de 1 km2",
+          "to": "construite entre 1535 et 1538."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une étroite bande de terre sur la côte est de la Méditerranée, entre le Liban au nord, la Jordanie à l'est et l'Égypte (Sinaï) au sud-ouest.",
+    "flag": "Blanc avec deux bandes horizontales bleues et une étoile de David bleue au centre.",
+    "capital": "Israël a proclamé Jérusalem sa capitale, statut non reconnu par la plupart des pays, qui ont leur ambassade à Tel-Aviv."
+  }
+}

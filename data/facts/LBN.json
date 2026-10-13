@@ -1,0 +1,157 @@
+{
+  "id": "LBN",
+  "facts": [
+    {
+      "id": "LBN-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Les Phéniciens et l'alphabet",
+      "short": "Le Liban était le pays des Phéniciens, un peuple de marins qui a dominé pendant des siècles le commerce méditerranéen depuis ses cités de Byblos, Sidon et Tyr. On leur attribue le plus ancien alphabet vérifié, qui a inspiré l'alphabet grec, puis le latin.",
+      "long": "Ils fondent des comptoirs de Chypre jusqu'à Ibiza ; leur plus importante colonie est Carthage. En 332 av. J.-C., Alexandre le Grand assiège Tyr pendant sept mois et doit relier l'île au continent pour la prendre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Le Liban était le territoire des Cananéens et, en résultat de leurs descendants, les Phéniciens, un peuple marin aventureux, rameau du peuple cananéen, qui a dominé pendant des siècles le commerce méditerranéen. Les cités-États phéniciennes les plus importantes étaient Byblos, Sidon et Tyr. Selon la Bible, le roi Hiram de Tyr a collaboré étroitement avec le roi Salomon, fournissant des troncs de cèdre pour le Premier Temple de Jérusalem et envoyant des ouvriers qualifiés. Les Phéniciens sont crédités de l'invention du plus ancien alphabet vérifié, qui a ensuite inspiré l'alphabet grec, puis celui du latin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Cette première thalassocratie a fondé des comptoirs et des cités sur tout le pourtour de la Méditerranée, de Chypre jusqu'à Ibiza. Leur colonie la plus importante — et la dernière à être tombé sous domination étrangère — fut Carthage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Après 200 ans de domination perse, les Grecs, sous l'égide d'Alexandre le Grand, attaquèrent et assiégèrent Tyr, alors la plus grande ville phénicienne, en 332 av. J.-C., durant sept mois. La domination de la mer de la cité leurs imposa de relier l'île d'alors au continent."
+        }
+      ]
+    },
+    {
+      "id": "LBN-2",
+      "topic": "culture",
+      "title": "La montagne blanche",
+      "short": "Le nom « Liban » désignait d'abord la montagne. Il viendrait de la racine phénicienne lbn, « blanc », en référence à ses neiges ou à ses roches calcaires. La montagne est déjà citée dans l'Épopée de Gilgamesh et 71 fois dans la Bible.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Depuis l'Antiquité, le nom « Liban » était utilisé pour désigner la masse montagneuse s'étendant de l'Oronte au nord jusqu'aux limites de la Palestine au sud. Cette masse montagneuse est composée de deux chaînes : la chaîne orientale et la chaîne occidentale. Le nom de la montagne est mentionné dans des textes de la bibliothèque d'Ebla (2400 av. J.-C.), dans trois des douze tablettes de L'Épopée de Gilgamesh (2100 av. J.-C.) ainsi que dans la Bible, où elle est attestée 71 fois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "L'hypothèse la plus soutenue par les spécialistes est que le nom « Liban » provient de la racine phénicienne lbn (𐤋𐤁𐤍) qui signifie « blanc », en référence au manteau neigeux permanent qui recouvre les monts Liban, un véritable trésor dans cette région aride et déficitaire en eau qu'est le Moyen-Orient mais pourrait aussi faire référence à la couleur de ses roches calcaires blanches."
+        }
+      ]
+    },
+    {
+      "id": "LBN-3",
+      "topic": "histoire",
+      "era": "1920-1943",
+      "title": "Le Grand Liban",
+      "short": "En 1920, sous mandat français, le Mont-Liban est agrandi de territoires voisins pour former le « Grand Liban ». Dix-huit confessions religieuses sont officiellement reconnues. Le pays déclare son indépendance le 22 novembre 1943 ; un pacte national réserve la présidence aux chrétiens et le poste de Premier ministre aux musulmans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "l'État libanais est créé en 1920 sous le nom de « Grand Liban » par la France (le haut commissaire français au Liban est alors le général Gouraud) par adjonction au territoire du moutassarifat du Mont-Liban (entité autonome de l'Empire ottoman) de territoires qui appartenaient aux deux wilayets ottomans de Beyrouth et de Damas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Dix-huit confessions ont été officiellement reconnues"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Le pays déclare son indépendance le 22 novembre 1943, en gardant les frontières du Grand Liban de 1926, après des manifestations durant plusieurs mois, dont émergent notamment les figures de Béchara el-Khoury et Riad El Solh et l'idée d'un Pacte national qui vise à consacrer un fonctionnement communautaire du système politique, où notamment la présidence de la République serait laissée aux chrétiens, et le poste de Premier ministre aux musulmans."
+        }
+      ]
+    },
+    {
+      "id": "LBN-4",
+      "topic": "histoire",
+      "era": "1950-1990",
+      "title": "De la « Suisse du Moyen-Orient » à la guerre civile",
+      "short": "Dans les années 1950 à 1970, le Liban, riche de ses banques, est surnommé la « Suisse du Moyen-Orient ». Mais les tensions communautaires et régionales mènent à une longue guerre civile, de 1975 à 1990, aux alliances changeantes. L'accord de Taëf, signé en 1989, y met officiellement fin.",
+      "long": "Les armées israélienne, syrienne, américaine et française prennent part au conflit. Une partie du sud du pays reste occupée par Israël jusqu'en 2000.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Présenté pendant les années 1950 à 1970 comme la « Suisse du Moyen-Orient », du fait de la présence de nombreuses banques notamment, le Liban connaît alors un fort développement de son économie, de ses infrastructures et de son État"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "La guerre civile libanaise de 1975 à 1990 a été marquée par des alliances et des contre-alliances complexes et mouvantes, où les chrétiens ont combattu d'autres chrétiens et les musulmans ont affronté d'autres musulmans pour des raisons allant de l'idéologie aux intérêts financiers liés au contrôle des zones par les milices. Les armées israélienne, américaine, française et syrienne ont également pris part à ce conflit."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "L'accord de Taëf, signé en 1989, met officiellement fin à la guerre civile et inaugure la Deuxième République libanaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Un quart du territoire libanais est resté sous occupation de l'armée israélienne jusqu'en 2000."
+        }
+      ]
+    },
+    {
+      "id": "LBN-5",
+      "topic": "histoire",
+      "era": "2019-2020",
+      "title": "L'explosion du port de Beyrouth",
+      "short": "Le 4 août 2020, deux violentes explosions détruisent le port de Beyrouth : plus de deux cents morts, 6 500 blessés et au moins 300 000 personnes sans logement. Le pays traverse alors une crise économique que la Banque mondiale juge parmi les pires au monde depuis 1850.",
+      "long": "En trois ans, la livre libanaise perd 95 % de sa valeur ; en 2022, plus de 80 % de la population vit sous le seuil de pauvreté.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Le 4 août 2020, deux violentes explosions surviennent dans le port de Beyrouth, faisant plus de deux cents morts et 6 500 blessés et faisant perdre leur logement à au moins 300 000 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Le Liban subit depuis 2018 une crise économique d'une ampleur telle qu'elle est considérée par la Banque mondiale comme la pire au monde depuis 1850."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Plus de 80 % de la population vit en dessous du seuil de pauvreté en 2022, la livre libanaise a perdu 95 % de sa valeur en trois ans"
+        }
+      ]
+    },
+    {
+      "id": "LBN-6",
+      "topic": "drapeau",
+      "era": "1943",
+      "title": "Le cèdre",
+      "short": "Depuis 1943, le drapeau porte un cèdre vert entre deux bandes rouges. Le rouge représente le sang versé pour l'indépendance, le blanc la neige des montagnes et la paix. Le cèdre du Liban, exploité dès l'Antiquité pour bâtir les temples de Jérusalem, est cité dans les trois grandes religions monothéistes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Le drapeau du pays est composé de trois bandes horizontales : deux rouges sur les parties supérieure et inférieure et une blanche au milieu faisant le double d'une rouge et frappé en son centre d'un cèdre vert. La forme actuelle du drapeau date de 1943. Selon le programme scolaire officiel d'instruction civique, les bandes rouges représentent le prix du sang pour l'indépendance et la bande blanche représente la neige qui recouvre les montagnes du Liban ainsi que la pureté et la paix."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Les forêts de cèdres du Liban, ont été largement exploitées depuis l'Antiquité pour les constructions des monuments sacrés (Premier et Second temple de Jérusalem)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Liban",
+          "quote": "Il  est considéré comme un arbre sacré, et il est mentionné dans les trois grandes religions monothéistes (judaïsme, christianisme, islam)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LBN-C1",
+      "topic": "histoire",
+      "era": "551-1990",
+      "title": "La ville de l'école de droit",
+      "short": "Beyrouth était autrefois renommée pour son école de droit ; elle est ravagée en 551 par un violent séisme suivi d'un tsunami. Pendant la guerre civile, la ville est coupée entre l'Ouest musulman et l'Est chrétien par une ligne de front, la « Ligne verte ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Beyrouth",
+          "quote": "Renommée pour son école de droit mais elle est ravagée en 551 par un violent séisme accompagné d'un tsunami."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Beyrouth",
+          "quote": "Pendant la majeure partie de la guerre, Beyrouth a été divisée entre une partie musulmane à l'Ouest et l'Est chrétien séparée par une ligne de front désignée sous le nom de « Ligne verte »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une étroite bande montagneuse sur la côte est de la Méditerranée, entre la Syrie (au nord et à l'est) et Israël (au sud).",
+    "flag": "Un cèdre vert au centre d'une large bande blanche, entre deux bandes rouges.",
+    "capital": "Beyrouth, sur la côte, à mi-chemin entre le nord et le sud du pays."
+  }
+}

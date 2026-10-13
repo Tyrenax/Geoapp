@@ -1,0 +1,172 @@
+{
+  "id": "RUS",
+  "facts": [
+    {
+      "id": "RUS-1",
+      "topic": "histoire",
+      "era": "862",
+      "title": "Des Vikings à l'origine de la Rus'",
+      "short": "Le premier État de la région, la Rus' de Kiev (862), est fondé par des Vikings venus de Scandinavie, les Varègues. Il s'étend sur l'actuelle Ukraine, la Biélorussie et une partie de la Russie occidentale, trois pays qui en sont issus.",
+      "long": "Les princes varègues développent la « route des Varègues », qui relie la Baltique à la mer Noire par le Dniepr.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "La Rus' de Kiev ou principauté de Kiev (Ruthénie) est le premier État organisé à s'être formé dans la région occupée aujourd'hui par l'Ukraine, la Biélorussie et une partie de la Russie occidentale (862). Fondée par des Vikings venus de Scandinavie (les Varègues en russe) puis dirigée par la dynastie des Riourikides, elle forme un État peu structuré dont les sujets sont les tribus de Slaves orientaux vivant dans la région et qui seront progressivement conquis. Les princes varègues développent la route commerciale qui relie la mer Baltique et la mer Noire en empruntant le fleuve Dniepr (la route des Varègues)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Après la chute de la Rus' de Kiev et ses différentes principautés (à l'origine des États modernes de Russie, de Biélorussie, et d'Ukraine)"
+        }
+      ]
+    },
+    {
+      "id": "RUS-2",
+      "topic": "histoire",
+      "era": "988",
+      "title": "Le choix de Byzance",
+      "short": "En 988, le grand prince Vladimir se convertit au christianisme orthodoxe, la religion de l'Empire byzantin. Elle devient religion d'État et l'un des ciments de l'unité russe.",
+      "long": "L'influence byzantine se lit encore dans l'architecture : églises orthodoxes à multiples dômes, souvent dorés ou peints de couleurs vives.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Sous le règne de Vladimir, le territoire s'étend et en 988, ce grand prince se convertit à la religion de l'Empire byzantin, le christianisme orthodoxe : celle-ci deviendra religion d'État et sera l'un des facteurs de l'unité nationale russe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Depuis la christianisation de la Rus' de Kiev, l'architecture russe a été influencée par l'architecture byzantine pendant de nombreuses années. Outre les fortifications (kremlins), les principaux bâtiments en pierre de l'ancienne Rus' étaient des églises orthodoxes avec leurs nombreux dômes, souvent dorés ou peints de couleurs vives."
+        }
+      ]
+    },
+    {
+      "id": "RUS-3",
+      "topic": "histoire",
+      "era": "1703-1721",
+      "title": "Pierre le Grand regarde vers l'Europe",
+      "short": "Au prix d'une longue guerre contre la Suède, Pierre le Grand obtient un accès à la Baltique et y fait bâtir Saint-Pétersbourg, capitale à partir de 1712. En 1721, il proclame l'Empire russe.",
+      "long": "Pour moderniser le pays, Pierre le Grand puis Catherine II font venir des colons, des artisans et des savants d'Europe occidentale, souvent allemands.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Pierre Ier le Grand (1682–1725), au prix d'une longue guerre avec la Suède, obtient un accès à la mer Baltique ; il fait construire Saint-Pétersbourg qui devient à compter de 1712 la nouvelle capitale, symbolisant ainsi l'ouverture du pays vers l'Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "En 1721, le tsar Pierre Ier le Grand institue l'Empire russe, le troisième plus grand empire de l'histoire, qui devient une puissance majeure dans le concert des États européens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Pierre le Grand puis Catherine II font venir un grand nombre de colons allemands (par exemple les Allemands de la Volga), d'artisans et de savants occidentaux souvent allemands, pour moderniser le pays, édifier des industries et jeter les fondements des établissements d'enseignement et de diffusion du savoir."
+        }
+      ]
+    },
+    {
+      "id": "RUS-4",
+      "topic": "histoire",
+      "era": "1917-1991",
+      "title": "De la révolution à l'effondrement",
+      "short": "En mars 1917, la révolution renverse la dynastie impériale ; en novembre, les bolcheviks de Lénine prennent le pouvoir. L'Union soviétique qui en naît s'effondre en 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "La révolution russe, à la suite de la Première Guerre mondiale, mène à la chute de la dynastie impériale en mars 1917, puis à la prise de pouvoir des bolcheviks dirigés par Vladimir Lénine en novembre 1917 et l'établissement de la république socialiste fédérative soviétique de Russie (RSFSR) en janvier 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "En 1979, elle envahit l'Afghanistan, mais elle est contrainte à l'évacuation en 1988, un échec qui est une des causes de son effondrement en 1991."
+        }
+      ]
+    },
+    {
+      "id": "RUS-5",
+      "topic": "geographie",
+      "title": "Onze fuseaux horaires",
+      "short": "Plus vaste État de la planète, la Russie s'étend sur plus de 6 600 km, de la Baltique au détroit de Béring, et compte onze fuseaux horaires.",
+      "long": "Elle abrite aussi le lac Baïkal, qui contient à lui seul 20 % de l'eau douce lacustre de la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Son territoire s'étend d'ouest en est de la mer Baltique (exclave de Kaliningrad) au détroit de Béring (district autonome de Tchoukotka) sur plus de 6 600 kilomètres, couvrant onze fuseaux horaires, avec une superficie de 17 234 033 km2, soit 11,5 % des terres émergées."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Russie",
+          "quote": "Les principales étendues d'eau sont le lac Baïkal, qui contient 20 % de l'eau douce lacustre de la planète,"
+        }
+      ]
+    },
+    {
+      "id": "RUS-6",
+      "topic": "drapeau",
+      "era": "1693",
+      "title": "Le drapeau de Pierre le Grand",
+      "short": "Le tricolore blanc-bleu-rouge remonte à Pierre le Grand : il est arboré pour la première fois en 1693, lors d'une expédition sur la mer Blanche. Le drapeau actuel a été adopté par un décret du 11 décembre 1993.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Russie",
+          "quote": "Le drapeau actuel russe remonte au règne du tsar Pierre le Grand, de 1682 à 1725 : il est déployé pour la première fois en 1693 lorsque le tsar explore la mer Blanche à bord d'une flottille, avec ses trois couleurs — blanche, bleue et rouge —, orné d'un aigle bicéphale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Russie",
+          "quote": "Le drapeau actuel a été adopté par décret du 11 décembre 1993."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "RUS-C1",
+      "topic": "histoire",
+      "era": "1147",
+      "title": "Un petit fortin sur la Moskova",
+      "short": "Moscou est mentionnée pour la première fois en 1147. Simple point d'appui militaire dans le nord de la Rus' de Kiev, elle prend peu à peu le relais de Kiev après les invasions mongoles du XIIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "Moscou est mentionné pour la première fois en 1147, sous le nom de Moskov, dans un écrit relatant la rencontre de Iouri Dolgorouki prince de Vladimir-Souzdal et du prince Sviatoslav Olgovitch de Novgorod-Severski sur ce territoire appartenant aux Souzdal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "Petit point d'appui militaire créé en 1147 dans le nord de la Rus' de Kiev, elle prend progressivement le relais de Kiev, après la décomposition politique de cet État et les invasions mongoles du XIIIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "En 1156 Iouri Dolgorouki y édifie un simple fortin de bois sur une petite éminence qui domine de 30 mètres la rive gauche de la rivière Moskova."
+        }
+      ]
+    },
+    {
+      "id": "RUS-C2",
+      "topic": "histoire",
+      "era": "1812",
+      "title": "Brûlée pour arrêter Napoléon",
+      "short": "Le 14 septembre 1812, quand Napoléon entre dans Moscou, la ville est incendiée sur ordre de son gouverneur, Rostoptchine, selon la politique de la terre brûlée. Le tsar refuse de négocier, et Napoléon repart le 19 octobre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "Le 14 septembre 1812, quand Napoléon Ier envahit Moscou à la tête d'une partie de la Grande armée (moins de 100 000 hommes sur 400 000), la ville est incendiée par le gouverneur Rostoptchine en application de la politique de la terre brûlée adoptée depuis l'entrée des troupes françaises sur le territoire russe. L'empereur Alexandre Ier de Russie refuse toute négociation et Napoléon Ier quitte Moscou le 19 octobre."
+        }
+      ]
+    },
+    {
+      "id": "RUS-C3",
+      "topic": "histoire",
+      "era": "1918",
+      "title": "Capitale de nouveau en 1918",
+      "short": "Pierre le Grand avait transféré la capitale à Saint-Pétersbourg. En mars 1918, les bolcheviks la ramènent à Moscou, par crainte d'un soulèvement dans l'ancienne capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "Elle perd son rôle de capitale au profit de Saint-Pétersbourg lorsque Pierre le Grand au début du XVIIIe siècle décide de moderniser son pays à marche forcée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moscou",
+          "quote": "Les dirigeants bolchéviques, qui se sont engagés sur la voie d'une dictature en dissolvant l'assemblée constituante, qui avait été élue pour déterminer les nouveaux principes de fonctionnement de l'État, choisissent en janvier 1918 de faire de Moscou la capitale du pays dans la crainte d'un soulèvement des quartiers ouvriers de Saint-Pétersbourg contre le nouveau régime. Ce sera chose faite en mars 1918."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus grand pays du monde : tout le nord de l'Eurasie, de la mer Baltique jusqu'au détroit de Béring, face à l'Alaska. Moscou est à l'ouest ; les monts Oural séparent la partie européenne de la Sibérie.",
+    "flag": "Blanc, bleu, rouge en bandes horizontales. La Slovaquie et la Slovénie ont les mêmes couleurs, mais avec un blason ; la Serbie a rouge, bleu, blanc, et les Pays-Bas rouge, blanc, bleu.",
+    "capital": "Moscou, sur la Moskova, qui lui a donné son nom : la ville du Kremlin et de la place Rouge."
+  }
+}

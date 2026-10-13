@@ -1,0 +1,139 @@
+{
+  "id": "HTI",
+  "facts": [
+    {
+      "id": "HTI-1",
+      "topic": "histoire",
+      "era": "1804",
+      "title": "Un nom taïno rendu au pays",
+      "short": "En déclarant l'indépendance le 1er janvier 1804, Jean-Jacques Dessalines rebaptise la colonie française de Saint-Domingue « Haïti », son ancien nom taïno. Ayiti signifierait « terre des hautes montagnes » ou « la montagne dans la mer ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Le 1er janvier 1804, en déclarant l'indépendance du pays, Jean-Jacques Dessalines lui redonne le nom taïno d'origine, « Haïti », en l'honneur de ce peuple amérindien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Chez les Taïnos, Ayiti signifierait, selon les versions, « terre des hautes montagnes » ou « la montagne dans la mer », ou « âpre terre »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Le nom de Saint-Domingue sera confirmé par les traités de Ryswick (1697) et de Bâle (1795) pour désigner la partie occidentale qui, durant cette période coloniale française, est aussi surnommée la « perle des Antilles »."
+        }
+      ]
+    },
+    {
+      "id": "HTI-2",
+      "topic": "histoire",
+      "era": "1790",
+      "title": "La « perle des Antilles », bâtie sur l'esclavage",
+      "short": "Vers 1790, Saint-Domingue est la colonie française la plus riche d'Amérique, grâce aux immenses profits tirés du travail des esclaves dans le sucre et l'indigo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Vers 1790, Saint-Domingue est cependant la colonie française la plus riche d'Amérique grâce aux profits immenses générés par le travail des esclaves de l'industrie sucrière et de celle de l'indigo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Le nom de Saint-Domingue sera confirmé par les traités de Ryswick (1697) et de Bâle (1795) pour désigner la partie occidentale qui, durant cette période coloniale française, est aussi surnommée la « perle des Antilles »."
+        }
+      ]
+    },
+    {
+      "id": "HTI-3",
+      "topic": "histoire",
+      "era": "1802-1804",
+      "title": "La première république noire",
+      "short": "Après la capture de Toussaint Louverture en 1802, Jean-Jacques Dessalines bat l'armée française à Vertières le 18 novembre 1803. En 1804, Haïti devient la première république à majorité noire des temps modernes et le deuxième État indépendant d'Amérique, après les États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Mais, après quelques victoires, la capture par traîtrise le 7 juin 1802, puis la déportation de Toussaint Louverture en métropole, les troupes françaises commandées par Donatien de Rochambeau sont définitivement battues par Jean-Jacques Dessalines, qui avait rejoint l'insurrection, à la bataille de Vertières le 18 novembre 1803."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "La défaite française lors de l'expédition de Saint-Domingue, au terme de la révolution haïtienne, est à l'origine de la création de la république d'Haïti, qui devient en 1804 la première république à majorité noire des temps modernes et le deuxième État indépendant d'Amérique après les États-Unis."
+        }
+      ]
+    },
+    {
+      "id": "HTI-4",
+      "topic": "histoire",
+      "era": "1825",
+      "title": "Payer pour sa liberté",
+      "short": "En 1825, le roi Charles X ne reconnaît l'indépendance d'Haïti qu'en échange d'une indemnité de 150 millions de francs-or, ramenée plus tard à 90 millions. Ce fardeau a lourdement freiné le développement du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Le 11 juillet 1825, le roi de France Charles X promulgue une ordonnance reconnaissant l'indépendance du pays contre une indemnité de 150 millions de francs-or (la somme sera ramenée par Louis-Philippe Ier en 1838 à 90 millions de francs)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Les efforts d'Haïti pour payer l'indemnité entraveront significativement son développement car cela représentait six francs par an et par habitant."
+        }
+      ]
+    },
+    {
+      "id": "HTI-5",
+      "topic": "drapeau",
+      "era": "1803",
+      "title": "Le blanc arraché au drapeau français",
+      "short": "Le 18 mai 1803, au congrès de l'Arcahaie, Dessalines arrache la bande blanche centrale du drapeau tricolore français : le bleu et le rouge restants forment le drapeau haïtien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Haïti",
+          "quote": "Le 18 mai 1803, lors du congrès de l'Arcahaie, regroupant l'ensemble des chefs de la Révolution haïtienne, Jean-Jacques Dessalines arracha du drapeau tricolore français la partie centrale de couleur blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Haïti",
+          "quote": "Le drapeau d'Haïti fut créé en 1803, adopté dès 1820 et officialisé en 1843."
+        }
+      ]
+    },
+    {
+      "id": "HTI-6",
+      "topic": "geographie",
+      "era": "2010",
+      "title": "Une terre de séismes",
+      "short": "Haïti occupe le tiers ouest de l'île d'Hispaniola. Depuis le XVIe siècle, au moins dix séismes y auraient atteint la magnitude 7, dont le violent tremblement de terre du 12 janvier 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Haïti, en forme longue la république d'Haïti (en créole haïtien : Ayiti , forme longue Repiblik dayiti), est un État des Grandes Antilles, occupant le tiers occidental de l'île d'Hispaniola (soit 27 750 km2 environ), les deux tiers orientaux étant occupés par la République dominicaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Les spécialistes ont identifié au moins dix séismes qui auraient atteint ou dépassé la magnitude 7 depuis le XVIe siècle, soit en moyenne un tous les 50 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "quote": "Après avoir manqué la transition démocratique après la chute des Duvalier (François Duvalier, dit « Papa Doc », et son fils Jean-Claude Duvalier, dit « Baby Doc »), dictateurs de 1957 à 1971, puis de 1971 à 1986, Haïti, surnommée « la Perle des Antilles » depuis l'époque coloniale, tente de s'organiser, puis de se reconstruire après le violent séisme du 12 janvier 2010."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "HTI-C1",
+      "topic": "histoire",
+      "era": "1749",
+      "title": "Le port du vaisseau « Le Prince »",
+      "short": "Un capitaine français, venu protéger la baie à bord du vaisseau Le Prince, baptise l'endroit « le Port du Prince ». La ville elle-même est fondée en 1749 par des colons planteurs de sucre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-au-Prince",
+          "quote": "Afin de protéger celle-ci, le capitaine de Saint-André arriva dans la baie à bord du vaisseau nommé Le Prince, juste sous l'hôpital. Saint-André nomma l'endroit « Le Port du Prince »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-au-Prince",
+          "quote": "Le Port au Prince fut ainsi fondé en 1749 par les colons français, habitants sucriers sur l'habitation Randot, au Bel-air"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le tiers ouest de l'île d'Hispaniola, dans les Grandes Antilles, à l'est de Cuba ; le reste de l'île est la République dominicaine. Sa forme en pince de crabe ouverte vers l'ouest l'identifie vite.",
+    "flag": "Bleu en haut, rouge en bas, avec les armoiries au centre sur un carré blanc. Le Liechtenstein a aussi bleu sur rouge, mais avec une couronne dorée en haut à gauche.",
+    "capital": "Port-au-Prince, le port du vaisseau Le Prince : un capitaine a donné à la baie le nom de son navire."
+  }
+}

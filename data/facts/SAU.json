@@ -1,0 +1,163 @@
+{
+  "id": "SAU",
+  "facts": [
+    {
+      "id": "SAU-1",
+      "topic": "histoire",
+      "era": "1744-1891",
+      "title": "Les deux premiers États saoudiens",
+      "short": "Vers 1744, le chef de tribu Mohammed Ibn Saoud s'allie au prédicateur Mohammed ben Abdelwahhab et fonde le premier État saoudien. Il disparaît en 1818 ; un second État saoudien, fondé en 1824, disparaît à son tour en 1891.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Le premier État saoudien est constitué aux alentours de 1744. Un cheikh de tribu local, Mohammed Ibn Saoud, s'associe avec un prédicateur religieux, Mohammed ben Abdelwahhab."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Trop instable, le royaume finit par disparaître en 1818.\nUn second État saoudien est fondé six années plus tard en 1824, mais disparaît en 1891."
+        }
+      ]
+    },
+    {
+      "id": "SAU-2",
+      "topic": "histoire",
+      "era": "1902-1932",
+      "title": "Ibn Saoud reprend Riyad",
+      "short": "Dans la nuit du 15 au 16 janvier 1902, Abdelaziz ibn Saoud s'empare de Riyad. Il conquiert ensuite le Hedjaz, avec La Mecque et Médine, en 1924-1925. Le 22 septembre 1932, la fusion du Nejd et du Hedjaz donne naissance à l'Arabie saoudite, dont il devient le roi.",
+      "long": "Le pays porte le nom de sa famille, les Al Saoud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Dans la nuit du 15 au 16 janvier 1902, Abdelaziz ibn Saoud, souhaitant restaurer l'ancien État de son aïeul, s'empare de Riyad, alors occupée par la famille rivale Al Rachid, originaire de Haïl."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "il fait la conquête en 1924-1925 du Hedjaz, un État comprenant les villes saintes de La Mecque et de Médine"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "L'Arabie saoudite est fondée officiellement le 22 septembre 1932 par la fusion du Nejd et du Hedjaz. Abdelaziz ibn Saoud (Ibn Saoud) en devient le roi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "l'adjectif « saoudite » évoque les Al Saoud, et en particulier Abdelaziz ibn Saoud dit « Ibn Saoud », qui reconquit ce pays au profit de sa famille en 1932"
+        }
+      ]
+    },
+    {
+      "id": "SAU-3",
+      "topic": "histoire",
+      "era": "1938-1973",
+      "title": "Le pétrole et l'alliance américaine",
+      "short": "La découverte du pétrole en mars 1938 transforme le pays et scelle une alliance avec les États-Unis : en échange d'un accès au pétrole, ceux-ci s'engagent à protéger la dynastie. En 1973, le quadruplement du prix du pétrole fait du royaume une superpuissance financière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "La découverte de pétrole en mars 1938 transforme le pays sur le plan économique et marque le début d'une alliance stratégique avec les États-Unis, concrétisée par le Pacte du Quincy. En échange d'un accès au pétrole, les États-Unis s'engagent à protéger militairement la dynastie des Saoud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "En 1973, l'Arabie saoudite est le leader des pays pétroliers, l'Organisation des pays exportateurs de pétrole (OPEP), et son ministre du Pétrole et des Ressources minérales Ahmed Zaki Yamani, diplômé d'Harvard, est la tête pensante du quadruplement du prix du pétrole qui fait soudain de l'Arabie saoudite une super-puissance financière."
+        }
+      ]
+    },
+    {
+      "id": "SAU-4",
+      "topic": "culture",
+      "title": "La terre des deux lieux saints",
+      "short": "Le royaume abrite les deux plus importants lieux saints de l'islam : la mosquée al-Haram, à La Mecque, et la mosquée du Prophète, à Médine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Le royaume abrite les deux plus importants lieux saints de l'islam : la mosquée al-Haram (à La Mecque) et la mosquée du Prophète (à Médine)."
+        }
+      ]
+    },
+    {
+      "id": "SAU-5",
+      "topic": "politique",
+      "era": "2018",
+      "title": "Le dernier pays où les femmes ne conduisaient pas",
+      "short": "L'Arabie saoudite était le dernier pays au monde à interdire aux femmes de conduire. Un décret du roi Salmane de septembre 2017 lève cette interdiction ; la mesure entre en vigueur le 24 juin 2018.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Pendant de longues années, l'Arabie saoudite est pointée du doigt car les femmes y sont interdites du droit de conduire. C'était le dernier pays au monde à pratiquer cette interdiction"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "Le 26 septembre 2017, le roi Salman d'Arabie saoudite signe un décret autorisant les femmes à conduire. La mesure est entrée en vigueur le 24 juin 2018 à minuit"
+        }
+      ]
+    },
+    {
+      "id": "SAU-6",
+      "topic": "geographie",
+      "title": "Un pays sans rivière",
+      "short": "Avec plus de deux millions de km², l'Arabie saoudite occupe 80 % de la péninsule Arabique. C'est le plus grand pays du Moyen-Orient, et pourtant il n'a aucun lac ni aucune rivière permanente.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "occupant 80 % de la péninsule Arabique, c'est le plus grand pays du Moyen-Orient avec une superficie de plus de deux millions de kilomètres carrés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arabie_saoudite",
+          "quote": "L'Arabie saoudite n'a aucun lac de surface ou rivière permanente"
+        }
+      ]
+    },
+    {
+      "id": "SAU-7",
+      "topic": "drapeau",
+      "era": "1926",
+      "title": "Le drapeau qu'on ne met jamais en berne",
+      "short": "Le drapeau vert porte un sabre et la chahada, la profession de foi musulmane. Parce qu'il contient le nom d'Allah, il ne peut jamais être mis en berne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Arabie_saoudite",
+          "quote": "Le fond vert est la couleur de l'islam. Le drapeau porte, en blanc, un sabre symbolisant la force, la dignité, l’élévation de la sagesse et le statut élevé, et la chahada (la profession de foi musulmane"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Arabie_saoudite",
+          "quote": "Parce qu'il contient le nom d'Allah, sacré pour les musulmans, le drapeau ne peut jamais être mis en berne"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Arabie_saoudite",
+          "quote": "Il fut imaginé en 1926, la forme ayant été assez peu modifiée par la suite."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SAU-C1",
+      "topic": "histoire",
+      "era": "1818-1902",
+      "title": "Les jardins",
+      "short": "Riyad signifie « les jardins » ou « les oasis ». Après la destruction de Dariya, première capitale saoudienne, en 1818, Riyad devient la capitale du deuxième État saoudien en 1824. En 1902, Ibn Saoud la reprend avec une soixantaine de compagnons : de nuit, six d'entre eux escaladent les remparts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riyad",
+          "quote": "Riyad (en arabe : الرياض, ar-riyāḍ, signifiant littéralement « les jardins » ou « les oasis »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riyad",
+          "quote": "dont le fils Ibrahim Pacha mettra à sac et détruira Dariya en 1818, provoquant l'effondrement de l'État saoudien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riyad",
+          "quote": "qui devient la capitale du deuxième royaume saoudien en 1824"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riyad",
+          "quote": "Profitant d'un voyage à Bagdad d'Abdelaziz ben Moutaïb Al Rachid, avec l'aval de son père Abderrahmane mais seulement accompagné d'une soixantaine de fidèles compagnons, le jeune Abdelaziz ben Abderrahmane Al Saoud entreprend de reconquérir Riyad.\nLa nuit du 15 janvier 1902, six d'entre eux escaladent les remparts de la cité"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'immense pays qui occupe presque toute la péninsule Arabique, entre la mer Rouge à l'ouest et le golfe Persique à l'est.",
+    "flag": "Vert, avec une inscription arabe blanche et un sabre blanc en dessous.",
+    "capital": "Riyad, « les jardins », au centre du pays, et non La Mecque ou Djeddah."
+  }
+}

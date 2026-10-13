@@ -1,0 +1,131 @@
+{
+  "id": "SLV",
+  "facts": [
+    {
+      "id": "SLV-1",
+      "topic": "histoire",
+      "era": "1824",
+      "title": "Le pays du Sauveur",
+      "short": "El Salvador signifie « le Sauveur », en référence au Christ. Le conquistador Pedro de Alvarado avait déjà baptisé la région « San Salvador » ; le nom du pays est fixé par la première Constitution, en 1824.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "Produit de l’union des provinces de Sonsonate et de San Salvador",
+          "to": "promulguée le 12 juin 1824."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "C'est Pedro de Alvarado qui nomme ce territoire",
+          "to": "en référence à Jésus-Christ)."
+        }
+      ]
+    },
+    {
+      "id": "SLV-2",
+      "topic": "histoire",
+      "era": "1525",
+      "title": "Les Pipils et les Lencas",
+      "short": "Quand les conquistadors espagnols arrivent, vers 1525, le territoire est peuplé depuis des siècles par les Pipils et les Lencas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "Les Pipils et les Lencas peuplent le territoire",
+          "to": "vers 1525."
+        }
+      ]
+    },
+    {
+      "id": "SLV-3",
+      "topic": "histoire",
+      "era": "1980-1992",
+      "title": "Douze ans de guerre civile",
+      "short": "Entre 1980 et 1992, une guerre civile entre l'armée et des guérillas fait plus de 100 000 morts. L'archevêque Óscar Romero, qui dénonçait les violences de l'armée, est assassiné par des paramilitaires ; il est devenu l'une des figures les plus célèbres du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "La politique du pays au cours du XXe siècle est marquée",
+          "to": "entre 1980 et 1992."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "L'archevêque Óscar Romero, qui s'était opposé aux violences",
+          "to": "par des groupes paramilitaires."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "L'archevêque Oscar Romero est l'un des héros",
+          "to": "les plus célèbres du Salvador."
+        }
+      ]
+    },
+    {
+      "id": "SLV-4",
+      "topic": "economie",
+      "era": "2001",
+      "title": "Un pays qui paie en dollars",
+      "short": "Engagée en 2001, la dollarisation s'étend en 2003 à toute la monnaie du pays : le Salvador vit depuis avec le dollar américain.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "La dollarisation de l'économie, engagée en 2001",
+          "to": "des avoirs financiers du pays."
+        }
+      ]
+    },
+    {
+      "id": "SLV-5",
+      "topic": "geographie",
+      "era": "1770",
+      "title": "Le plus petit pays d'Amérique centrale",
+      "short": "Le Salvador est le plus petit pays d'Amérique centrale, un rectangle d'environ 200 km sur 100 km tourné vers le Pacifique. Le volcan Izalco, né en 1770, est l'un des plus jeunes du continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "ce qui en fait le plus petit pays d'Amérique centrale, correspondant peu ou prou",
+          "to": "sur l'océan Pacifique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Salvador",
+          "from": "L'Izalco, formé en 1770",
+          "to": "du continent américain"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SLV-C1",
+      "topic": "histoire",
+      "era": "1525-1528",
+      "title": "La vallée des hamacs",
+      "short": "San Salvador est fondée en 1525 dans la « vallée des hamacs », un nom attribué aux nombreux tremblements de terre de la région, puis refondée en 1528 un peu plus loin. Les séismes l'ont frappée à maintes reprises, jusqu'en 1985.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
+          "from": "En effet, à l'arrivée des Espagnols dans la « Valle de las Hamacas » en 1525",
+          "to": "de la ville)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
+          "from": "Une deuxième expédition venant du Guatemala fonda de nouveau, en 1528",
+          "to": "dans la même vallée"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
+          "from": "Située dans la « Valle de Las Hamacas »",
+          "to": "que connait la région)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/San_Salvador_(Salvador)",
+          "from": "On peut notamment citer les tremblements de terre de 1575",
+          "to": "et 1985."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus petit pays d'Amérique centrale, le seul sans côte caribéenne : un rectangle sur le Pacifique, entre le Guatemala et le Honduras.",
+    "flag": "Bleu, blanc, bleu à l'horizontale avec un blason rond au centre. Le Nicaragua a presque le même drapeau, mais avec un blason triangulaire ; le Honduras a cinq étoiles.",
+    "capital": "San Salvador, le « Saint Sauveur » : la capitale répète le nom du pays avec un « San » devant."
+  }
+}

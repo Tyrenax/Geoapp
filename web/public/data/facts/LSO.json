@@ -1,0 +1,162 @@
+{
+  "id": "LSO",
+  "facts": [
+    {
+      "id": "LSO-1",
+      "topic": "geographie",
+      "title": "Le royaume dans le ciel",
+      "short": "Entièrement enclavé dans l'Afrique du Sud, le Lesotho est le seul pays au monde dont tout le territoire se trouve à plus de 1 000 m d'altitude. Ses montagnes dépassent les 3 000 m.",
+      "long": "Son point le plus bas, au confluent du fleuve Orange et de la rivière Makhaleng, est à environ 1 400 m. Dans le nord, une station de ski a même été ouverte à 3 322 m d'altitude.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Il partage ses frontières avec le pays au sein duquel il est enclavé : l'Afrique du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "C'est un pays de montagne à relief volcanique, dont le point le plus bas est le confluent entre le fleuve Orange et la rivière Makhaleng à 1 400 m d'altitude, des sources précisent que son point le plus bas est 1 388 m, constituant ainsi le seul pays au monde entièrement au-dessus de 1 000 m."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Son territoire est entièrement situé à plus de 1 400 m d'altitude, avec des hauts plateaux et des chaînes montagneuses pouvant dépasser 3 000 m."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Dans le nord du pays, Afriski Mountain Resort, à 3 322 m d'altitude, espère attirer les skieurs fortunés de Johannesbourg et Pretoria."
+        }
+      ]
+    },
+    {
+      "id": "LSO-2",
+      "topic": "histoire",
+      "era": "années 1820",
+      "title": "Moshoeshoe, le roi fondateur",
+      "short": "À partir des années 1820, Moshoeshoe Ier, chef du clan du « crocodile », unifie vingt-trois tribus sothos pour résister aux raids zoulous. Il installe sa forteresse sur le plateau de Thaba Bosiu.",
+      "long": "En 1833, il accueille des missionnaires protestants francophones venus de France et de Suisse. Ce sont eux qui le conseilleront plus tard face aux Boers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "À partir des années 1820, Moshoeshoe Ier, chef de la tribu kwena (« crocodile ») parvient à unifier sous son commandement les vingt trois tribus de Sothos du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Au XIXe siècle, le roi Moshoeshoe Ier parvint à unifier les clans sotho pour résister aux raids zoulous, puis aux pressions des Boers."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maseru",
+          "quote": "Elle est située à 24 kilomètres à l'ouest de Thaba Bosiu, la forteresse du roi Moshoeshoe Ier, roi du Basotho."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "L'évangélisation-christianisation du territoire commence ainsi précocement (28 juin 1833, arrivée de Arbousset, Casalis, Gosselin, auprès de Moshoeshoe – ou, en français : « Moschesch » – à Thaba Bosiu)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "Retranchés dans la région de Thaba Bosiu, Moshoeshoe, sur le conseil des missionnaires francophones (Suisses du canton de Vaud travaillant pour la SMEP, notamment Adolphe Mabille, et Français), fait appel en 1868 à la Grande-Bretagne"
+        }
+      ]
+    },
+    {
+      "id": "LSO-3",
+      "topic": "histoire",
+      "era": "1868",
+      "title": "Un protectorat pour échapper aux Boers",
+      "short": "Menacé par l'État libre d'Orange des Boers, Moshoeshoe demande en 1868 la protection de la Grande-Bretagne. Son royaume devient le Basutoland, protectorat britannique.",
+      "long": "En 1910, la création de l'Union sud-africaine prévoyait d'y intégrer le Basutoland. Il parvient pourtant à garder son autonomie, ce qui lui permet de devenir indépendant le 4 octobre 1966 sous le nom de Lesotho.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "Dans les années 1850, le royaume de Moshoeshoe est menacé par l'expansion des Boers qui viennent de fonder l'État libre d'Orange à ses frontières."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "En 1868, afin de se protéger des Boers, Moshoeshoe Ier demande l'aide des Britanniques qui établissent un protectorat sur le territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "En 1910, la loi portant fondation de l'Union sud-africaine (South African Act of Union) prévoit ainsi l'intégration du Basutoland au nouveau dominion."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "Néanmoins, le Basutoland (tout comme les deux autres protectorats) parvient à conserver son autonomie et à ne pas être annexé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Le 4 octobre 1966, le Basutoland devint indépendant et prit le nom de Lesotho."
+        }
+      ]
+    },
+    {
+      "id": "LSO-4",
+      "topic": "histoire",
+      "era": "1966-1990",
+      "title": "Un petit royaume face à l'apartheid",
+      "short": "Totalement enclavé dans l'Afrique du Sud de l'apartheid, le Lesotho rejette sa politique mais dépend trop de son puissant voisin pour pouvoir le critiquer ouvertement.",
+      "long": "La vie politique du royaume est agitée : en 1990, après un coup d'État militaire, le roi Moshoeshoe II est exilé en Angleterre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Lesotho",
+          "quote": "État totalement enclavé dans l'Afrique du Sud, le Lesotho est totalement dépendant de son puissant voisin et, tout en rejetant sa politique d'apartheid, ne saurait se permettre de trop le critiquer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lesotho",
+          "quote": "Le roi Moshoeshoe II est à nouveau exilé en Angleterre en 1990, à la suite du coup d'État militaire dont est à l'origine Lekhanya."
+        }
+      ]
+    },
+    {
+      "id": "LSO-5",
+      "topic": "drapeau",
+      "era": "2006",
+      "title": "Un chapeau sur le drapeau",
+      "short": "Au centre du drapeau adopté en 2006, un chapeau conique traditionnel basotho, le mokorotlo, symbolise l'unité. Les bandes bleue, blanche et verte célèbrent la devise nationale : la pluie, la paix et la prospérité.",
+      "long": "Le chapeau figurait déjà, en blanc, sur le premier drapeau de l'indépendance. Il avait été remplacé entre-temps par un bouclier, une lance et un gourdin traditionnels.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Lesotho",
+          "quote": "Le drapeau du Lesotho, adopté le 4 octobre 2006, présente trois bandes de couleur horizontales (bleu, blanc, vert) de largeurs inégales (proportions 3:4:3) représentant les éléments de la devise nationale qui célèbre la pluie, la paix et la prospérité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Lesotho",
+          "quote": "Au centre, est représenté en noir et occupant 92 % de la hauteur de la bande blanche, un chapeau conique traditionnel Basotho symbolisant l'unité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Lesotho",
+          "quote": "Celui-ci représentait un chapeau Basotho, le mokorotlo de couleur blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Lesotho",
+          "quote": "Un bouclier brun traditionnel du Basotho avec une sagaie (lance) et une knobkierrie (gourdin) remplace ainsi le chapeau Basotho."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LSO-C1",
+      "topic": "histoire",
+      "era": "1869",
+      "title": "La ville du « grès rouge »",
+      "short": "Maseru, dont le nom signifie « grès rouge » en sesotho, est fondée en 1869 par les Britanniques à partir d'un camp de policiers. Elle borde la rivière Caledon, qui marque la frontière avec l'Afrique du Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maseru",
+          "quote": "Le nom de la ville est un mot sesotho qui signifie « grès rouge »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maseru",
+          "quote": "Maseru est fondée par les Britanniques, en 1869, à partir d'un camp de policiers à la suite de la Guerre de l'État libre du Basotho, quand le Basutoland devint un protectorat britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maseru",
+          "quote": "Maseru est située au nord-ouest du Lesotho, à la frontière avec l'Afrique du Sud, délimitée par la rivière Mohokare, également connue sous le nom de Caledon."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays de montagnes complètement entouré par l'Afrique du Sud, à l'est de son centre : comme un trou dans la carte sud-africaine.",
+    "flag": "Bleu, blanc, vert en bandes horizontales, avec un chapeau conique noir au centre. Aucun autre drapeau ne porte de chapeau.",
+    "capital": "Maseru, le « grès rouge », posée sur la frontière : la capitale est au bord du pays qui l'entoure."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ESH",
+  "facts": [
+    {
+      "id": "ESH-1",
+      "topic": "politique",
+      "title": "Un territoire au statut non réglé",
+      "short": "Le Sahara occidental est inscrit par l'ONU sur la liste des territoires non autonomes. Depuis le départ des Espagnols en 1976, son statut définitif n'est toujours pas réglé : il est revendiqué à la fois par le Maroc et par la République arabe sahraouie démocratique (RASD).",
+      "long": "Depuis le cessez-le-feu de 1991, le Maroc contrôle et administre environ 80 % du territoire, et le Front Polisario les 20 % situés à l'est d'une longue ceinture de sécurité, le « mur », devenue la frontière de fait.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Territoire non autonome selon l'ONU, cette ancienne colonie espagnole n'a toujours pas trouvé de statut définitif sur le plan juridique depuis le départ des Espagnols, en 1976."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Le territoire est revendiqué à la fois par le Maroc et par la République arabe sahraouie démocratique (RASD), proclamée par le Front Polisario en 1976."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Depuis le cessez-le-feu de 1991, le Maroc contrôle et administre environ 80 % du territoire, tandis que le Front Polisario en contrôle 20 % laissés par le Maroc derrière une longue ceinture de sécurité, le « mur marocain » devenu aujourd'hui la frontière de facto."
+        }
+      ]
+    },
+    {
+      "id": "ESH-2",
+      "topic": "histoire",
+      "era": "1884-1975",
+      "title": "Le Sahara espagnol",
+      "short": "En 1884, l'Espagne place ce territoire sous son protectorat, confirmé à la conférence de Berlin. Le Sahara espagnol est formé en 1924 à partir du Rio de Oro et de la Seguia el-Hamra.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "En 1884, l'Espagne place ce territoire sous son protectorat ; la prise de contrôle est confirmée par la conférence de Berlin de 1884-1885."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Le Sahara espagnol est créé à partir des territoires de Rio de Oro et de Seguia el-Hamra en 1924."
+        }
+      ]
+    },
+    {
+      "id": "ESH-3",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "L'avis de la Cour internationale de justice et la marche verte",
+      "short": "En 1975, la Cour internationale de justice reconnaît des liens historiques entre les populations du territoire et le Maroc comme la Mauritanie, mais estime qu'ils n'empêchent pas un référendum d'autodétermination. Quelques jours plus tard, le roi Hassan II organise la marche verte.",
+      "long": "Le 14 novembre 1975, les accords de Madrid entre l'Espagne, le Maroc et la Mauritanie organisent le partage du territoire. Le Front Polisario proclame la RASD le 27 février 1976, au lendemain du départ du dernier soldat espagnol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "En 1975, un avis consultatif de la Cour internationale de justice confirme l'existence de liens historiques entre les populations du Sahara occidental et le Maroc, ainsi que l'ensemble mauritanien"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Cependant, l'avis conclut qu'ils ne sont pas de nature à empêcher un référendum d'autodétermination, en y rendant inapplicable la notion de terra nullius."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Quelques jours après cet avis, Hassan II, roi du Maroc organise la marche verte (6 novembre 1975) pour marquer la volonté d'une souveraineté marocaine sur ce territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Ceci amène l'Espagne à signer les accords de Madrid avec le Maroc et la Mauritanie, le 14 novembre 1975, pour officialiser le partage du territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Le 27 février 1976, la République arabe sahraouie démocratique (RASD) est proclamée par le Front Polisario à Bir Lahlou, au lendemain du départ du dernier soldat espagnol du territoire."
+        }
+      ]
+    },
+    {
+      "id": "ESH-4",
+      "topic": "histoire",
+      "era": "1975-1991",
+      "title": "Une guerre de seize ans et un référendum toujours attendu",
+      "short": "La guerre oppose le Front Polisario au Maroc et, jusqu'en 1979, à la Mauritanie. Des dizaines de milliers de Sahraouis fuient vers les camps de réfugiés de Tindouf, en Algérie. Le cessez-le-feu de 1991 prévoit un référendum, reporté à plusieurs reprises.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Dans le même temps, la lutte armée du Front Polisario attaque par des incursions éclairs les forces marocaines et mauritaniennes qu'il considère comme de nouvelles forces d'occupation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Le cessez-le-feu est approuvé par l'ONU et le 10 août 1979 un traité de paix est signé dans lequel la Mauritanie cède sa partie du Sahara au Front Polisario."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Entre fin 1975 et 1976, des dizaines de milliers de Sahraouis quittent le Sahara occidental, fuyant la guerre vers les camps de réfugiés de Tindouf en Algérie, encadrés par le Polisario."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Une guerre d'embuscades avec le Front Polisario prend fin en 1991 à la suite d'un cessez-le-feu favorisé par la médiation de l'Organisation des Nations unies ; un référendum organisé par les Nations unies sur le statut final a été reporté à plusieurs reprises."
+        }
+      ]
+    },
+    {
+      "id": "ESH-5",
+      "topic": "economie",
+      "title": "Phosphates, pêche et pastoralisme",
+      "short": "Ce territoire de 266 000 km², en grande partie désertique, vit surtout du pastoralisme, de la pêche et de l'extraction du phosphate, qui représentent plus de 60 % des exportations.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Le Sahara occidental (arabe : الصحراء الغربية) est un territoire de 266 000 km2 du nord-ouest de l'Afrique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sahara_occidental",
+          "quote": "Les principales sources de revenu sont le pastoralisme, la pêche et l'extraction de phosphate, qui représentent plus de 60 % des exportations."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ESH-C1",
+      "topic": "histoire",
+      "era": "1938",
+      "title": "« Les sources », une ville née d'une nappe d'eau",
+      "short": "Laâyoune, dont le nom signifie « les sources », est la ville la plus importante du territoire. Un officier espagnol y installe un poste en 1934, puis fonde officiellement la ville en 1938, quand il constate que la nappe d'eau souterraine est prometteuse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laâyoune",
+          "quote": "Laâyoune (en arabe : العيون [al ʔujuːn], El Aaiún ou El-Ayoun, littéralement « les sources » ; en berbère : Leɛyun) est la ville la plus importante du Sahara occidental."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laâyoune",
+          "quote": "En 1934, le lieutenant colonel espagnol Antonio de Oro (es) y installa un baraquement pour un détachement de police coloniale, sur la piste entre le cap Juby et Villa Cisneros, puis il fonda officiellement la ville en 1938, lorsqu'il se rendit compte que la nappe phréatique était prometteuse."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique du Nord-Ouest, au sud du Maroc et au nord de la Mauritanie, avec un petit morceau de frontière algérienne au nord-est : un grand rectangle de désert.",
+    "flag": "Le territoire n'a pas de drapeau reconnu par toutes les parties : il ne figure donc pas dans le quiz des drapeaux.",
+    "capital": "Laâyoune, « les sources » : la principale ville du territoire, dont le statut reste disputé."
+  }
+}

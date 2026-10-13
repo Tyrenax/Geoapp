@@ -1,0 +1,141 @@
+{
+  "id": "NFK",
+  "facts": [
+    {
+      "id": "NFK-1",
+      "topic": "histoire",
+      "era": "XIVe-XVe siècle",
+      "title": "Les Polynésiens disparus",
+      "short": "Des Polynésiens venus des îles Kermadec ou de Nouvelle-Zélande s'installent sur l'île entre le XIVe et le XVe siècle. Leur civilisation disparaît avant l'arrivée des Européens, pour une raison inconnue ; outils, rats polynésiens et bananiers témoignent de leur passage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Les premiers hommes qui peuplent l'île Norfolk étaient des Polynésiens originaires soit des îles Kermadec, soit de l'île du Nord de la Nouvelle-Zélande. Débarqués entre les XIVe et XVe siècles, leur civilisation disparaît avant l'arrivée des Européens. Le principal site est localisé à Emily Bay, où des outils, le rat polynésien et des bananiers témoignent de leur présence. La raison de leur disparition est inconnue."
+        }
+      ]
+    },
+    {
+      "id": "NFK-2",
+      "topic": "histoire",
+      "era": "1774",
+      "title": "Le nom d'une duchesse déjà morte",
+      "short": "James Cook aperçoit l'île en 1774 et la baptise du nom de la duchesse de Norfolk. Parti d'Angleterre en 1772, il ignorait qu'elle était morte l'année précédente.",
+      "long": "Cook est impressionné par ses grands arbres droits et ses plantes proches du lin : de quoi fabriquer voiles et cordages, une ressource vitale pour la marine britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Le premier Européen à apercevoir l'île est le navigateur anglais James Cook, en 1774, lors de son second voyage dans le Pacifique sud à bord du HMS Resolution. Il la baptise du nom de la duchesse de Norfolk, épouse d'Edward Howard, 9e duc de Norfolk. Parti d'Angleterre en 1772, Cook ignorait la mort de la duchesse survenue en mai 1773."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Il dit avoir été impressionné par les arbres hauts et droits, ainsi que par les plantes apparentées au lin, dont il rapporte des spécimens en Angleterre. À cette époque, le Royaume-Uni était extrêmement dépendant du lin et du chanvre qu'il importait des rives de la mer Baltique et qui servaient à la fabrication des voiles et des cordages des navires. Si le pays venait à manquer de ces ressources, son statut de puissance maritime s'en trouverait menacé."
+        }
+      ]
+    },
+    {
+      "id": "NFK-3",
+      "topic": "histoire",
+      "era": "1825-1855",
+      "title": "Le bagne des plus durs",
+      "short": "Après une première colonie pénitentiaire fermée en 1813, l'île est réoccupée en 1825 pour y envoyer les détenus les plus difficiles, sans espoir de retour. Torture, faim et corruption y sont dénoncées ; lors de la mutinerie de 1834, des condamnés à mort remercient le ciel tandis que les graciés fondent en larmes.",
+      "long": "Les derniers prisonniers quittent l'île pour la Tasmanie en mai 1855. Les vestiges du bagne de Kingston sont classés au patrimoine mondial de l'UNESCO depuis 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "L’île ne comptait plus qu’environ 200 habitants, qui y demeurèrent jusqu’à la fermeture de la colonie en 1813."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "En 1824, le gouvernement britannique ordonne au gouverneur de Nouvelle-Galles-du-Sud, Thomas Brisbane, d'occuper à nouveau l'île Norfolk pour y envoyer les détenus les plus difficiles. D'abord perçu comme un désavantage, l'éloignement de l'île était devenu un moyen d'éloigner de Sydney ses éléments les plus perturbateurs. Il n'était pas prévu de ramener les prisonniers sur le continent, encore moins de les réinsérer dans la vie civile. À la suite d'une mutinerie des détenus en 1834, le père William Bernard Ullathorne, vicaire général de Sydney, se rend à l'île Norfolk, chargé de l'accompagnement spirituel des mutins condamnés à mort. Il rapporte que, au moment d'annoncer la sentence, les détenus graciés fondaient en larmes alors que les condamnés à mort remerciaient le ciel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Le rapport rédigé en 1846 par Robert Pringle Stuart déplore le manque et la mauvaise qualité de la nourriture, l'insalubrité des habitations, l'usage de la torture et la corruption des surveillants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "et les derniers prisonniers furent transférés vers la Tasmanie en mai 1855."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingston_(île_Norfolk)",
+          "quote": "Le 25 juin 1825, plus de dix ans après le départ des colons vers la Tasmanie, une colonie pénitentiaire est installée de nouveau sur l'île, à Kingston, par le capitaine Turton. Ce qu'il reste de cette colonie est protégé depuis 2010 en tant que patrimoine mondial de l'UNSECO sous le nom de Kingston and Arthurs Vale Historic Area sur la liste des sites de bagnes australiens (onze sites de colonies pénitentiaires éparpillés en Australie)."
+        }
+      ]
+    },
+    {
+      "id": "NFK-4",
+      "topic": "histoire",
+      "era": "1856",
+      "title": "Les descendants du Bounty",
+      "short": "Le 8 juin 1856, 194 habitants de l'île Pitcairn débarquent à Norfolk : descendants des révoltés du Bounty, ils étaient devenus trop nombreux sur leur petite île. Ils s'installent dans les anciens bâtiments du bagne et y poursuivent l'agriculture et la pêche à la baleine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Le 8 juin 1856 accostent 194 habitants de l'île Pitcairn."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Les descendants des révoltés du HMS Bounty sont devenus trop nombreux"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Les nouveaux venus occupent les anciens bâtiments de la colonie pénitentiaire et y poursuivirent les deux activités principales qu'ils menaient à Pitcairn, l'agriculture et la pêche à la baleine."
+        }
+      ]
+    },
+    {
+      "id": "NFK-5",
+      "topic": "politique",
+      "era": "2015-2016",
+      "title": "La fin de l'autonomie",
+      "short": "Territoire australien autonome, l'île Norfolk perd son autonomie en 2015 pour remédier à sa situation de faillite. Depuis le 1er juillet 2016, elle relève de la Nouvelle-Galles du Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "En mars 2015, afin de remédier à la situation de faillite du territoire, le gouvernement australien annonce qu'une loi abolissant le statut d'autonomie sera bientôt votée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Norfolk",
+          "quote": "Elle devient une région de la Nouvelle-Galles du Sud à partir du 1er juillet 2016."
+        }
+      ]
+    },
+    {
+      "id": "NFK-6",
+      "topic": "drapeau",
+      "era": "1980",
+      "title": "Le pin de Norfolk",
+      "short": "Adopté le 17 janvier 1980, le drapeau montre un pin de Norfolk, arbre endémique devenu symbole de la flore de l'île, sur une bande blanche entre deux bandes vertes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_Norfolk",
+          "quote": "a été adopté le 17 janvier 1980 en remplacement du drapeau de l'Australie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'île_Norfolk",
+          "quote": "Il est composé de trois bandes verticales dont les proportions sont 7:9:7. Les deux bandes situées aux extrémités sont de couleur verte (PMS 356).\nAu milieu, un Pin de Norfolk (Araucaria heterophylla) est représenté sur un fond blanc. C'est le symbole de la flore endémique de l'île."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NFK-C1",
+      "topic": "histoire",
+      "era": "1788",
+      "title": "Fondée avec des prisonniers",
+      "short": "Kingston naît le 6 mars 1788, avec l'arrivée du lieutenant Philip Gidley King et d'un petit groupe de colons, en majorité des prisonniers, moins de deux mois après la fondation de la colonie de Nouvelle-Galles du Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingston_(île_Norfolk)",
+          "quote": "La création de la ville est liée à l'arrivée du Lieutenant Philip Gidley King et de 22 colons (y compris 9 prisonniers masculins et 6 féminins) le 6 mars 1788, moins de deux mois après la création de la colonie britannique de Nouvelle-Galles du Sud."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île de la mer de Tasman, entre la Nouvelle-Calédonie (au nord) et la Nouvelle-Zélande (au sud), à l'est de l'Australie.",
+    "flag": "Trois bandes verticales vert, blanc, vert, avec un grand pin vert au centre.",
+    "capital": "Kingston, au sud de l'île, autour des vestiges du bagne ; le plus gros village est Burnt Pine."
+  }
+}

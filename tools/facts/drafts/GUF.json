@@ -1,0 +1,137 @@
+{
+  "id": "GUF",
+  "facts": [
+    {
+      "id": "GUF-1",
+      "topic": "histoire",
+      "era": "1604",
+      "title": "La « France équinoxiale »",
+      "short": "En 1604, la colonie de Guyane prend le nom de « France équinoxiale ». La présence française n'y devient vraiment durable qu'au milieu du XVIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "En 1604, la colonie de Guyane prend le nom de France équinoxiale.",
+          "to": "France équinoxiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "Les premières installations françaises commencent en 1503",
+          "to": "qu'à partir de 1643"
+        }
+      ]
+    },
+    {
+      "id": "GUF-2",
+      "topic": "histoire",
+      "era": "1797-1946",
+      "title": "La terre du bagne",
+      "short": "Pour se débarrasser d'opposants politiques et de délinquants, le Second Empire crée des bagnes en Guyane. Des condamnés y sont envoyés jusqu'en 1946, année où la Guyane devient un département français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "Pour pallier le manque de main-d'œuvre",
+          "to": "crée des bagnes en Guyane."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "Ils accueillent des transportés, des déportés",
+          "to": "jusqu'en 1946."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "Elle abandonne définitivement son statut de colonie",
+          "to": "en 1946."
+        }
+      ]
+    },
+    {
+      "id": "GUF-3",
+      "topic": "histoire",
+      "era": "1965",
+      "title": "La base spatiale de l'Europe",
+      "short": "À partir de 1965, le général de Gaulle fait installer le Centre spatial guyanais, sur un territoire proche de l'équateur, avec une large ouverture sur l'océan. Il est exploité par le CNES, Arianespace et l'Agence spatiale européenne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "De Gaulle, devenu président, décide d'y établir le Centre spatial guyanais",
+          "to": "à partir de 1965."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "La position du département est privilégiée",
+          "to": "une large ouverture sur l'océan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "Il est aujourd'hui exploité par le Centre national d'études spatiales",
+          "to": "l'Agence spatiale européenne (ESA)."
+        }
+      ]
+    },
+    {
+      "id": "GUF-4",
+      "topic": "geographie",
+      "title": "Le Brésil, premier voisin de la France",
+      "short": "Avec 730 km de frontière commune avec la Guyane, le Brésil est le pays qui partage la plus longue frontière terrestre avec la France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "La Guyane est frontalière du Brésil sur 730 km",
+          "to": "la plus longue frontière terrestre avec la France"
+        }
+      ]
+    },
+    {
+      "id": "GUF-5",
+      "topic": "geographie",
+      "title": "97 % de forêt",
+      "short": "La forêt équatoriale couvre 97 % de la Guyane, la deuxième plus vaste région de France après la Nouvelle-Aquitaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "C'est également le département le plus boisé",
+          "to": "la forêt guyanaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "from": "S'étendant sur 86 504 km2",
+          "to": "après la Nouvelle-Aquitaine."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GUF-C1",
+      "topic": "histoire",
+      "era": "1643",
+      "title": "Le fort acheté au chef Cépérou",
+      "short": "L'histoire de Cayenne commence le 27 novembre 1643 : Charles Poncet de Brétigny achète une butte au chef amérindien galibi Cépérou et y bâtit un fort qui porte son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cayenne",
+          "from": "L'histoire de la ville de Cayenne commence le 27 novembre 1643",
+          "to": "il y bâtit le fort Cépérou."
+        }
+      ]
+    },
+    {
+      "id": "GUF-C2",
+      "topic": "histoire",
+      "title": "Un nom de réchaud de marin",
+      "short": "Au XVIIe siècle, la « caïenne » était le réchaud sur lequel les marins cuisinaient. Par extension, le mot a désigné un lieu de repos à terre, puis les dépôts de vivres des ports, d'où le nom de la ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cayenne",
+          "from": "L’origine réelle  du nom de la ville",
+          "to": "puis cayennes."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit territoire français au nord-est de l'Amérique du Sud, entre le Suriname à l'ouest et le Brésil au sud et à l'est.",
+    "flag": "Officiellement, la Guyane utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Cayenne, la « caïenne » des marins : un abri où se reposer de la mer après la traversée."
+  }
+}

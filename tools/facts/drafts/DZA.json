@@ -1,0 +1,249 @@
+{
+  "id": "DZA",
+  "facts": [
+    {
+      "id": "DZA-1",
+      "topic": "histoire",
+      "era": "IIe s. av. J.-C.",
+      "title": "La Numidie de Massinissa, grenier de la Méditerranée",
+      "short": "Après la deuxième guerre punique, le roi berbère Massinissa réunit toutes les couronnes numides sous son autorité, avec Cirta pour capitale.",
+      "long": "Massinissa encourage l'agriculture au point de faire de la Numidie le grenier à blé de la Méditerranée. Il frappe monnaie et modernise les grandes cités.\n\nCette puissance finit par inquiéter Rome, qui attise les querelles de succession après sa mort. Le territoire passe ensuite dans l'orbite romaine : les ruines de Tipaza, Timgad ou Hippone en témoignent encore.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Au sortir de la deuxième guerre punique, le roi Massinissa",
+          "to": "une seule et même autorité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Massinissa consolide les fondations",
+          "to": "à l'image de sa capitale Cirta."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Cette prospérité et la perspective",
+          "to": "après la mort de Massinissa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Les souverains y fondent des cités majeures comme Cirta",
+          "to": "au monde méditerranéen."
+        }
+      ]
+    },
+    {
+      "id": "DZA-2",
+      "topic": "histoire",
+      "era": "1827-1830",
+      "title": "Un coup d'éventail et une conquête",
+      "short": "En 1827, lors d'une dispute avec le consul de France, le dey d'Alger le frappe de son éventail. Paris s'en sert de prétexte : en 1830, une flotte débarque à Sidi-Ferruch et prend Alger.",
+      "long": "L'expédition est énorme : quelque 37 000 hommes embarquent sur 675 navires, presque toute la marine marchande française de l'époque. Le débarquement a lieu le 14 juin 1830, et le dey signe sa reddition le 5 juillet 1830.\n\nLa date restera symbolique : c'est un 5 juillet, en 1962, que l'Algérie proclamera son indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "N’obtenant pas d’explications de la part du gouvernement français, le 30 avril 1827",
+          "to": "un coup de son éventail."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Algérie",
+          "from": "Le royaume français utilise un prétexte",
+          "to": "la conquête d'Alger (1830)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Entre le 11 et le 18 mai 1830",
+          "to": "à Sidi-Ferruch"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Devant l'inévitabilité de la défaite",
+          "to": "dans la forteresse d’Alger."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "l'Algérie proclame son indépendance le 5 juillet 1962",
+          "to": "le 5 juillet 1962."
+        }
+      ]
+    },
+    {
+      "id": "DZA-3",
+      "topic": "histoire",
+      "era": "1832-1847",
+      "title": "L'émir Abdelkader tient tête quinze ans",
+      "short": "Reconnu émir par plusieurs chefs de tribus en 1832, Abdelkader organise un véritable État dans l'ouest du pays et combat l'armée française jusqu'en 1847.",
+      "long": "Pris en tenaille entre les troupes françaises au nord et à l'est et les troupes marocaines à l'ouest, il dépose les armes en 1847. Dans une lettre restée célèbre aux oulémas de Fès, il parlait déjà de « watan al Jaza'ir », la patrie algérienne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "La France se heurte à l’ouest à l’émir Abdelkader",
+          "to": "un véritable état."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "En 1847, Abd el-Kader, attaqué au Nord",
+          "to": "et se rend."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Par une lettre célèbre aux oulémas de Fès",
+          "to": "(la patrie d'Algérie/Alger)."
+        }
+      ]
+    },
+    {
+      "id": "DZA-4",
+      "topic": "histoire",
+      "era": "1962",
+      "title": "L'indépendance après 132 ans",
+      "short": "Après une guerre de huit ans contre la France, l'Algérie proclame son indépendance le 5 juillet 1962, au terme de 132 ans de présence coloniale.",
+      "long": "Quelques jours plus tôt, le 1er juillet 1962, un référendum d'autodétermination avait ouvert la voie. La guerre d'indépendance, longue et meurtrière, reste un moment fondateur de l'histoire du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "L’Algérie devient indépendante à l’issue d’une guerre de 8 ans",
+          "to": "le 5 juillet 1962."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Après plus d'un siècle de colonisation française",
+          "to": "le 5 juillet 1962."
+        }
+      ]
+    },
+    {
+      "id": "DZA-5",
+      "topic": "geographie",
+      "title": "Le plus grand pays d'Afrique, surtout désert",
+      "short": "Avec 2 381 741 km², l'Algérie est le plus grand pays d'Afrique, du monde arabe et du bassin méditerranéen. Le Sahara couvre plus de 80 % de son territoire.",
+      "long": "Au sud se dressent le massif du Hoggar et le plateau du Tassili. Dans le tassili n'Ajjer, à plus de mille mètres d'altitude, des rochers sculptés par l'érosion surgissent des dunes et donnent au paysage un air lunaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "Avec une superficie de 2 381 741 km2",
+          "to": "du bassin méditerranéen."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "La partie saharienne représente plus de 80 %",
+          "to": "le plateau du Tassili."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "À l'est, dans le tassili n'Ajjer",
+          "to": "aspect de paysage lunaire."
+        }
+      ]
+    },
+    {
+      "id": "DZA-6",
+      "topic": "drapeau",
+      "era": "1958",
+      "title": "Un drapeau né dans les cortèges ouvriers",
+      "short": "Vert et blanc, frappé d'un croissant et d'une étoile rouges, le drapeau serait apparu dès 1919-1920 dans les défilés syndicaux du 1er mai. Le FLN le reprend, et le gouvernement provisoire l'adopte en 1958.",
+      "long": "Le vert est souvent lu comme l'islam ou la terre, le blanc comme la pureté ; le croissant et l'étoile sont des symboles musulmans. Le mouvement indépendantiste de Messali Hadj, l'Étoile nord-africaine fondée en 1926, cherchait déjà à se doter d'un emblème.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Cependant, selon René Gallissot et Anissa Bouayed",
+          "to": "sur les territoires français et algériens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Le drapeau vert et blanc marqué d'une étoile et d'un croissant rouge est repris par le FLN",
+          "to": "(GPRA)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Selon Malek Chebel",
+          "to": "le blanc la pureté."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Selon Khaled Merzouk, la bande",
+          "to": "(terre et agriculture)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Le croissant et l'étoile rouge sont des symboles",
+          "to": "symboles musulmans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "L'Étoile nord-africaine (ENA) est fondée en 1926",
+          "to": "présidée par Messali Hadj"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Algérie",
+          "from": "Cette structure cherche très tôt à donner un emblème",
+          "to": "l'islam notre religion »."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DZA-C1",
+      "topic": "histoire",
+      "era": "960",
+      "title": "« Les îles » qui ont nommé tout un pays",
+      "short": "Alger a été refondée en 960 par le prince berbère Bologhine ibn Ziri sous le nom de Djezaïr, « les îles », d'après les îlots qui forment son port. C'est de ce nom que vient celui de l'Algérie.",
+      "long": "Avant lui, le site avait été un comptoir phénicien, Icosim, que les Romains appelèrent Icosium. Une légende gréco-romaine rattache ce nom au grec « eikosi », vingt : la ville aurait été fondée par vingt compagnons d'Hercule.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "Bologhine ibn Ziri reconstruisit Icosium",
+          "to": "en 960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Algérie",
+          "from": "L'étymologie d'Algérie reprend le nom de la ville",
+          "to": "le port d'Alger ou sa jetée actuelle"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "comme comptoir par les Phéniciens, sous le nom d'Icosim",
+          "to": "la renomme Icosium"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "Selon une légende gréco-romaine",
+          "to": "compagnons d’Hercule."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "Ils résolurent de fonder Alger",
+          "to": "signifie en grec vingt)."
+        }
+      ]
+    },
+    {
+      "id": "DZA-C2",
+      "topic": "culture",
+      "title": "La Blanche et la Bien-Gardée",
+      "short": "On surnomme Alger « la Blanche », « la Joyeuse » ou « la Bien-Gardée ». Sa casbah, la vieille ville bâtie sur les ruines d'Icosium, est classée au patrimoine mondial de l'UNESCO.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "surnommée El Bahdja",
+          "to": "ou même Alger la blanche"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "La casbah (« la Citadelle »)",
+          "to": "sur les ruines de l’ancienne Icosium."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alger",
+          "from": "De nos jours encore, « casbah »",
+          "to": "patrimoine mondial de l'UNESCO."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le géant du Maghreb : une façade méditerranéenne entre le Maroc à l'ouest et la Tunisie à l'est, puis un immense territoire qui s'enfonce dans le Sahara jusqu'au Mali et au Niger. C'est le plus grand pays d'Afrique.",
+    "flag": "Coupé verticalement en deux : vert côté mât, blanc de l'autre, avec un croissant et une étoile rouges à cheval sur les deux moitiés. Le Pakistan a aussi du vert et du blanc, mais avec un croissant blanc sur le vert ; la Tunisie est rouge avec un disque blanc au centre.",
+    "capital": "Alger a donné son nom au pays : ôte la fin d'« Algérie » et il reste « Alger ». Les deux viennent d'al-Djazaïr, « les îles », les îlots du port."
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "PRK",
+  "facts": [
+    {
+      "id": "PRK-1",
+      "topic": "histoire",
+      "era": "1948",
+      "title": "Deux Corées en 1948",
+      "short": "Faute d'accord sur l'unification, deux gouvernements distincts sont formés en 1948 : la république populaire démocratique de Corée, socialiste, au nord, et la république de Corée au sud. Kim Il-sung, imposé par les Soviétiques, dirige le Nord.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Les négociations en vue d’une unification des deux zones échouent et, en 1948, des gouvernements distincts sont formés : la république populaire démocratique de Corée (au régime socialiste) au nord et la république de Corée (au régime capitaliste) au sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Kim Il-sung, qui avait dirigé l'un des groupes de résistance à l'occupation japonaise, est imposé par les occupants soviétiques en tant que chef du gouvernement provisoire proclamé au nord du pays."
+        }
+      ]
+    },
+    {
+      "id": "PRK-2",
+      "topic": "histoire",
+      "era": "1950-1953",
+      "title": "La guerre de Corée",
+      "short": "En 1950, la Corée du Nord attaque le Sud, après avoir convaincu Staline et Mao de la soutenir, pour réunifier le pays par la force. La guerre dure jusqu'en 1953.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "La guerre de Corée (1950-1953) est déclenchée par l'attaque de la Corée du Sud par la Corée du Nord, après que Kim Il-sung a persuadé Staline et Mao de le soutenir, dans le but de réunifier de force tout le pays sous son égide."
+        }
+      ]
+    },
+    {
+      "id": "PRK-3",
+      "topic": "politique",
+      "era": "1994-2011",
+      "title": "Une dynastie au pouvoir",
+      "short": "Kim Il-sung, mort en 1994 et proclamé « président éternel », a pour successeur son fils Kim Jong-il, puis, en 2011, son petit-fils Kim Jong-un. C'est la seule dynastie socialiste de l'histoire.",
+      "long": "L'idéologie officielle du pays est le juche, une doctrine fondée sur l'autosuffisance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Le fondateur du pays, Kim Il-sung, mort en 1994, a pour successeur son fils Kim Jong-il, auquel succède en 2011 le fils cadet de ce dernier, Kim Jong-un, ce qui fait du régime nord-coréen la seule dynastie socialiste de l'histoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Kim Il-sung — proclamé après sa mort « président éternel » — et ses deux successeurs font l'objet d'un culte de la personnalité dans le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "L'idéologie officielle du pays est le juche, doctrine fondée sur l'autosuffisance développée par Kim Il-sung, fondateur du régime."
+        }
+      ]
+    },
+    {
+      "id": "PRK-4",
+      "topic": "histoire",
+      "era": "années 1990",
+      "title": "La famine des années 1990",
+      "short": "Après la dislocation de l'Union soviétique et une série de catastrophes naturelles, la Corée du Nord connaît dans les années 1990 une famine qui fait des centaines de milliers de morts. Pour la première fois, le pays fait appel à l'aide internationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Après la dislocation de l'Union soviétique et une série de catastrophes naturelles, la Corée du Nord subit dans les années 1990 une famine faisant de 600 000 à un million de morts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "aurait été un des facteurs de la famine entre 1995 et 1999, ayant causé de un à deux millions de morts, et ayant conduit le pays à faire pour la première fois appel à l'aide internationale."
+        }
+      ]
+    },
+    {
+      "id": "PRK-5",
+      "topic": "histoire",
+      "era": "2006",
+      "title": "La bombe atomique",
+      "short": "Le 9 octobre 2006, la Corée du Nord annonce son premier essai nucléaire : elle devient le neuvième État à détenir l'arme atomique. D'autres essais suivent, en violation de résolutions de l'ONU.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Le 9 octobre 2006, la Corée du Nord annonce avoir effectué son premier essai nucléaire,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "Après l'essai nucléaire nord-coréen du 9 octobre 2006, la république populaire démocratique de Corée est devenue le neuvième État à détenir l'arme nucléaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Nord",
+          "quote": "La Corée du Nord a procédé le 6 janvier 2016 à son quatrième essai nucléaire et au tir d'une fusée, en violation de plusieurs résolutions de l’ONU."
+        }
+      ]
+    },
+    {
+      "id": "PRK-6",
+      "topic": "drapeau",
+      "era": "1948",
+      "title": "L'étoile rouge",
+      "short": "Adopté le 8 septembre 1948, le drapeau porte une étoile rouge, symbole du communisme, conservée même si l'idéologie juche a remplacé le marxisme-léninisme. Sa bande rouge exprime les traditions révolutionnaires, ses deux bandes bleues la souveraineté, la paix et l'amitié.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Corée_du_Nord",
+          "quote": "Il a été adopté le 8 septembre 1948."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Corée_du_Nord",
+          "quote": "L'étoile rouge, symbole universel du communisme, continue d'être utilisé bien que, depuis l'adoption du drapeau, la philosophie du marxisme-léninisme a été remplacée par l’idéologie juche comme seule doctrine guidant l'État,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Corée_du_Nord",
+          "quote": "La bande rouge exprime les traditions révolutionnaires. Les deux bandes bleues représentent la souveraineté, la paix et l'amitié."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PRK-C1",
+      "topic": "histoire",
+      "era": "1950",
+      "title": "La capitale des saules",
+      "short": "L'un des anciens noms de Pyongyang est Ryugyong, la « capitale des saules ». Ravagée par les bombardements de la guerre de Corée, la ville a été reconstruite dans un style inspiré de l'architecture stalinienne, avec de grandes avenues et des bâtiments gigantesques, comme l'hôtel Ryugyong, haut de 330 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pyongyang",
+          "quote": "L'un des nombreux noms historiques de la ville est Ryugyŏng (류경 ; le 柳京), littéralement la « capitale des saules »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pyongyang",
+          "quote": "Les 14 et 15 décembre 1950, 700 bombes de 250 kilogrammes contenant du napalm sont déversées sur Pyongyang par les troupes des Nations unies sous commandement américain et 175 tonnes de bombes de démolition à retardement explosent quand les habitants tentent de venir en aide aux victimes et d’éteindre les incendies."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pyongyang",
+          "quote": "Quelques bâtiments, comme le théâtre Moranbong, sont les rares témoins du visage de Pyongyang avant 1950."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pyongyang",
+          "quote": "le style est inspiré de l'architecture stalinienne, avec de grandes avenues, de vastes places telles que la place Kim Il-sung, ainsi que des équipements publics de dimension gigantesque, comme le Grand Théâtre de l'Est de Pyongyang, l'hôtel Ryugyong"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pyongyang",
+          "quote": "L'hôtel Ryugyong, un gratte-ciel de 330 mètres, commencé en 1987 et achevé en 2012."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié nord de la péninsule coréenne, entre la Chine au nord-ouest et la Corée du Sud au sud, avec un petit bout de frontière avec la Russie tout au nord-est.",
+    "flag": "Une large bande rouge bordée de blanc entre deux bandes bleues, avec une étoile rouge dans un disque blanc. Rien à voir avec le drapeau sud-coréen.",
+    "capital": "Pyongyang, dans l'ouest du pays, sur le fleuve Taedong."
+  }
+}

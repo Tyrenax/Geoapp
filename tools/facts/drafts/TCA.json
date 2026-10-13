@@ -1,0 +1,123 @@
+{
+  "id": "TCA",
+  "facts": [
+    {
+      "id": "TCA-1",
+      "topic": "histoire",
+      "title": "Des îles nommées d'après un cactus",
+      "short": "Le nom des îles Turques vient d'un petit cactus, Melocactus intortus : son sommet rouge rappelait aux marins européens le fez porté par les Turcs, d'où ses surnoms de « tête de Turc » ou « chapeau turc ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Celui des îles Turques provient des surnoms",
+          "to": "couvre-chef porté par les Turcs"
+        }
+      ]
+    },
+    {
+      "id": "TCA-2",
+      "topic": "histoire",
+      "title": "Le premier débarquement de Colomb ?",
+      "short": "Avant les Européens, les îles étaient peuplées de Lucayens, cousins des Taïnos. Christophe Colomb pourrait y avoir posé le pied pour la première fois en Amérique, mais le lieu exact reste incertain : un parc national commémore cette hypothèse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Avant la période coloniale, les îles Turques-et-Caïques étaient habitées",
+          "to": "un sous-groupe des Taïnos des Bahamas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Christophe Colomb pourrait y avoir fait son premier débarquement",
+          "to": "reste incertaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Aujourd’hui, cette hypothèse est commémorée",
+          "to": "à l’ouest de Grand Turk"
+        }
+      ]
+    },
+    {
+      "id": "TCA-3",
+      "topic": "histoire",
+      "era": "1512",
+      "title": "Les îles du sel",
+      "short": "Conquises par l'Espagnol Juan Ponce de León en 1512, les îles sont ensuite occupées par des colons anglais venus des Bermudes avec des esclaves africains. Leurs salines deviennent le cœur de l'économie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Elles furent conquises en 1512 par l'Espagnol Juan Ponce de León",
+          "to": "réduits en esclavage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Les salines de Grand Turk, Salt Cay et South Caicos",
+          "to": "les principaux centres d’activité."
+        }
+      ]
+    },
+    {
+      "id": "TCA-4",
+      "topic": "histoire",
+      "era": "1917-1974",
+      "title": "Presque canadiennes",
+      "short": "En 1917, le Canada propose que Londres lui transfère les îles. En 1974, un député canadien dépose même un projet d'association, à la demande des habitants. Le territoire n'a jamais engagé de démarche officielle en ce sens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "En 1917, le Bureau du Conseil privé du Canada",
+          "to": "pendant la Première Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "En 1974, à la demande des habitants du territoire",
+          "to": "à la Chambre des communes d'Ottawa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "En outre, aucun référendum ni démarche officielle",
+          "to": "n’a été entrepris par les autorités du territoire."
+        }
+      ]
+    },
+    {
+      "id": "TCA-5",
+      "topic": "drapeau",
+      "title": "Une conque, une langouste et un cactus",
+      "short": "L'écu jaune des armoiries porte une conque, une langouste et le fameux cactus « tête de Turc ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Turques-et-Caïques",
+          "from": "Les armoiries des îles Turques-et-Caïques, présentent un écu d'or",
+          "to": "(Melocactus intortus)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TCA-C1",
+      "topic": "histoire",
+      "era": "1681",
+      "title": "La première colonie permanente",
+      "short": "Fondée en 1681 sur l'île de Grand Turk, Cockburn Town a été la première colonie permanente de l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cockburn_Town",
+          "from": "Fondée en 1681, la ville",
+          "to": "sur l'une des îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cockburn_Town",
+          "from": "Elle est située au centre de l’île de Grand Turk",
+          "to": "dont elle occupe la majeure partie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel au sud-est des Bahamas, au nord d'Haïti, dans l'Atlantique.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, un écu jaune : conque, langouste et cactus. Les îles Caïmans ont aussi un fond bleu, mais un écu avec une tortue et des étoiles.",
+    "capital": "Cockburn Town, sur Grand Turk : la plus ancienne colonie de l'archipel."
+  }
+}

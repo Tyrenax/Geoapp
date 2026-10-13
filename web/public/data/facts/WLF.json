@@ -1,0 +1,144 @@
+{
+  "id": "WLF",
+  "facts": [
+    {
+      "id": "WLF-1",
+      "topic": "histoire",
+      "era": "1616-1767",
+      "title": "Hoorn et Wallis",
+      "short": "Peuplées par des Austronésiens de civilisation Lapita, les îles passent sous influence tongienne au XVe siècle. En 1616, les Néerlandais Schouten et Le Maire abordent Futuna et Alofi, qu'ils nomment « îles de Hoorn » d'après leur port d'attache. Wallis doit son nom au capitaine Samuel Wallis, qui l'aborde en 1767.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Peuplées par des Austronésiens de civilisation Lapita, qui devinrent des Polynésiens, les îles Wallis et Futuna se retrouvent dans l'aire d'influence tongienne au XVe siècle. Les îles Horn sont abordées en 1616 par des navigateurs néerlandais, Willem Schouten et Jacob Le Maire. Ils leur donnèrent le nom d’« îles de Hoorn », du nom de leur port d'attache. L’île de Wallis (en wallisien : ʻUvea), porte le nom du capitaine Samuel Wallis, le premier navigateur occidental qui l'aborde en 1767."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "les îles Horn, à savoir Futuna (46,3 km2) et Alofi (18 km2), séparées par un chenal de 1,7 km."
+        }
+      ]
+    },
+    {
+      "id": "WLF-2",
+      "topic": "histoire",
+      "era": "1837",
+      "title": "Les missionnaires maristes",
+      "short": "En 1837, des missionnaires catholiques arrivent : les pères maristes Pierre Chanel à Futuna et Pierre Bataillon à Wallis convertissent les deux îles. Aujourd'hui encore, la population est majoritairement catholique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Quelques marchands et naufragés s'installent à Wallis et à Futuna, mais la présence européenne n'est significative qu'au XIXe siècle avec l'arrivée de missionnaires catholiques en 1837. Les deux îles sont converties au catholicisme par les pères maristes Pierre Chanel à Futuna et Pierre Bataillon à Wallis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Au XXIe siècle la population est majoritairement de confession catholique."
+        }
+      ]
+    },
+    {
+      "id": "WLF-3",
+      "topic": "histoire",
+      "era": "1887-1961",
+      "title": "Un protectorat sans colonisation",
+      "short": "En 1887, la reine Amelia de Wallis signe un traité de protectorat avec la France ; les rois de Futuna suivent un an plus tard. Les souverains gardent toute leur autorité coutumière : il n'y a pas de véritable colonisation. Par référendum en 1959, les habitants choisissent de devenir un territoire d'outre-mer, effectif en 1961.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "La reine Amelia Tokagahahau de Wallis signe un traité de protectorat ratifié par la France le 5 avril 1887. Un an plus tard, les rois de Futuna Anise Tamole pour Sigave et Setefano Tuikalepa pour Alo demandent eux aussi leur rattachement à la France. Les souverains de Futuna et Wallis gardent toute leur autorité coutumière sur leurs sujets. Il n'y a pas à proprement parler de colonisation à Wallis-et-Futuna, le pouvoir du résident français se limitant aux affaires extérieures."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Les îles deviennent en 1961 un territoire d'outre-mer (TOM) après référendum en 1959."
+        }
+      ]
+    },
+    {
+      "id": "WLF-4",
+      "topic": "histoire",
+      "era": "1942-1944",
+      "title": "Les GI à Wallis",
+      "short": "Fidèle au régime de Vichy, Wallis reste isolée pendant 17 mois. En mai 1942, la France libre puis les Américains y débarquent et installent une base. Le contact avec la société de consommation bouleverse l'île ; après le départ des GI, en 1944, commence l'émigration vers la Nouvelle-Calédonie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "L'île est d'abord isolée pendant 17 mois en raison de la fidélité de l'évêque Alexandre Poncet et du résident Léon Vrignaud au régime de Vichy. Pour contrer l'Empire japonais, lors de la guerre du Pacifique, la France libre puis les Américains débarquent à Wallis fin mai 1942. L'armée américaine installe une base"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Cette introduction de la société de consommation et le contact avec le mode de vie occidental fragilise les autorités coutumières, religieuses et administratives. En revanche, Futuna n'est pas investie par les Américains. Après le départ des GI en 1944, le retour à l'agriculture de subsistance est difficile et Wallis traverse une crise économique et sociale. Cette période marque également le début de l'émigration vers les Nouvelles-Hébrides (actuel Vanuatu) et la Nouvelle-Calédonie, où s'installe une importante communauté wallisienne et futunienne."
+        }
+      ]
+    },
+    {
+      "id": "WLF-5",
+      "topic": "politique",
+      "title": "Trois rois dans la République",
+      "short": "Wallis-et-Futuna est formée de trois royaumes coutumiers polynésiens, reconnus par la République française. Les rois ne sont pas héréditaires : ce sont les familles nobles, les aliki, qui les élisent ou les destituent.",
+      "long": "Le roi de Wallis Tomasi Kulimoetoke II a régné 48 ans, de 1959 à 2007.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "est une collectivité d'outre-mer française de l’hémisphère sud, formée de trois royaumes coutumiers polynésiens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Les trois royaumes ne sont pas héréditaires : ce sont les familles nobles, les aliki, qui élisent ou destituent les rois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wallis-et-Futuna",
+          "quote": "Le 7 mai 2007, Tomasi Kulimoetoke II décède à l'âge de 88 ans : son règne aura été l'un des plus longs de l'histoire de Wallis, de 1959 à 2007 (48 ans)."
+        }
+      ]
+    },
+    {
+      "id": "WLF-6",
+      "topic": "drapeau",
+      "era": "1842",
+      "title": "Le drapeau du royaume d'Uvea",
+      "short": "Le seul drapeau officiel est celui de la France. Mais on voit souvent un drapeau rouge avec le drapeau français en canton et une croix de Saint-André rouge dans un carré blanc : à l'origine, un drapeau du royaume d'Uvea, à Wallis.",
+      "long": "Le premier drapeau wallisien apparaît en 1842, créé par le père Bataillon, pour donner à la chefferie les attributs d'un État indépendant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Wallis-et-Futuna",
+          "quote": "Aucun drapeau de Wallis-et-Futuna n'a de statut officiel hormis le drapeau de la France. Cependant il existe aussi un drapeau non officiel rouge qui porte en canton les couleurs françaises et, dans la partie flottante, une croix de saint André rouge dans un carré blanc.\nUne variante ancienne de ce drapeau portait une grande croix pattée blanche à la place du sautoir rouge. Ces deux drapeaux sont, à l'origine, des drapeaux du royaume d'Uvea."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Wallis-et-Futuna",
+          "quote": "Le premier drapeau de Wallis et Futuna apparaît en 1842. Créé par le père Bataillon (missionnaire mariste)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Wallis-et-Futuna",
+          "quote": "Ce drapeau devait donner à la chefferie wallisienne les attributs d'un État indépendant."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "WLF-C1",
+      "topic": "histoire",
+      "era": "1857-1876",
+      "title": "La cathédrale et le palais du roi",
+      "short": "Mata-Utu, chef-lieu de 984 habitants en 2023, est dominée par la cathédrale Notre-Dame-de-l'Assomption, construite par les maristes en 1857. Juste à côté se dresse le palais royal d'Uvea, bâti en 1876 pour le roi coutumier, le Lavelua.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mata-Utu",
+          "quote": "Elle est la plus grande localité de l'archipel avec ses 984 habitants en 2023"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mata-Utu",
+          "quote": "Les missionnaires maristes ont beaucoup participé au développement de l'actuel chef-lieu avec la construction de la cathédrale Notre-Dame-de-l'Assomption de Mata-Utu en 1857. Vingt ans plus tard, en 1876, la construction du palais royal d'Uvea permettant d'implanter totalement le roi coutumier (Lavelua) dans la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mata-Utu",
+          "quote": "Le centre de Mata-Utu est dominé par la cathédrale Notre-Dame-de-l'Assomption, proche du palais royal d'Uvea."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux petits groupes d'îles du Pacifique Sud, entre les Fidji (au sud-ouest) et les Samoa (à l'est), au nord des Tonga.",
+    "flag": "Officiellement, le drapeau français ; le drapeau local est rouge avec un petit drapeau français en coin et une croix rouge en X dans un carré blanc.",
+    "capital": "Mata-Utu, sur la côte est de l'île Wallis, autour de sa cathédrale."
+  }
+}

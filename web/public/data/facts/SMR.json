@@ -1,0 +1,113 @@
+{
+  "id": "SMR",
+  "facts": [
+    {
+      "id": "SMR-1",
+      "topic": "histoire",
+      "era": "301",
+      "title": "Fondée par un tailleur de pierre",
+      "short": "Selon la légende, vers l'an 300, un tailleur de pierre chrétien nommé Marinus, venu de l'île de Rab en Dalmatie, fuit les persécutions et se réfugie sur le mont Titano. La naissance de la communauté est fixée au 3 septembre 301.",
+      "long": "À sa mort, en 366, ses derniers mots auraient été : « Je vous laisse libres des autres hommes. »",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "Selon la légende locale, vers l’an 300, un modeste tailleur de pierres nommé Marinus aurait quitté son île natale d'Arborea, (actuellement Rab, en italien : Arbe)  en Dalmatie pour s’installer dans la ville de Rimini en tant que maçon. Avant même que la grande vague de persécutions contre les chrétiens lancée par l’empereur Dioclétien en 303 n'eût commencé, le pieux Marinus prit la fuite et se réfugia sur le mont Titano situé à proximité. Un nombre grandissant de persécutés vinrent le rejoindre et établirent ainsi sur le Titano une communauté chrétienne. La date officielle de naissance de cette communauté est aujourd’hui conventionnellement fixée au 3 septembre 301."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "L'établissement définitif de la communauté de Saint-Marin est symbolisé par la mort de son fondateur à l’automne de l'an 366, et surtout par ses derniers mots : « Relinquo vos liberos ab utroque homine » (« Je vous laisse libres des autres hommes »)."
+        }
+      ]
+    },
+    {
+      "id": "SMR-2",
+      "topic": "histoire",
+      "title": "La plus vieille république du monde",
+      "short": "Saint-Marin est la plus ancienne république du monde à avoir existé sans interruption jusqu'à aujourd'hui. Son système constitutionnel remonte au XVIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "C'est aussi la plus ancienne république au monde existant de manière continue jusqu'à aujourd'hui, avec un système constitutionnel qui remonte au XVIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "SMR-3",
+      "topic": "politique",
+      "era": "1243",
+      "title": "Deux chefs d'État tous les six mois",
+      "short": "Depuis 1243, Saint-Marin élit à sa tête deux capitaines-régents pour un mandat de six mois seulement, une coutume toujours en vigueur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "À partir de 1243, la coutume fut prise d’élire deux capitaines-régents à la tête de la cité pour un mandat de six mois, une pratique encore en usage aujourd’hui."
+        }
+      ]
+    },
+    {
+      "id": "SMR-4",
+      "topic": "histoire",
+      "era": "1797-1862",
+      "title": "Épargnée par Bonaparte, sauvée par Garibaldi",
+      "short": "Pendant la campagne d'Italie, Bonaparte, admirateur de ce petit État qui ne s'était jamais soumis, aurait ordonné à ses troupes de s'arrêter à ses frontières. Au XIXe siècle, Saint-Marin accueille Garibaldi et des partisans de l'unité italienne ; Garibaldi lui permet de rester indépendante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "Bonaparte, au cours de la campagne d'Italie (1796-1797), aurait donné l'ordre à ses troupes de s’arrêter aux frontières de Saint-Marin et de ne pas les franchir — le futur empereur était un grand admirateur de ce petit État qui n’avait jamais fait acte de soumission à quiconque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "Au cours de la dernière phase du processus d'unification italienne au XIXe siècle, Saint-Marin a servi de refuge à de nombreuses personnes persécutées pour leur soutien à l'unification, notamment Giuseppe Garibaldi et son épouse Anita. Garibaldi a permis à Saint-Marin de rester indépendant."
+        }
+      ]
+    },
+    {
+      "id": "SMR-5",
+      "topic": "histoire",
+      "era": "1945-1957",
+      "title": "Les premiers communistes élus",
+      "short": "De 1945 à 1957, le Parti communiste saint-marinais gouverne en coalition avec les socialistes : Saint-Marin est le premier pays au monde où un parti communiste arrive au pouvoir par des élections libres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Marin",
+          "quote": "Le pays a la particularité d'avoir été le premier pays d'Europe de l'Ouest à avoir un gouvernement communiste : entre 1945 et 1957, le Parti communiste saint-marinais gouverna en coalition avec le Parti socialiste saint-marinais. Saint-Marin est ainsi le premier pays au monde dans lequel un parti communiste est arrivé au pouvoir à la suite d’élections libres."
+        }
+      ]
+    },
+    {
+      "id": "SMR-6",
+      "topic": "drapeau",
+      "title": "Trois tours sur trois pics",
+      "short": "Le blanc et le bleu clair du drapeau symboliseraient la paix et la liberté. Au centre, les armoiries montrent les trois tours de garde perchées sur les trois sommets du mont Titano, sous la devise LIBERTAS, « liberté ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Marin",
+          "quote": "Le drapeau saint-marinais est composé de deux bandes horizontales égales en proportion, l'une blanche et l'autre bleu clair, qui symboliseraient respectivement les concepts de paix et de liberté.\nLes armoiries nationales sont apposées au centre du drapeau : elles sont constituées en premier lieu d'un bouclier représentant les trois « tours de garde » de Saint-Marin juchées sur les trois pics du Mont Titano. Ce bouclier, encadré de feuilles, est accompagné d'une couronne, symbole de la souveraineté de la plus ancienne république au monde et de l'inscription LIBERTAS, signifiant « liberté » en latin."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SMR-C1",
+      "topic": "geographie",
+      "title": "Une ville accrochée au mont Titano",
+      "short": "La capitale est bâtie sur le versant sud-ouest du mont Titano. Elle est dominée par trois châteaux, ou tours, qui défendaient autrefois la cité fortifiée ; le plus ancien, la Guaita, date du XIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ville_de_Saint-Marin",
+          "quote": "Elle est bâtie sur le versant sud-ouest du mont Titano."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ville_de_Saint-Marin",
+          "quote": "Saint-Marin, outre un panorama unique, compte plusieurs monuments célèbres, notamment l'hôtel de ville (Palazzo pubblico), la basilique, de nombreux musées et les trois châteaux (ou tours) qui assuraient autrefois la défense de la cité fortifiée (voir Histoire de Saint-Marin) : Guaita (datant du XIe siècle),"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule État enclavé dans l'Italie, à une vingtaine de kilomètres de Rimini et de l'Adriatique, perché sur le mont Titano.",
+    "flag": "Deux bandes horizontales, blanche en haut et bleu clair en bas, avec les armoiries au centre (trois tours sur trois pics). Le Vatican, l'autre enclave d'Italie, a un drapeau jaune et blanc, carré.",
+    "capital": "La ville de Saint-Marin porte le même nom que le pays, perchée sur le mont Titano avec ses trois tours."
+  }
+}

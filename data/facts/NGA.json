@@ -1,0 +1,161 @@
+{
+  "id": "NGA",
+  "facts": [
+    {
+      "id": "NGA-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Nok, puis les cités-États yoruba",
+      "short": "La plus ancienne civilisation connue du Nigeria, la culture Nok, s'est développée sur le plateau de Jos, au centre du pays. Son influence s'est diffusée vers les régions d'Ife et du Bénin.",
+      "long": "À partir du XIe siècle, les villages yoruba se regroupent en cités-États, et cette urbanisation s'accompagne d'un grand essor artistique : statues en ivoire et en terre cuite, objets en métal. Ife et le royaume du Bénin sont aussi réputés pour leurs œuvres en bronze et en cuivre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "La culture Nok se développe sur le plateau de Jos, au centre du Nigeria"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Nigeria",
+          "quote": "La première civilisation connue au Nigeria est la civilisation Nok"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Les Noks sont la civilisation dominante du IIIe au VIe siècle, elle diffuse vers les régions d'Ife et du Bénin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Nigeria",
+          "quote": "À partir du XIe siècle, les villages adjacents se regroupèrent en de multiples villes-États. Cette urbanisation s’accompagna d’un florissement artistique (statues en ivoire et en terre cuite, objets en métal)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Les régions d'Ife et du Bénin sont aussi connues pour leurs productions artistiques en ivoire, bois, bronze et cuivre."
+        }
+      ]
+    },
+    {
+      "id": "NGA-2",
+      "topic": "histoire",
+      "era": "1914",
+      "title": "Un pays né d'une fusion coloniale",
+      "short": "Le nom « Nigeria » fait référence au fleuve Niger ; il a été préféré à « Negretia » ou « Goldésie ». Le 1er janvier 1914, les Britanniques réunissent les protectorats du nord et du sud en une seule colonie, sous le gouverneur Frederick Lugard.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Nigeria",
+          "quote": "Le nom de Nigeria en référence au fleuve Niger et qui signifie « noir » est préféré à celui de Negretia et à celui de Goldésie après que George Taubman Goldie eut refusé que son patronyme soit donné au territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Le 1er janvier 1914, les Britanniques ont formellement réuni les protectorats du sud du Nigeria et du nord du Nigeria pour former la « colonie de la Couronne et le protectorat du Nigeria »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Le premier gouverneur du Nigeria fut Frederick Lugard."
+        }
+      ]
+    },
+    {
+      "id": "NGA-3",
+      "topic": "histoire",
+      "era": "1967-1970",
+      "title": "La guerre du Biafra",
+      "short": "En mai 1967, la région de l'Est fait sécession sous le nom de république du Biafra. Il s'ensuit une guerre civile de trente mois, marquée par un long siège et l'isolement du Biafra, qui ne prend fin qu'en janvier 1970.",
+      "long": "La découverte de pétrole dans le sud-est a joué un rôle essentiel dans ce conflit.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "En mai 1967, le gouverneur de la région de l'Est, le lieutenant-colonel Emeka Ojukwu, a déclaré que la région était indépendante de la fédération en tant qu'État appelé République du Biafra"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "La guerre de 30 mois, avec un long siège du Biafra et son isolement du commerce et des approvisionnements, s'est terminée en janvier 1970."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Ce conflit, ainsi que la découverte de gisements de pétrole dans le sud-est, allaient jouer un rôle essentiel dans la guerre du Biafra."
+        }
+      ]
+    },
+    {
+      "id": "NGA-4",
+      "topic": "culture",
+      "title": "Nollywood",
+      "short": "L'industrie du cinéma nigériane, surnommée Nollywood, est devenue le deuxième plus grand producteur de films au monde, devant Hollywood.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "L'industrie cinématographique nigériane est connue sous le nom de Nollywood (un mélange de Nigeria et Hollywood) et est maintenant le deuxième plus grand producteur de films au monde, ayant dépassé Hollywood."
+        }
+      ]
+    },
+    {
+      "id": "NGA-5",
+      "topic": "geographie",
+      "title": "Le géant démographique de l'Afrique",
+      "short": "Le Nigeria est de loin le pays le plus peuplé d'Afrique, et l'un des plus peuplés du monde. Il est devenu en 2013 la première économie du continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nigeria",
+          "quote": "Avec plus de 235 millions d'habitants en 2025, le Nigeria est le pays le plus peuplé d'Afrique et le sixième pays du monde par son nombre d'habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Nigeria",
+          "quote": "En 2013, le Nigeria devient aussi la première économie d'Afrique"
+        }
+      ]
+    },
+    {
+      "id": "NGA-6",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Un drapeau choisi par concours",
+      "short": "Le drapeau vert-blanc-vert a été dessiné par Michael Taiwo Akinkunmi, vainqueur d'un concours national parmi près de 3 000 propositions. Le vert représente l'agriculture, le blanc la paix et l'unité.",
+      "long": "Son projet initial comportait aussi un soleil rouge sur la bande blanche. Le drapeau est officiellement adopté à minuit, le 1er octobre 1960, jour de l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Nigeria",
+          "quote": "En 1959, sur près de 3 000 candidatures, Michael Taiwo Akinkunmi a remporté le concours avec un vert-blanc-vert égal avec un quart de soleil rouge sur la bande blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Nigeria",
+          "quote": "Le drapeau est un dessin vertical bicolore vert-blanc-vert, le vert représentant l'agriculture et le blanc représentant la paix et l'unité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Nigeria",
+          "quote": "Le drapeau du Nigeria est conçu par Michael Taiwo Akinkunmi et est officiellement adopté pour représenter la nation du Nigeria à minuit le 1er octobre 1960, jour de l'indépendance du pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NGA-C1",
+      "topic": "politique",
+      "era": "1976-1991",
+      "title": "Une capitale neutre au centre du pays",
+      "short": "En 1976, pour ne favoriser aucune des trois grandes ethnies, le Nigeria décide de quitter Lagos, dominée par les Yorubas. La ville nouvelle d'Abuja, bâtie au centre du pays, devient la capitale le 12 décembre 1991.",
+      "long": "Le paysage d'Abuja est dominé par Aso Rock, un monolithe de 400 m sculpté par l'érosion.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abuja",
+          "quote": "Afin de ne pas favoriser une des trois ethnies principales, la décision est prise en 1976 de transférer la capitale dans une région neutre, Lagos étant nettement dominée par les Yorubas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abuja",
+          "quote": "Elle devient officiellement la capitale du Nigeria le 12 décembre 1991, remplaçant ainsi la mégapole côtière de Lagos."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abuja",
+          "quote": "Située dans le Territoire de la capitale fédérale, cette ville planifiée de 713,5 km2 est au centre du pays afin d'équilibrer les pouvoirs ethniques et religieux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abuja",
+          "quote": "La géographie d'Abuja est définie par Aso Rock, un monolithe de 400 m laissé par l'érosion hydrique."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au fond du golfe de Guinée, à l'est du Bénin et à l'ouest du Cameroun, sous le Niger. Le fleuve Niger le traverse en Y avec son affluent, la Bénoué.",
+    "flag": "Trois bandes verticales : vert, blanc, vert. Sans aucun emblème. Ne pas confondre avec le Pakistan ou l'Algérie, qui ont un croissant.",
+    "capital": "Piège : ce n'est plus Lagos, la mégapole de la côte, mais Abuja, la capitale construite au centre du pays."
+  }
+}

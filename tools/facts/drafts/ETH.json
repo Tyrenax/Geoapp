@@ -1,0 +1,201 @@
+{
+  "id": "ETH",
+  "facts": [
+    {
+      "id": "ETH-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Lucy, notre très lointaine cousine",
+      "short": "En 1974, on découvre en Éthiopie Lucy, un fossile d'Australopithecus afarensis vieux de 3,2 millions d'années. Les Éthiopiens l'appellent Dinknesh. On y a aussi trouvé, en 2003, parmi les plus anciens Homo sapiens connus.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "On y a découvert Lucy en 1974",
+          "to": "les plus anciens spécimens d'Homo sapiens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "L'un des fossiles éthiopiens les plus connus est Lucy",
+          "to": "cousin du genre Homo."
+        }
+      ]
+    },
+    {
+      "id": "ETH-2",
+      "topic": "histoire",
+      "era": "Ier-IVe siècle",
+      "title": "Aksoum et les « visages brûlés »",
+      "short": "Le royaume d'Aksoum, apparu vers le Ier siècle, comptait parmi les grandes puissances de son temps. Au IVe siècle, une inscription du roi Ezana traduit le nom du pays par le grec Aithiops, « au visage brûlé » : c'est l'origine du mot Éthiopie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "Le royaume d'Aksoum, connu comme l'une des quatre puissances",
+          "to": "unifie des royaumes antérieurs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Son utilisation pour désigner le royaume d'Aksoum",
+          "to": "« au visage brûlé »."
+        }
+      ]
+    },
+    {
+      "id": "ETH-3",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "Les églises taillées dans le roc de Lalibela",
+      "short": "Au XIIIe siècle, le roi Gebre Mesqel Lalibela fait tailler dans la roche les premières églises monolithes de la ville qui porte aujourd'hui son nom.",
+      "long": "Sous son règne s'affirme une idée qui marquera toute l'histoire du pays : chaque roi d'Éthiopie est considéré comme élu de Dieu, descendant du roi Salomon et de la reine de Saba, et détenteur de l'Arche d'alliance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "L'ensemble le plus célèbre reste celui de Lalibela",
+          "to": "les premières églises monolithes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "À partir de Lalibela, chaque nouveau roi d'Éthiopie",
+          "to": "détenteur de l'Arche d'alliance."
+        }
+      ]
+    },
+    {
+      "id": "ETH-4",
+      "topic": "histoire",
+      "era": "1896",
+      "title": "Adoua, la défaite d'une armée européenne",
+      "short": "En mars 1896, à la bataille d'Adoua, plus de 100 000 Éthiopiens menés par l'empereur Menelik II écrasent l'armée italienne. Cette victoire met fin, pour un temps, aux ambitions coloniales sur le pays.",
+      "long": "L'Italie envahit de nouveau l'Éthiopie en 1935-1936. L'empereur Hailé Sélassié dénonce cette agression devant la Société des Nations ; le pays est libéré le 5 mai 1941, une date célébrée depuis comme le Jour de la Victoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Ce conflit débouche sur une guerre en 1895",
+          "to": "en mars 1896."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "Le XIXe siècle est marqué par une lutte permanente",
+          "to": "mettant fin en 1896 à ces prétentions."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "===== Invasion de l'Éthiopie par l'Italie (1935-1936) =====",
+          "to": "décrète une mobilisation générale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "Ce prétexte est qualifié par Hailé Sélassié Ier, en 1936",
+          "to": "de « provocation évidente »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Éthiopie",
+          "from": "L'Éthiopie est libérée le 5 mai 1941",
+          "to": "avec le soutien des Britanniques."
+        }
+      ]
+    },
+    {
+      "id": "ETH-5",
+      "topic": "culture",
+      "title": "Un calendrier en retard de sept ou huit ans",
+      "short": "Le calendrier éthiopien est bâti sur douze mois de trente jours, et le Nouvel An tombe en septembre. Surtout, il compte les années autrement : il a sept à huit ans de retard sur le calendrier grégorien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Le calendrier éthiopien est, comme les calendriers julien",
+          "to": "douze mois lunaires de trente jours chacun"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Le nouvel an éthiopien, enqoutatash",
+          "to": "correspond au 11 septembre du calendrier julien"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "La première année civile débuta donc",
+          "to": "un décalage de sept ans pour le reste de l'année"
+        }
+      ]
+    },
+    {
+      "id": "ETH-6",
+      "topic": "culture",
+      "title": "Le berceau du café",
+      "short": "Le café est probablement né en Éthiopie, où il occupe une place centrale dans les traditions : les grains sont grillés sur place, et on en fait sentir l'odeur aux invités.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Enfin, le café, probablement né en Éthiopie",
+          "to": "la culture et les traditions nationales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Les grains de café sont grillés sur place",
+          "to": "aux hôtes."
+        }
+      ]
+    },
+    {
+      "id": "ETH-7",
+      "topic": "drapeau",
+      "era": "1897",
+      "title": "Les couleurs de toute l'Afrique",
+      "short": "Vert, jaune et rouge : ces couleurs, adoptées sur le drapeau dès 1897, au lendemain de la victoire d'Adoua, sont devenues les couleurs panafricaines. Le pays était resté indépendant alors que l'Afrique était colonisée.",
+      "long": "Le mouvement rastafari les a aussi reprises. L'étoile sur disque bleu a été ajoutée en 1996, après la chute du régime marxiste de Mengistu : elle symbolise la diversité et l'unité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Éthiopie",
+          "from": "Ses couleurs, vert, jaune et rouge, remontent à l'empereur Ménélik II",
+          "to": "contre l'Italie coloniale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Éthiopie",
+          "from": "Ces couleurs panafricaines sont aujourd'hui utilisées",
+          "to": "alors que l'Afrique était colonisée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Éthiopie",
+          "from": "Ces couleurs ont été reprises par le mouvement rastafari.",
+          "to": "le mouvement rastafari."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Éthiopie",
+          "from": "L'étoile sur fond bleu, ajoutée en 1996",
+          "to": "symbolisent la prospérité."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ETH-C1",
+      "topic": "histoire",
+      "era": "1886",
+      "title": "La « nouvelle fleur » de l'impératrice Taytu",
+      "short": "En 1886, l'impératrice Taytu, émerveillée par une fleur d'une rare beauté et par la douceur du climat, demande à Menelik II d'y bâtir une maison. La ville qui naît s'appelle Addis-Abeba, la « nouvelle fleur ».",
+      "long": "Les Oromos appellent ce lieu Finfinnee, « source naturelle ». Aujourd'hui, Addis-Abeba accueille le siège de l'Union africaine : c'est une capitale diplomatique pour tout le continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Addis-Abeba",
+          "from": "En 1886, alors que Taytu admire le paysage",
+          "to": "la future résidence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Addis-Abeba",
+          "from": "Addis-Abeba (/adis‿abeba/",
+          "to": "est la capitale de l'Éthiopie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Éthiopie",
+          "from": "Addis-Abeba est aujourd'hui le siège",
+          "to": "et de l'Union africaine."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le grand pays de la Corne de l'Afrique, sur des hauts plateaux, sans accès à la mer : l'Érythrée et Djibouti le séparent de la mer Rouge, la Somalie l'entoure à l'est, le Kenya au sud et les deux Soudans à l'ouest.",
+    "flag": "Vert, jaune, rouge en bandes horizontales (vert en haut), avec un disque bleu et une étoile jaune au centre. La Bolivie a le schéma inverse (rouge en haut) et pas d'étoile ; le Ghana met l'étoile noire.",
+    "capital": "Addis-Abeba, la « nouvelle fleur » cueillie par l'impératrice Taytu. Elle abrite l'Union africaine."
+  }
+}

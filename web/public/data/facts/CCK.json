@@ -1,0 +1,140 @@
+{
+  "id": "CCK",
+  "facts": [
+    {
+      "id": "CCK-1",
+      "topic": "histoire",
+      "era": "1609",
+      "title": "Les îles aux cocotiers",
+      "short": "L'archipel est aussi appelé îles Keeling, en souvenir de William Keeling, qui les visita en 1609. Son autre nom vient probablement de l'abondance des cocotiers : la noix de coco est la seule culture destinée à l'exportation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "On l’appelle également Keeling Islands en souvenir de William Keeling de la Compagnie néerlandaise des Indes orientales (la VOC), qui visita les îles en 1609."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Le nom de l'archipel, Cocos Islands, a probablement été donné en raison de l’abondance des cocotiers, coco(s) signifiant « noix de coco ». En effet, des milliers de cocotiers couvrent ces îles et les noix de coco, cultivées dans l’ensemble des atolls, constituent la seule culture destinée à l’exportation."
+        }
+      ]
+    },
+    {
+      "id": "CCK-2",
+      "topic": "histoire",
+      "era": "1826-1978",
+      "title": "Les rois des Cocos",
+      "short": "En 1825, le capitaine John Clunies-Ross aborde les îles ; l'année suivante, il s'y installe avec des marins malais. Sa famille devient celle des « rois des Cocos » et les dirige pendant plus de cent cinquante ans, jusqu'à ce que l'Australie rachète les terres en 1978 pour les donner aux habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "En 1825, le capitaine John Clunies-Ross aborda les îles Direction et Horsburgh et y planta des céréales. L’année suivante, il s’y installa avec un équipage de marins malais embarqués à Sumatra et des femmes de diverses nationalités. John Clunies-Ross et sa famille devinrent les « rois des Cocos » qu’ils dirigèrent durant plus de cent cinquante ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "La famille Clunies-Ross fut l’unique propriétaire des îles de 1886 à 1978, date à laquelle le gouvernement australien acheta les terres et les donna aux habitants."
+        }
+      ]
+    },
+    {
+      "id": "CCK-3",
+      "topic": "histoire",
+      "era": "1836",
+      "title": "L'escale de Darwin",
+      "short": "Du 1er au 12 avril 1836, Charles Darwin visite les îles Cocos à bord du HMS Beagle, lors de son voyage autour du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "En 1836, Charles Darwin, à bord du HMS Beagle, visite les îles du 1er au 12 avril."
+        }
+      ]
+    },
+    {
+      "id": "CCK-4",
+      "topic": "histoire",
+      "era": "1914",
+      "title": "La fin du corsaire Emden",
+      "short": "Pendant la Première Guerre mondiale, le croiseur allemand Emden, qui attaque depuis des mois les navires marchands britanniques, vient détruire la station télégraphique des îles Cocos. Surpris par le croiseur australien Sydney, plus puissant, il est vaincu et s'échoue volontairement sur une île pour sauver son équipage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Lors de la Première Guerre mondiale, les îles Cocos sont le théâtre d'un combat naval. Le croiseur SMS Emden, capitaine Karl von Müller, a été détaché de l'escadre de l'amiral Von Spee (obligée d'évacuer la base navale de Tsing-Tao) pour mener une guerre « de corsaire » contre les navires marchands anglais, ce qu'il fait pendant plusieurs mois avec succès, avant de tenter de détruire la station de TSF et de câbles télégraphiques sous-marins des îles Cocos pour perturber les communications alliées et opérer plus à son aise dans l'océan Indien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Surpris par le croiseur australien HMS Sydney, supérieur en puissance de feu, et handicapé par une coque couverte d'algues, il finit par succomber et est échoué volontairement sur une des îles pour tenter de sauver l'équipage."
+        }
+      ]
+    },
+    {
+      "id": "CCK-5",
+      "topic": "politique",
+      "era": "1955-1984",
+      "title": "Australiennes par le vote",
+      "short": "Passées sous contrôle australien en 1955, les îles Cocos ne deviennent un territoire extérieur de l'Australie qu'en 1984, quand les insulaires votent pour cette intégration.",
+      "long": "La majorité des habitants sont des Malais des Cocos, qui vivent sur l'île Home et parlent une forme de malais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Les îles Cocos passèrent en 1955 sous contrôle australien"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Ce ne fut qu’en 1984 que les insulaires votèrent pour être intégrés en tant que territoire extérieur australien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "La majorité, soit 68,8 % d’entre eux, sont des Malais parlant le malais des îles Cocos, une des formes du malais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Le Conseil consultatif exerce des responsabilités dans de nombreux domaines à l’intérieur de l’île Home, où réside la communauté malaise des Cocos"
+        }
+      ]
+    },
+    {
+      "id": "CCK-6",
+      "topic": "drapeau",
+      "era": "2004",
+      "title": "Le croissant et la Croix du Sud",
+      "short": "Adopté en 2004, le drapeau vert porte un cocotier dans un disque doré, un croissant qui évoque probablement l'islam, religion majoritaire, et les cinq étoiles de la Croix du Sud, comme le drapeau australien.",
+      "long": "L'union du croissant et des étoiles symbolise la bonne entente entre musulmans et chrétiens de l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos",
+          "quote": "Le drapeau des îles Cocos a été créé en 2003, et adopté le 6 avril 2004."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos",
+          "quote": "Il est constitué d'un tissu de couleur verte frappé dans le canton supérieur à la hampe d'un disque doré ou jaune portant un palmier ou un cocotier. Au centre du drapeau est représenté un croissant (lune décroissante) doré ouvert sur la partie flottante. Il fait probablement référence à l’islam, religion majoritaire sur l’archipel. Enfin, dans la partie flottante du drapeau sont figurées les cinq étoiles d'or de la constellation de la Croix du Sud comme sur le drapeau de l'Australie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos",
+          "quote": "L’union du croissant et des cinq étoiles atteste la proximité bienveillante qu'entretiennent les musulmans et les chrétiens des Îles Cocos."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CCK-C1",
+      "topic": "geographie",
+      "title": "Deux îles, deux communautés",
+      "short": "West Island, la capitale, compte à peine 190 habitants, surtout venus d'Australie : c'est le quartier administratif, avec l'aéroport. La population d'origine malaise vit sur l'île voisine, Home Island.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/West_Island_(îles_Cocos)",
+          "quote": "West Island (en malais : Pulo Panjang) est la capitale des îles Cocos, territoire extérieur de l'Australie. La population dépasse à peine 190 habitants\nLa ville est surtout le quartier administratif du territoire, avec notamment l'aéroport des îles Cocos. La population de la ville est donc majoritairement issue de l'Australie, contrairement à Home Island, où est concentrée la population d'origine malaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cocos",
+          "quote": "Le territoire, à peu près à mi-chemin entre l’Australie et le Sri Lanka, comprend 27 îles coralliennes, dont seulement deux sont habitées : l’île West et l’île Home."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux minuscules atolls au milieu de l'océan Indien, à mi-chemin entre l'Australie et le Sri Lanka, au sud-ouest de Java et de l'île Christmas.",
+    "flag": "Vert, avec un cocotier dans un disque jaune en haut à gauche, un croissant jaune au centre et la Croix du Sud à droite.",
+    "capital": "West Island, l'île de l'aéroport et de l'administration ; les Malais des Cocos vivent sur Home Island."
+  }
+}

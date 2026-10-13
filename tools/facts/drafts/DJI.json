@@ -1,0 +1,210 @@
+{
+  "id": "DJI",
+  "facts": [
+    {
+      "id": "DJI-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Peut-être le mystérieux pays de Pount",
+      "short": "Avec la Somalie et le sud de l'Érythrée, Djibouti faisait peut-être partie du pays de Pount, la « Terre de Dieu » où les anciens Égyptiens allaient chercher des produits précieux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Avec la Somalie, et le sud de l'Érythrée",
+          "to": "par les anciens Égyptiens"
+        }
+      ]
+    },
+    {
+      "id": "DJI-2",
+      "topic": "histoire",
+      "era": "1862",
+      "title": "Obock, cédée par le sultan de Tadjourah",
+      "short": "Le 11 mars 1862, sous Napoléon III, un traité cède à la France le port et le mouillage d'Obock. La France n'y prend vraiment pied qu'en 1884, puis déplace le centre de la colonie vers Djibouti.",
+      "long": "La colonie change plusieurs fois de nom : territoire d'Obock et dépendances jusqu'en 1896, puis Côte française des Somalis, et enfin, à partir de 1967, territoire français des Afars et des Issas, du nom des deux principaux peuples du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "C'est avec cette délégation qu'est signé le 11 mars 1862",
+          "to": "jusqu'à ras Douméra (ceb) au nord »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "C'est avec un membre de cette délégation",
+          "to": "Napoléon III"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "Léonce Lagarde est nommé « commandant à Obock »",
+          "to": "le 1er août 1884."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "C'est alors que commence le transfert du centre de gravité",
+          "to": "côte française des Somalis (CFS)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "En 1967, le territoire change de nom",
+          "to": "des Afars et des Issas."
+        }
+      ]
+    },
+    {
+      "id": "DJI-3",
+      "topic": "histoire",
+      "era": "1897-1917",
+      "title": "Le port de l'Éthiopie",
+      "short": "De 1897 à 1917, des sociétés françaises construisent un chemin de fer de Djibouti à Addis-Abeba. Le port devient le principal accès à la mer de l'Éthiopie, et une escale entre la Méditerranée et l'océan Indien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti_(ville)",
+          "from": "Djibouti devient le point de départ du Chemin de fer djibouto-éthiopien",
+          "to": "capitale de l'Éthiopie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti_(ville)",
+          "from": "Fondés en 1888 par les Français",
+          "to": "principal accès à la mer de l'Éthiopie."
+        }
+      ]
+    },
+    {
+      "id": "DJI-4",
+      "topic": "histoire",
+      "era": "1977",
+      "title": "L'indépendance à 98,8 %",
+      "short": "Consultée pour la troisième fois, après 1958 et 1967, la population vote l'indépendance le 8 mai 1977 avec 98,8 % des suffrages. La république de Djibouti naît le 27 juin 1977.",
+      "long": "Lors du référendum de 1967, entaché de fraudes, le territoire était resté français et avait changé de nom. Après l'indépendance, une série d'attentats sert de prétexte à l'installation d'un parti unique et d'un contrôle policier étroit.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Le 8 mai 1977, la population, consultée pour la troisième fois",
+          "to": "98,8 % des suffrages exprimés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "Après un référendum le 8 mai 1977",
+          "to": "sous le nom de république de Djibouti"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Après un scrutin entaché de fraudes",
+          "to": "territoire français des Afars et des Issas (TFAI)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "Une série d'attentats à la fin de 1977",
+          "to": "contrôle policier important de la population."
+        }
+      ]
+    },
+    {
+      "id": "DJI-5",
+      "topic": "geographie",
+      "title": "Le point le plus bas d'Afrique",
+      "short": "Le lac Assal, à 153 m sous le niveau de la mer, est le point le plus bas du continent africain.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Le point le plus bas est le lac Assal",
+          "to": "point le plus bas du continent africain."
+        }
+      ]
+    },
+    {
+      "id": "DJI-6",
+      "topic": "politique",
+      "title": "Un petit pays truffé de bases étrangères",
+      "short": "À l'entrée de la mer Rouge, face au détroit de Bab-el-Mandeb, Djibouti accueille la plus grande base militaire française du monde, la seule base américaine d'Afrique continentale, et depuis 2017 une base chinoise.",
+      "long": "Les loyers versés par ces pays représentaient 128 millions d'euros en 2017, soit 3 % du PIB. Le Japon et l'Italie y ont aussi des installations.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Djibouti est situé dans la Corne de l'Afrique",
+          "to": "à l'entrée sud de la mer Rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Outre de nombreuses ambassades, Djibouti accueille",
+          "to": "la seule base américaine en Afrique continentale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "En 2017, après les États-Unis, la France, l'Italie et le Japon",
+          "to": "une base militaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "Ces bases militaires assurent des recettes importantes",
+          "to": "soit 3 % du PIB."
+        }
+      ]
+    },
+    {
+      "id": "DJI-7",
+      "topic": "drapeau",
+      "era": "1977",
+      "title": "La mer, la terre et l'unité",
+      "short": "Le drapeau de 1977 porte deux bandes, bleue et verte, et un triangle blanc frappé d'une étoile rouge. Le bleu évoque la mer et le ciel, le vert la terre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Djibouti",
+          "from": "Avant 1977, Djibouti était appelée territoire d'Obock",
+          "to": "entre 1967 et 1977."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Djibouti",
+          "from": "Précisément, ce drapeau est constitué de deux bandes horizontales",
+          "to": "une étoile rouge à cinq branches figure."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Djibouti",
+          "from": "Ainsi, le pays nouvellement créé adopte un nouveau drapeau",
+          "to": "étoile rouge à cinq branches »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Djibouti",
+          "from": "La signification de ce drapeau se retrouve aussi dans l'hymne national",
+          "to": "le vert représentant la terre"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DJI-C1",
+      "topic": "histoire",
+      "era": "1888",
+      "title": "Une ville et un pays du même nom",
+      "short": "La ville de Djibouti est fondée en 1888 par les Français, déjà installés à Obock. Elle devient le chef-lieu de la colonie en 1896, et le pays a fini par prendre son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti_(ville)",
+          "from": "Fondés en 1888 par les Français qui occupaient déjà Obock",
+          "to": "qui occupaient déjà Obock"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti_(ville)",
+          "from": "Une petite ville y est fondée en 1888",
+          "to": "Abu Bakr Burhan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Djibouti",
+          "from": "C'est la même année, en 1888, qu'est créé le port de Djibouti",
+          "to": "en 1896."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Djibouti",
+          "from": "Après un référendum le 8 mai 1977",
+          "to": "sous le nom de république de Djibouti"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un tout petit pays dans la Corne de l'Afrique, coincé entre l'Érythrée, l'Éthiopie et la Somalie, juste en face du Yémen, à l'endroit où la mer Rouge rejoint le golfe d'Aden.",
+    "flag": "Un triangle blanc côté mât avec une étoile rouge, puis deux bandes : bleu ciel en haut, vert en bas. Ne pas confondre avec les Philippines (bleu et rouge, soleil jaune) ou le Soudan du Sud.",
+    "capital": "Facile : la capitale s'appelle comme le pays, Djibouti."
+  }
+}

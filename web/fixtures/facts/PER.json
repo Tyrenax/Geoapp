@@ -1,0 +1,18 @@
+{
+  "id": "PER",
+  "facts": [
+    { "id": "PER-1", "topic": "histoire", "title": "[FICTIF] Cuzco, capitale inca",
+      "short": "[FICTIF] Fait de démonstration sur l'Empire inca.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/P%C3%A9rou", "quote": "[FICTIF] citation" } ] }
+  ],
+  "capital_facts": [
+    { "id": "PER-C1", "topic": "histoire", "title": "[FICTIF] La Cité des Rois",
+      "short": "[FICTIF] Fait de démonstration sur Lima.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/Lima", "quote": "[FICTIF] citation" } ] }
+  ],
+  "tips": {
+    "position": "[FICTIF] Sur le Pacifique, entre l'Équateur et le Chili.",
+    "flag": "[FICTIF] Rouge-blanc-rouge vertical, comme le Canada sans feuille.",
+    "capital": "[FICTIF] Lima, comme une lime."
+  }
+}

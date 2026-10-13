@@ -1,0 +1,181 @@
+{
+  "id": "AUS",
+  "facts": [
+    {
+      "id": "AUS-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "La plus ancienne culture vivante",
+      "short": "Les premiers habitants de l'Australie sont arrivés d'Asie du Sud-Est il y a environ 50 000 ans. Leurs descendants, les Aborigènes, représentent la plus ancienne culture existant sur Terre.",
+      "long": "En 1788, environ 250 tribus couvraient tout le continent, chacune avec sa langue, ses lois et ses frontières. Certaines peintures et gravures aborigènes remontent à 30 000 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Le territoire australien a d'abord été habité par des peuples aborigènes",
+          "to": "au cours de la dernière période glaciaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "En 1788, l'Australie était peuplée d'environ 250 tribus",
+          "to": "la plus ancienne culture existant sur Terre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Les formes d'art indigènes les plus anciennes",
+          "to": "remontent à 30 000 ans."
+        }
+      ]
+    },
+    {
+      "id": "AUS-2",
+      "topic": "histoire",
+      "era": "1606-1770",
+      "title": "Le continent du Sud imaginé avant d'être trouvé",
+      "short": "Dès le IIIe siècle, des savants imaginaient une « Terra Australis Incognita », un continent du Sud qui ferait contrepoids aux terres du Nord. En 1606, le Néerlandais Willem Janszoon est le premier Européen à atteindre l'Australie continentale.",
+      "long": "En 1770, James Cook cartographie la côte est et la revendique pour la Grande-Bretagne. Le navigateur Matthew Flinders est le premier à faire le tour complet du continent en bateau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Au IIIe siècle, des scientifiques avaient émis l’hypothèse",
+          "to": "hémisphère nord"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "En 1606, le navigateur néerlandais Willem Janszoon",
+          "to": "la partie continentale de l'Australie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "En 1770, l'explorateur britannique James Cook",
+          "to": "pour la Grande-Bretagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "L’explorateur britannique Matthew Flinders",
+          "to": "premier navigateur à faire un tour complet de l’Australie en bateau"
+        }
+      ]
+    },
+    {
+      "id": "AUS-3",
+      "topic": "histoire",
+      "era": "1788",
+      "title": "Une colonie pénitentiaire",
+      "short": "Le 26 janvier 1788, la « First Fleet », la Première flotte britannique, arrive à Sydney Cove pour fonder la colonie pénitentiaire de Nouvelle-Galles du Sud. Les six colonies australiennes se fédèrent le 1er janvier 1901.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Le 26 janvier 1788, la Première flotte",
+          "to": "de Nouvelle-Galles du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Des parlements démocratiques sont progressivement instaurés",
+          "to": "pour former le Commonwealth d'Australie."
+        }
+      ]
+    },
+    {
+      "id": "AUS-4",
+      "topic": "geographie",
+      "title": "Une faune unique au monde",
+      "short": "Longtemps isolée, l'Australie a développé une faune et une flore à part : marsupiaux, monotrèmes qui pondent des œufs, émeus… Environ 84 % de ses mammifères n'existent nulle part ailleurs.",
+      "long": "Depuis la colonisation, 10 % des espèces endémiques terrestres du pays ont disparu, notamment à cause des renards introduits, qui se sont attaqués aux marsupiaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Du fait du climat très variable de ce territoire",
+          "to": "(à poche marsupiale ou marsupium)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Environ 85 % des plantes à fleurs, 84 % des mammifères",
+          "to": "sont considérés comme des espèces endémiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Depuis le début de la colonisation de l'Australie par la Grande-Bretagne",
+          "to": "ont disparu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "Les Australiens relâchèrent également des renards",
+          "to": "qui s'attaquèrent aux marsupiaux."
+        }
+      ]
+    },
+    {
+      "id": "AUS-5",
+      "topic": "geographie",
+      "title": "La Grande Barrière de corail",
+      "short": "Le long de la côte nord-est s'étend la Grande Barrière, le plus grand récif corallien du monde, sur plus de 2 000 km. Elle a perdu plus de la moitié de ses coraux entre 1987 et 2014.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "La Grande Barrière — plus grand récif corallien du monde",
+          "to": "sur plus de 2 000 kilomètres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Australie",
+          "from": "La Grande Barrière a perdu plus de la moitié de ses coraux",
+          "to": "entre 1987 et 2014."
+        }
+      ]
+    },
+    {
+      "id": "AUS-6",
+      "topic": "drapeau",
+      "title": "La Croix du Sud et l'étoile à sept branches",
+      "short": "Le drapeau australien porte l'Union Jack, une grande étoile à sept branches — une pour chacun des six États, et une pour les territoires — et la constellation de la Croix du Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Australie",
+          "from": "Le drapeau de l'Australie est bleu avec",
+          "to": "l'Union Jack."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Australie",
+          "from": "Dans le quart du dessous se trouve l'Étoile de la fédération",
+          "to": "pour les deux territoires"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Australie",
+          "from": "L'autre moitié du drapeau représente la constellation de la Croix du Sud",
+          "to": "quatre autres à sept branches."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AUS-C1",
+      "topic": "histoire",
+      "era": "1908-1913",
+      "title": "Un compromis entre Sydney et Melbourne",
+      "short": "En 1908, le site de Canberra est choisi comme capitale pour départager les deux grandes villes rivales, Sydney et Melbourne. La ville est dessinée par un couple d'architectes américains, Walter Burley Griffin et Marion Mahony Griffin, vainqueurs d'un concours international.",
+      "long": "Sa construction commence en 1913. Le lac artificiel qui occupe le centre-ville porte le nom de l'architecte : le lac Burley Griffin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canberra",
+          "from": "Le site de Canberra a été choisi comme capitale australienne en 1908",
+          "to": "les deux plus grandes villes d'Australie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canberra",
+          "from": "Ce n'est qu'après un concours international",
+          "to": "le développement de la capitale en 1913."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canberra",
+          "from": "Canberra est traversée par la rivière Molonglo",
+          "to": "le lac Burley Griffin."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'immense île-continent au sud-est de l'Asie, entre l'océan Indien et le Pacifique, sous l'Indonésie et la Papouasie-Nouvelle-Guinée. La Tasmanie est l'île au sud-est.",
+    "flag": "Fond bleu, Union Jack dans le coin, une grande étoile blanche dessous et cinq étoiles de la Croix du Sud à droite. La Nouvelle-Zélande a seulement quatre étoiles, rouges bordées de blanc, et pas de grande étoile.",
+    "capital": "Piège : ni Sydney ni Melbourne, mais Canberra, la capitale-compromis construite entre les deux."
+  }
+}

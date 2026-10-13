@@ -1,0 +1,159 @@
+{
+  "id": "MLT",
+  "facts": [
+    {
+      "id": "MLT-1",
+      "topic": "histoire",
+      "title": "L'île du miel",
+      "short": "Les Grecs de l'Antiquité appelaient l'île Melitē, sans doute d'après le mot « miel » ou « abeille » : on y produisait un miel réputé. Les Romains en ont fait Melita.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "L'hypothèse la plus probable est que les Grecs",
+          "to": "Les Romains latiniseront le nom en Melita."
+        }
+      ]
+    },
+    {
+      "id": "MLT-2",
+      "topic": "histoire",
+      "era": "3500 av. J.-C.",
+      "title": "Parmi les plus vieux monuments du monde",
+      "short": "Vers 3500 av. J.-C., les habitants de Malte bâtissent des temples mégalithiques, comme ceux de Ġgantija à Gozo, comptés parmi les plus anciennes structures isolées au monde. Ils sont inscrits au patrimoine mondial de l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "Vers 3500 av. J.-C., ces peuples ont construit",
+          "to": "de Ħaġar Qim et de Mnajdra"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "Il s'agit de la ville de La Valette",
+          "to": "Ta' Ħaġrat et Tarxien situés dans les îles de Malte et de Gozo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "dont trois sites classés au patrimoine mondial de l'UNESCO",
+          "to": "structures isolées du monde."
+        }
+      ]
+    },
+    {
+      "id": "MLT-3",
+      "topic": "histoire",
+      "era": "1530-1565",
+      "title": "Les chevaliers et le Grand Siège",
+      "short": "En 1530, Charles Quint confie Malte aux chevaliers de l'ordre de Saint-Jean. En 1565, quelque 9 000 défenseurs menés par le grand maître Jean de Valette y résistent au Grand Siège des Ottomans, qui perdent plus de 12 000 hommes.",
+      "long": "Le siège commence le 19 mai 1565 et s'achève le 13 septembre, avec l'arrivée de renforts siciliens. Les Maltais perdent environ 9 000 personnes, dont des femmes, des enfants et des vieillards. La victoire reste l'une des plus célèbres de la chrétienté face à l'Empire ottoman.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "Lorsque Charles Quint se rend une première fois en Italie",
+          "to": "par les Ottomans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "C’est à Bologne, le 24 mars 1530",
+          "to": "les villes, châteaux et îles de Tripoli, Malte et Gozo"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "Le Grand siège intervient le 19 mai 1565",
+          "to": "sur l'Empire ottoman."
+        }
+      ]
+    },
+    {
+      "id": "MLT-4",
+      "topic": "histoire",
+      "era": "1942",
+      "title": "Une île décorée de la croix de George",
+      "short": "Pendant la Seconde Guerre mondiale, Malte gêne le ravitaillement des armées de l'Axe en Afrique du Nord. L'île subit 16 000 tonnes de bombes, et sa population reçoit la croix de George pour sa résistance : la décoration figure aujourd'hui sur le drapeau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "Durant la Seconde Guerre mondiale, Malte joue un rôle important",
+          "to": "qui figure aujourd’hui sur le drapeau national."
+        }
+      ]
+    },
+    {
+      "id": "MLT-5",
+      "topic": "culture",
+      "title": "Une langue sémitique en alphabet latin",
+      "short": "D'origine siculo-arabe, le maltais est classé parmi les langues sémitiques. C'est aussi la seule langue vivante issue des dialectes siculo-arabes, et elle s'écrit en alphabet latin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malte",
+          "from": "En raison de son origine siculo-arabe",
+          "to": "écrite en alphabet latin complété."
+        }
+      ]
+    },
+    {
+      "id": "MLT-6",
+      "topic": "drapeau",
+      "era": "1964",
+      "title": "Le blanc et le rouge des chevaliers",
+      "short": "Adopté à l'indépendance, le 21 septembre 1964, le drapeau est blanc et rouge, les couleurs de la bannière de l'ordre de Saint-Jean (une croix blanche sur fond rouge). La croix de George orne le coin supérieur gauche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "from": "Le drapeau de Malte est officiellement adopté",
+          "to": "le 21 septembre 1964, jour de l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "from": "La Constitution maltaise prévoit",
+          "to": "de la bande blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "from": "L'ordre de Saint-Jean de Jérusalem serait d'ailleurs la première entité",
+          "to": "(rouge à croix blanche),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Malte",
+          "from": "C'est donc tout naturellement",
+          "to": "les couleurs du drapeau national."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MLT-C1",
+      "topic": "histoire",
+      "era": "1566",
+      "title": "La ville du grand maître",
+      "short": "La Valette est fondée en 1566, juste après le Grand Siège, et porte le nom du grand maître français Jean de Valette. L'Unesco y recense 320 monuments sur 55 hectares, une concentration exceptionnelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "from": "Fondée en 1566 sous le nom",
+          "to": "de 1530 à 1798)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "from": "L'actuelle capitale de Malte porte le nom de son fondateur",
+          "to": "de 1557 à sa mort."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "from": "L'Unesco a recensé à La Valette 320 monuments",
+          "to": "concentration exceptionnelle dans le monde ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Valette",
+          "from": "seule la construction du fort Saint-Elme",
+          "to": "après trois mois de siège."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule archipel au milieu de la Méditerranée, juste au sud de la Sicile, au nord de la Libye et à l'est de la Tunisie. Trois îles habitées : Malte, Gozo et Comino.",
+    "flag": "Deux bandes verticales, blanche au mât et rouge, avec la petite croix de George dans le coin supérieur gauche. Monaco et l'Indonésie ont aussi du rouge et du blanc, mais en bandes horizontales et sans croix.",
+    "capital": "La Valette, la ville du grand maître Jean de Valette, bâtie juste après le Grand Siège de 1565."
+  }
+}

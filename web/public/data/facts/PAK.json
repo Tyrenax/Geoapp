@@ -1,0 +1,140 @@
+{
+  "id": "PAK",
+  "facts": [
+    {
+      "id": "PAK-1",
+      "topic": "histoire",
+      "title": "Mohenjo-daro, cité de l'Indus",
+      "short": "La vallée de l'Indus, aujourd'hui au Pakistan, a abrité plusieurs cultures antiques, dont la civilisation de la vallée de l'Indus. Sa cité de Mohenjo-daro était l'une des plus grandes de l'âge du bronze.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "La région de l’Indus était l’emplacement de plusieurs cultures antiques comprenant Mehrgarh, une des plus anciennes villes connues du monde, et de la civilisation de la vallée de l’Indus (de 2600 av. J.-C. à 1800 av. J.-C.) à Harappa et Mohenjo-daro."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Le site de Mohenjo-daro est un site important de la civilisation de la vallée de l'Indus, les restes d'une des plus grandes cités de l'âge du bronze, parmi les premières de la civilisation."
+        }
+      ]
+    },
+    {
+      "id": "PAK-2",
+      "topic": "histoire",
+      "title": "Le pays des purs",
+      "short": "Pakistan signifie « pays des purs » en ourdou. Mais le nom a d'abord été formé, dans les années 1930, comme un acronyme de provinces : P pour le Punjab, K pour le Kashmir…",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Le nom signifie « pays des purs » (de l’ourdou : pâk signifiant « pur » et stân signifiant « pays », avec un i de liaison)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Il a été formé comme un acronyme dans les années 1930 par Choudhary Rahmat Ali, formé avec le nom de certaines provinces du pays : d'après l'universitaire Max Zins, ce sont le Punjab qui donne le « P », l’Afghania (actuelle province de Khyber Pakhtunkhwa) qui donne le « a », le Kashmir pour le « k »,"
+        }
+      ]
+    },
+    {
+      "id": "PAK-3",
+      "topic": "histoire",
+      "era": "1947",
+      "title": "Né de la partition",
+      "short": "En août 1947, le Raj britannique est divisé en deux dominions : l'Inde et le Pakistan, conçu comme l'État des musulmans indiens. Les violences de la partition font de quelques centaines de milliers à un million de morts, et 12,5 millions de déplacés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Fondé le 14 août 1947 par la Ligue musulmane avec pour but d'être l’État-nation des musulmans indiens, il naît au terme de la partition des Indes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Le 15 août 1947 à minuit, le Raj britannique est divisé en deux dominions indépendants : l'Inde et le Pakistan, séparés par la ligne Radcliffe. Le territoire du Pakistan est alors formé des régions à majorité musulmane et constitué de deux parties distinctes, séparées par 1 600 km de territoire indien. Les violences qui suivent la partition font quelques centaines de milliers à un million de morts et 12,5 millions de personnes sont déplacées."
+        }
+      ]
+    },
+    {
+      "id": "PAK-4",
+      "topic": "histoire",
+      "era": "1971",
+      "title": "Un pays en deux morceaux… puis un seul",
+      "short": "À sa naissance, le Pakistan est formé de deux parties séparées par près de 1 600 km de territoire indien. En 1971, après une guerre de sécession, la partie orientale devient indépendante avec l'aide de l'Inde : c'est le Bangladesh.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "il naît au terme de la partition des Indes sous la forme d'un État constitué de deux parties séparées par près de 1 600 kilomètres de territoire indien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "En 1971, la situation dégénère en une guerre de sécession, et cette partie orientale du pays se déclare indépendante et devient le Bangladesh grâce à l'intervention militaire de l'Inde."
+        }
+      ]
+    },
+    {
+      "id": "PAK-5",
+      "topic": "geographie",
+      "title": "Le K2",
+      "short": "Au nord, dans le massif du Karakoram, le K2 culmine à 8 611 m : c'est le deuxième sommet du monde. L'alpinisme s'y pratique en touriste comme en sportif.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Le relief est formé de hauts sommets dans le nord (dont le mont K2 qui, à 8 611 mètres d'altitude, est le deuxième point culminant du monde),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pakistan",
+          "quote": "Du fait de sa géographie et de la présence des hauts sommets du Karakoram (dont le K2) et du Gasherbrum, l’alpinisme est pratiqué à la fois dans un cadre touristique et dans un cadre sportif,"
+        }
+      ]
+    },
+    {
+      "id": "PAK-6",
+      "topic": "drapeau",
+      "era": "1947",
+      "title": "Vert au croissant",
+      "short": "Adopté le 11 août 1947, trois jours avant la fondation du pays, le drapeau reprend celui de la Ligue musulmane. Le vert, le croissant et l'étoile symbolisent l'islam ; la bande blanche représente les minorités religieuses.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Pakistan",
+          "quote": "Présenté par Liaquat Ali Khan, le drapeau est officiellement adopté par l'Assemblée constituante du Pakistan le 11 août 1947, trois jours avant la fondation officielle du pays lors de la partition des Indes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Pakistan",
+          "quote": "Repris du drapeau de la Ligue musulmane adopté en 1906, il représente avant tout l'islam religion d’État tandis que la bande blanche représente les minorités religieuses."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Pakistan",
+          "quote": "On retrouve sur le drapeau le croissant et l'étoile sur fond vert, symboles de l'Islam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PAK-C1",
+      "topic": "histoire",
+      "era": "1959-1967",
+      "title": "Une capitale sortie de terre",
+      "short": "La première capitale, Karachi, est jugée trop au sud. En 1959, on choisit un site au nord-est de Rawalpindi pour en bâtir une nouvelle : Islamabad, construite de toutes pièces à partir de 1961, devient la capitale en 1967. Elle et Rawalpindi forment les « cités jumelles ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islamabad",
+          "quote": "Choisie en 1959 pour devenir la nouvelle capitale pakistanaise à la place de Karachi, jugée trop au sud du pays, Islamabad est construite ex nihilo de 1961 au milieu des années 1970."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islamabad",
+          "quote": "En 1959, le site d'Islamabad, au nord-est de Rawalpindi fut choisi pour remplacer Karachi comme capitale du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islamabad",
+          "quote": "Devenue en 1967 la capitale du pays, au détriment de Rawalpindi,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islamabad",
+          "quote": "Si les deux villes se jouxtent et se développent bien de concert actuellement (l'administration locale les appelle les « cités jumelles »)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au nord-ouest de l'Inde, le long de l'Indus, entre l'Iran et l'Afghanistan à l'ouest et la Chine au nord-est, avec une côte sur la mer d'Arabie.",
+    "flag": "Vert avec un croissant et une étoile blancs, et une bande blanche verticale côté hampe. Cette bande blanche le distingue des autres drapeaux verts au croissant.",
+    "capital": "Islamabad, au pied des montagnes du nord, collée à Rawalpindi. Pas Karachi, la grande ville portuaire du sud !"
+  }
+}

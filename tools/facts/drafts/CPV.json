@@ -1,0 +1,210 @@
+{
+  "id": "CPV",
+  "facts": [
+    {
+      "id": "CPV-1",
+      "topic": "histoire",
+      "era": "1456-1462",
+      "title": "Des îles désertes devenues la première ville des tropiques",
+      "short": "Personne ne vivait au Cap-Vert avant l'arrivée des navigateurs portugais vers 1456. En 1462, ils fondent Ribeira Grande, sur l'île de Santiago : la première ville européenne permanente sous les tropiques.",
+      "long": "Le Vénitien Alvise Cadamosto, au service du Portugal, découvre les premières îles ; Diogo Dias et Antonio Noli, capitaines d'Henri le Navigateur, trouvent les autres les années suivantes. Ribeira Grande, aujourd'hui Cidade Velha, conserve les ruines de la première cathédrale d'Afrique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Les îles étaient inhabitées avant l'arrivée",
+          "to": "en 1456."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "En 1462, les Portugais parviennent sur l'île Santiago",
+          "to": "première ville européenne permanente sous les tropiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "En 1456, le navigateur vénitien",
+          "to": "les années suivantes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "À Cidade Velha, ancienne capitale sur l’île de Santiago",
+          "to": "la première cathédrale africaine."
+        }
+      ]
+    },
+    {
+      "id": "CPV-2",
+      "topic": "histoire",
+      "era": "XVIe-XIXe siècle",
+      "title": "La plaque tournante de la traite",
+      "short": "Le Cap-Vert devient le premier grand carrefour du commerce triangulaire : les esclaves capturés sur la côte africaine y étaient regroupés avant d'embarquer pour les Amériques.",
+      "long": "C'est de la rencontre entre colons portugais et Africains réduits en esclavage qu'est né le créole capverdien, entre la fin du XVe et le début du XVIe siècle. Quand l'esclavage est aboli, en 1866, l'économie de l'archipel s'effondre et une première vague d'émigration part vers les États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "L'archipel devient la première plaque tournante du commerce triangulaire",
+          "to": "en partance pour les Amériques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "C’est dans ce contexte colonial",
+          "to": "le début du XVIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "En 1866, l’abolition de l'esclavage",
+          "to": "vers les États-Unis."
+        }
+      ]
+    },
+    {
+      "id": "CPV-3",
+      "topic": "histoire",
+      "era": "1585-1712",
+      "title": "Pillée par Drake, ruinée par un corsaire français",
+      "short": "Capitale de l'archipel, Ribeira Grande attire les corsaires : l'Anglais Francis Drake la pille deux fois en 1585. Après l'attaque du Français Jacques Cassard en 1712, elle ne se relève pas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Francis Drake, un corsaire anglais",
+          "to": "en 1585."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "La ville de Ribeira Grande, première ville",
+          "to": "corsaire français en 1712."
+        }
+      ]
+    },
+    {
+      "id": "CPV-4",
+      "topic": "histoire",
+      "era": "1956-1975",
+      "title": "Amílcar Cabral et la lutte commune avec la Guinée",
+      "short": "À partir de 1956, les indépendantistes du Cap-Vert, menés par Amílcar Cabral, s'allient à ceux de la Guinée portugaise dans un même parti, le PAIGC. Le Cap-Vert devient indépendant le 5 juillet 1975.",
+      "long": "La guerre se joue surtout sur le continent : en 1972, le PAIGC contrôle la plus grande partie de la Guinée portugaise, mais il ne parvient pas à s'emparer des îles. Après l'indépendance, on envisage même de réunir les deux pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "À partir de 1956, les indépendantistes du Cap-Vert",
+          "to": "(PAIGC)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "L’indépendance est acquise le 5 juillet 1975.",
+          "to": "le 5 juillet 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "En 1972, les troupes du PAIGC contrôlent",
+          "to": "s'emparer des îles du Cap-Vert."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Dès 1975 est envisagée la réunion",
+          "to": "et de la Guinée-Bissau."
+        }
+      ]
+    },
+    {
+      "id": "CPV-5",
+      "topic": "culture",
+      "title": "Plus de Capverdiens dehors que dedans",
+      "short": "Crise économique, sécheresses, famines : les Capverdiens ont tant émigré que la diaspora est plus nombreuse que la population restée dans l'archipel.",
+      "long": "C'est aussi par le monde que la musique capverdienne a voyagé : la chanteuse Cesária Évora a rendu célèbre la morna, l'un des grands genres de l'archipel avec le funaná et la coladeira. Un aéroport porte aujourd'hui son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "À cette époque, de nombreux Cap-Verdiens émigrent",
+          "to": "la population résidente du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Le déclin du commerce des esclaves au XIXe siècle",
+          "to": "la prospérité de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Lorsqu'il accède à l'indépendance en 1975, l'archipel",
+          "to": "plusieurs années de sécheresse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Malgré la disparition des famines",
+          "to": "une terre d’émigration."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Il existe différents genres de musique",
+          "to": "ou encore le batuque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cap-Vert",
+          "from": "Les aéroports internationaux du Cap-Vert sont",
+          "to": "l'aéroport international Cesária-Évora."
+        }
+      ]
+    },
+    {
+      "id": "CPV-6",
+      "topic": "drapeau",
+      "era": "1992",
+      "title": "Dix étoiles pour dix îles",
+      "short": "Depuis 1992, le drapeau est bleu, traversé un peu sous le milieu par des bandes blanche, rouge et blanche, avec un cercle de dix étoiles jaunes : une pour chaque île de l'archipel.",
+      "long": "Le bleu figure l'océan Atlantique, le blanc la paix et le rouge l'ardeur au travail. Le cercle d'étoiles fait penser au drapeau européen.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cap-Vert",
+          "from": "Le drapeau du Cap-Vert est le drapeau national",
+          "to": "depuis le 22 septembre 1992."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cap-Vert",
+          "from": "Il est composé d'un fond bleu",
+          "to": "décalé vers le bas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cap-Vert",
+          "from": "Un cercle de dix étoiles jaune",
+          "to": "celui des îles Cook."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cap-Vert",
+          "from": "Le bleu symbolise l'océan Atlantique",
+          "to": "leur ardeur au travail."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CPV-C1",
+      "topic": "histoire",
+      "era": "1770",
+      "title": "La capitale qui a remplacé la vieille ville",
+      "short": "Quand Ribeira Grande décline, la capitale déménage à Praia, à 15 km de là, en 1770. L'ancienne capitale prend alors le nom de Cidade Velha, « la vieille ville ».",
+      "long": "Un décret de 1858 confirme définitivement Praia comme capitale. Son centre historique est bâti sur une plaine volcanique en hauteur qu'on appelle simplement « le Plateau ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Cap-Vert",
+          "from": "Praia devient la nouvelle capitale en 1770",
+          "to": "(la vieille ville)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Praia",
+          "from": "C’est grâce à un décret de 1858",
+          "to": "politique, religieux et économique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Praia",
+          "from": "Ces hautes plaines sont d’origine volcanique",
+          "to": "sous le nom de « Plateau »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel en plein Atlantique, en forme de fer à cheval, à environ 600 km à l'ouest du Sénégal, au large de la pointe la plus occidentale de l'Afrique.",
+    "flag": "Bleu, avec des bandes blanche-rouge-blanche placées sous le milieu, et un cercle de dix étoiles jaunes posé à gauche. Le cercle d'étoiles fait penser à l'Union européenne, mais l'UE n'a pas de bandes et compte douze étoiles.",
+    "capital": "Praia veut dire « plage » en portugais : la capitale d'un archipel ne pouvait pas mieux s'appeler."
+  }
+}

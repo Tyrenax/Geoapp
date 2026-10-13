@@ -1,0 +1,154 @@
+{
+  "id": "BRN",
+  "facts": [
+    {
+      "id": "BRN-1",
+      "topic": "histoire",
+      "title": "Le pays qui a nommé Bornéo",
+      "short": "Brunei a donné son nom à l'île de Bornéo, qu'il partage avec la Malaisie et l'Indonésie. Dès le Ve siècle, des textes chinois mentionnent un lieu nommé « Boni » ou « Poli » au nord-ouest de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Brunei a donné son nom à l'île de Bornéo.",
+          "to": "l'île de Bornéo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Il partage l'île avec la Malaisie et l’Indonésie.",
+          "to": "et l’Indonésie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Depuis l'époque des dynasties du Sud (420-589)",
+          "to": "la partie Nord-Ouest de Bornéo."
+        }
+      ]
+    },
+    {
+      "id": "BRN-2",
+      "topic": "histoire",
+      "era": "1368-1888",
+      "title": "Un empire jusqu'aux Philippines",
+      "short": "Après la chute de l'empire de Majapahit, le royaume de Brunei s'étend rapidement sur Bornéo et jusque dans l'archipel philippin. L'empire de Brunei dure de 1368 à 1888.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Le royaume de Brunei se développe rapidement",
+          "to": "dans l'archipel philippin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Brunei et la Malaisie jouissent d’une culture",
+          "to": "l'empire de Brunei (1368-1888),"
+        }
+      ]
+    },
+    {
+      "id": "BRN-3",
+      "topic": "histoire",
+      "era": "1984",
+      "title": "Un protectorat devenu sultanat indépendant",
+      "short": "Ancien protectorat britannique, Brunei accède à l'indépendance le 1er janvier 1984. C'est l'un des cinq membres du Commonwealth à avoir sa propre monarchie, avec un sultan à sa tête.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Conformément à un accord avec le Royaume-Uni",
+          "to": "le 1er janvier 1984."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Ancien protectorat britannique, il est l'un des cinq membres",
+          "to": "qui possède sa propre monarchie."
+        }
+      ]
+    },
+    {
+      "id": "BRN-4",
+      "topic": "economie",
+      "era": "1929",
+      "title": "La richesse du pétrole et du gaz",
+      "short": "Le pétrole est découvert en 1903 et exploité à partir de 1929, avec un premier puits à Seria. Le gaz naturel est l'une des grandes exportations du pays, en particulier vers le Japon.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Du pétrole y est découvert en 1903",
+          "to": "installé à Seria."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "44 % du total des exportations sont à destination du Japon",
+          "to": "la vente de gaz naturel."
+        }
+      ]
+    },
+    {
+      "id": "BRN-5",
+      "topic": "politique",
+      "era": "2013",
+      "title": "La charia sur tout le territoire",
+      "short": "En 2013, le sultan instaure progressivement la charia, qui ne s'applique qu'aux musulmans. Brunei devient le premier État d'Asie du Sud-Est à appliquer ce code pénal islamique sur l'ensemble de son territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "En octobre 2013, avec une mise en application progressive",
+          "to": "qui ne s'applique qu'aux musulmans,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brunei",
+          "from": "Brunei devient le premier et jusqu'à présent le seul État",
+          "to": "sur l'ensemble de son territoire,"
+        }
+      ]
+    },
+    {
+      "id": "BRN-6",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Le jaune de la royauté",
+      "short": "Adopté en 1959, sous le protectorat britannique, le drapeau est jaune, couleur de la royauté, barré de deux diagonales noire et blanche. Au centre, l'emblème rouge réunit un parasol royal et un croissant, symbole de l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Brunei",
+          "from": "Il fut adopté dès 1959",
+          "to": "une diagonale blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Brunei",
+          "from": "Au centre est représenté en rouge le cimier",
+          "to": "inscrite à l'intérieur."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BRN-C1",
+      "topic": "histoire",
+      "era": "1970",
+      "title": "Une capitale sur l'eau",
+      "short": "Le cœur historique de la capitale est Kampong Ayer, une cité lacustre habitée depuis le VIIe siècle. La ville, qui s'appelait Bandar Brunei, a été rebaptisée Bandar Seri Begawan en 1970, en l'honneur du père du sultan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bandar_Seri_Begawan",
+          "from": "Bandar est habité depuis le VIIe siècle",
+          "to": "cœur historique actuel de la capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bandar_Seri_Begawan",
+          "from": "Au-delà du fleuve Brunei, vers le sud",
+          "to": "500 mètres sur la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bandar_Seri_Begawan",
+          "from": "La ville, qui s'appelait Bandar Brunei",
+          "to": "Sir Omar Ali Saifuddien III."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule pays sur la côte nord de l'île de Bornéo, coupé en deux morceaux et entièrement entouré, côté terre, par la Malaisie (l'État de Sarawak).",
+    "flag": "Un fond jaune barré de deux bandes diagonales, blanche et noire, avec un emblème rouge au centre (parasol et croissant). Aucun autre drapeau national n'a ce fond jaune barré en diagonale.",
+    "capital": "Bandar Seri Begawan, avec son village sur pilotis, Kampong Ayer, au bord de la mer."
+  }
+}

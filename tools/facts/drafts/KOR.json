@@ -1,0 +1,154 @@
+{
+  "id": "KOR",
+  "facts": [
+    {
+      "id": "KOR-1",
+      "topic": "histoire",
+      "era": "918-1897",
+      "title": "Le pays du matin clair",
+      "short": "La Corée est unifiée en un seul État par le royaume de Goryeo (918-1392), puis gouvernée par la dynastie Joseon (1392-1897). Le pays est surnommé « pays du matin clair et frais » (Joseon), souvent mal traduit par « pays du Matin calme ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Après l'unification des Trois Royaumes de Corée",
+          "to": "la période Joseon (1392-1897)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Le pays est surnommé le Pays du matin clair",
+          "to": "Pays du Matin calme."
+        }
+      ]
+    },
+    {
+      "id": "KOR-2",
+      "topic": "histoire",
+      "era": "1443",
+      "title": "Un roi invente un alphabet",
+      "short": "En 1443, le roi Sejong le Grand fait créer le hangeul, l'alphabet coréen, pour faciliter l'éducation de ses sujets : les caractères chinois étaient jugés trop difficiles et trop longs à apprendre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Le système d'écriture coréen, han'gû ou hangeul",
+          "to": "pour un individu moyen"
+        }
+      ]
+    },
+    {
+      "id": "KOR-3",
+      "topic": "histoire",
+      "era": "1910-1948",
+      "title": "De la colonie japonaise à la division",
+      "short": "L'Empire coréen est annexé par le Japon en 1910, et reste colonie japonaise jusqu'en 1945. Faute d'accord sur la réunification, la zone Sud devient la république de Corée en août 1948, et la zone Nord une république populaire communiste le mois suivant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "L'Empire coréen qui leur succéda",
+          "to": "à l'empire du Japon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "En raison de la colonisation japonaise de 1910 à 1945",
+          "to": "de 1910 à 1945,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Après l'échec des négociations sur la réunification",
+          "to": "communiste le mois suivant."
+        }
+      ]
+    },
+    {
+      "id": "KOR-4",
+      "topic": "histoire",
+      "era": "1950-1953",
+      "title": "La guerre de Corée",
+      "short": "En 1950, une invasion nord-coréenne déclenche la guerre de Corée. Le Sud est soutenu par les États-Unis, le Nord par la Chine. L'armistice de 1953 met fin aux combats, mais la péninsule reste coupée par une zone démilitarisée, paradoxalement la plus militarisée au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "La guerre de Corée commença en juin 1950",
+          "to": "la plus militarisée au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "En 1950, une invasion nord-coréenne",
+          "to": "s'est terminée en 1953"
+        }
+      ]
+    },
+    {
+      "id": "KOR-5",
+      "topic": "economie",
+      "era": "années 1960",
+      "title": "Le miracle économique",
+      "short": "Dans les années 1960, ravagée par la guerre, la Corée du Sud est aussi pauvre que les pays les plus pauvres d'Afrique et d'Asie. Elle connaît ensuite une croissance spectaculaire, portée par les chaebol, des conglomérats familiaux comme Hyundai, Samsung ou LG.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Dans les années 1960, le PIB par habitant",
+          "to": "qui a complètement rasé le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "la Corée du Sud a connu une phase spectaculaire de croissance",
+          "to": "l’économie mondiale moderne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "from": "Le fer de lance de la politique gouvernementale",
+          "to": "(Hyundai, Samsung, LG Group, etc)"
+        }
+      ]
+    },
+    {
+      "id": "KOR-6",
+      "topic": "drapeau",
+      "title": "Le yin et le yang",
+      "short": "Le Taegeukgi est blanc, avec au centre un yin-yang rouge et bleu, symbole de l'origine de toute chose. Aux quatre coins, des trigrammes représentent l'air, la terre, le feu et l'eau, chacun face à son complémentaire : une idée d'harmonie universelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Corée_du_Sud",
+          "from": "Il est nommé le Taegeukgi.",
+          "to": "guidé la conception du drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KOR-C1",
+      "topic": "histoire",
+      "era": "1394",
+      "title": "Plus de cinq siècles de capitale",
+      "short": "Fondée il y a deux mille ans par le royaume de Baekje, Séoul, alors appelée Hanyang, devient la capitale de la dynastie Joseon en 1394, et le reste plus de cinq cents ans. Elle accueille les Jeux olympiques d'été de 1988 et passe pour le berceau de la K-pop.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "from": "Fondée il y a deux mille ans par le royaume Baekje",
+          "to": "la capitale du royaume de Joseon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "from": "La ville vit changer son nom de Hanyang",
+          "to": "dynastie Joseon en 1394"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "from": "Symbole de son rayonnement, Séoul a organisé",
+          "to": "les Jeux olympiques d'été de 1988,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "from": "Enfin, en tant que cœur culturel du pays",
+          "to": "le berceau de la K-pop"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié sud de la péninsule coréenne, entre la Chine et le Japon. Au nord, la Corée du Nord ; c'est sa seule frontière terrestre.",
+    "flag": "Fond blanc, un rond rouge et bleu en spirale au centre, et quatre groupes de barres noires dans les coins. La Corée du Nord a un drapeau très différent, avec une étoile rouge.",
+    "capital": "Séoul, au nord-ouest, sur le fleuve Han, tout près de la frontière nord-coréenne."
+  }
+}

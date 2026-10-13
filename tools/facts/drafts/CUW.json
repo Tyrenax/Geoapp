@@ -1,0 +1,120 @@
+{
+  "id": "CUW",
+  "facts": [
+    {
+      "id": "CUW-1",
+      "topic": "histoire",
+      "era": "1634",
+      "title": "Prise aux Espagnols pour son sel",
+      "short": "Espagnole jusqu'en 1634, l'île est prise par la Compagnie néerlandaise des Indes occidentales. Elle devient une base navale, où l'on charge le sel qui sert à conserver le poisson.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Espagnole jusqu'en 1634, elle sert de base navale aux Hollandais",
+          "to": "approvisionner les expéditions militaires."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Trois langues sont officiellement reconnues",
+          "to": "des Indes occidentales en 1634."
+        }
+      ]
+    },
+    {
+      "id": "CUW-2",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Une plaque tournante de la traite",
+      "short": "Vers la fin des années 1650, sa proximité avec le Venezuela fait de Curaçao un point de ralliement du trafic illégal d'esclaves vers l'Empire espagnol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Le trafic illégal d'esclaves vers l'Empire espagnol",
+          "to": "en raison de sa proximité avec le Venezuela"
+        }
+      ]
+    },
+    {
+      "id": "CUW-3",
+      "topic": "histoire",
+      "era": "2010",
+      "title": "Un pays du royaume depuis 2010",
+      "short": "Depuis le 10 octobre 2010 et la dissolution des Antilles néerlandaises, Curaçao est un pays autonome au sein du royaume des Pays-Bas. On y parle officiellement néerlandais, papiamento et anglais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "formant un État autonome au sein du royaume des Pays-Bas depuis la dissolution",
+          "to": "des Antilles néerlandaises"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Celle-ci est finalement effective le 10 octobre 2010",
+          "to": "au sein du Royaume."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Trois langues sont officiellement reconnues",
+          "to": "le papiamento et l'anglais"
+        }
+      ]
+    },
+    {
+      "id": "CUW-4",
+      "topic": "culture",
+      "title": "Le curaçao bleu",
+      "short": "L'île a donné son nom au curaçao bleu, une liqueur d'orange utilisée dans de nombreux cocktails.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Curaçao",
+          "from": "Par ailleurs, l'alcool bleu curaçao",
+          "to": "dans de nombreux cocktails."
+        }
+      ]
+    },
+    {
+      "id": "CUW-5",
+      "topic": "drapeau",
+      "era": "1984",
+      "title": "Deux étoiles blanches",
+      "short": "Adopté le 2 juillet 1984, le drapeau est bleu, traversé d'une bande jaune, avec deux étoiles blanches à cinq branches en haut à gauche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Curaçao",
+          "from": "Finalement, et après quelques modifications",
+          "to": "le 2 juillet 1984."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Curaçao",
+          "from": "Le drapeau est composé d'un champ bleu",
+          "to": "dans la partie supérieure gauche."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CUW-C1",
+      "topic": "culture",
+      "era": "1997",
+      "title": "Des façades hollandaises sous les tropiques",
+      "short": "Le centre de Willemstad, aux façades colorées inspirées des villes des Pays-Bas, est inscrit au patrimoine mondial depuis 1997. Ses deux quartiers, Punda et Otrobanda, sont reliés par un long pont flottant mobile, le pont Reine-Emma.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Willemstad_(Curaçao)",
+          "from": "Le centre de la ville, avec son architecture colorée",
+          "to": "depuis 1997."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Willemstad_(Curaçao)",
+          "from": "Punda et Otrobanda sont reliés",
+          "to": "le pont Reine Emma."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'île du milieu des îles ABC, entre Aruba à l'ouest et Bonaire à l'est, au large du Venezuela.",
+    "flag": "Bleu avec une bande jaune horizontale sous le milieu et deux étoiles blanches en haut à gauche. Aruba a une seule étoile rouge et deux fines bandes jaunes.",
+    "capital": "Willemstad, la « ville de Guillaume » : un prénom de prince néerlandais, comme pour Oranjestad à Aruba."
+  }
+}

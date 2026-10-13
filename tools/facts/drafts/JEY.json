@@ -1,0 +1,127 @@
+{
+  "id": "JEY",
+  "facts": [
+    {
+      "id": "JEY-1",
+      "topic": "histoire",
+      "era": "1204",
+      "title": "Le roi, « duc de Normandie »",
+      "short": "En 1204, Philippe Auguste conquiert la Normandie continentale, mais les îles de la Manche restent au roi d'Angleterre. Aujourd'hui encore, à Jersey, le monarque britannique porte le titre de duc de Normandie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "En 1204, le roi de France Philippe Auguste",
+          "to": "comme duc de Normandie dans les îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "Le chef d'État de Jersey (qui a conservé le titre de duc de Normandie)",
+          "to": "par un lieutenant-gouverneur."
+        }
+      ]
+    },
+    {
+      "id": "JEY-2",
+      "topic": "histoire",
+      "era": "1852-1855",
+      "title": "Victor Hugo avant Guernesey",
+      "short": "Contraint à l'exil après le coup d'État de Louis-Napoléon Bonaparte, Victor Hugo vit à Jersey de 1852 à 1855, à Marine-Terrace. Expulsé par les autorités de l'île, il part alors pour Guernesey.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "Après le coup d'état de Louis-Napoléon Bonaparte",
+          "to": "il part pour Guernesey."
+        }
+      ]
+    },
+    {
+      "id": "JEY-3",
+      "topic": "histoire",
+      "era": "1940-1945",
+      "title": "Cinq ans sous la Wehrmacht",
+      "short": "Du 1er juillet 1940 au 9 mai 1945, Jersey est occupée par les troupes allemandes. Faute de pouvoir s'approvisionner au Royaume-Uni, on y émet des timbres d'apparence locale, en réalité pour le compte de la poste britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "Du 1er juillet 1940 au 9 mai 1945",
+          "to": "les troupes allemandes de la Wehrmacht."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "Il s'y est ajouté pendant l'occupation allemande",
+          "to": "en timbres au Royaume-Uni."
+        }
+      ]
+    },
+    {
+      "id": "JEY-4",
+      "topic": "culture",
+      "title": "Un hymne qui chante la Normandie",
+      "short": "Lors des Jeux du Commonwealth, quand il faut se distinguer des pays qui chantent God Save the King, Jersey entonne Ma Normandie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "La chanson Ma Normandie est chantée comme hymne",
+          "to": "God save the King."
+        }
+      ]
+    },
+    {
+      "id": "JEY-5",
+      "topic": "economie",
+      "title": "La vache jersiaise",
+      "short": "L'île a donné son nom à une race bovine, la jersiaise, réputée dans le monde entier pour sa rusticité et sa production de lait.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jersey",
+          "from": "La race bovine locale (jersiaise)",
+          "to": "productivité laitière."
+        }
+      ]
+    },
+    {
+      "id": "JEY-6",
+      "topic": "drapeau",
+      "era": "1979",
+      "title": "Une croix en X et des armoiries",
+      "short": "Le drapeau de Jersey, une croix rouge en X sur fond blanc, rappelle la croix de saint Patrick. Les armoiries n'y ont été ajoutées qu'en 1979, pour ne plus le confondre avec un pavillon du code international des signaux maritimes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Jersey",
+          "from": "Le drapeau de Jersey, dépendance de la Couronne britannique",
+          "to": "sur le drapeau du Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Jersey",
+          "from": "Les armoiries de Jersey ne furent ajoutées qu'en 1979",
+          "to": "signaux maritimes."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "JEY-C1",
+      "topic": "geographie",
+      "title": "La paroisse la plus peuplée",
+      "short": "Saint-Hélier est la paroisse la plus peuplée et la capitale de Jersey. Elle est jumelée avec Trenton, la capitale du New Jersey, l'État américain qui porte le nom de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Hélier",
+          "from": "Saint-Hélier (en jersiais : Saint Hélyi",
+          "to": "de l'île Anglo-Normande de Jersey."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Hélier",
+          "from": "Elle est jumelée avec plusieurs villes",
+          "to": "qui porte le nom de l'île."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La plus grande et la plus méridionale des îles Anglo-Normandes, dans le golfe normand-breton, tout près de la côte du Cotentin. Elle dépend de la Couronne britannique.",
+    "flag": "Une croix rouge en X sur fond blanc, avec en haut un écu rouge à trois léopards d'or surmonté d'une couronne. Guernesey, sa voisine, a une croix droite et non en X.",
+    "capital": "Saint-Hélier, au sud de l'île, jumelée avec la capitale du New Jersey."
+  }
+}

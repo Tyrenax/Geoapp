@@ -1,0 +1,207 @@
+{
+  "id": "TUV",
+  "facts": [
+    {
+      "id": "TUV-1",
+      "topic": "culture",
+      "title": "« Huit ensemble »",
+      "short": "En tuvaluan, « Tu valu » signifie « huit ensemble » : le nom désigne les huit îles et atolls habités par les Tuvaluans. Le neuvième, Niulakita, n'est occupé de manière permanente que depuis 1989.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "« Tu valu » signifie en tuvaluan « huit ensemble »",
+          "to": "de manière permanente depuis 1989."
+        }
+      ]
+    },
+    {
+      "id": "TUV-2",
+      "topic": "histoire",
+      "era": "1568-1819",
+      "title": "L'île de Jésus et les îles Ellice",
+      "short": "Le 16 janvier 1568, l'Espagnol Álvaro de Mendaña aperçoit Nui et la baptise Isla de Jesús, sans parvenir à y débarquer. En 1819, Funafuti est nommée d'après Edward Ellice, un parlementaire britannique propriétaire de la cargaison du navire qui la longe ; le nom « îles Ellice » s'étend ensuite à tout l'archipel.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuvalu",
+          "from": "Tuvalu was first sighted by Europeans on 16 January 1568",
+          "to": "was unable to land."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "Funafuti est baptisée en 1819",
+          "to": "Ce nom est étendu à tout l'archipel"
+        }
+      ]
+    },
+    {
+      "id": "TUV-3",
+      "topic": "histoire",
+      "era": "1863",
+      "title": "Enlevés pour les mines de guano",
+      "short": "En 1863, un navire péruvien enlève les deux tiers des habitants de Funafuti, plusieurs centaines de personnes, pour les emmener de force travailler dans les mines de guano du Pérou.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "En 1863, un navire péruvien enlève les deux-tiers des habitants de Funafuti",
+          "to": "dans les mines de guano au Pérou."
+        }
+      ]
+    },
+    {
+      "id": "TUV-4",
+      "topic": "histoire",
+      "era": "1892-1978",
+      "title": "La séparation d'avec les Gilbert",
+      "short": "Protectorat britannique en 1892, les îles Ellice sont réunies aux îles Gilbert en 1916 dans une même colonie. En 1974, leurs habitants polynésiens votent pour s'en séparer ; les îles adoptent un nom autochtone, Tuvalu, et deviennent indépendantes le 1er octobre 1978.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "En 1892, les îles deviennent le protectorat britannique",
+          "to": "avec le protectorat des îles Gilbert."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "En 1974, les différences ethniques",
+          "to": "(appelées désormais les Kiribati)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "L'année suivante, le 1er octobre",
+          "to": "en adoptant un nom autochtone."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuvalu",
+          "from": "On 1 October 1978, Tuvalu became fully independent",
+          "to": "King of Tuvalu."
+        }
+      ]
+    },
+    {
+      "id": "TUV-5",
+      "topic": "geographie",
+      "title": "Un pays menacé par la mer",
+      "short": "Le point le plus élevé des Tuvalu ne dépasse pas cinq mètres au-dessus du niveau de la mer. Avec la montée des eaux, le pays pourrait devenir d'ici 2050 le premier État sans territoire habitable.",
+      "long": "En 2022, à la COP27, le ministre Simon Kofe évoque la possibilité que son pays disparaisse et n'existe plus que dans le métavers. En 2023, l'union Falepili signée avec l'Australie permet aux Tuvaluans d'y émigrer, avec un quota de 280 migrants par an.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "En 2001, le gouvernement des Tuvalu a annoncé",
+          "to": "si le réchauffement climatique général de la planète se poursuit."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "Compte tenu de la montée des eaux, Tuvalu pourrait être d'ici 2050",
+          "to": "sans territoire habitable."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "Le 15 novembre 2022, dans le cadre de la COP27",
+          "to": "n'existe plus que dans le métavers."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tuvalu",
+          "from": "Le 10 novembre 2023, le Premier ministre Kausea Natano",
+          "to": "avec un quota de 280 migrants par an."
+        }
+      ]
+    },
+    {
+      "id": "TUV-6",
+      "topic": "economie",
+      "title": "Le pays du .tv",
+      "short": "Le domaine internet des Tuvalu est .tv. Prisé par des entreprises étrangères pour sa ressemblance avec le mot « télévision », sa location est l'une des principales recettes de l'État, avec les licences de pêche.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuvalu",
+          "from": "Government revenues largely come from sales of fishing licences",
+          "to": "Top Level Domain (TLD)."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tuvalu",
+          "from": "In Tuvalu, the official ccTLD",
+          "to": "video and film making."
+        }
+      ]
+    },
+    {
+      "id": "TUV-7",
+      "topic": "drapeau",
+      "era": "1978-1997",
+      "title": "Le drapeau qu'on a volé",
+      "short": "Sur fond bleu azur, couleur de l'océan, neuf étoiles représentent les neuf îles. En 1996, le Premier ministre Kamuta Latasi, républicain, fait adopter un nouveau drapeau ; la population y est hostile, et les habitants de Niutao vont jusqu'à dérober celui hissé sur leur île.",
+      "long": "L'ancien drapeau est restauré le 11 avril 1997, dès l'élection de Bikenibeu Paeniu au poste de Premier ministre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tuvalu",
+          "from": "Le fond du drapeau, tout comme celui du drapeau des Fidji",
+          "to": "les neuf îles des Tuvalu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tuvalu",
+          "from": "En janvier 1996, le drapeau fut à nouveau changé",
+          "to": "Kamuta Latasi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tuvalu",
+          "from": "Latasi était un républicain",
+          "to": "abolir la monarchie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tuvalu",
+          "from": "La population fut hostile à ce changement",
+          "to": "qui y avait été hissé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tuvalu",
+          "from": "Bikenibeu Paeniu lança une campagne",
+          "to": "au poste de Premier ministre."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TUV-C1",
+      "topic": "histoire",
+      "era": "1942-1943",
+      "title": "Un aéroport né de la guerre",
+      "short": "En 1942, l'armée américaine installe à Funafuti une base de plusieurs milliers de soldats et comble des marais avec des blocs de corail pour y construire une piste. Elle est devenue l'aéroport international. L'aviation japonaise attaque Funafuti à neuf reprises en 1943.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "Pendant la Seconde Guerre mondiale, l'armée américaine installe en 1942",
+          "to": "à neuf reprises Funafuti en 1943."
+        }
+      ]
+    },
+    {
+      "id": "TUV-C2",
+      "topic": "geographie",
+      "era": "1978-2015",
+      "title": "La capitale qui grandit trop vite",
+      "short": "Depuis l'indépendance, les Tuvaluans affluent vers Funafuti : aucune île-capitale du Pacifique n'a vu sa population augmenter aussi vite. La densité y est passée de 280 à 3 500 habitants au km² entre 1978 et 2015.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "Lors de l'accession à l'indépendance, de nombreux Tuvaluans migrent",
+          "to": "vers la capitale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "Les géographes Caroline Rufin-Soler",
+          "to": "aussi rapide de sa population »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Funafuti",
+          "from": "La densité est passée de 280 habitants",
+          "to": "en 2015."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une poussière d'atolls au milieu du Pacifique, au nord des Fidji, au sud des Kiribati et à l'ouest des Samoa.",
+    "flag": "Bleu clair avec l'Union Jack et neuf étoiles jaunes éparpillées comme une carte des îles. Les Fidji ont le même bleu, mais un écu à la place des étoiles.",
+    "capital": "Funafuti, l'atoll qui abrite l'aéroport : la ville gouvernementale s'appelle Vaiaku."
+  }
+}

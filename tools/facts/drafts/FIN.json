@@ -1,0 +1,166 @@
+{
+  "id": "FIN",
+  "facts": [
+    {
+      "id": "FIN-1",
+      "topic": "histoire",
+      "era": "1581-1809",
+      "title": "Suédoise, puis russe",
+      "short": "Pendant des siècles, la Finlande fait partie intégrante de la Suède, qui en fait un grand-duché en 1581. En 1809, conquise par le tsar Alexandre Ier, elle devient un grand-duché autonome rattaché à l'Empire russe.",
+      "long": "Paradoxalement, c'est sous la domination russe, au XIXe siècle, que naît le sentiment d'identité nationale finlandaise, que la Russie laisse se développer, voire encourage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "En 1372, la Suède accorde aux Finlandais",
+          "to": "une partie intégrante du royaume de Suède."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "La Suède, en reconnaissance de la loyauté",
+          "to": "de grand-duché en 1581."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "En 1808, le tsar Alexandre Ier déclare la guerre à la Suède",
+          "to": "sans résistance des Finlandais,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Le 29 mars 1809, la Russie confirme",
+          "to": "rattaché à l'empire russe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Le sentiment d’identité culturelle finnoise est né au XIXe siècle",
+          "to": "le sentiment d'identité nationale."
+        }
+      ]
+    },
+    {
+      "id": "FIN-2",
+      "topic": "politique",
+      "era": "1906",
+      "title": "Les premières femmes élues au monde",
+      "short": "En 1906, la Finlande obtient le droit d'élire un parlement au suffrage universel, masculin et féminin. Les femmes peuvent aussi être élues : une première dans le monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Dans le sillage de la révolution de 1905",
+          "to": "(une première dans le monde)."
+        }
+      ]
+    },
+    {
+      "id": "FIN-3",
+      "topic": "histoire",
+      "era": "1917-1918",
+      "title": "L'indépendance du 6 décembre 1917",
+      "short": "Profitant de la révolution russe, le Sénat finlandais proclame l'indépendance le 6 décembre 1917. L'année suivante, une guerre civile déchire le pays ; elle s'achève par la défaite des « rouges », soutenus par la Russie soviétique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Le sénat finlandais proclame finalement l'indépendance",
+          "to": "le 14 novembre 1917."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Profitant de l'instabilité consécutive à la révolution russe de 1917",
+          "to": "en matière de politique intérieure."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "En 1918, une guerre civile déchire le pays",
+          "to": "soutenus par la Russie soviétique."
+        }
+      ]
+    },
+    {
+      "id": "FIN-4",
+      "topic": "histoire",
+      "era": "1939-1940",
+      "title": "La guerre d'Hiver",
+      "short": "Le 30 novembre 1939, l'Union soviétique attaque la Finlande. Le petit pays tient tête à l'Armée rouge bien mieux que prévu : à la paix de 1940, l'URSS annexe l'isthme de Carélie mais renonce à envahir le reste du pays.",
+      "long": "Contrairement à ses voisins baltes, la Finlande sauve son indépendance à l'issue de la Seconde Guerre mondiale, au prix de lourdes réparations à l'URSS.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Le 30 novembre 1939, l'Union soviétique attaque",
+          "to": "renonce à envahir le reste de la Finlande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "Cet engagement porte ses fruits",
+          "to": "sauve au moins son indépendance."
+        }
+      ]
+    },
+    {
+      "id": "FIN-5",
+      "topic": "geographie",
+      "title": "Le pays aux 187 888 lacs",
+      "short": "La Finlande compte 187 888 lacs, qui communiquent souvent entre eux, et 179 584 îles. Les archipels de Turku et d'Åland forment l'essentiel de sa partie insulaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "La Finlande est un pays aux milliers de lacs",
+          "to": "(187 888 lacs et 179 584 îles)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Finlande",
+          "from": "tandis que les archipels de Turku et d'Åland",
+          "to": "la partie insulaire du pays."
+        }
+      ]
+    },
+    {
+      "id": "FIN-6",
+      "topic": "drapeau",
+      "era": "1918",
+      "title": "Des lacs et de la neige",
+      "short": "Le « drapeau à la croix bleue » date de 1918 et s'inspire du drapeau danois. Le bleu figure les lacs et le ciel, le blanc la neige et les nuits blanches de l'été finlandais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Finlande",
+          "from": "Le drapeau de la Finlande, en finnois",
+          "to": "les blanches nuits de l'été finlandais."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FIN-C1",
+      "topic": "histoire",
+      "era": "1550-1812",
+      "title": "Une capitale choisie par le tsar",
+      "short": "Fondée en 1550 par le roi de Suède Gustave Vasa pour concurrencer Tallinn, Helsinki devient capitale le 8 avril 1812, à la place de Turku, jugée trop proche de la Suède. Le centre est alors rebâti, et la place du Sénat rappelle Saint-Pétersbourg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Helsinki",
+          "from": "Helsinki fut fondée sous le nom « Helsingfors », en 1550",
+          "to": "alors ville hanséatique florissante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Helsinki",
+          "from": "Helsingfors devint le 8 avril 1812",
+          "to": "sentimentalement de la Suède."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Helsinki",
+          "from": "La ville connaît dès lors un développement considérable",
+          "to": "selon les plans de Carl Ludwig Engel,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Helsinki",
+          "from": "La place du Sénat (Senaatintori)",
+          "to": "avec la ville de Saint-Pétersbourg"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Tout au nord-est de l'Europe, entre la Suède à l'ouest et la Russie à l'est, avec qui elle partage plus de mille kilomètres de frontière. Au sud, le golfe de Finlande la sépare de l'Estonie ; au nord, elle touche la Norvège.",
+    "flag": "Une croix scandinave bleue sur fond blanc. Mêmes couleurs que la Grèce, mais sans bandes ; la Suède a une croix jaune sur fond bleu, l'Islande une croix rouge bordée de blanc sur fond bleu.",
+    "capital": "Helsinki, face à Tallinn de l'autre côté du golfe de Finlande : la capitale voulue par le tsar en 1812, loin de la Suède."
+  }
+}

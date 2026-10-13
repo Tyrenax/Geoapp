@@ -1,0 +1,146 @@
+{
+  "id": "MDA",
+  "facts": [
+    {
+      "id": "MDA-1",
+      "topic": "histoire",
+      "title": "Un nom venu d'une mine",
+      "short": "« Moldavie » viendrait de l'ancien allemand Mulde, « creux », « carrière » ou « mine ». Le mot a d'abord désigné une cité minière, puis la rivière Moldova voisine, et enfin la principauté de Moldavie, née dans cette région.",
+      "long": "Le pays se dit officiellement en français « république de Moldavie » ou « république de Moldova ». Les pro-européens préfèrent le premier nom, qui rappelle la Moldavie historique, partagée avec la Roumanie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Historiquement, le nom de « Moldavie » vient de l'ancien allemand « Mulde » qui signifie « creux poudreux », « carrière », « mine », et qui a successivement désigné une cité minière (en roumain Baia, qui signifie aussi « carrière », « mine »), la rivière Moldova passant à côté, et pour finir, une principauté née dans cette région : la principauté de Moldavie (1359-1859)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Le pays est officiellement appelé en français « république de Moldavie » ou « république de Moldova »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "La première forme « Moldavie », française, est préférée par les pro-européens pour marquer l'appartenance du pays à la Moldavie historique dont fait également partie la moitié roumaine de cette ancienne principauté historique ;"
+        }
+      ]
+    },
+    {
+      "id": "MDA-2",
+      "topic": "histoire",
+      "era": "1812-1871",
+      "title": "La Bessarabie annexée par la Russie",
+      "short": "En 1812, la Russie annexe la moitié orientale de la principauté de Moldavie et l'appelle Bessarabie, avec Chișinău pour capitale. L'Empire cherche à en faire une terre russe : en 1871, le roumain y est interdit dans toute la vie publique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "En 1774, l’Autriche annexe la Bucovine (au nord-ouest du pays), puis en 1812, les Russes qui visent le contrôle des bouches du Danube obtiennent la moitié orientale du pays, et étendent le nom de Bessarabie à tout le territoire annexé dont Chișinău devient la capitale (traité de Bucarest (1812))."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Les autorités impériales considèrent que la Bessarabie doit devenir une terre russe y compris sur les plans démographique et culturel, et elles en prennent les moyens, mais en plusieurs étapes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Enfin, en 1871, lorsque la Bessarabie devient une « goubernia » impériale, le moldave/roumain est purement et simplement interdit dans toute la sphère publique par oukase du Tsar."
+        }
+      ]
+    },
+    {
+      "id": "MDA-3",
+      "topic": "histoire",
+      "era": "1940",
+      "title": "Une république née du pacte germano-soviétique",
+      "short": "En 1940, en application du pacte germano-soviétique, l'URSS occupe la Bessarabie, alors roumaine, et y crée la république socialiste soviétique de Moldavie. 110 000 roumanophones instruits sont déportés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "En 1940, en application du pacte germano-soviétique et sans que la Roumanie puisse s'y opposer, l'URSS procède à l'occupation soviétique de la Bessarabie et de la Bucovine du Nord et crée alors la république socialiste soviétique de Moldavie (RSSM)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Les Soviétiques rattachent à la RSSAM (qui perd la moitié de son territoire de 1924 au profit de l’Ukraine) les deux tiers de la Bessarabie (le tiers restant va à l’Ukraine) et déportent 110 000 roumanophones instruits"
+        }
+      ]
+    },
+    {
+      "id": "MDA-4",
+      "topic": "histoire",
+      "era": "1991-1992",
+      "title": "L'indépendance et la Transnistrie",
+      "short": "La Moldavie proclame son indépendance le 27 août 1991. Mais la Transnistrie, à l'est du Dniestr, fait sécession ; après la guerre de 1992, cette région soutenue par la Russie reste indépendante de fait, sans reconnaissance internationale, sur 12 % du territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Le 27 août 1991, la république de Moldavie proclame son indépendance, immédiatement reconnue par la Roumanie, puis par la communauté internationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "À la dislocation de l'URSS, la Transnistrie fait sécession de la Moldavie et s'autoproclame indépendante sans reconnaissance internationale dès 1990,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "La Moldavie est admise à l'Organisation des Nations unies en mars 1992, mais la même année la guerre du Dniestr accentue la rupture avec la Transnistrie ; depuis, la Moldavie contrôle 29 680 km2 de son territoire (88 %), tandis que la région sécessionniste de Transnistrie, soutenue par la Russie, en contrôle 4 163 km2 (12 %)."
+        }
+      ]
+    },
+    {
+      "id": "MDA-5",
+      "topic": "economie",
+      "title": "Des kilomètres de caves à vin",
+      "short": "Avec quelque 300 jours de soleil par an, la Moldavie est une terre de vignes. Les caves de Cricova s'étendent sur plus de 120 kilomètres, et celles de Mileștii Mici abritent la plus grande collection de vins au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Avec ses 300 jours de soleil par an, le climat de la Moldavie est idéal pour l'agriculture et particulièrement la vigne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Moldavie",
+          "quote": "Les principaux sites comprennent la cave Cricova, dont la cave à vin s'étend sur plus de 120 kilomètres ; le château de Mimi, un château du XIXe siècle avec des vignobles, un musée, une galerie d'art, un spa, un hôtel et un restaurant ; et Mileștii Mici, qui possède la plus grande collection de vins au monde."
+        }
+      ]
+    },
+    {
+      "id": "MDA-6",
+      "topic": "drapeau",
+      "title": "L'aigle et la tête d'aurochs",
+      "short": "Le drapeau ressemble beaucoup à ceux de la Roumanie et de l'Andorre. Il s'en distingue par ses armoiries : un aigle tenant un rameau d'olivier et un sceptre, et un écu à tête d'aurochs, emblème de l'ancienne principauté de Moldavie.",
+      "long": "La tête d'aurochs rappelle probablement les légendes de la fondation de la Moldavie par le prince Dragoș.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Moldavie",
+          "quote": "On y retrouve également au centre les armoiries du pays : un aigle tenant un rameau d'olivier (symbole de paix), un sceptre (symbole de souveraineté) et protégé par un écu à tête d'aurochs de la principauté de Moldavie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Moldavie",
+          "quote": "Il ressemble aux drapeaux de la Roumanie voisine et de l'Andorre"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Moldavie",
+          "quote": "À dominante or, sinople et azur, elle représente une tête de bovidé (aurochs ou bison d'Europe, probablement pour rappeler les légendes entourant la fondation de la Moldavie par le prince Dragoș),"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MDA-C1",
+      "topic": "histoire",
+      "era": "1436",
+      "title": "Un fortin face aux Tatars",
+      "short": "Les linguistes rattachent l'apparition de la ville et de son nom aux attaques des Tatars. En 1436, le prince Iliaș poste un fortin de soldats au bord de la rivière Bîc, sur la grand-route qu'ils empruntaient. L'étymologie du nom reste débattue.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chișinău",
+          "quote": "En 1436, sur le flanc (ou côté) sud de la grand-route qui longe la rive droite de la rivière Bîc, menant du Khanat de Crimée (et avant, de la Horde d'or) vers le cœur de la principauté, le prince Iliaș posta un fortin de soldats Sicules (Magyars de Transylvanie) pour faire face aux attaques venues de l’Est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chișinău",
+          "quote": "Les hypothèses linguistiques placent l’émergence du nom et de la localité dans le contexte des attaques des Tatars contre la principauté de Moldavie, alors alliée de la Hongrie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays enclavé entre la Roumanie à l'ouest, de l'autre côté du Prut, et l'Ukraine, qui l'entoure sur les trois autres côtés. La Transnistrie forme une bande étroite le long du Dniestr, à l'est.",
+    "flag": "Bleu, jaune, rouge en bandes verticales, avec au centre un aigle portant un écu à tête d'aurochs. Sans armoiries, c'est presque le drapeau de la Roumanie (et du Tchad) ; avec d'autres armoiries, c'est l'Andorre.",
+    "capital": "Chișinău, née d'un fortin au bord de la rivière Bîc, devenue la capitale de la Bessarabie en 1812."
+  }
+}

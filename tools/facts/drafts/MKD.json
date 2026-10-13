@@ -1,0 +1,159 @@
+{
+  "id": "MKD",
+  "facts": [
+    {
+      "id": "MKD-1",
+      "topic": "histoire",
+      "era": "1993-2019",
+      "title": "Le long différend sur le nom",
+      "short": "La Grèce contestait le nom de « Macédoine », qu'elle jugeait approprier l'héritage grec. Le pays entre donc à l'ONU en 1993 sous un nom provisoire, puis adopte celui de « Macédoine du Nord » par l'accord de Prespa, en vigueur depuis le 12 février 2019.",
+      "long": "L'accord, conclu le 12 juin 2018, est approuvé par 91 % des votants lors d'un référendum, avec seulement 37 % de participation, puis par les parlements macédonien et grec en janvier 2019.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "D'abord, la minorité albanaise revendique",
+          "to": "s'approprie l'héritage culturel grec."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Admise à l'Organisation des Nations unies en 1993",
+          "to": "à la suite de l'accord de Prespa,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "L'accord entre officiellement en vigueur le 12 février 2019.",
+          "to": "le 12 février 2019."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Le 12 juin 2018, un accord est annoncé",
+          "to": "« république de Macédoine du Nord »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Le 30 septembre 2018, les Macédoniens approuvent",
+          "to": "ne soit que de 37 %."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Un référendum est organisé en Macédoine le 30 septembre 2018",
+          "to": "avec 91 % des voix exprimées."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Les parlements macédonien et grec se sont prononcés",
+          "to": "le Parlement grec le 25 janvier."
+        }
+      ]
+    },
+    {
+      "id": "MKD-2",
+      "topic": "histoire",
+      "era": "1944-1991",
+      "title": "Une république yougoslave devenue indépendante",
+      "short": "En 1944, la république socialiste de Macédoine devient l'une des six républiques de la Yougoslavie. Elle déclare son indépendance le 8 septembre 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "En 1944, la république socialiste de Macédoine est proclamée",
+          "to": "le 8 septembre 1991."
+        }
+      ]
+    },
+    {
+      "id": "MKD-3",
+      "topic": "histoire",
+      "era": "976",
+      "title": "La base du tsar Samuel",
+      "short": "En 976, Samuel Ier de Bulgarie, qui veut reconstruire l'empire de Siméon Ier, lance depuis la Macédoine des campagnes vers l'Albanie, la Serbie, la Bosnie et la Grèce.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "En 976, Samuel Ier de Bulgarie",
+          "to": "la Mésie et la Grèce."
+        }
+      ]
+    },
+    {
+      "id": "MKD-4",
+      "topic": "geographie",
+      "title": "Le plus vieux lac d'Europe",
+      "short": "Le lac d'Ohrid, partagé avec l'Albanie, est le plus grand du pays (349 km²) et le plus ancien d'Europe. Il est inscrit au patrimoine mondial de l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Le plus grand, qui est aussi le plus ancien d'Europe",
+          "to": "qui couvre 349 kilomètres carrés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Ces deux grands lacs sont frontaliers",
+          "to": "la grande majorité de leur surface."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macédoine_du_Nord",
+          "from": "Le lac d'Ohrid est quant à lui classé",
+          "to": "au patrimoine mondial de l'UNESCO."
+        }
+      ]
+    },
+    {
+      "id": "MKD-5",
+      "topic": "drapeau",
+      "era": "1992-1995",
+      "title": "Un soleil qui fâchait la Grèce",
+      "short": "En 1992, le pays adopte un drapeau rouge frappé du soleil de Vergina. La Grèce proteste : ce symbole de la Macédoine antique a été découvert sur son territoire. En 1995, il est remplacé par le drapeau actuel, un soleil jaune à huit rayons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Macédoine_du_Nord",
+          "from": "Malgré son indépendance acquise en septembre 1991",
+          "to": "en 1995."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Macédoine_du_Nord",
+          "from": "Le drapeau de la Macédoine du Nord est composé",
+          "to": "Il a été adopté en 1995."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MKD-C1",
+      "topic": "histoire",
+      "era": "1963",
+      "title": "Rebâtie après le séisme de 1963",
+      "short": "En 1963, un tremblement de terre détruit Skopje à 80 %. Sa reconstruction est confiée en grande partie au Polonais Adolf Ciborowski, qui avait déjà planifié celle de Varsovie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Skopje",
+          "from": "L'urbanisme de Skopje porte la trace profonde",
+          "to": "détruisit à 80 % la ville en 1963."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Skopje",
+          "from": "La reconstruction après le tremblement de terre",
+          "to": "après la Seconde Guerre mondiale."
+        }
+      ]
+    },
+    {
+      "id": "MKD-C2",
+      "topic": "culture",
+      "title": "La ville de Mère Teresa",
+      "short": "Mère Teresa est issue de la petite minorité chrétienne albanaise de Skopje, une ville marquée par son long passé ottoman : elle compte plus de mosquées que d'églises.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Skopje",
+          "from": "Il existe toutefois à Skopje une minorité chrétienne albanaise",
+          "to": "respectivement 25 et 17,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays montagneux et enclavé au cœur des Balkans, au nord de la Grèce : le Kosovo et la Serbie au nord, la Bulgarie à l'est, l'Albanie à l'ouest, avec qui elle partage les lacs d'Ohrid et de Prespa.",
+    "flag": "Un soleil jaune à huit rayons qui s'étirent jusqu'aux bords, sur fond rouge. Le Kirghizistan a aussi un soleil jaune sur fond rouge, mais petit et au centre, avec des rayons courts.",
+    "capital": "Skopje, sur le Vardar, rebâtie après le séisme de 1963."
+  }
+}

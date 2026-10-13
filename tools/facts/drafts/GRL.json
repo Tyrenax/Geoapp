@@ -1,0 +1,217 @@
+{
+  "id": "GRL",
+  "facts": [
+    {
+      "id": "GRL-1",
+      "topic": "histoire",
+      "era": "982",
+      "title": "Une « terre verte » pour attirer les colons",
+      "short": "Banni d'Islande pour meurtre, Erik le Rouge atteint l'île en 982. Il la baptise « terre verte », un nom choisi pour attirer des colons sur une terre pourtant chargée de glace.",
+      "long": "Les sagas islandaises racontent qu'il part avec sa famille et ses esclaves explorer cette terre glacée du nord-ouest. Les Groenlandais, eux, appellent leur pays Kalaallit Nunaat, « la terre des Kalaallit ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "En 982, le chef viking Erik le Rouge",
+          "to": "dans le but d'y attirer des colons."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Dans les sagas islandaises, il est dit",
+          "to": "(« terre des Kalaallit »)."
+        }
+      ]
+    },
+    {
+      "id": "GRL-2",
+      "topic": "histoire",
+      "era": "2500 av. J.-C.",
+      "title": "Les premiers chasseurs venus d'Amérique",
+      "short": "Vers 2500 av. J.-C., des chasseurs venus d'Amérique, ceux de la culture de Saqqaq, s'installent sur les côtes du Groenland. Ils vivent surtout du caribou et des petits mammifères marins.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "Vers 2500 av. J.-C. eut lieu la première vague",
+          "to": "membres de la culture de Saqqaq."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "Ces traces montrent que leur mode de subsistance",
+          "to": "petits mammifères marins."
+        }
+      ]
+    },
+    {
+      "id": "GRL-3",
+      "topic": "histoire",
+      "era": "XVe siècle-1721",
+      "title": "Les Vikings disparus",
+      "short": "Les colonies vikings du Groenland s'éteignent au XVe siècle, sans que les historiens sachent ce qui s'est passé. En 1721, le missionnaire Hans Egede part à leur recherche… et ne trouve plus que des Inuits.",
+      "long": "Les Vikings ont tenu plus de quatre siècles. Puis l'établissement de l'Ouest disparaît, et l'établissement de l'Est le suit sans laisser de trace des événements. Massacre, départ vers l'Islande ou le Vinland : les hypothèses restent débattues.\n\nL'expédition de 1721 voulait savoir si ces Européens étaient restés catholiques deux siècles après la Réforme, ou, pire aux yeux d'Egede, s'ils étaient redevenus païens. Les Inuits étaient alors depuis des siècles les seuls habitants de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "La civilisation européenne médiévale implantée au Groenland a disparu",
+          "to": "dans l'établissement de l'Est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Lors de l'arrivée des Vikings, qui y subsistèrent pendant plus de quatre siècles",
+          "to": "plus de quatre siècles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "Ils auraient plutôt été exterminés",
+          "to": "soit au Vinland."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "En 1721, une expédition clérico-commerciale",
+          "to": "s'ils sont redevenus païens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Groenland",
+          "from": "En 1721, les Danois et les Norvégiens redécouvrent l'île",
+          "to": "depuis plusieurs siècles déjà."
+        }
+      ]
+    },
+    {
+      "id": "GRL-4",
+      "topic": "politique",
+      "era": "1979-2009",
+      "title": "Le pays qui a quitté l'Europe",
+      "short": "Autonome depuis 1979, le Groenland quitte la CEE le 1er février 1985, surtout pour protéger sa pêche. En 2009, une autonomie élargie fait du groenlandais la seule langue officielle.",
+      "long": "L'autonomie est approuvée par référendum le 17 janvier 1979, avec 73 % des voix. En 1982, un autre référendum se prononce pour le retrait de la Communauté économique européenne, à laquelle le Danemark avait adhéré en 1973.\n\nL'autonomie élargie, votée à 75,5 % en 2008, entre en vigueur le 21 juin 2009, jour de la fête nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Elle entre en vigueur l'année suivante",
+          "to": "en faveur de l'autonomie)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Trois ans plus tard, en 1982, un référendum consultatif",
+          "to": "le 23 février 1982."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "En ratifiant le traité modificatif",
+          "to": "du Danemark et de la CEE."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Il s'agissait de ne pas être soumis",
+          "to": "protéger son industrie de pêche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Le 25 novembre 2008, le référendum consultatif",
+          "to": "jour de la fête nationale du Groenland."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Le groenlandais est devenu la seule langue officielle",
+          "to": "en juin 2009."
+        }
+      ]
+    },
+    {
+      "id": "GRL-5",
+      "topic": "geographie",
+      "title": "La plus grande île du monde, sous la glace",
+      "short": "Avec 2 166 086 km², le Groenland est la plus grande île du monde. Plus des trois quarts sont couverts par une calotte glaciaire épaisse de près de trois kilomètres en son centre.",
+      "long": "C'est la deuxième calotte de glace de la planète après celle de l'Antarctique. Elle s'est formée il y a environ 4,1 millions d'années. En 1951, l'explorateur français Paul-Émile Victor concluait que, sous la glace, le Groenland se compose en fait de trois grandes îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Avec une superficie de 2 166 086 km2",
+          "to": "après celle de l'Antarctique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "L'île est recouverte à 80 % par un inlandsis",
+          "to": "correspondant à l'altitude la plus élevée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "La calotte s'est formée il y a 4,1 millions d'années",
+          "to": "4,1 millions d'années,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Groenland",
+          "from": "Une étude menée par le scientifique français Paul-Émile Victor",
+          "to": "trois grandes îles."
+        }
+      ]
+    },
+    {
+      "id": "GRL-6",
+      "topic": "drapeau",
+      "era": "1985",
+      "title": "Un soleil couchant sur la banquise",
+      "short": "Le blanc du haut figure les glaciers, le rouge du bas la mer ; le demi-disque rouge évoque le soleil et le blanc, les icebergs. Les Groenlandais l'appellent Erfalasorput, « notre drapeau ».",
+      "long": "Il naît d'un concours lancé après l'autonomie : 555 propositions, et un jury si partagé qu'il réclame d'autres projets. Le dessin de Christiansen l'emporte finalement par 14 voix contre 11, et le drapeau est adopté le 21 juin 1985.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Groenland",
+          "from": "Il est souvent appelé « Erfalasorput »",
+          "to": "« notre drapeau » en groenlandais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Groenland",
+          "from": "Selon Christiansen, le créateur du drapeau",
+          "to": "soleil couchant se reflétant dans la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Groenland",
+          "from": "Pour fêter sa semi-indépendance",
+          "to": "officiellement adopté le 21 juin 1985."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GRL-C1",
+      "topic": "histoire",
+      "era": "1729",
+      "title": "De « Bonne-Espérance » à « la Pointe »",
+      "short": "Le missionnaire Hans Egede fonde la ville en 1729 sous le nom danois de Godthåb, « bonne espérance », pour le succès de sa mission. En 1979, elle devient Nuuk, « la pointe » ou « le cap » en groenlandais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nuuk",
+          "from": "La ville est fondée en 1729 par le missionnaire norvégien Hans Egede sous le nom",
+          "to": "auprès des Inuits."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nuuk",
+          "from": "Anciennement appelée Godthåb",
+          "to": "« presqu'île »."
+        }
+      ]
+    },
+    {
+      "id": "GRL-C2",
+      "topic": "geographie",
+      "title": "La capitale la plus au nord du monde",
+      "short": "À environ 240 km au sud du cercle polaire, Nuuk est la capitale la plus septentrionale du monde. Elle occupe le bout d'une presqu'île montagneuse, à l'embouchure du fjord de Nuuk.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nuuk",
+          "from": "Elle se situe sur la côte ouest",
+          "to": "la capitale la plus septentrionale du monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nuuk",
+          "from": "La ville est implantée à l'extrémité",
+          "to": "la baie de Nuuk."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'immense île blanche en haut de la carte, au nord-est du Canada, dont la sépare la baie de Baffin ; l'Islande est juste au sud-est. Sur les cartes de Mercator, elle paraît presque aussi grande que l'Afrique, qui est en réalité environ quatorze fois plus vaste.",
+    "flag": "Blanc en haut, rouge en bas, et un disque décalé vers le mât, coupé en deux aux couleurs inversées : un soleil couchant sur la mer. Aucune croix, contrairement au drapeau danois. La Pologne a aussi le blanc sur le rouge, mais sans disque.",
+    "capital": "Nuuk, « le cap » : la ville est au bout d'une presqu'île. Et son ancien nom danois, Godthåb, « bonne espérance », rappelle le cap de Bonne-Espérance."
+  }
+}

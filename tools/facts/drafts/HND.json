@@ -1,0 +1,123 @@
+{
+  "id": "HND",
+  "facts": [
+    {
+      "id": "HND-1",
+      "topic": "histoire",
+      "era": "1502",
+      "title": "« Sortis de ces eaux profondes »",
+      "short": "En 1502, Christophe Colomb arrive à Trujillo au sortir d'une tempête et s'écrie : « Gracias a Dios, salimos de estas honduras ! », « Grâce à Dieu, nous sommes sortis de ces eaux profondes ». Le pays s'appelle Honduras, et son cap oriental, Gracias a Dios.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "Christophe Colomb arriva à Trujillo (Honduras) en 1502.",
+          "to": "le pays « Honduras »."
+        }
+      ]
+    },
+    {
+      "id": "HND-2",
+      "topic": "histoire",
+      "era": "1821",
+      "title": "De l'Espagne aux Provinces unies",
+      "short": "Le Honduras proclame son indépendance vis-à-vis de l'Espagne en 1821. Il fait ensuite partie, avec ses voisins, des Provinces unies d'Amérique centrale, une fédération qui dure de 1823 à 1839.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "En 1821, le Honduras proclame son indépendance",
+          "to": "vis-à-vis de l'Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Honduras",
+          "from": "Il tient son origine du drapeau des Provinces unies d'Amérique centrale",
+          "to": "une grande partie de l'Amérique centrale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Honduras",
+          "from": "Au centre de la bande blanche, sont placées cinq étoiles",
+          "to": "les Provinces unies d'Amérique centrale."
+        }
+      ]
+    },
+    {
+      "id": "HND-3",
+      "topic": "histoire",
+      "era": "1969",
+      "title": "La guerre du football",
+      "short": "En juillet 1969, après un match de football qui attise les tensions entre les deux pays, le Salvador envahit brièvement le Honduras : c'est la « guerre du football ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "Le Salvador envahit brièvement le Honduras en juillet 1969",
+          "to": "entre les deux pays."
+        }
+      ]
+    },
+    {
+      "id": "HND-4",
+      "topic": "economie",
+      "era": "1998",
+      "title": "Un géant de la banane",
+      "short": "Le Honduras était le deuxième exportateur mondial de bananes jusqu'en 1998, année où l'ouragan Mitch ravage notamment sa capitale, Tegucigalpa.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "Le pays était par ailleurs le deuxième plus grand exportateur de bananes",
+          "to": "jusqu'en 1998."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "L'ouragan Mitch qui a eu lieu à Tegucigalpa en 1998",
+          "to": "beaucoup de ravages sur cette ville"
+        }
+      ]
+    },
+    {
+      "id": "HND-5",
+      "topic": "drapeau",
+      "era": "1823-1839",
+      "title": "Cinq étoiles pour cinq pays",
+      "short": "Les cinq étoiles bleues, disposées en croix de saint André, rappellent les cinq pays des anciennes Provinces unies d'Amérique centrale : Honduras, Costa Rica, Guatemala, Nicaragua et Salvador.",
+      "long": "Depuis 2022, le gouvernement hisse des drapeaux de couleur turquoise, sur recommandation de l'Université nationale autonome du Honduras.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Honduras",
+          "from": "Au centre de la bande blanche, sont placées cinq étoiles",
+          "to": "les Provinces unies d'Amérique centrale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honduras",
+          "from": "Le gouvernement hondurien n’a commencé à hisser des drapeaux turquoise",
+          "to": "cette recommandation en 2021."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "HND-C1",
+      "topic": "histoire",
+      "era": "1880",
+      "title": "Une capitale partagée jusqu'en 1880",
+      "short": "Après l'indépendance, Tegucigalpa et Comayagua sont tour à tour capitales du Honduras. Ce n'est qu'en 1880 que Tegucigalpa le devient de façon permanente.",
+      "long": "L'origine de son nom reste discutée : on y a longtemps vu le nahuatl Taguzgalpa, « colline d'argent », mais les spécialistes ont abandonné cette hypothèse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tegucigalpa",
+          "from": "Les villes de Tegucigalpa et Comayagua sont tour à tour capitales",
+          "to": "devient la capitale de façon permanente."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tegucigalpa",
+          "from": "La plupart des spécialistes conviennent",
+          "to": "cette hypothèse est aujourd'hui abandonnée."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le grand pays du milieu de l'Amérique centrale, avec une longue côte caribéenne au nord et un tout petit accès au Pacifique par le golfe de Fonseca ; Guatemala et Salvador à l'ouest, Nicaragua au sud.",
+    "flag": "Bleu, blanc, bleu à l'horizontale, avec cinq étoiles bleues en X au centre. Le Nicaragua a les mêmes bandes mais un blason triangulaire ; le Salvador a un blason rond ; l'Argentine a un soleil.",
+    "capital": "Tegucigalpa, la longue capitale au nom qui « tégucigalope » : récite-la en syllabes, Té-gu-ci-gal-pa, comme le galop d'un cheval."
+  }
+}

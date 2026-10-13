@@ -1,0 +1,144 @@
+{
+  "id": "HKG",
+  "facts": [
+    {
+      "id": "HKG-1",
+      "topic": "histoire",
+      "title": "Le port parfumé",
+      "short": "Hong Kong signifie « port aux parfums » ou « port parfumé ». C'est la plus grande et la plus peuplée des deux régions administratives spéciales de la Chine, l'autre étant Macao.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "« port aux parfums » ou « port parfumé »)",
+          "to": "l'autre étant Macao."
+        }
+      ]
+    },
+    {
+      "id": "HKG-2",
+      "topic": "histoire",
+      "era": "1842-1898",
+      "title": "Une colonie née de la guerre de l'opium",
+      "short": "Occupée par les Britanniques pendant la première guerre de l'opium, l'île de Hong Kong leur est cédée « pour toujours » par le traité de Nankin, en 1842. La péninsule de Kowloon suit en 1860, puis les Nouveaux Territoires, loués en 1898 pour 99 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Pour cette raison, les Britanniques occupent l'île",
+          "to": "le commerce en Extrême-Orient."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "À l'issue de la Seconde guerre de l'opium (1856-1860)",
+          "to": "(convention de Pékin, 1860)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Il signe avec la Chine la Convention pour l'extension",
+          "to": "et sur les îles environnantes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Le terme Nouveaux Territoires désigne de manière générale",
+          "to": "par les Britanniques en 1898."
+        }
+      ]
+    },
+    {
+      "id": "HKG-3",
+      "topic": "histoire",
+      "era": "1997",
+      "title": "Rendue à la Chine au bout du bail",
+      "short": "En 1997, le bail de 99 ans sur les Nouveaux Territoires arrive à échéance. Comme ils représentent plus de 80 % de la surface de Hong Kong et sont imbriqués dans la ville, c'est tout le territoire qui est rétrocédé à la Chine, cent cinquante-cinq ans après le traité de Nankin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Les Nouveaux Territoires ayant été loués pour 99 ans",
+          "to": "rendait impossible une séparation"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Les Nouveaux territoires représentent plus de 80 %",
+          "to": "de la surface de Hong Kong."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Colonie britannique à partir du traité de Nankin (1842)",
+          "to": "cent cinquante-cinq ans plus tard,"
+        }
+      ]
+    },
+    {
+      "id": "HKG-4",
+      "topic": "politique",
+      "era": "2020",
+      "title": "« Un pays, deux systèmes »",
+      "short": "Le principe « un pays, deux systèmes » devait permettre à Hong Kong de garder son droit, sa monnaie, son système politique et ses équipes sportives. En 2020, le parlement de la république populaire de Chine vote pour Hong Kong une loi sur la sécurité nationale, promulguée le 30 juin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Elle obéit au principe « un pays, deux systèmes »",
+          "to": "ses équipes sportives internationales,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "La nouvelle loi de sécurité nationale votée",
+          "to": "met fin, de fait, à ce régime spécial."
+        }
+      ]
+    },
+    {
+      "id": "HKG-5",
+      "topic": "geographie",
+      "title": "La ville des gratte-ciel",
+      "short": "Hong Kong est célèbre pour ses très nombreux gratte-ciel. Le plus haut, l'International Commerce Center, atteint 484 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Hong Kong est connu pour le nombre important",
+          "to": "de ses gratte-ciel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hong_Kong",
+          "from": "Le ICC (International Commerce Center) est devenu",
+          "to": "avec 484 m."
+        }
+      ]
+    },
+    {
+      "id": "HKG-6",
+      "topic": "drapeau",
+      "era": "1997",
+      "title": "La fleur de bauhinia",
+      "short": "Le drapeau, une fleur de bauhinia blanche sur fond rouge, est hissé pour la première fois le 1er juillet 1997, lors de la rétrocession. Son rouge reprend celui du drapeau chinois.",
+      "long": "La bauhinia était déjà le symbole du Conseil urbain depuis 1965. Avant 1997, la colonie utilisait un drapeau bleu frappé de ses armoiries.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Hong_Kong",
+          "from": "Le drapeau fut hissé la première fois le 1er juillet 1997",
+          "to": "à la république populaire de Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Hong_Kong",
+          "from": "La couleur rouge du drapeau coïncide",
+          "to": "de la république populaire de Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Hong_Kong",
+          "from": "La bauhinia est le symbole officiel du Conseil urbain",
+          "to": "incorporés dans le drapeau de Hong Kong."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Hong_Kong",
+          "from": "L'ancien drapeau colonial, qui était une Blue Ensign",
+          "to": "au 30 juin 1997."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Sur la côte sud de la Chine, à l'embouchure de la rivière des Perles, face à Macao : une péninsule (Kowloon et les Nouveaux Territoires) et une multitude d'îles.",
+    "flag": "Une fleur blanche à cinq pétales, la bauhinia, sur fond rouge. Macao, sa voisine, a un fond vert avec une fleur de lotus.",
+    "capital": "Hong Kong est une région de la Chine : elle n'a pas de capitale propre."
+  }
+}

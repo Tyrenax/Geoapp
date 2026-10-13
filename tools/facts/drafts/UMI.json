@@ -1,0 +1,106 @@
+{
+  "id": "UMI",
+  "facts": [
+    {
+      "id": "UMI-1",
+      "topic": "histoire",
+      "era": "1859-1899",
+      "title": "Des îles pour le guano",
+      "short": "Ces îles et atolls inhabités sont occupés par les États-Unis entre 1859 et 1899, en vertu du Guano Islands Act, une loi qui permettait de s'approprier des îles pour en exploiter le guano, un engrais naturel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "Ces îles et atolls sont inhabités lorsqu'ils sont progressivement occupés",
+          "to": "dans le but d'y exploiter le guano."
+        }
+      ]
+    },
+    {
+      "id": "UMI-2",
+      "topic": "histoire",
+      "era": "1937",
+      "title": "L'île d'Amelia Earhart",
+      "short": "La petite île Howland, presque nue, est célèbre pour être celle où l'aviatrice américaine Amelia Earhart devait atterrir avant de disparaître, en 1937, lors de son tour du monde.",
+      "long": "En 1935, un programme de colonisation tente d'installer une présence humaine permanente sur Howland, Baker et Jarvis ; il prend fin en 1942 avec l'entrée en guerre contre le Japon.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+          "from": "The nearly barren Howland is famous",
+          "to": "during her round-the-world flight in 1937."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "En 1935, le programme de colonisation",
+          "to": "lors de la Seconde Guerre mondiale."
+        }
+      ]
+    },
+    {
+      "id": "UMI-3",
+      "topic": "histoire",
+      "era": "1941-1942",
+      "title": "Wake et Midway, champs de bataille",
+      "short": "Pendant la Seconde Guerre mondiale, l'île de Wake est le théâtre d'une bataille acharnée en 1941. À Midway se déroule une bataille majeure qui contribue à renverser le cours de la guerre du Pacifique.",
+      "long": "Pendant la guerre froide, l'atoll Johnston a servi à détruire des stocks d'armes chimiques ; il a aussi été le site d'un accident nucléaire.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+          "from": "Wake, home to an extinct flightless bird",
+          "to": "transiting the Pacific in the mid-20th century."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+          "from": "Likewise, Midway Atoll is home to many corals and birds",
+          "to": "turn the tide of the Pacific War."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/United_States_Minor_Outlying_Islands",
+          "from": "Johnston Atoll was a famous island for its Cold War base",
+          "to": "the site of a nuclear accident."
+        }
+      ]
+    },
+    {
+      "id": "UMI-4",
+      "topic": "geographie",
+      "title": "Neuf îles sans habitants",
+      "short": "Ce n'est pas un territoire à proprement parler, mais un regroupement statistique de neuf îles et atolls : huit dans le Pacifique et un dans les Caraïbes, l'île de la Navasse. Aucune ne dépasse 8 km², et aucune n'a d'habitants permanents, seulement des militaires ou des scientifiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "Les îles mineures éloignées des États-Unis, en anglais United States Minor Outlying Islands",
+          "to": "dans un but statistique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "Aucune ne dépasse 8 km2 de superficie.",
+          "to": "tous militaires ou scientifiques"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "l'île de la Navasse à une cinquantaine de kilomètres de Haïti",
+          "to": "(la seule hors du Pacifique)"
+        }
+      ]
+    },
+    {
+      "id": "UMI-5",
+      "topic": "politique",
+      "title": "Des îles revendiquées",
+      "short": "La souveraineté américaine est contestée sur deux de ces îles : la Navasse, revendiquée par Haïti, et Wake, réclamée par les îles Marshall.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_mineures_éloignées_des_États-Unis",
+          "from": "La souveraineté américaine est contestée",
+          "to": "réclamée par les îles Marshall."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Des îlots éparpillés dans le Pacifique, autour d'Hawaï (Midway, Johnston, Wake…), plus l'île de la Navasse dans les Caraïbes, près d'Haïti.",
+    "flag": "Pas de drapeau propre : c'est le drapeau des États-Unis.",
+    "capital": "Pas de capitale : les îles sont dispersées et sans habitants permanents."
+  }
+}

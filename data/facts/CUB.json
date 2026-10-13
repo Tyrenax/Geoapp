@@ -1,0 +1,145 @@
+{
+  "id": "CUB",
+  "facts": [
+    {
+      "id": "CUB-1",
+      "topic": "histoire",
+      "era": "1492",
+      "title": "Colomb l'appelait Juana",
+      "short": "En 1492, lors de son premier voyage, Christophe Colomb aborde Cuba et la baptise Juana, en l'honneur du prince Don Juan, fils des Rois catholiques. Le nom Cuba viendrait de la langue des Taïnos, peut-être de cubanacán, « place centrale ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "Contrairement à ce qui est affirmé parfois, Christophe Colomb n'a pas appelé l'île Juana en l'honneur de la fille des Rois Catholiques espagnols mais, selon Bartolomé de las Casas, en l'honneur de leur fils, le prince Don Juan : « En 1492, Colomb a découvert Cuba lors de son premier voyage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "Pour certains, il viendrait des mots taïnos cubanacán signifiant « place centrale », ou cubao « terres fertiles »."
+        }
+      ]
+    },
+    {
+      "id": "CUB-2",
+      "topic": "histoire",
+      "era": "1492-1902",
+      "title": "Quatre siècles espagnols",
+      "short": "Peuplée d'abord par les Ciboneys et les Taïnos, l'île reste espagnole de 1492 à 1898. Elle est ensuite occupée par les États-Unis jusqu'au 20 mai 1902.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "L'île a été d'abord peuplée par des Amérindiens, les Ciboneys et les Taïnos, avant que les espagnols ne la colonisent et en fassent une capitainerie générale de 1492 à 1898, puis qu'elle devienne un territoire occupé par les États-Unis jusqu'au 20 mai 1902."
+        }
+      ]
+    },
+    {
+      "id": "CUB-3",
+      "topic": "histoire",
+      "era": "1956-1961",
+      "title": "82 hommes partis du Mexique",
+      "short": "En 1956, Fidel Castro, son frère Raúl et Che Guevara traversent depuis le Mexique à bord d'un bateau avec une troupe de 82 hommes. Le 1er janvier 1959, ils renversent la dictature de Fulgencio Batista.",
+      "long": "Le 16 avril 1961, à la veille du débarquement de la baie des Cochons, Fidel Castro proclame officiellement le caractère socialiste de la révolution et du régime.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "C'est là-bas qu'il prend la tête d'une armée rebelle en 1956, accompagné de son frère Raúl Castro et de Che Guevara, en voyage dans le pays. La troupe, faite de 82 hommes, prend le temps d'organiser une stratégie et de se former militairement pour renverser la dictature. Au même moment, le bateau El Grandma est rénové, et leur sert à la traversée du Mexique à Cuba. De retour à Cuba avec son armée, il renverse la dictature de Fulgencio Batista le 1er janvier 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "Le 16 avril 1961, à la veille du débarquement de la baie des Cochons, Fidel Castro proclame officiellement le caractère socialiste de la révolution et du régime."
+        }
+      ]
+    },
+    {
+      "id": "CUB-4",
+      "topic": "histoire",
+      "era": "1962",
+      "title": "Embargo et crise des missiles",
+      "short": "En 1962, après des nationalisations d'entreprises américaines, les États-Unis imposent un embargo économique à Cuba. La même année, l'accord qui clôt la crise des missiles engage les États-Unis à renoncer à envahir l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "L'embargo des États-Unis contre Cuba est un embargo économique, commercial et financier, mis en place par les États-Unis à l'égard de Cuba à partir du 7 février 1962, à la suite d'expropriation et nationalisations des compagnies cubaines et américaines."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "Les États-Unis mirent alors en place un embargo économique en 1962, mais renoncèrent à toute invasion de Cuba, pourtant un temps envisagée selon les plans de l'opération Northwoods mais dont la mise en œuvre fut finalement refusée par le président John Kennedy, aux termes d'un accord signé pour conclure l'affaire des missiles de Cuba."
+        }
+      ]
+    },
+    {
+      "id": "CUB-5",
+      "topic": "drapeau",
+      "era": "1849",
+      "title": "Un drapeau cousu en exil à New York",
+      "short": "Le drapeau est dessiné en 1849 à New York par un couple de Cubains exilés, Miguel et Emilia Teurbe Tolón, à la demande du général Narciso López, qui voulait libérer Cuba. Son « étoile solitaire » symbolise l'indépendance.",
+      "long": "Le triangle équilatéral, aux angles tous égaux, représente l'égalité entre les hommes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Cuba",
+          "quote": "Le drapeau de Cuba fut dessiné par Miguel et Émilia Teurbe Tolon (un couple cubain exilé à New York) en 1849, et demandé par le général Narciso López, un flibustier vénézuélien désirant libérer Cuba."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Cuba",
+          "quote": "L'étoile blanche, qui se nomme « La Estrella Solitaria » (« L'Étoile solitaire »), représente l'indépendance ainsi que la liberté étant un astre qui brille par sa propre lumière et la stabilité, l’équilibre social et moral."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Cuba",
+          "quote": "Le triangle équilatéral symbolise par l'égalité de ses angles l’égalité entre les Hommes."
+        }
+      ]
+    },
+    {
+      "id": "CUB-6",
+      "topic": "geographie",
+      "title": "La plus grande île des Antilles",
+      "short": "Longue de 1 210 km, l'île de Cuba est la plus grande des Antilles. Le pays compte aussi l'île de la Jeunesse et 4 095 cayes et îlots.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cuba",
+          "quote": "C'est un archipel composé de l'île de Cuba, longue de 1 210 km (qui fait d'elle la plus grande île des Antilles), de l'île de la Jeunesse et de 4 095 cayes."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CUB-C1",
+      "topic": "histoire",
+      "era": "1561",
+      "title": "Le grand rendez-vous des galions",
+      "short": "À partir de 1561, un décret royal oblige tous les navires qui rentrent en Espagne à se rassembler dans la baie de La Havane, pour traverser l'Atlantique en un seul convoi protégé contre les pirates.",
+      "long": "Les bateaux arrivent entre mai et août, attendent la meilleure météo et repartent ensemble avant la fin septembre. Ravitailler ces milliers de navires en eau et en nourriture fait prospérer l'agriculture et l'industrie de la ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Havane",
+          "quote": "Afin de contrer les attaques de pirates sur les convois de galions remplis de trésors du Nouveau Monde, et dirigés vers l'Espagne, la Couronne espagnole décide de protéger ses navires en les concentrant en une seule grande flotte, qui traversera l'océan Atlantique en convoi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Havane",
+          "quote": "Suivant la parution d'un décret royal en 1561, tous les navires en direction de l'Espagne sont requis d'assembler cette flotte dans la baie de La Havane. Les bateaux arrivent entre mai et août, attendent les meilleures conditions climatiques, et partent tous ensemble de La Havane avant la fin du mois de septembre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Havane",
+          "quote": "Les milliers de bateaux rassemblés dans la baie de La Havane stimulent également l'agriculture et l'industrie, puisqu'ils ont besoin d'être fournis en nourriture, eau, et autres produits nécessaires à la traversée de l'océan."
+        }
+      ]
+    },
+    {
+      "id": "CUB-C2",
+      "topic": "culture",
+      "title": "Le plus grand centre colonial d'Amérique latine",
+      "short": "La Habana Vieja, le cœur historique de La Havane, est inscrite au patrimoine mondial de l'UNESCO. C'est le plus grand centre-ville colonial d'Amérique latine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Havane",
+          "quote": "La Habana Vieja, le cœur historique de La Havane classé comme appartenant au patrimoine de l'humanité par l'UNESCO, est le plus grand centre-ville colonial d'Amérique latine."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La longue île en forme de crocodile, juste au sud de la Floride : la plus grande des Antilles, entre le golfe du Mexique et la mer des Caraïbes, avec la Jamaïque et Haïti au sud-est.",
+    "flag": "Cinq bandes bleues et blanches, un triangle rouge côté mât et une étoile blanche. Porto Rico a exactement le dessin inverse : bandes rouges et triangle bleu.",
+    "capital": "La Havane, un « havre » pour les galions : c'est dans sa baie qu'ils se rassemblaient tous avant de rentrer en Espagne."
+  }
+}

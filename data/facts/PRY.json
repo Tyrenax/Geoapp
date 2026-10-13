@@ -1,0 +1,133 @@
+{
+  "id": "PRY",
+  "facts": [
+    {
+      "id": "PRY-1",
+      "topic": "histoire",
+      "era": "1608-1767",
+      "title": "Les Guaranis et les missions jésuites",
+      "short": "Arrivés en 1608, les jésuites convertissent et instruisent les Guaranis, qui sont ainsi relativement épargnés par la colonisation. Le roi Charles III expulse les jésuites en 1767.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Contrairement à beaucoup de zones de peuplement, les populations indigènes de la région sont relativement épargnées, en particulier les Guaranis grâce à la mission des Jésuites qui s'installent dans la région en 1608."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Les Guaranis sont convertis au catholicisme et instruits par les jésuites jusqu'à la décision d'expulsion prise par le roi Charles III en 1767."
+        }
+      ]
+    },
+    {
+      "id": "PRY-2",
+      "topic": "histoire",
+      "era": "1811",
+      "title": "Indépendant de Madrid et de Buenos Aires",
+      "short": "Après avoir repoussé les troupes du général Manuel Belgrano, le Paraguay se proclame indépendant le 15 mai 1811, à la fois de l'Espagne et de Buenos Aires.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "En septembre 1810, le général Manuel Belgrano et ses hommes envahissent l'intendance mais ils sont battus en janvier et mars 1811."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Le 15 mai 1811, le Paraguay se proclame indépendant à la fois de Buenos Aires et de Madrid."
+        }
+      ]
+    },
+    {
+      "id": "PRY-3",
+      "topic": "histoire",
+      "era": "1864-1870",
+      "title": "Seul contre trois voisins",
+      "short": "Le Paraguay se lance dans la guerre de la Triple-Alliance contre l'Argentine, le Brésil et l'Uruguay. Le désastre est total : en 1870, il sort exsangue de la guerre et perd 88 000 km², un tiers de son territoire.",
+      "long": "Le pays connaît une autre grande guerre au XXe siècle : après de premiers affrontements dès 1926, la guerre du Chaco l'oppose à la Bolivie à partir de 1932.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Francisco, trop sûr de ses forces, se lance dans la guerre de la Triple-Alliance contre l'Argentine, l'empire du Brésil et l'Uruguay qui fut désastreuse pour le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "En 1870, le pays sort de la guerre exsangue, perdant 88 000 km2 au profit des vainqueurs, soit un tiers de sa superficie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Les premiers affrontements armés avec la Bolivie ont lieu dès 1926, mais la guerre du Chaco ne commence qu'en 1932."
+        }
+      ]
+    },
+    {
+      "id": "PRY-4",
+      "topic": "culture",
+      "title": "Un pays qui parle guarani",
+      "short": "Le guarani, langue des premiers habitants, est langue officielle à côté de l'espagnol. Environ 90 % des Paraguayens le parlent, souvent en alternance avec l'espagnol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Il a pour capitale Asunción et pour langues officielles l'espagnol et le guarani."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Guarani : Le guarani, quant à lui, est parlé par environ 90 % de la population, souvent en combinaison avec l'espagnol."
+        }
+      ]
+    },
+    {
+      "id": "PRY-5",
+      "topic": "drapeau",
+      "title": "Un drapeau à deux visages",
+      "short": "Le drapeau paraguayen n'a pas le même dessin des deux côtés : à l'endroit, les armoiries du pays ; à l'envers, un lion assis devant un bonnet phrygien, avec la devise « Paix et justice ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Paraguay",
+          "quote": "Le drapeau du Paraguay a la particularité d'avoir deux faces différentes :\n\nsur l'endroit, on peut observer les armoiries du pays ;\nsur l'envers on trouve un lion, assis devant une pique surmonté du bonnet phrygien, le tout entouré par la devise nationale Paz y Justicia (\"Paix et justice\")."
+        }
+      ]
+    },
+    {
+      "id": "PRY-6",
+      "topic": "geographie",
+      "title": "Sans mer, mais avec un barrage géant",
+      "short": "Avec la Bolivie, le Paraguay est l'un des deux pays sans accès à la mer d'Amérique du Sud. Il produit pourtant beaucoup d'électricité grâce au barrage d'Itaipu, sur le río Paraná, à la frontière brésilienne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "C'est l'un des deux pays enclavés du continent avec la Bolivie ; il est limitrophe de l'Argentine, de la Bolivie et du Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paraguay",
+          "quote": "Le barrage d'Itaipu, construit sur le río Paraná à la frontière avec le Brésil, qui est le plus imposant au monde, contribue fortement à la production d'électricité grâce à l'énergie hydraulique."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PRY-C1",
+      "topic": "histoire",
+      "era": "1537",
+      "title": "La « mère des villes »",
+      "short": "Fondée le 15 août 1537, jour de l'Assomption, d'où son nom, Asunción est l'une des plus anciennes villes d'Amérique du Sud. On la surnomme la « mère des villes », car de là partaient les expéditions espagnoles qui ont fondé d'autres cités du cône Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asuncion",
+          "quote": "Le fort qui l'a précédée a été établi sous le même nom le 15 août 1537 par Juan de Salazar de Espinosa, jour où l'Église catholique commémore l'Assomption de Marie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asuncion",
+          "quote": "Elle a été fondée sous le nom de Notre-Dame de l'Assomption le 15 août 1537 par Juan de Salazar y Espinosa, ce qui en fait l'une des plus anciennes villes d'Amérique du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asuncion",
+          "quote": "On l'appelle la \"Mère des villes (Madre de Ciudades)\" parce que de là, des expéditions espagnoles étaient parties pour fonder d'autres villes du cône sud-américain."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit pays sans mer au cœur de l'Amérique du Sud, coincé entre la Bolivie, le Brésil et l'Argentine. Le río Paraguay le coupe en deux : le Chaco aride à l'ouest, les terres fertiles à l'est.",
+    "flag": "Rouge, blanc, bleu à l'horizontale, avec un emblème rond au centre, différent de chaque côté. Les Pays-Bas ont les mêmes bandes sans emblème ; la Croatie a un damier au centre.",
+    "capital": "Asunción = l'Assomption : fondée le 15 août, comme la fête. Pense au pont du 15 août pour retrouver la capitale du Paraguay."
+  }
+}

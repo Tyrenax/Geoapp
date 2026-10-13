@@ -1,0 +1,150 @@
+{
+  "id": "EST",
+  "facts": [
+    {
+      "id": "EST-1",
+      "topic": "histoire",
+      "era": "1918-1920",
+      "title": "Une indépendance gagnée les armes à la main",
+      "short": "Le 24 février 1918, un comité réuni dans la clandestinité proclame l'indépendance de l'Estonie. Il faut ensuite repousser la Russie, qui tente d'envahir le pays : c'est la guerre d'indépendance.",
+      "long": "Après une contre-offensive en janvier 1919, l'armée estonienne, aidée de volontaires finlandais et soutenue par les Britanniques, chasse les troupes russes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Ses membres alors rassemblés dans la clandestinité établissent néanmoins le Comité des doyens, qui en sort pour déclarer l'indépendance de l'Estonie le 24 février 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "La Russie tente ensuite d'envahir le territoire, déclenchant la guerre d'indépendance de l'Estonie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Après une contre-offensive en janvier 1919, l'armée estonienne, dirigée par un gouvernement provisoire, aidée par des volontaires finnois et soutenue par les britanniques, chasse la Russie."
+        }
+      ]
+    },
+    {
+      "id": "EST-2",
+      "topic": "histoire",
+      "era": "1940-1991",
+      "title": "Un État qui a survécu en exil",
+      "short": "Occupée par l'URSS de 1940 à 1991, l'Estonie n'a jamais cessé d'exister en droit : ses diplomates et son gouvernement en exil ont maintenu la continuité de l'État pendant toute l'occupation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Pendant toute la période d'occupation soviétique de fait, de la Seconde Guerre mondiale jusqu'en 1991, la continuité juridique de l'État estonien fut maintenue grâce à ses représentants diplomatiques et à son gouvernement en exil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Les délégations diplomatiques estoniennes, créées dès 1917 avant même la République, sont les services les plus anciens et pérennes de l'État et ont assuré sa continuité depuis l'étranger pendant l'occupation soviétique de son territoire (1940-1991)."
+        }
+      ]
+    },
+    {
+      "id": "EST-3",
+      "topic": "histoire",
+      "era": "1988-1991",
+      "title": "La révolution chantante",
+      "short": "À partir de 1988, les Estoniens affirment leur identité nationale par des rassemblements de chants et de danses : c'est la « révolution chantante ». L'indépendance est pleinement restaurée le 20 août 1991.",
+      "long": "Le 23 août 1989, près de deux millions de personnes forment la Voie balte, une chaîne humaine qui traverse les trois pays baltes pour réclamer l'indépendance et dénoncer le pacte germano-soviétique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "En 1987, le contexte de la Perestroïka permet une expression ouverte ; la population proteste d'abord contre l'extractivisme (Fosforiidisõda - « guerre du Phosphore »), puis revendique son identité nationale avec des démonstrations de chants et danses baltes pendant la révolution chantante à partir de 1988."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "À la suite de la révolution chantante de 1988 à 1990 contre le pouvoir soviétique, l'indépendance fut pleinement restaurée le 20 août 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Le 23 août 1989, près de 2 millions de personnes participent à la Voie balte, une chaîne humaine qui s'étend sur les trois pays baltes pour réclamer l'indépendance et dénoncer le Pacte germano-soviétique."
+        }
+      ]
+    },
+    {
+      "id": "EST-4",
+      "topic": "culture",
+      "title": "Une cousine du finnois",
+      "short": "L'estonien n'est pas une langue balte, mais une langue fennique, apparentée au finnois. C'est la langue maternelle de la majorité des quelque 1,4 million d'habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "L'estonien, une langue fennique apparentée au finnois, est la langue officielle et la langue maternelle de la majorité des quelque 1,4 million d'habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "À la fin du XIIe siècle, le flanc oriental de la mer baltique, de peuplement païen, est distribué entre des peuples fenniques (dont Finnois, Estoniens, Lives) au nord, et baltes (dont Séloniens, Latgaliens) au sud."
+        }
+      ]
+    },
+    {
+      "id": "EST-5",
+      "topic": "politique",
+      "era": "2005",
+      "title": "Le pays du vote par Internet",
+      "short": "En 2005, l'Estonie devient le premier pays au monde à permettre de voter par Internet aux élections. Presque toutes les démarches administratives s'y font en ligne, et le pays compte le plus de start-ups et de « licornes » par habitant au monde.",
+      "long": "Skype, Bolt et Wise font partie des entreprises nées en Estonie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "En outre, l'Estonie a été en 2005 le premier pays du monde à instaurer le vote par internet aux élections : il compte pour 51 % des suffrages en 2023."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Depuis la fin des années 1990, l'Estonie possède une administration électronique (e-Government) permettant aux citoyens d'utiliser les technologies numériques pour des démarches et accéder à tous les services publics en ligne,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Estonie",
+          "quote": "Devenue une destination pour les entreprises de l'économie numérique, l'Estonie héberge ainsi le plus grand nombre de start-ups et de licornes par habitant au monde. Certaines entreprises d'origine estonienne comme Bolt, Wise, Playtech, et anciennement Skype, sont parmi les plus renommées et valorisées."
+        }
+      ]
+    },
+    {
+      "id": "EST-6",
+      "topic": "drapeau",
+      "era": "1884",
+      "title": "Le drapeau des étudiants de Tartu",
+      "short": "Le bleu-noir-blanc était d'abord le drapeau d'une association d'étudiants estoniens de l'université de Tartu, consacré le 4 juin 1884 au presbytère d'Otepää, avant de devenir celui de la nation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Estonie",
+          "quote": "Le drapeau actuel apparaît comme le drapeau de la Société des étudiants estoniens nouvellement créée au sein de l'université de Tartu. Ce drapeau est consacré le 4 juin 1884 dans le hall du pastorat de Otepää."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Estonie",
+          "quote": "Le drapeau national de l'Estonie est composé de trois bandes horizontales égales : de haut en bas, bleu, noir et blanc."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "EST-C1",
+      "topic": "histoire",
+      "era": "1219",
+      "title": "« La ville des Danois »",
+      "short": "En 1219, les Danois prennent la ville et y bâtissent une forteresse de pierre. Les habitants l'appellent alors Taani linn, « la ville danoise », d'où Tallinn ; les Allemands, eux, l'ont appelée Reval jusqu'en 1918.",
+      "long": "Membre de la Hanse, la ville prospère grâce au commerce, notamment celui du sel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tallinn",
+          "quote": "En 1219, la ville est envahie par les Danois, qui construisent une forteresse en pierre. Ils nomment la ville Reval, d'après le nom de la province dont elle est le centre. À cette époque également apparaît le nom de Tallinn, formé par contraction de Taani linn « ville danoise », utilisé par les autochtones."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tallinn",
+          "quote": "Son ancien nom, en usage jusqu’en décembre 1918, est Reval en allemand, ou Revel en russe, qu’on désignait alors en français sous la forme Réval."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tallinn",
+          "quote": "Membre de la Hanse, elle est notamment au centre du commerce du sel."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus au nord des trois pays baltes, face à la Finlande, de l'autre côté du golfe de Finlande. La Russie est à l'est, la Lettonie au sud, et plus de 2 000 îles frangent sa côte ouest.",
+    "flag": "Bleu, noir, blanc en trois bandes horizontales égales : le seul drapeau européen avec une bande noire au milieu. Le Botswana a aussi du bleu, du noir et du blanc, mais sur un fond bleu clair barré d'une bande noire bordée de blanc.",
+    "capital": "Tallinn, Taani linn, « la ville des Danois », qui l'ont prise en 1219, juste en face d'Helsinki."
+  }
+}

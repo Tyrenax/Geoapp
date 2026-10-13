@@ -1,0 +1,162 @@
+{
+  "id": "REU",
+  "facts": [
+    {
+      "id": "REU-1",
+      "topic": "histoire",
+      "era": "1642-1665",
+      "title": "Une île déserte devenue Bourbon",
+      "short": "L'île semblait inhabitée quand les navires portugais y passaient au XVIe siècle. Les Français en prennent possession au nom du roi en 1642 et la baptisent île Bourbon ; les vingt premiers colons arrivent en 1665.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "L’île semblait totalement inhabitée lors de l'arrivée des navires portugais",
+          "to": "en route vers les Indes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Les Français y ont ensuite débarqué pour en prendre possession au nom du roi en 1642",
+          "to": "du nom de la famille royale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "C'est en 1665 qu'arrivent les vingt premiers colons",
+          "to": "de l'île de Bourbon."
+        }
+      ]
+    },
+    {
+      "id": "REU-2",
+      "topic": "histoire",
+      "era": "1793",
+      "title": "Bourbon, Réunion, Bonaparte, puis Réunion",
+      "short": "Le 19 mars 1793, la Révolution rebaptise l'île « la Réunion » pour effacer le nom des Bourbons. Elle devient île Bonaparte en 1806, redevient Bourbon en 1810, puis reprend définitivement le nom de la Réunion en 1848.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le 19 mars 1793, pendant la Révolution",
+          "to": "pour effacer le nom de la dynastie des Bourbons."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "La colonie change à nouveau de nom au XIXe siècle",
+          "to": "à la chute de la monarchie de Juillet"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Elle est définitivement rebaptisée de son nom actuel",
+          "to": "aboli en 1848"
+        }
+      ]
+    },
+    {
+      "id": "REU-3",
+      "topic": "histoire",
+      "era": "1848",
+      "title": "Le 20 décembre, jour de l'abolition",
+      "short": "La colonie refuse d'appliquer la première abolition de l'esclavage, votée en 1794. Ce n'est que le 20 décembre 1848 que Sarda Garriga proclame l'abolition ; ce jour est férié à La Réunion depuis 1981.",
+      "long": "Les planteurs se tournent alors vers l'engagisme, qui fait venir de nombreux travailleurs d'Inde, surtout de la côte de Coromandel. Cette histoire explique la grande diversité de la culture réunionnaise, de son créole à sa musique, le séga et le maloya.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "L'abolition de l'esclavage votée par la Convention nationale le 4 février 1794",
+          "to": "(île Maurice)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le 20 décembre 1848, l’abolition de l'esclavage est finalement proclamée",
+          "to": "un jour férié à La Réunion)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le 20 décembre 1848, date de l'abolition de l'esclavage à La Réunion, une date fériée depuis 1981",
+          "to": "une date fériée depuis 1981"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Après l’abolition de l'esclavage, en décembre 1848",
+          "to": "essentiellement de la côte de Coromandel"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Cette diversité influence la culture réunionnaise",
+          "to": "(séga, maloya, etc.)."
+        }
+      ]
+    },
+    {
+      "id": "REU-4",
+      "topic": "histoire",
+      "era": "1946",
+      "title": "De la colonie au département",
+      "short": "En 1946, La Réunion cesse d'être une colonie et devient un département français, avec le code 974, sans obtenir pour autant l'égalité sociale et salariale avec la métropole.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "En 1946, l'île abandonne son statut colonial",
+          "to": "elle prend le code départemental 974."
+        }
+      ]
+    },
+    {
+      "id": "REU-5",
+      "topic": "geographie",
+      "title": "Pitons, cirques et remparts",
+      "short": "Née d'un volcan il y a environ trois millions d'années, l'île culmine au piton des Neiges (3 070 m), plus haut sommet de l'océan Indien. Le piton de la Fournaise compte parmi les volcans les plus actifs du monde.",
+      "long": "L'érosion a creusé au centre de l'île trois immenses cirques : Salazie, Mafate et Cilaos. Ces « pitons, cirques et remparts » sont inscrits au patrimoine mondial de l'UNESCO depuis 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "La Réunion est une île volcanique née il y a quelque trois millions d'années",
+          "to": "le sommet le plus élevé des Mascareignes et de l'océan Indien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le point culminant est le piton des Neiges avec une altitude de 3 070 mètres.",
+          "to": "3 070 mètres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le piton de la Fournaise (2 621 mètres)",
+          "to": "des volcans les plus actifs du monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Le centre abrite ainsi trois vastes cirques",
+          "to": "(Salazie, Mafate et Cilaos)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/La_Réunion",
+          "from": "Avec la création du parc national de La Réunion",
+          "to": "le 2 août 2010."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "REU-C1",
+      "topic": "histoire",
+      "era": "1669",
+      "title": "Saint-Denis, fondée par le premier gouverneur",
+      "short": "Saint-Denis est fondée en 1669 par Étienne Regnault, premier gouverneur de l'île Bourbon, qui propose d'en faire la capitale. La ville, au nord de l'île, se développe lentement au rythme du café, puis de la canne à sucre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Denis_(La_Réunion)",
+          "from": "Fondée en 1669 par le premier gouverneur de l'île Bourbon",
+          "to": "des cyclones et des épidémies."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Denis_(La_Réunion)",
+          "from": "Le chef-lieu réunionnais est situé dans la partie la plus au nord de l'île",
+          "to": "la partie la plus au nord de l'île"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île volcanique de l'océan Indien, à l'est de Madagascar et à environ 200 km au sud-ouest de l'île Maurice.",
+    "flag": "La Réunion, département français, utilise officiellement le drapeau de la France.",
+    "capital": "Saint-Denis, au nord de l'île, face à la mer."
+  }
+}

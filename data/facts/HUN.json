@@ -1,0 +1,162 @@
+{
+  "id": "HUN",
+  "facts": [
+    {
+      "id": "HUN-1",
+      "topic": "histoire",
+      "title": "Magyars ou Hongrois ?",
+      "short": "En hongrois, le pays s'appelle Magyarország, « le pays des Magyars ». Le nom « Hongrie » viendrait d'une confusion des Occidentaux entre les Magyars et des peuples turcs qui migraient avec eux, les Onoghours.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Le royaume de Hongrie fondé en 1001 et disparu en 1946 portait en hongrois le nom de Magyar Királyság dont est issue l'appellation de la Hongrie contemporaine : Magyarország « le pays des Magyars »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Quant aux termes « Hongrie » et « hongrois », il semble que leur racine soit issue d'une confusion chez certains peuples (dont les Occidentaux) entre les Magyars et des peuples turcs dont certains s'étaient joints à eux durant les migrations, notamment les Onoghours (en latin Hungari, ou « Hunnougour issus des hordes hunniques » chez Théophylacte Simocatta)."
+        }
+      ]
+    },
+    {
+      "id": "HUN-2",
+      "topic": "histoire",
+      "era": "IXe siècle-1000",
+      "title": "D'Árpád à saint Étienne",
+      "short": "À la fin du IXe siècle, les tribus magyares menées par Árpád franchissent le col de Verecke et s'installent dans la grande plaine. En l'an 1000, son arrière-petit-fils Étienne Ier convertit le pays au catholicisme : les Hongrois fêtent chaque 20 août la fondation de leur État.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Après des siècles durant lesquels le territoire actuel est habité par les Celtes, les Romains, les Huns, les Slaves, les Gépides et les Avars, la Hongrie est fondée à la fin du IXe siècle par le prince et commandant militaire Árpád après la conquête du territoire (honfoglalás)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Menées par Árpád, elles franchissent le col de Verecke et s'installent dans la grande plaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Son arrière-petit-fils Étienne Ier de Hongrie, en l'an 1000, convertit le pays au catholicisme."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Le 20 août, le Szent István ünnepe (« fête de saint Étienne », fête de l'État) célèbre la fondation de l'État hongrois en 1000."
+        }
+      ]
+    },
+    {
+      "id": "HUN-3",
+      "topic": "histoire",
+      "era": "1920",
+      "title": "Trianon, la blessure nationale",
+      "short": "Le traité de Trianon, en 1920, ampute la Hongrie de plus des deux tiers de son territoire, de son accès à la mer et de 32 % de ses locuteurs hongrois, devenus citoyens des pays voisins. Les Hongrois le vivent encore comme une tragédie nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "D'autre part, l'ancienne Hongrie royale se voit amputée de 32 % de magyarophones et des deux tiers de son territoire, dont son accès à la mer, la totalité de ses mines d'or, d'argent, de mercure, de cuivre et de sel, cinq de ses dix villes les plus peuplées et entre 55 % et 65 % des forêts, en vertu de l'application du traité de Trianon en 1920."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Pour l'opinion hongroise, le traité de Trianon est une tragédie nationale, car, par rapport à son territoire antérieur, le pays a perdu 71 % de sa superficie et 32 % des magyarophones, devenus citoyens autrichiens (dans le Burgenland), tchécoslovaques (aujourd'hui slovaques ou ukrainiens), roumains ou yougoslaves (aujourd'hui slovènes, croates ou serbes)."
+        }
+      ]
+    },
+    {
+      "id": "HUN-4",
+      "topic": "histoire",
+      "era": "1956-1989",
+      "title": "Le drapeau troué de 1956",
+      "short": "Le 23 octobre 1956, la Hongrie se soulève contre l'URSS. Les insurgés découpent les armoiries communistes de leurs drapeaux et leur préfèrent un trou, symbole de liberté retrouvée. L'Armée rouge écrase l'insurrection.",
+      "long": "En 1989, la Hongrie ouvre sa frontière du rideau de fer avec l'Autriche, ce qui accélère la chute du bloc soviétique. Le 23 octobre est aujourd'hui fête nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Le 23 octobre 1956, la Hongrie se soulève contre l'URSS."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Lors de l'insurrection de Budapest en 1956, les insurgés découpent les armes du régime communiste et leur préfèrent un trou symbole de la liberté retrouvée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Mais en 1956, l'Armée rouge soviétique a mis fin à ce régime libéral."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Pendant les quatre décennies de communisme (1947–1989), le pays attire l'attention internationale avec la révolution de 1956 et l'ouverture de la frontière du rideau de fer avec l'Autriche en 1989, qui accélère la chute du bloc soviétique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Enfin, le 23 octobre, le Forradalom ünnepe est organisé en l'honneur de l'insurrection de Budapest de 1956."
+        }
+      ]
+    },
+    {
+      "id": "HUN-5",
+      "topic": "culture",
+      "title": "Une langue venue de l'Oural",
+      "short": "Le hongrois est une langue finno-ougrienne, totalement différente des langues des pays voisins. Les Magyars sont un peuple issu de l'Oural, et la Hongrie entretient des liens privilégiés avec la Finlande et l'Estonie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Selon le recensement du pays de 2011, 99,6 % de la population parle le hongrois dont 98,9 % en tant que langue maternelle, une langue finno-ougrienne complètement différente des langues des pays voisins."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "Ainsi, la Hongrie entretient des relations privilégiées avec la Finlande, l'Estonie et le district autonome des Khantys-Mansis, notamment grâce à l'action scientifique de l'Académie hongroise des sciences, membre fondatrice du Congrès international finno-ougrien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hongrie",
+          "quote": "En hongrois, magyar désigne à la fois l'État et le nom du groupe ethnique issu de l'Oural et leurs descendants supposés."
+        }
+      ]
+    },
+    {
+      "id": "HUN-6",
+      "topic": "drapeau",
+      "era": "1848",
+      "title": "Force, foi et espérance",
+      "short": "Le drapeau rouge-blanc-vert naît pendant la révolution de 1848 contre les Habsbourg. Sa forme tricolore imite le drapeau français ; ses couleurs viennent des armoiries historiques de la Hongrie. Les romantiques y lisaient la force, la foi et l'espérance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Hongrie",
+          "quote": "Le drapeau tricolore rouge-blanc-vert est apparu comme une signe de souveraineté nationale pendant la révolution de 1848-1849 contre les Habsbourg-Lorraine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Hongrie",
+          "quote": "Ainsi, la forme tricolore du drapeau se fonde sur le drapeau français et les idées de la Révolution française, tandis que les couleurs rouge, blanc et vert proviennent des armoiries historiques de la Hongrie. Ces armoiries apparurent au milieu du XVe siècle, même si la version actuelle diffère par quelques détails. Ces armoiries sont formées d'armes apparues entre la fin du XIe siècle et le début du XIIe siècle en tant qu'armes des Árpád, la dynastie fondatrice hongroise.\nEn somme, le drapeau hongrois trouve ses origines dans les mouvements républicains des XVIIIe – XIXe siècles (concernant sa forme tricolore) et dans la Hongrie du Moyen Âge (concernant ses couleurs).\nLe folklore de la période romantique attribuait aux couleurs des vertus : le rouge pour la force, le blanc pour la foi, le vert pour l'espérance."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "HUN-C1",
+      "topic": "histoire",
+      "era": "1873",
+      "title": "Trois villes en une",
+      "short": "Budapest naît le 17 novembre 1873 de la fusion de trois villes : Buda, alors capitale de la Hongrie, Pest et Óbuda. Elle devient la seconde capitale de l'Autriche-Hongrie et une ville de rang mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Budapest",
+          "quote": "La ville actuelle est créée le 17 novembre 1873 par la fusion de Buda — alors capitale de la Hongrie —, de Pest et d'Óbuda. Elle a pour origine le site d'Aquincum, un point de peuplement celte devenu capitale de la Pannonie inférieure pendant l'époque romaine. Les Magyars arrivent dans la région au IXe siècle. Leur premier point d'implantation est pillé par les Mongols en 1241-1242. La ville est reconstruite et devient l'un des centres de la culture humaniste de la Renaissance au XVe siècle. Après près de 150 ans de domination ottomane, elle poursuit son développement et connaît son apogée avec l'épanouissement de l'ère industrielle aux XVIIIe et XIXe siècles. Après la fusion de 1873 et l'accession de la ville au rang de seconde capitale de l'Autriche-Hongrie, Budapest atteint les proportions et les caractéristiques d'une ville mondiale."
+        }
+      ]
+    },
+    {
+      "id": "HUN-C2",
+      "topic": "geographie",
+      "title": "Une capitale thermale",
+      "short": "Budapest est riche en sources thermales : chaque jour, elles débitent 40 000 000 litres d'eau chaude et 30 000 000 litres d'eau tiède. En 2008, on y a découvert le plus vaste ensemble de thermes souterrains au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Budapest",
+          "quote": "Pourvoyeuse de nombreuses sources d'eau thermale, Budapest débite 40 000 000 litres d'eau chaude et 30 000 000 litres d'eau tiède par jour. Ces sources sont à l'origine des établissements de bains et des thermes qui ont fait la réputation de la capitale. Le plus vaste ensemble de thermes souterrains au monde a été découvert à Budapest en 2008."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur du bassin des Carpates, sans accès à la mer : une grande plaine traversée du nord au sud par le Danube, qui coupe Budapest en deux. Le lac Balaton, le plus grand d'Europe centrale, est à l'ouest. Elle a sept voisins, de l'Autriche à la Roumanie.",
+    "flag": "Rouge, blanc, vert en bandes horizontales, le rouge en haut. L'Italie a les mêmes couleurs, mais en bandes verticales, et la Bulgarie aligne blanc, vert, rouge. Rouge-blanc-vert avec une couronne dorée au centre, c'est le Tadjikistan.",
+    "capital": "Budapest = Buda + Pest, deux villes face à face sur les deux rives du Danube, réunies en 1873."
+  }
+}

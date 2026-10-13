@@ -1,0 +1,135 @@
+{
+  "id": "DOM",
+  "facts": [
+    {
+      "id": "DOM-1",
+      "topic": "histoire",
+      "era": "1492",
+      "title": "La première île conquise par Colomb",
+      "short": "Lors de son premier voyage, en 1492, Christophe Colomb explore l'île d'Hispaniola et en prend possession pour l'Espagne. La République dominicaine en occupe aujourd'hui les deux tiers est.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "Lors de son premier voyage en 1492, Christophe Colomb",
+          "to": "pour l'Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Haïti",
+          "from": "Haïti, en forme longue la république d'Haïti",
+          "to": "par la République dominicaine."
+        }
+      ]
+    },
+    {
+      "id": "DOM-2",
+      "topic": "histoire",
+      "era": "1822-1844",
+      "title": "Indépendante… d'Haïti",
+      "short": "En 1822, les Dominicains sont annexés par Haïti, qui abolit l'esclavage sur toute l'île. L'indépendance véritable n'arrive qu'en 1844, au début d'une guerre contre Haïti, portée par la société secrète fondée par Juan Pablo Duarte.",
+      "long": "Duarte, Mella et Sánchez sont considérés comme les pères fondateurs du pays. La première Constitution, adoptée le 6 novembre 1844, s'inspire de celle des États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "mais les Dominicains sont annexés par Haïti en février 1822",
+          "to": "sur l'ensemble de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "La véritable indépendance n'arrivera que 22 ans plus tard, en 1844",
+          "to": "qui dure jusqu'en 1856."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "En 1838, Juan Pablo Duarte fonde une société secrète",
+          "to": "sans aucune intervention étrangère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "Duarte, Mella et Sánchez sont considérés",
+          "to": "de la République dominicaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "La première Constitution de la République dominicaine est adoptée le 6 novembre 1844",
+          "to": "de la Constitution des États-Unis."
+        }
+      ]
+    },
+    {
+      "id": "DOM-3",
+      "topic": "histoire",
+      "era": "1930-1961",
+      "title": "Trente ans de Trujillo",
+      "short": "De 1930 à 1961, le dictateur Rafael Trujillo règne sur le pays. Il va jusqu'à rebaptiser la capitale « Ciudad Trujillo » et la plus haute montagne du pays « Pico Trujillo ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "De 1930 à 1961, la dictature de Rafael Trujillo",
+          "to": "règne sur le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "Au cours du processus de reconstruction, Trujillo rebaptise Saint-Domingue",
+          "to": "en « Pico Trujillo »."
+        }
+      ]
+    },
+    {
+      "id": "DOM-4",
+      "topic": "geographie",
+      "title": "Le pic Duarte, toit du pays",
+      "short": "Le pic Duarte, qui culmine à 3 098 mètres, est le plus haut des quatre grands sommets de la cordillère Centrale, devant La Pelona et La Rucilla.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_dominicaine",
+          "from": "Les quatre plus haut sommets se dressent dans cette cordillère",
+          "to": "(2 760 mètres)."
+        }
+      ]
+    },
+    {
+      "id": "DOM-5",
+      "topic": "drapeau",
+      "era": "1844",
+      "title": "Une croix blanche sur le drapeau d'Haïti, et une Bible",
+      "short": "À l'indépendance de 1844, les révolutionnaires reprennent le drapeau d'Haïti et y ajoutent une croix blanche, symbole de leur foi chrétienne. Au centre des armoiries trône une Bible ouverte sur la phrase « Et la vérité vous rendra libres ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_dominicaine",
+          "from": "Lors de l'indépendance de la république dominicaine en 1844",
+          "to": "la foi chrétienne de la population."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_dominicaine",
+          "from": "Au centre de l'écu, flanquée de trois lances",
+          "to": "(Et la vérité vous rendra libres)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DOM-C1",
+      "topic": "histoire",
+      "title": "La plus vieille ville européenne des Amériques",
+      "short": "Saint-Domingue est le plus ancien lieu de peuplement européen des Amériques habité sans interruption, et fut le premier siège du pouvoir espagnol dans le Nouveau Monde. De 1936 à 1961, elle s'appelle Ciudad Trujillo, du nom du dictateur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Domingue_(ville)",
+          "from": "Fondée en 1502, Santo Domingo est le plus vieux site de peuplement",
+          "to": "dans le Nouveau Monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Domingue_(ville)",
+          "from": "Entre 1936 et 1961, elle portera également le nom de Ciudad Trujillo",
+          "to": "durant cette période."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Les deux tiers est de l'île d'Hispaniola, dans les Grandes Antilles, entre Cuba et Haïti à l'ouest et Porto Rico à l'est ; le tiers ouest de l'île, c'est Haïti.",
+    "flag": "Une croix blanche qui partage quatre rectangles, bleu et rouge en diagonale, avec un écu au centre. Le drapeau d'Haïti est simplement bleu sur rouge ; celui du Panama a aussi quatre quartiers, mais avec des étoiles.",
+    "capital": "Saint-Domingue, la ville de saint Dominique : la « dominicaine » a pour capitale Santo Domingo."
+  }
+}

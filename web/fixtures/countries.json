@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ARG", "iso2": "AR", "qid": "Q414", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Argentine", "name_official_fr": "République argentine", "article_fr": "l'",
+    "aliases_fr": ["Argentine"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Buenos Aires", "role_fr": null, "qid": "Q1486", "lat": -34.6, "lon": -58.38,
+        "aliases_fr": ["Buenos Aires"], "wiki_fr": "https://fr.wikipedia.org/wiki/Buenos_Aires" }
+    ],
+    "quiz_capital": "Buenos Aires", "population": 46000000, "population_year": 2023, "area_km2": 2780400,
+    "label": { "lat": -35.4, "lon": -65.2 }, "small": false,
+    "neighbors": ["BOL", "BRA", "CHL", "PRY", "URY"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Argentine", "wiki_en": "https://en.wikipedia.org/wiki/Argentina",
+    "flag": "flags/ARG.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_de_l%27Argentine", "quizzable": true
+  },
+  {
+    "id": "BOL", "iso2": "BO", "qid": "Q750", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Bolivie", "name_official_fr": "État plurinational de Bolivie", "article_fr": "la",
+    "aliases_fr": ["Bolivie"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Sucre", "role_fr": "capitale constitutionnelle", "qid": "Q35047", "lat": -19.04, "lon": -65.26,
+        "aliases_fr": ["Sucre"], "wiki_fr": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)" },
+      { "name_fr": "La Paz", "role_fr": "siège du gouvernement", "qid": "Q1491", "lat": -16.5, "lon": -68.15,
+        "aliases_fr": ["La Paz"], "wiki_fr": "https://fr.wikipedia.org/wiki/La_Paz" }
+    ],
+    "quiz_capital": "Sucre", "population": 12000000, "population_year": 2024, "area_km2": 1098581,
+    "label": { "lat": -16.7, "lon": -64.7 }, "small": false,
+    "neighbors": ["ARG", "BRA", "CHL", "PRY", "PER"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Bolivie", "wiki_en": "https://en.wikipedia.org/wiki/Bolivia",
+    "flag": "flags/BOL.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bolivie", "quizzable": true
+  },
+  {
+    "id": "BRA", "iso2": "BR", "qid": "Q155", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Brésil", "name_official_fr": "République fédérative du Brésil", "article_fr": "le",
+    "aliases_fr": ["Brésil"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Brasilia", "role_fr": null, "qid": "Q2844", "lat": -15.79, "lon": -47.88,
+        "aliases_fr": ["Brasilia", "Brasília"], "wiki_fr": "https://fr.wikipedia.org/wiki/Brasilia" }
+    ],
+    "quiz_capital": "Brasilia", "population": 203000000, "population_year": 2022, "area_km2": 8515767,
+    "label": { "lat": -10.5, "lon": -52.5 }, "small": false,
+    "neighbors": ["ARG", "BOL", "COL", "GUF", "GUY", "PRY", "PER", "SUR", "URY", "VEN"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Br%C3%A9sil", "wiki_en": "https://en.wikipedia.org/wiki/Brazil",
+    "flag": "flags/BRA.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Br%C3%A9sil", "quizzable": true
+  },
+  {
+    "id": "CHL", "iso2": "CL", "qid": "Q298", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Chili", "name_official_fr": "République du Chili", "article_fr": "le",
+    "aliases_fr": ["Chili"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Santiago", "role_fr": null, "qid": "Q2887", "lat": -33.45, "lon": -70.67,
+        "aliases_fr": ["Santiago", "Santiago du Chili"], "wiki_fr": "https://fr.wikipedia.org/wiki/Santiago" }
+    ],
+    "quiz_capital": "Santiago", "population": 19600000, "population_year": 2023, "area_km2": 756102,
+    "label": { "lat": -24.5, "lon": -69.5 }, "small": false,
+    "neighbors": ["ARG", "BOL", "PER"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Chili", "wiki_en": "https://en.wikipedia.org/wiki/Chile",
+    "flag": "flags/CHL.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Chili", "quizzable": true
+  },
+  {
+    "id": "DNK", "iso2": "DK", "qid": "Q35", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Danemark", "name_official_fr": "Royaume de Danemark", "article_fr": "le",
+    "aliases_fr": ["Danemark"], "continent": "europe", "subregion_fr": "Europe du Nord",
+    "capitals": [
+      { "name_fr": "Copenhague", "role_fr": null, "qid": "Q1748", "lat": 55.68, "lon": 12.57,
+        "aliases_fr": ["Copenhague", "København"], "wiki_fr": "https://fr.wikipedia.org/wiki/Copenhague" }
+    ],
+    "quiz_capital": "Copenhague", "population": 5960000, "population_year": 2024, "area_km2": 42933,
+    "label": { "lat": 56.0, "lon": 9.2 }, "small": false,
+    "neighbors": ["DEU"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Danemark", "wiki_en": "https://en.wikipedia.org/wiki/Denmark",
+    "flag": "flags/DNK.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Danemark", "quizzable": true
+  },
+  {
+    "id": "FRA", "iso2": "FR", "qid": "Q142", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "France", "name_official_fr": "République française", "article_fr": "la",
+    "aliases_fr": ["France"], "continent": "europe", "subregion_fr": "Europe de l'Ouest",
+    "capitals": [
+      { "name_fr": "Paris", "role_fr": null, "qid": "Q90", "lat": 48.86, "lon": 2.35,
+        "aliases_fr": ["Paris"], "wiki_fr": "https://fr.wikipedia.org/wiki/Paris" }
+    ],
+    "quiz_capital": "Paris", "population": 68400000, "population_year": 2024, "area_km2": 643801,
+    "label": { "lat": 46.6, "lon": 2.4 }, "small": false,
+    "neighbors": ["AND", "BEL", "DEU", "ITA", "LUX", "MCO", "ESP", "CHE", "BRA", "SUR"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/France", "wiki_en": "https://en.wikipedia.org/wiki/France",
+    "flag": "flags/FRA.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France", "quizzable": true
+  },
+  {
+    "id": "GRL", "iso2": "GL", "qid": "Q223", "kind": "territoire", "sovereign": "DNK",
+    "status_fr": "territoire autonome du Danemark",
+    "name_fr": "Groenland", "name_official_fr": "Groenland", "article_fr": "le",
+    "aliases_fr": ["Groenland", "Kalaallit Nunaat"], "continent": "amerique-nord", "subregion_fr": "Amérique du Nord",
+    "capitals": [
+      { "name_fr": "Nuuk", "role_fr": null, "qid": "Q226", "lat": 64.18, "lon": -51.72,
+        "aliases_fr": ["Nuuk", "Godthåb"], "wiki_fr": "https://fr.wikipedia.org/wiki/Nuuk" }
+    ],
+    "quiz_capital": "Nuuk", "population": 56800, "population_year": 2024, "area_km2": 2166086,
+    "label": { "lat": 74.0, "lon": -41.0 }, "small": false,
+    "neighbors": [],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Groenland", "wiki_en": "https://en.wikipedia.org/wiki/Greenland",
+    "flag": "flags/GRL.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Groenland", "quizzable": true
+  },
+  {
+    "id": "ITA", "iso2": "IT", "qid": "Q38", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Italie", "name_official_fr": "République italienne", "article_fr": "l'",
+    "aliases_fr": ["Italie"], "continent": "europe", "subregion_fr": "Europe du Sud",
+    "capitals": [
+      { "name_fr": "Rome", "role_fr": null, "qid": "Q220", "lat": 41.9, "lon": 12.5,
+        "aliases_fr": ["Rome", "Roma"], "wiki_fr": "https://fr.wikipedia.org/wiki/Rome" }
+    ],
+    "quiz_capital": "Rome", "population": 58900000, "population_year": 2024, "area_km2": 302073,
+    "label": { "lat": 42.8, "lon": 12.6 }, "small": false,
+    "neighbors": ["AUT", "FRA", "SMR", "SVN", "CHE", "VAT"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Italie", "wiki_en": "https://en.wikipedia.org/wiki/Italy",
+    "flag": "flags/ITA.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_de_l%27Italie", "quizzable": true
+  },
+  {
+    "id": "JPN", "iso2": "JP", "qid": "Q17", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Japon", "name_official_fr": "Japon", "article_fr": "le",
+    "aliases_fr": ["Japon"], "continent": "asie", "subregion_fr": "Asie de l'Est",
+    "capitals": [
+      { "name_fr": "Tokyo", "role_fr": null, "qid": "Q1490", "lat": 35.68, "lon": 139.69,
+        "aliases_fr": ["Tokyo", "Tōkyō"], "wiki_fr": "https://fr.wikipedia.org/wiki/Tokyo" }
+    ],
+    "quiz_capital": "Tokyo", "population": 124000000, "population_year": 2024, "area_km2": 377975,
+    "label": { "lat": 36.5, "lon": 138.5 }, "small": false,
+    "neighbors": [],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Japon", "wiki_en": "https://en.wikipedia.org/wiki/Japan",
+    "flag": "flags/JPN.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Japon", "quizzable": true
+  },
+  {
+    "id": "KNA", "iso2": "KN", "qid": "Q763", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Saint-Christophe-et-Niévès", "name_official_fr": "Fédération de Saint-Christophe-et-Niévès",
+    "article_fr": "", "aliases_fr": ["Saint-Kitts-et-Nevis", "Saint-Christophe-et-Nevis"],
+    "continent": "amerique-nord", "subregion_fr": "Caraïbes",
+    "capitals": [
+      { "name_fr": "Basseterre", "role_fr": null, "qid": "Q41295", "lat": 17.3, "lon": -62.72,
+        "aliases_fr": ["Basseterre"], "wiki_fr": "https://fr.wikipedia.org/wiki/Basseterre" }
+    ],
+    "quiz_capital": "Basseterre", "population": 47700, "population_year": 2022, "area_km2": 261,
+    "label": { "lat": 17.3, "lon": -62.75 }, "small": true,
+    "neighbors": [],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Ni%C3%A9v%C3%A8s",
+    "wiki_en": "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis",
+    "flag": "flags/KNA.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Christophe-et-Ni%C3%A9v%C3%A8s",
+    "quizzable": true
+  },
+  {
+    "id": "LKA", "iso2": "LK", "qid": "Q854", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Sri Lanka", "name_official_fr": "République socialiste démocratique du Sri Lanka",
+    "article_fr": "le", "aliases_fr": ["Sri Lanka", "Ceylan"], "continent": "asie", "subregion_fr": "Asie du Sud",
+    "capitals": [
+      { "name_fr": "Sri Jayawardenepura Kotte", "role_fr": "capitale officielle", "qid": "Q41963", "lat": 6.89, "lon": 79.92,
+        "aliases_fr": ["Sri Jayawardenepura Kotte", "Kotte"], "wiki_fr": "https://fr.wikipedia.org/wiki/Sri_Jayawardenepura_Kotte" },
+      { "name_fr": "Colombo", "role_fr": "capitale commerciale", "qid": "Q35381", "lat": 6.93, "lon": 79.85,
+        "aliases_fr": ["Colombo"], "wiki_fr": "https://fr.wikipedia.org/wiki/Colombo" }
+    ],
+    "quiz_capital": "Sri Jayawardenepura Kotte", "population": 22000000, "population_year": 2023, "area_km2": 65610,
+    "label": { "lat": 7.6, "lon": 80.7 }, "small": false,
+    "neighbors": [],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Sri_Lanka", "wiki_en": "https://en.wikipedia.org/wiki/Sri_Lanka",
+    "flag": "flags/LKA.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Sri_Lanka", "quizzable": true
+  },
+  {
+    "id": "PER", "iso2": "PE", "qid": "Q419", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Pérou", "name_official_fr": "République du Pérou", "article_fr": "le",
+    "aliases_fr": ["Pérou"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Lima", "role_fr": null, "qid": "Q2868", "lat": -12.05, "lon": -77.04,
+        "aliases_fr": ["Lima"], "wiki_fr": "https://fr.wikipedia.org/wiki/Lima" }
+    ],
+    "quiz_capital": "Lima", "population": 34000000, "population_year": 2023, "area_km2": 1285216,
+    "label": { "lat": -9.5, "lon": -75.0 }, "small": false,
+    "neighbors": ["BOL", "BRA", "CHL", "COL", "ECU"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/P%C3%A9rou", "wiki_en": "https://en.wikipedia.org/wiki/Peru",
+    "flag": "flags/PER.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_P%C3%A9rou", "quizzable": true
+  },
+  {
+    "id": "PRY", "iso2": "PY", "qid": "Q733", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Paraguay", "name_official_fr": "République du Paraguay", "article_fr": "le",
+    "aliases_fr": ["Paraguay"], "continent": "amerique-sud", "subregion_fr": "Amérique du Sud",
+    "capitals": [
+      { "name_fr": "Asuncion", "role_fr": null, "qid": "Q2933", "lat": -25.28, "lon": -57.63,
+        "aliases_fr": ["Asuncion", "Asunción"], "wiki_fr": "https://fr.wikipedia.org/wiki/Asuncion" }
+    ],
+    "quiz_capital": "Asuncion", "population": 6100000, "population_year": 2022, "area_km2": 406752,
+    "label": { "lat": -23.2, "lon": -58.4 }, "small": false,
+    "neighbors": ["ARG", "BOL", "BRA"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Paraguay", "wiki_en": "https://en.wikipedia.org/wiki/Paraguay",
+    "flag": "flags/PRY.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Paraguay", "quizzable": true
+  },
+  {
+    "id": "VAT", "iso2": "VA", "qid": "Q237", "kind": "etat", "sovereign": null, "status_fr": null,
+    "name_fr": "Vatican", "name_official_fr": "État de la Cité du Vatican", "article_fr": "le",
+    "aliases_fr": ["Vatican", "Cité du Vatican", "Saint-Siège"], "continent": "europe", "subregion_fr": "Europe du Sud",
+    "capitals": [
+      { "name_fr": "Vatican", "role_fr": "cité-État", "qid": "Q237", "lat": 41.9, "lon": 12.45,
+        "aliases_fr": ["Vatican", "Cité du Vatican"], "wiki_fr": "https://fr.wikipedia.org/wiki/Vatican" }
+    ],
+    "quiz_capital": "Vatican", "population": 764, "population_year": 2023, "area_km2": 0.49,
+    "label": { "lat": 41.9, "lon": 12.45 }, "small": true,
+    "neighbors": ["ITA"],
+    "wiki_fr": "https://fr.wikipedia.org/wiki/Vatican", "wiki_en": "https://en.wikipedia.org/wiki/Vatican_City",
+    "flag": "flags/VAT.svg", "flag_wiki_fr": "https://fr.wikipedia.org/wiki/Drapeau_du_Vatican", "quizzable": true
+  }
+]

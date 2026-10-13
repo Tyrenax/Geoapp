@@ -1,0 +1,138 @@
+{
+  "id": "ROU",
+  "facts": [
+    {
+      "id": "ROU-1",
+      "topic": "histoire",
+      "era": "106",
+      "title": "Les héritiers de Rome",
+      "short": "Le nom România, forgé au XIXe siècle, reprend celui que se donnaient depuis toujours les roumanophones, români, lié à « Romanía », le nom officiel de l'Empire byzantin. Leur langue est romane, héritée notamment de la Dacie conquise par l'empereur Trajan en 106.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "România, nom du pays, est un néologisme du XIXe siècle, mais il s'appuie sur le nom par lequel les locuteurs de la langue roumaine se désignaient depuis leurs origines, et qui est attesté par écrit depuis le XVIe siècle. Cet endonyme de români est relié à l'Empire appelé aujourd'hui byzantin, mais dont le nom réel et officiel était Ρωμανία (Romanía, de Rome, ancienne capitale de l'Empire romain)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Leur langue est romane et leurs origines se déclinent depuis les Thraco-Romains, à travers la Mésie (province romaine danubienne), la Dacie (pays des Thraces du Nord, conquis par l'empereur romain Trajan en 106)"
+        }
+      ]
+    },
+    {
+      "id": "ROU-2",
+      "topic": "culture",
+      "title": "Une île latine dans un océan slave",
+      "short": "Les Roumains décrivent souvent leur pays comme une « île de latinité dans un océan slave ». Au XVIIIe siècle, l'École transylvaine redécouvre cette latinité pour en faire un argument de la lutte nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Les Roumains décrivent souvent leur pays comme une « île de latinité dans un océan slave »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Au siècle des Lumières prend naissance le mouvement politico-culturel connu sous le nom d'École transylvaine, qui redécouvre la latinité de la culture roumaine pour en tirer arguments dans la lutte de libération nationale."
+        }
+      ]
+    },
+    {
+      "id": "ROU-3",
+      "topic": "histoire",
+      "era": "1859-1918",
+      "title": "Deux principautés, puis un royaume",
+      "short": "En 1859, après quatre siècles d'autonomie sous influence ottomane, les principautés de Moldavie et de Valachie fusionnent pour former la Roumanie. En 1918, menacée par les bolcheviks, la jeune république de Moldavie voisine vote son union avec la Roumanie, officielle le 9 avril.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Après quatre siècles d'autonomie sous l'influence ottomane, les principautés de Moldavie et Valachie fusionnent en 1859, à la suite de la défaite des Russes à la guerre de Crimée, pour former le Vieux Royaume de Roumanie,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "En mars 1918, face aux attaques des bolcheviks de la république soviétique d'Odessa qui revendique et tente d'envahir le pays, le Parlement moldave (Sfatul Țării), décide d'unir le pays au royaume de Roumanie par 86 voix contre 3 et 36 abstentions et l'union sera officielle le 9 avril 1918."
+        }
+      ]
+    },
+    {
+      "id": "ROU-4",
+      "topic": "histoire",
+      "era": "1989",
+      "title": "La chute de Ceaușescu",
+      "short": "Le 22 décembre 1989, alors que le bloc de l'Est se délite, Nicolae Ceaușescu, qui refusait toute réforme, est renversé. Le jour de Noël, lui et son épouse sont condamnés à mort et exécutés au terme d'une procédure expéditive.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Le 22 décembre 1989, alors que le Bloc de l'Est se délite et que des manifestations contre le régime secouent le pays, les communistes réformateurs renversent Ceaușescu qui refusait toute réforme,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Le président Nicolae Ceaușescu et son épouse sont, le jour de Noël 1989, condamnés à mort et exécutés selon une procédure expéditive jusque-là appliquée par le régime à ses opposants."
+        }
+      ]
+    },
+    {
+      "id": "ROU-5",
+      "topic": "geographie",
+      "title": "Ours des Carpates et pélicans du delta",
+      "short": "La Roumanie compte encore des milliers d'ours, de loups et de lynx, des espèces devenues rares ailleurs en Europe. Dans le delta du Danube vivent pélicans, cigognes et hérons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "les sites naturels comme les Carpates ou le delta du Danube dans lesquels on peut pratiquer des activités comme la randonnée, la pêche, la spéléologie, le safari-photo ou l'observation de la faune sauvage (la Roumanie compte encore des milliers d'ours, de loups, de lynx et autres espèces disparues ou très rares et difficiles à voir ailleurs)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roumanie",
+          "quote": "Enfin le long du Danube, de ses principaux affluents et de la mer Noire, zones humides et milieux paraliques accueillent de nombreuses espèces d'oiseaux notamment dans le delta du Danube tels les pélican blanc et frisé, la cigogne blanche, le guêpier d'Europe, le rollier d'Europe, l'hirondelle de rivage, le héron pourpré,"
+        }
+      ]
+    },
+    {
+      "id": "ROU-6",
+      "topic": "drapeau",
+      "era": "1989",
+      "title": "Le drapeau troué de 1989",
+      "short": "Pendant la révolution de 1989, les manifestants découpent les armoiries communistes au centre du drapeau. Le 27 décembre, le nouveau pouvoir revient au tricolore sans armoiries : la Roumanie se retrouve avec presque le même drapeau que le Tchad.",
+      "long": "Lors des révolutions de 1821 et de 1848, le bleu symbolisait la liberté, le jaune la prospérité des champs de blé, et le rouge la fraternité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Roumanie",
+          "quote": "Les manifestants de la révolution roumaine de 1989 découpent ces armoiries, amenant le gouvernement du Front de salut national constitué lors de la chute du président Ceaușescu à revenir, le 27 décembre 1989, au tricolore sans armoiries d'avant 1948."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Roumanie",
+          "quote": "Ce faisant, la Roumanie se trouva avoir (à la nuance du bleu près) presque le même drapeau que le Tchad qui avait adopté son tricolore lors de son indépendance en 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Roumanie",
+          "quote": "Pendant les révolutions de 1821 et de 1848, le bleu (du ciel) symbolisait la liberté, le jaune d'or la prospérité (des champs de blé), l'égalité et la justice, et le rouge (du sang) la fraternité."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ROU-C1",
+      "topic": "histoire",
+      "era": "1459",
+      "title": "« La ville de la joie »",
+      "short": "Selon une légende, Bucarest doit son nom à Bucur, un berger qui s'y serait installé le premier ; comme bucur signifie « joie », on la surnomme « la ville de la joie ». Elle est mentionnée en 1459, quand Vlad III l'Empaleur y fait bâtir sa cour.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bucarest",
+          "quote": "Selon la légende attestée au XIXe siècle, București viendrait de Bucur (en), un berger qui se serait établi le premier sur l’emplacement actuel. Comme, en roumain, bucur signifie « joie », de nombreux écrivains roumains surnomment Bucarest « la ville de la joie »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bucarest",
+          "quote": "La ville est mentionnée pour la première fois en 1459 comme marché fortifié au carrefour des routes commerciales entre Târgoviște, alors capitale de la Valachie, Brașov (allemand : Kronstadt) en Transylvanie, et le port de San-Giorgio fondé par les Génois sur le Danube."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bucarest",
+          "quote": "C'est en 1459, lorsque Vlad III l'Empaleur (Vlad Țepeș), prince de Valachie y fit des escales prolongées, que la vieille cour voévodale de Bucarest, Curtea Veche, fut bâtie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au nord des Balkans, au bord de la mer Noire : l'arc des Carpates enserre la Transylvanie au centre, et le Danube trace la frontière sud avec la Bulgarie jusqu'à son delta. Ses autres voisins sont l'Ukraine, la Moldavie, la Hongrie et la Serbie.",
+    "flag": "Bleu, jaune, rouge en bandes verticales, sans rien d'autre. Le Tchad est presque identique, avec un bleu plus foncé ; la Moldavie et l'Andorre ont des armoiries au centre.",
+    "capital": "Bucarest, « la ville de la joie » (bucur), fondée selon la légende par le berger Bucur."
+  }
+}

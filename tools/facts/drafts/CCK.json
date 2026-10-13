@@ -1,0 +1,79 @@
+{
+  "id": "CCK",
+  "facts": [
+    {
+      "id": "CCK-1", "topic": "histoire", "era": "1609",
+      "title": "Les îles aux cocotiers",
+      "short": "L'archipel est aussi appelé îles Keeling, en souvenir de William Keeling, qui les visita en 1609. Son autre nom vient probablement de l'abondance des cocotiers : la noix de coco est la seule culture destinée à l'exportation.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "On l’appelle également Keeling Islands en souvenir de William Keeling", "to": "qui visita les îles en 1609."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Le nom de l'archipel, Cocos Islands, a probablement été donné", "to": "la seule culture destinée à l’exportation."}
+      ]
+    },
+    {
+      "id": "CCK-2", "topic": "histoire", "era": "1826-1978",
+      "title": "Les rois des Cocos",
+      "short": "En 1825, le capitaine John Clunies-Ross aborde les îles ; l'année suivante, il s'y installe avec des marins malais. Sa famille devient celle des « rois des Cocos » et les dirige pendant plus de cent cinquante ans, jusqu'à ce que l'Australie rachète les terres en 1978 pour les donner aux habitants.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "En 1825, le capitaine John Clunies-Ross", "to": "durant plus de cent cinquante ans."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "La famille Clunies-Ross fut l’unique propriétaire des îles", "to": "les donna aux habitants."}
+      ]
+    },
+    {
+      "id": "CCK-3", "topic": "histoire", "era": "1836",
+      "title": "L'escale de Darwin",
+      "short": "Du 1er au 12 avril 1836, Charles Darwin visite les îles Cocos à bord du HMS Beagle, lors de son voyage autour du monde.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "En 1836, Charles Darwin, à bord du HMS Beagle", "to": "du 1er au 12 avril."}
+      ]
+    },
+    {
+      "id": "CCK-4", "topic": "histoire", "era": "1914",
+      "title": "La fin du corsaire Emden",
+      "short": "Pendant la Première Guerre mondiale, le croiseur allemand Emden, qui attaque depuis des mois les navires marchands britanniques, vient détruire la station télégraphique des îles Cocos. Surpris par le croiseur australien Sydney, plus puissant, il est vaincu et s'échoue volontairement sur une île pour sauver son équipage.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Lors de la Première Guerre mondiale, les îles Cocos sont le théâtre", "to": "opérer plus à son aise dans l'océan Indien."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Surpris par le croiseur australien HMS Sydney", "to": "pour tenter de sauver l'équipage."}
+      ]
+    },
+    {
+      "id": "CCK-5", "topic": "politique", "era": "1955-1984",
+      "title": "Australiennes par le vote",
+      "short": "Passées sous contrôle australien en 1955, les îles Cocos ne deviennent un territoire extérieur de l'Australie qu'en 1984, quand les insulaires votent pour cette intégration.",
+      "long": "La majorité des habitants sont des Malais des Cocos, qui vivent sur l'île Home et parlent une forme de malais.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Les îles Cocos passèrent en 1955 sous contrôle australien", "to": "sous contrôle australien"},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Ce ne fut qu’en 1984 que les insulaires votèrent", "to": "territoire extérieur australien."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "La majorité, soit 68,8 % d’entre eux, sont des Malais", "to": "une des formes du malais."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Le Conseil consultatif exerce des responsabilités", "to": "où réside la communauté malaise des Cocos"}
+      ]
+    },
+    {
+      "id": "CCK-6", "topic": "drapeau", "era": "2004",
+      "title": "Le croissant et la Croix du Sud",
+      "short": "Adopté en 2004, le drapeau vert porte un cocotier dans un disque doré, un croissant qui évoque probablement l'islam, religion majoritaire, et les cinq étoiles de la Croix du Sud, comme le drapeau australien.",
+      "long": "L'union du croissant et des étoiles symbolise la bonne entente entre musulmans et chrétiens de l'archipel.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos", "from": "Le drapeau des îles Cocos a été créé en 2003", "to": "adopté le 6 avril 2004."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos", "from": "Il est constitué d'un tissu de couleur verte", "to": "comme sur le drapeau de l'Australie."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cocos", "from": "L’union du croissant et des cinq étoiles", "to": "des Îles Cocos."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CCK-C1", "topic": "geographie",
+      "title": "Deux îles, deux communautés",
+      "short": "West Island, la capitale, compte à peine 190 habitants, surtout venus d'Australie : c'est le quartier administratif, avec l'aéroport. La population d'origine malaise vit sur l'île voisine, Home Island.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/West_Island_(îles_Cocos)", "from": "West Island (en malais : Pulo Panjang)", "to": "où est concentrée la population d'origine malaise."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Cocos", "from": "Le territoire, à peu près à mi-chemin entre l’Australie et le Sri Lanka", "to": "l’île West et l’île Home."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux minuscules atolls au milieu de l'océan Indien, à mi-chemin entre l'Australie et le Sri Lanka, au sud-ouest de Java et de l'île Christmas.",
+    "flag": "Vert, avec un cocotier dans un disque jaune en haut à gauche, un croissant jaune au centre et la Croix du Sud à droite.",
+    "capital": "West Island, l'île de l'aéroport et de l'administration ; les Malais des Cocos vivent sur Home Island."
+  }
+}

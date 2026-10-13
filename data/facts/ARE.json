@@ -1,0 +1,156 @@
+{
+  "id": "ARE",
+  "facts": [
+    {
+      "id": "ARE-1",
+      "topic": "histoire",
+      "era": "VIIe-XVIe siècle",
+      "title": "Julfar, le port des perles",
+      "short": "En 630, des émissaires de Mahomet arrivent dans la région et convertissent la population à l'islam. Le port de Julfar, l'actuelle Ras el Khaïmah, devient un centre perlier et un grand port de commerce, que les Portugais viennent combattre au XVIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "En 630 apr. J.-C., les émissaires de Mahomet arrivent dans la région, et convertissent la population à l'islam. Les armées islamiques se servent de Julfar (à présent Ras el Khaïmah) comme avant-poste pour mener des offensives contre l'empire sassanide. Au fil du temps, Julfar devient un centre perlier et un port important"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Au XVIe siècle, alors que les grandes puissances européennes se disputent le contrôle de l'océan Indien, les Portugais luttent contre les populations arabes de Julfar et d'autres ports dans le Golfe."
+        }
+      ]
+    },
+    {
+      "id": "ARE-2",
+      "topic": "histoire",
+      "era": "1820-1892",
+      "title": "Les États de la Trêve",
+      "short": "À partir de 1820, les Britanniques signent des traités avec les cheikhs de la côte pour mettre fin à la piraterie contre leurs navires : les émirats prennent le nom d'États de la Trêve. En 1892, ils deviennent un protectorat britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Après la défaite des Qawasim, en 1820, les Britanniques signent une série d'accords et de traités avec les cheikhs de chaque émirat de la côte du Golfe, celui de 1853 garantissant l'arrêt de la piraterie contre les navires britanniques, d'où le nom des États de la Trêve (en anglais : Trucial States)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "En 1892, un nouveau traité érige les États de la Trêve en protectorat et les fait entrer dans l'empire colonial britannique."
+        }
+      ]
+    },
+    {
+      "id": "ARE-3",
+      "topic": "histoire",
+      "era": "XIXe-XXe siècle",
+      "title": "Des perles au pétrole",
+      "short": "L'industrie perlière prospère jusqu'au début du XXe siècle, puis s'effondre, notamment à cause de l'invention de la perliculture par les Japonais. Le pays est alors extrêmement pauvre ; tout change au début des années 1960 avec la découverte du premier gisement de pétrole à Abou Dabi.",
+      "long": "Avant le pétrole, il n'y avait presque pas de médecins, et la majorité de la population était analphabète. Le cheikh Zayed ben Sultan Al Nahyane utilise la manne pétrolière pour construire écoles, hôpitaux, logements et routes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Cette période de calme permet à l'industrie perlière de prospérer à la fin du XIXe siècle et au début du XXe siècle. Cependant, la Première Guerre mondiale et l'invention par les Japonais de la perliculture ont un effet très néfaste sur cette industrie, qui finit par s'éteindre juste après la Seconde Guerre mondiale, lorsque le gouvernement indien se met à imposer des taxes sur les perles importées du Golfe, engendrant une crise économique très grave dans les États de la Trêve."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Au début des années 1960, un premier gisement de pétrole est découvert à Abou Dabi, ce qui permet le développement rapide de l’émirat, sous la conduite de Zayed ben Sultan Al Nahyane, qui fait construire des écoles, des hôpitaux, des logements et des routes. Les Émirats étaient jusqu'alors extrêmement pauvres. Il n’y avait presque pas de médecins dans les années 1960 et la population dans sa majorité, était analphabète ; jusqu’à la moitié des bébés et un tiers des femmes mouraient en couches."
+        }
+      ]
+    },
+    {
+      "id": "ARE-4",
+      "topic": "histoire",
+      "era": "1971",
+      "title": "Six émirats, puis sept",
+      "short": "Le 2 décembre 1971, six émirats accèdent à l'indépendance et forment aussitôt les Émirats arabes unis ; Ras el Khaïmah les rejoint en 1972. Bahreïn et le Qatar, d'abord associés au projet, ont préféré déclarer leur propre indépendance.",
+      "long": "Deux jours avant la création de la fédération, l'Iran prend le contrôle des îles de la Petite et de la Grande Tunb, puis débarque à Abou-Moussa : ces îles restent aujourd'hui disputées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Les neuf États tentent de former une union, mais ne parvenant pas à se mettre d’accord, Bahreïn et le Qatar déclarent leur indépendance respectivement en août et en septembre 1971."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Le 2 décembre 1971, six des sept émirats restants accèdent à l'indépendance en formant aussitôt une fédération qui prend le nom d'« Émirats arabes unis ». Ils seront rejoints en 1972 par le septième émirat, celui de Ras el Khaïmah."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Deux jours avant sa création (2 décembre 1971), l'Iran reprend le contrôle des îles de la Petite et Grande Tunb, qui font partie de l'émirat de Ras el Khaïmah. Des troupes iraniennes débarquent également à Abou-Moussa, un territoire de l'émirat de Charjah."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Des revendications territoriales, sur trois îles (Petite et Grande Tunb, ainsi qu'Abou-Moussa) du détroit d'Ormuz et du golfe Persique, l'opposent à l'Iran."
+        }
+      ]
+    },
+    {
+      "id": "ARE-5",
+      "topic": "economie",
+      "title": "La plus haute tour du monde",
+      "short": "Grâce au pétrole, puis au tourisme de luxe, Dubaï est devenue la capitale économique du pays. Elle abrite le Burj Khalifa, la plus haute tour du monde, qui culmine à 828 mètres. Selon l'ONU, 89 % des habitants des Émirats sont des immigrés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "L'émirat de Dubaï s'est tourné depuis quelques années[Quand ?] vers de nouvelles ressources telles que les ports francs (1985), les nouvelles technologies mais surtout le tourisme de luxe. La ville de Dubaï est d'ailleurs devenue la capitale économique de la fédération."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Le Burj Dubai, conçu par le promoteur immobilier Emaar Properties est la plus haute tour du monde et culmine à 828 mètres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "Burj Khalifa (la tour la plus haute du monde)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Émirats_arabes_unis",
+          "quote": "L'ONU estime que 89 % de la population est constituée d'immigrés."
+        }
+      ]
+    },
+    {
+      "id": "ARE-6",
+      "topic": "drapeau",
+      "era": "1971",
+      "title": "Les couleurs panarabes",
+      "short": "Choisi lors d'un concours national, le drapeau est adopté le jour de la création de la fédération, le 2 décembre 1971. Il porte les couleurs panarabes, symboles de l'unité arabe.",
+      "long": "Chaque émirat peut aussi utiliser son propre drapeau, sauf Fujaïrah, qui n'utilise que le drapeau fédéral depuis 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Émirats_arabes_unis",
+          "quote": "Il a été adopté le 2 décembre 1971 à la suite d'un concours national. Il contient les couleurs panarabes qui symbolisent l'unité arabe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Émirats_arabes_unis",
+          "quote": "Les sept émirats utilisent alternativement le drapeau fédéral ou leur drapeau particulier, à l'exception de l'émirat de Fujaïrah qui n'utilise depuis 1975 que le drapeau fédéral."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ARE-C1",
+      "topic": "culture",
+      "title": "Le père de la gazelle",
+      "short": "Abou Dabi signifie « père de la gazelle ». Avant, la région s'appelait Milh, « sel » en arabe. Le site n'est habité en permanence que depuis le XVIIIe siècle, et la capitale n'est que la deuxième ville du pays, derrière Dubaï.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abou_Dabi_(ville)",
+          "quote": "Avant d'être appelée « Abou Dabi », la région était appelée Milh, qui signifie sel en arabe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abou_Dabi_(ville)",
+          "quote": "Abou Dabi signifie « père de la gazelle », et sa première utilisation remonte à plus de 300 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abou_Dabi_(ville)",
+          "quote": "Bien que l'on trouve des traces de civilisation plusieurs millénaires avant notre ère, la zone n'a été habitée en permanence qu'à partir du XVIIIe siècle. C'est au XXe siècle que la ville a connu une croissance importante, en grande partie grâce aux revenus du pétrole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Abou_Dabi_(ville)",
+          "quote": "est la deuxième ville des Émirats arabes unis, après Dubaï."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "À la pointe est de la péninsule Arabique, sur la rive sud du golfe Persique, coincés entre l'Arabie saoudite et Oman, face à l'Iran.",
+    "flag": "Une bande rouge verticale côté mât, puis trois bandes horizontales vert, blanc, noir. Le Koweït a les mêmes couleurs, mais avec un trapèze noir.",
+    "capital": "Piège : ce n'est pas Dubaï mais Abou Dabi, « le père de la gazelle », l'émirat du pétrole."
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": "LBY",
+  "facts": [
+    {
+      "id": "LBY-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Le nom d'un peuple redouté des pharaons",
+      "short": "La Libye tire son nom des Libou, un peuple berbère que les anciens Égyptiens redoutaient. Les Grecs en ont fait « Libyè », un mot qui désignait alors toute l'Afrique du Nord.",
+      "long": "Le nom avait disparu au fil des siècles. C'est l'Italie, en conquérant le pays au XXe siècle, qui le remet en usage pour nommer sa colonie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "La Libye tire son nom d'une tribu amazigh nommée Libou par les anciens Égyptiens, qui a donné le mot grec ancien Λιβύη / Libyè (« Libwé »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "J.-C., les Libous, installés en Cyrénaïque, forment un peuple redouté des Égyptiens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "Sous l'Antiquité, le nom de ce peuple est également à l'origine de celle de la région du continent communément appelée Libye antique, et de la dénomination de Libyens, qui désigne alors les populations nord-africaines berbères."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "L'appellation Libye est réintroduite au XXe siècle par l'Italie, qui reprend le terme antique pour nommer les territoires de Libye italienne après leur conquête."
+        }
+      ]
+    },
+    {
+      "id": "LBY-2",
+      "topic": "histoire",
+      "era": "631 av. J.-C.",
+      "title": "Cyrène, la grande cité grecque d'Afrique",
+      "short": "Vers 631 av. J.-C., des Grecs venus de l'île de Théra fondent Cyrène, à l'est du pays. Elle devient vite la plus grande cité grecque d'Afrique et donne son nom à la Cyrénaïque.",
+      "long": "Le premier navigateur grec arrivé sur place en devient le roi sous le nom de Battos Ier. À l'ouest, les Phéniciens fondent eux aussi des cités : Sabratha, Leptis Magna et Ola, aussi appelée Oea.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "Durant l’Antiquité, les principales parties de l’actuelle Libye sont :\n\nla Cyrénaïque, d’après le nom de la prestigieuse ville de Cyrène, qui aurait été fondée par des Grecs de Théra en 631 av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Cyrène s'impose vite comme la plus grande cité grecque d'Afrique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "Les Grecs s'installent sur la côte, et contractent de nombreuses unions avec des femmes du pays : le premier navigateur grec à avoir rejoint le pays devient roi de Cyrène, sous le nom de Battos Ier"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "la Tripolitaine, à l’origine une colonie phénicienne comprenant les trois villes de Sabratha, Leptis Magna et Ola"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Tripoli (1,5 million d'habitants), la capitale du pays et de la région de la Tripolitaine, est une ancienne cité qui remonte à l'Antiquité (Oea)."
+        }
+      ]
+    },
+    {
+      "id": "LBY-3",
+      "topic": "histoire",
+      "era": "1911-1951",
+      "title": "La dernière province ottomane d'Afrique",
+      "short": "La Libye reste ottomane jusqu'en 1911, plus longtemps que toutes les autres provinces d'Afrique du Nord. Cette année-là, l'Italie déclare la guerre à l'Empire ottoman et ses troupes débarquent à Tripoli.",
+      "long": "Pendant la Seconde Guerre mondiale, la colonie italienne est conquise par les Alliés. Le pays proclame son indépendance en 1951, sous la forme d'un royaume dirigé par Idris Ier.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "La Tripolitaine et la Cyrénaïque, contrairement aux autres provinces ottomanes d'Afrique du Nord, demeurent provinces ottomanes jusqu'en 1911, date de la guerre italo-turque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 1911, le royaume d'Italie déclare la guerre à l'Empire ottoman."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Un blocus est aussitôt imposé et les troupes italiennes débarquent à Tripoli le 5 octobre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Durant la Seconde Guerre mondiale, la Libye italienne est envahie et occupée par les Alliés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 1951, elle proclame son indépendance sous la forme d'une monarchie dirigée par Idris Ier."
+        }
+      ]
+    },
+    {
+      "id": "LBY-4",
+      "topic": "histoire",
+      "era": "1969-2011",
+      "title": "Les quarante-deux ans de Kadhafi",
+      "short": "En 1969, le jeune capitaine Mouammar Kadhafi renverse le roi Idris. Il gouverne la Libye pendant près de 42 ans, jusqu'à la rébellion de 2011, soutenue par une intervention de l'OTAN, au cours de laquelle il est tué.",
+      "long": "Inspiré par l'Égyptien Nasser, il prône le panarabisme et le socialisme. En 1977, il rebaptise le pays « Grande Jamahiriya arabe libyenne populaire et socialiste ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 1969, un coup d'État militaire renverse le roi, et la République arabe libyenne est proclamée par le colonel Kadhafi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Dès lors, et pendant près de 42 ans, la Libye est gouvernée par Mouammar Kadhafi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 2011, durant le Printemps arabe, une rébellion éclate et se transforme bientôt en guerre civile : avec le soutien d'une intervention militaire internationale conduite par l'OTAN, les rebelles renversent Kadhafi et le tuent"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "Kadhafi s'inspire du général Nasser, qui prône une idéologie panarabe révolutionnaire, combinée avec un socialisme arabe (le nassérisme)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 1977, le régime du colonel Kadhafi change le nom du pays en Grande Jamahiriya arabe libyenne populaire et socialiste"
+        }
+      ]
+    },
+    {
+      "id": "LBY-5",
+      "topic": "geographie",
+      "title": "Une rivière artificielle sous le désert",
+      "short": "Pour trouver de l'eau, la Libye puise dans d'énormes nappes d'eau fossile enfouies sous le désert. Au début des années 1980 est lancé le projet de la « Grande rivière artificielle », pour amener cette eau jusqu'au nord du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "La Libye dispose d'énormes réserves d'eau fossile souterraine stockées dans une série d'aquifères situés dans les régions centrales et méridionales du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Pour combler le déficit en eau des régions habitées et des zones agricoles, le projet de la Grande rivière artificielle (Great Man Made River ou GMMR) a été lancé au début des années 1980."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Seules sont utilisables les nappes phréatiques qui alimentent des milliers de puits et la Grande rivière artificielle, projet de Kadhafi, qui était en cours de réalisation avant 2011 et aurait dû alimenter en eau le nord du pays."
+        }
+      ]
+    },
+    {
+      "id": "LBY-6",
+      "topic": "drapeau",
+      "era": "1977-2011",
+      "title": "Le drapeau entièrement vert",
+      "short": "De 1977 à 2011, le drapeau de Kadhafi était uniformément vert : le seul drapeau national au monde d'une seule couleur, sans aucun motif. Depuis 2011, la Libye a repris le drapeau rouge, noir et vert du royaume de 1951.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "Le drapeau de la Jamahiriya consistait en un simple fond vert jusqu'à l'éclatement des événements de 2011 quand est repris le drapeau adopté à l'indépendance, celui du Royaume (1951-1969)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "C'était le seul drapeau national au monde n'ayant qu'une seule couleur et ne présentant aucun motif."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "Le drapeau de la Libye reprend, depuis la guerre civile de 2011, le drapeau du royaume de Libye de 1951."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "il doit être divisé en trois bandes parallèles de couleur, celle du haut en rouge, celle du centre noire et celle du bas en vert"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "En 1977, le régime du colonel Kadhafi change le nom du pays en Grande Jamahiriya arabe libyenne populaire et socialiste"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Selon la présidence du Congrès national, la décision du changement de nom provient de la volonté de rompre avec le régime Kadhafi qui a duré de 1969 à 2011."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Libye",
+          "quote": "Le vert est la couleur de l'Islam et celle de la « révolution du peuple » de Mouammar Kadhafi."
+        }
+      ],
+      "long": "Le vert était la couleur de l'islam et celle de la « révolution du peuple » de Kadhafi."
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LBY-C1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Tripoli, « les trois villes »",
+      "short": "La Tripolitaine était à l'origine une colonie phénicienne de trois villes : Sabratha, Leptis Magna et Oea. Oea en devint la capitale sous le nom de Tripoli, qui signifie « trois villes ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Libye",
+          "quote": "la Tripolitaine, à l’origine une colonie phénicienne comprenant les trois villes de Sabratha, Leptis Magna et Ola ; Ola devient la capitale de la colonie sous le nom de Tripoli, qui signifie « trois villes »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Libye",
+          "quote": "Tripoli (1,5 million d'habitants), la capitale du pays et de la région de la Tripolitaine, est une ancienne cité qui remonte à l'Antiquité (Oea)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand pays d'Afrique du Nord, sur la Méditerranée, entre la Tunisie et l'Algérie à l'ouest et l'Égypte à l'est. Au sud, le Sahara jusqu'au Niger, au Tchad et au Soudan. Le golfe de Syrte creuse sa côte.",
+    "flag": "Rouge, large bande noire, vert, avec un croissant et une étoile blancs au centre. Ne pas confondre avec l'ancien drapeau tout vert de Kadhafi, ni avec la Palestine (triangle rouge, sans croissant).",
+    "capital": "Tripoli, « trois villes » en grec : TRI comme trois."
+  }
+}

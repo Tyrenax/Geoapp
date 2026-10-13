@@ -1,0 +1,165 @@
+{
+  "id": "MLI",
+  "facts": [
+    {
+      "id": "MLI-1",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "Soundiata Keïta et l'empire du Mali",
+      "short": "Le pays porte le nom de l'empire du Mali, unifié au XIIIe siècle par Soundiata Keïta, roi du Mandé, qui avait coalisé les Malinkés contre le roi du Sosso, Soumaoro Kanté.",
+      "long": "La « charte du Manden » correspond au serment que Soundiata prononça lors de son intronisation. L'empire, fondé sur le commerce du sel et de l'or, atteint son apogée au XIVe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "La république du Mali tient son nom de l'ancien empire du Mali",
+          "to": "son apogée au XIVe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "Il coalise les Malinkés afin de contrer les attaques",
+          "to": "Soumaoro Kanté."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "La « Charte du Manden », datant de 1222 ou de 1236",
+          "to": "à l'occasion de son intronisation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "Il fonde sa prospérité sur le sel et l'or.",
+          "to": "sur le sel et l'or."
+        }
+      ]
+    },
+    {
+      "id": "MLI-2",
+      "topic": "histoire",
+      "era": "1324",
+      "title": "Mansa Moussa, l'homme qui fit chuter le prix de l'or",
+      "short": "En 1324, lors de son pèlerinage à La Mecque, le roi Mansa Moussa dépense tant d'or, une dizaine de tonnes semble-t-il, qu'il fait baisser le cours du métal précieux au Moyen-Orient pendant plusieurs années.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "En 1324, le mansa (roi des rois",
+          "to": "le cours du métal précieux"
+        }
+      ]
+    },
+    {
+      "id": "MLI-3",
+      "topic": "histoire",
+      "era": "XVe-XVIe siècle",
+      "title": "Tombouctou, Gao et Djenné",
+      "short": "Tombouctou, Gao et Djenné furent les grands centres économiques et culturels de l'islam ouest-africain. Après l'empire du Mali, c'est l'empire songhaï, lancé par Sonni Ali Ber, qui domine la région aux XVe et XVIe siècles.",
+      "long": "La vie urbaine y est très ancienne : vers 250 av. J.-C., Djenné-Djeno, près de l'actuelle Djenné, était déjà une ville. Le pays Dogon, Tombouctou, Djenné et le tombeau des Askia à Gao sont inscrits au patrimoine mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "Tombouctou, Gao et Djenné furent les centres économiques et culturels",
+          "to": "de l'islam soudano-malien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "Sous l'impulsion de Sonni Ali Ber",
+          "to": "conquêtes territoriales"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "C'est l'avènement du troisième empire, l'Empire songhaï",
+          "to": "durant le XVe siècle et le XVIe siècle"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Mali",
+          "from": "Les premières formes de vie urbaine apparaissent vers 250",
+          "to": "dans le delta intérieur du Niger."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "Citons notamment les sites classés au patrimoine mondial de l'UNESCO",
+          "to": "le tombeau des Askia à Gao."
+        }
+      ]
+    },
+    {
+      "id": "MLI-4",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "La fédération qui n'a duré que deux mois",
+      "short": "En 1959, le Soudan français et le Sénégal fondent la fédération du Mali, indépendante le 20 juin 1960. Dès le 20 août, le Sénégal s'en retire ; le 22 septembre, l'ancien Soudan proclame son indépendance en gardant le nom de Mali.",
+      "long": "Le premier président, Modibo Keïta, instaure un parti unique ; il est renversé en 1968 par Moussa Traoré, dont la dictature dure jusqu'en 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "En 1959, les deux colonies françaises du Soudan français et du Sénégal",
+          "to": "le 20 juin 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "Durant l’été 1960, le Sénégal se retire de la fédération le 20 août",
+          "to": "le 22 septembre"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "Le 22 septembre 1960, les Soudanais conduits par Modibo Keïta",
+          "to": "(république du Mali)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mali",
+          "from": "Les premières décennies suivant l'indépendance",
+          "to": "de 1968 à 1991."
+        }
+      ]
+    },
+    {
+      "id": "MLI-5",
+      "topic": "drapeau",
+      "era": "1961",
+      "title": "Un drapeau qui a perdu son masque",
+      "short": "Adopté en 1961, le drapeau malien aligne trois bandes verticales, verte, jaune et rouge. Celui de l'éphémère fédération du Mali portait en plus, sur la bande jaune, un masque kanaga des Dogons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mali",
+          "from": "Le drapeau du Mali, adopté le 1er mars 1961",
+          "to": "de couleur verte, jaune et rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Mali",
+          "from": "Le drapeau malien (Vert, Or, Rouge) ressemble",
+          "to": "un masque Kanaga (Dogon)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MLI-C1",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Le « marigot du crocodile »",
+      "short": "Bamako signifie « marigot du crocodile » en bambara. Fondée au XVIe siècle par les Niaré, la ville a pour emblème trois crocodiles, un pour chacun des trois marigots qui la traversaient.",
+      "long": "Quand les Français y entrent, le 1er février 1883, Bamako n'est encore qu'un gros village fortifié d'environ 600 habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bamako",
+          "from": "Bamako (« marigot du crocodile » en bambara)",
+          "to": "qui sont des soninkés à l'origine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bamako",
+          "from": "Les trois crocodiles qui symbolisent Bamako",
+          "to": "Lido, Diafarana et Bèlèsôkô."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bamako",
+          "from": "À la fin du XIXe siècle, Bamako est un gros village fortifié",
+          "to": "avec Gustave Borgnis-Desbordes."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand pays enclavé d'Afrique de l'Ouest en forme de papillon : la moitié nord dans le Sahara (frontière avec l'Algérie), la moitié sud traversée par le fleuve Niger, entre le Sénégal, la Guinée, la Côte d'Ivoire, le Burkina Faso et le Niger.",
+    "flag": "Vert, jaune, rouge en bandes verticales, le vert côté mât. La Guinée a l'ordre inverse (rouge côté mât) ; le Sénégal a le même ordre que le Mali, plus une étoile verte.",
+    "capital": "Bamako, le « marigot du crocodile », sur le fleuve Niger."
+  }
+}

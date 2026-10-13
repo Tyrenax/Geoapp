@@ -1,0 +1,96 @@
+{
+  "id": "ATG",
+  "facts": [
+    {
+      "id": "ATG-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Des Ciboneys à Colomb",
+      "short": "Les Ciboneys vivaient sur ces îles dès 2400 avant notre ère, suivis des Arawaks et des Kalinagos. Christophe Colomb y aborde en 1493, lors de son deuxième voyage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "quote": "Les Ciboneys habitaient les îles d'Antigua-et-Barbuda depuis 2400 avant J.-C. Ensuite arrivèrent les Arawaks et les Kalinagos. Christophe Colomb y débarqua en 1493, lors de son second voyage."
+        }
+      ]
+    },
+    {
+      "id": "ATG-2",
+      "topic": "histoire",
+      "era": "1674",
+      "title": "Codrington, le planteur qui a donné son nom à un village",
+      "short": "En 1674, Christopher Codrington fonde la première grande plantation de canne à sucre d'Antigua, cultivée par des esclaves amenés d'Afrique de l'Ouest. Le seul village de Barbuda porte encore son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "quote": "En 1674, Christopher Codrington fonda la première grande plantation de cannes à sucre sur l'île d'Antigua. Le seul village de Barbuda prit son nom. Codrington et les autres propriétaires y firent amener des esclaves de la côte ouest de l'Afrique."
+        }
+      ]
+    },
+    {
+      "id": "ATG-3",
+      "topic": "histoire",
+      "title": "Le port de l'amiral Nelson",
+      "short": "Au XVIIIe siècle, English Harbour, sur la côte sud d'Antigua, abrite une grande partie de la flotte britannique, un temps commandée par l'amiral Nelson. Son chantier naval est inscrit au patrimoine mondial depuis 2016.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "quote": "Au XVIIIe siècle, English Harbour, sur la côte sud d'Antigua, abrita une part importante de la flotte britannique, sous le commandement, un temps, de l'amiral Nelson."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "quote": "Le « Nelson's Dockyard », chantier naval historique d'English Harbour, est inscrit sur la liste du patrimoine mondial de l'UNESCO le 17 janvier 2016"
+        }
+      ]
+    },
+    {
+      "id": "ATG-4",
+      "topic": "geographie",
+      "title": "Deux îles et un rocher",
+      "short": "Le pays compte deux îles principales, Antigua et Barbuda, à laquelle s'ajoute Redonda, un simple rocher inhabité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "quote": "Les îles de Barbuda (moins de 2 000 habitants) et de Redonda (simple rocher sans habitant) ont toutes deux le statut de dépendance."
+        }
+      ]
+    },
+    {
+      "id": "ATG-5",
+      "topic": "drapeau",
+      "era": "1967-1981",
+      "title": "Un V pour « la victoire enfin »",
+      "short": "Le drapeau, adopté dès 1967 quand les îles étaient encore une colonie, forme un grand V : « Victory at last », la victoire enfin. Son rouge évoque la force des ancêtres esclaves. Le pays devient indépendant le 1er novembre 1981.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Antigua-et-Barbuda",
+          "quote": "Le drapeau d'Antigua-et-Barbuda est utilisé depuis le 27 février 1967 alors qu'elle n'était encore qu'une colonie britannique et qu'elle conservera à son indépendance le 1er novembre 1981."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Antigua-et-Barbuda",
+          "quote": "Le drapeau rectangulaire présente un fond rouge, symbolisant la force vitale des ancêtres esclaves et le dynamisme du peuple, entaillé du signe V de la victoire : « Victory at last » (La victoire enfin !)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ATG-C1",
+      "topic": "histoire",
+      "era": "1632",
+      "title": "Centre de la colonie depuis 1632",
+      "short": "Saint John's est le centre administratif d'Antigua depuis la colonisation, en 1632. De 1696 à 1960, elle est aussi la capitale des îles Sous-le-Vent britanniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint_John's",
+          "quote": "Saint John’s est restée le centre administratif d’Antigua-et-Barbuda depuis la colonisation du pays en 1632 et devint le siège du gouvernement lorsque celui-ci prit son indépendance, en 1981. Saint John's a été également la capitale des Îles-sous-le-Vent britanniques de 1696 à 1960."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Dans les petites Antilles, au nord de la Guadeloupe : Antigua, avec la plate Barbuda au nord.",
+    "flag": "Un V rouge qui encadre un triangle noir, bleu et blanc, avec un soleil jaune levant. Aucun autre drapeau n'a ce soleil au-dessus d'un V.",
+    "capital": "Saint John's, la ville de saint Jean : comme Terre-Neuve au Canada, dont la capitale porte le même nom."
+  }
+}

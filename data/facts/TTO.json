@@ -1,0 +1,113 @@
+{
+  "id": "TTO",
+  "facts": [
+    {
+      "id": "TTO-1",
+      "topic": "histoire",
+      "era": "1498",
+      "title": "Baptisée par Colomb",
+      "short": "En 1498, lors de son troisième voyage, Christophe Colomb débarque sur l'île et la baptise Trinidad, la Trinité. La Castille s'en empare en 1532.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "En 1498, lors de son troisième voyage, Christophe Colomb débarque sur l’île, qu'il baptise Trinidad (Trinité).\nEn 1532, le royaume de Castille s’empare de l’île ; débute alors la période de la colonisation castillane."
+        }
+      ]
+    },
+    {
+      "id": "TTO-2",
+      "topic": "histoire",
+      "era": "1654-1689",
+      "title": "Une colonie de la Courlande, en Lettonie",
+      "short": "Au XVIIe siècle, le duché de Courlande, dont les terres font aujourd'hui partie de la Lettonie, fonde une colonie sur l'île de Tobago, de 1654 à 1659 puis par intermittence jusqu'en 1689.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "Le duché de Courlande établit une colonie sur l'île de Tobago de 1654 à 1659 puis, par intermittence, de 1660 à 1689."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Duché_de_Courlande",
+          "quote": "État autonome sous la suzeraineté de la république des Deux Nations, le duché englobait les régions historiques de la Courlande (Kurzeme) et de la Sémigalie (Zemgale), qui font aujourd'hui partie de la Lettonie."
+        }
+      ]
+    },
+    {
+      "id": "TTO-3",
+      "topic": "histoire",
+      "era": "1757",
+      "title": "La naissance du cacao trinitario",
+      "short": "Quand des épidémies déciment le cacao criollo en 1727, les planteurs le croisent en 1757 avec une variété plus robuste, le forastero : ainsi naît le cacao trinitario.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "Le cacao criollo, introduit par les Castillans en 1525, fut décimé en 1727 par des épidémies (Phytophthora) amenant les planteurs des peuples originaires, dont c'était la seule exportation, à créer en 1757 un mélange avec l'autre variété, plus robuste, le forastero, pour créer le cacao trinitario."
+        }
+      ]
+    },
+    {
+      "id": "TTO-4",
+      "topic": "histoire",
+      "era": "1838-1917",
+      "title": "Des engagés venus d'Inde",
+      "short": "Après l'abolition de l'esclavage, les plantations manquent de bras : de 1838 à 1917, des centaines de milliers d'Indiens engagés arrivent dans les Caraïbes. Leurs descendants forment aujourd'hui le premier groupe de la population du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "La pénurie de main d'œuvre dans les plantations fut compensée entre 1838 et 1917, par l'arrivée de 500 000 Indiens engagés dans la Caraïbe, dont une partie à Trinité-et-Tobago."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "Les Indo-Trinidadiens et les Tobagoniens constituent le groupe ethnique le plus important du pays (environ 35,4 %) ; ils sont principalement les descendants de travailleurs sous contrat d'Asie du Sud (principalement d'Inde), amenés pour remplacer les esclaves africains libérés qui refusaient de continuer à travailler dans les plantations de sucre."
+        }
+      ]
+    },
+    {
+      "id": "TTO-5",
+      "topic": "culture",
+      "title": "Le carnaval du calypso",
+      "short": "Le carnaval de Trinité se déroule au son du calypso, une musique où le chanteur improvise, joué par les steel bands, et de la soca, plus énergique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "Ce carnaval se déroule au son du calypso donné par les steel bands, et de la soca, plus énergique, particulièrement plébiscitée par les jeunes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Trinité-et-Tobago",
+          "quote": "Le calypso est un style de musique local dans lequel le chanteur ou la chanteuse improvise."
+        }
+      ]
+    },
+    {
+      "id": "TTO-6",
+      "topic": "drapeau",
+      "title": "Rouge, blanc et noir",
+      "short": "Sur le drapeau, le rouge symbolise la générosité du peuple, le blanc l'égalité et la mer, le noir la ténacité et la volonté de rester unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Trinité-et-Tobago",
+          "quote": "Le rouge symbolise la générosité et la chaleur humaine du peuple ; le blanc l'égalité et la mer et le noir la ténacité et la volonté de maintenir l'unité."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TTO-C1",
+      "topic": "histoire",
+      "era": "1958-1962",
+      "title": "Capitale d'une fédération éphémère",
+      "short": "De 1958 à 1962, Port-d'Espagne a été la capitale de la fédération des Indes occidentales.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-d'Espagne",
+          "quote": "De 1958 à 1962, Port-d'Espagne fut la capitale de la fédération des Indes occidentales."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Les deux îles les plus au sud des Caraïbes, juste au large du Venezuela : la grande Trinité et la petite Tobago, à 35 km l'une de l'autre.",
+    "flag": "Rouge, traversé en diagonale par une bande noire bordée de blanc. Le Congo-Brazzaville a aussi une diagonale, mais vert, jaune et rouge.",
+    "capital": "Port-d'Espagne, le port des Espagnols : la Trinité a été castillane avant d'être britannique."
+  }
+}

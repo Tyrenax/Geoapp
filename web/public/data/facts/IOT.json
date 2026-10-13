@@ -1,0 +1,127 @@
+{
+  "id": "IOT",
+  "facts": [
+    {
+      "id": "IOT-1",
+      "topic": "histoire",
+      "era": "1965",
+      "title": "Un territoire découpé avant une indépendance",
+      "short": "Le 8 novembre 1965, alors que l'indépendance de Maurice se prépare, le Royaume-Uni détache l'archipel des Chagos de cette colonie et crée le Territoire britannique de l'océan Indien.",
+      "long": "Avant l'arrivée des Britanniques, la France avait développé des plantations sur l'atoll de Diego Garcia, abandonnées à partir de 1838. Maurice devient indépendante le 12 mars 1968, sans les Chagos.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Le 8 novembre 1965, le gouvernement britannique sépare l'archipel des Chagos de Maurice et crée le territoire britannique de l'océan Indien (British Indian Ocean Territory, BIOT)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Le territoire britannique de l'océan Indien est créé, sous sa forme juridique du 8 novembre 1965 alors que se prépare l'indépendance de Maurice qui intervient le 12 mars 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Avant la conquête de l'île Maurice par les Britanniques en 1810, la France avait développé sur l'atoll de Diego Garcia, qui fait partie de l'archipel des Chagos, des plantations qui sont arrêtées à partir de 1838."
+        }
+      ]
+    },
+    {
+      "id": "IOT-2",
+      "topic": "histoire",
+      "era": "1968-1973",
+      "title": "Les Chagossiens expulsés",
+      "short": "Pour permettre la construction d'une base militaire américaine sur Diego Garcia, toute la population de l'archipel est expulsée vers Maurice et les Seychelles. Le déplacement s'achève en 1973.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Six mois auparavant, le 17 juillet, commençait l'expulsion intégrale de la population de l'archipel des Chagos vers Maurice et les Seychelles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Terminé en 1973 après le rachat de toutes les terres, ce déplacement est nécessaire selon les autorités pour permettre la construction de la base."
+        }
+      ]
+    },
+    {
+      "id": "IOT-3",
+      "topic": "histoire",
+      "era": "2019",
+      "title": "L'avis de la Cour internationale de justice",
+      "short": "Le 25 février 2019, la Cour internationale de justice estime, dans un avis consultatif, que le Royaume-Uni a « illicitement » séparé l'archipel des Chagos de Maurice. L'Assemblée générale de l'ONU lui demande ensuite de le restituer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Le 25 février 2019, dans un avis consultatif, la Cour internationale de justice estime que le Royaume-Uni a « illicitement » séparé l'archipel des Chagos de Maurice après son indépendance en 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "L'Assemblée générale des Nations unies adopte une résolution le 22 mai 2019, commandant au Royaume-Uni de restituer l'archipel des Chagos à la république de Maurice dans les six mois"
+        }
+      ]
+    },
+    {
+      "id": "IOT-4",
+      "topic": "politique",
+      "era": "2025",
+      "title": "Un traité de restitution signé en 2025",
+      "short": "Le 22 mai 2025, le Royaume-Uni et Maurice signent un traité qui doit transférer la souveraineté de l'archipel à Maurice une fois entré en vigueur. La base militaire de Diego Garcia resterait sous contrôle britannique grâce à un bail de 99 ans.",
+      "long": "Des militants chagossiens contestent cet accord, négocié selon eux sans leur consentement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "À la suite de la reprise des négociations, un traité est signé le 22 mai 2025, qui transférera officiellement la souveraineté du territoire à Maurice une fois qu'il entrera en vigueur, tandis que la base militaire de Diego Garcia restera sous contrôle britannique pendant un bail de 99 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Territoire_britannique_de_l'océan_Indien",
+          "quote": "Les militants chagossiens soumettent, en juin 2025, une communication juridique au Comité des droits de l'homme des Nations unies, contestant la légitimité de l'accord entre le Royaume-Uni et Maurice, arguant qu'il a été négocié sans leur consentement"
+        }
+      ]
+    },
+    {
+      "id": "IOT-5",
+      "topic": "drapeau",
+      "era": "1990",
+      "title": "Des vagues, un palmier et une couronne",
+      "short": "Adopté en 1990 pour les 25 ans du territoire, le drapeau montre six vagues bleues sur fond blanc, qui évoquent sans doute l'océan Indien et, côté flottant, un palmier surmonté de la couronne de saint Édouard.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Territoire_britannique_de_l'océan_Indien",
+          "quote": "Le fond du drapeau est constitué d'un champ de six vagues bleues sur fond blanc, sans doute représentant l'océan Indien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Territoire_britannique_de_l'océan_Indien",
+          "quote": "À droite du drapeau sur le battant, on trouve un palmier, symbole de la flore tropicale, et la couronne de saint Édouard au niveau de la moitié de son tronc"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Territoire_britannique_de_l'océan_Indien",
+          "quote": "Le drapeau a été adopté le 8 novembre 1990 par la reine Élisabeth II à l'occasion du 25e anniversaire de la création du territoire."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IOT-C1",
+      "topic": "geographie",
+      "title": "Diego Garcia, un atoll devenu base militaire",
+      "short": "Diego Garcia, l'atoll le plus méridional des Chagos, accueille une base militaire américaine louée par le Royaume-Uni. Elle sert de point d'appui stratégique pour les opérations aériennes au Moyen-Orient.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Diego_Garcia",
+          "quote": "Diego Garcia est situé dans le Nord de l'océan Indien, dans le Sud-Est de l'archipel des Chagos dont il constitue les terres émergées les plus méridionales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Diego_Garcia",
+          "quote": "L'île principale de l'atoll, appelée elle aussi Diego Garcia, accueille une base militaire américaine que le Royaume-Uni lui loue"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Diego_Garcia",
+          "quote": "La base de Diego Garcia sert de point d’appui stratégique, pour les opérations aériennes au Moyen-Orient."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel d'atolls (les Chagos) au milieu de l'océan Indien, au sud des Maldives, loin de toute côte.",
+    "flag": "Des vagues bleues et blanches, l'Union Jack dans le coin, et un palmier avec une couronne côté flottant.",
+    "capital": "Pas de vraie ville : le territoire est administré depuis Diego Garcia, un atoll occupé par une base militaire."
+  }
+}

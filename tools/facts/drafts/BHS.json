@@ -1,0 +1,128 @@
+{
+  "id": "BHS",
+  "facts": [
+    {
+      "id": "BHS-1",
+      "topic": "histoire",
+      "era": "1492",
+      "title": "Là où Colomb a touché terre",
+      "short": "Le 12 octobre 1492, Christophe Colomb pose pour la première fois le pied dans le Nouveau Monde sur une île des Bahamas, sans doute Guanahani, qu'il rebaptise San Salvador. Il y rencontre les Taïnos Lucayens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "Les premiers pas de Christophe Colomb dans le Nouveau Monde",
+          "to": "qu'il renomme San Salvador à son arrivée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "Les habitants qu'il y rencontre, des Taïnos Lucayens",
+          "to": "avant le VIIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "BHS-2",
+      "topic": "histoire",
+      "era": "1492-1508",
+      "title": "Un archipel vidé de ses habitants",
+      "short": "Entre 1492 et 1508, environ 40 000 indigènes sont déplacés hors de l'archipel, qui reste ensuite désert jusqu'à l'arrivée des Britanniques au XVIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "Environ 40 000 indigènes sont déplacés entre 1492 et 1508",
+          "to": "au XVIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "BHS-3",
+      "topic": "histoire",
+      "era": "1717",
+      "title": "La république des pirates",
+      "short": "Au début du XVIIIe siècle, Nassau devient une « république des corsaires » dont Barbe Noire prend la tête. En 1717, le roi reprend les îles en main ; le gouverneur envoyé sur place prend pour devise « Expulser les pirates, restaurer le commerce ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nassau_(Bahamas)",
+          "from": "Au cours du XVIIIe siècle, les autorités britanniques laissent s'installer",
+          "to": "Anne Bonny passèrent alors à Nassau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "En 1717, le roi d'Angleterre reprend possession",
+          "to": "et missionne"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "Sa devise en latin résume sa mission",
+          "to": "restaurer le commerce »)."
+        }
+      ]
+    },
+    {
+      "id": "BHS-4",
+      "topic": "histoire",
+      "era": "1973",
+      "title": "Indépendant depuis 1973",
+      "short": "Le Royaume-Uni accorde l'indépendance aux Bahamas le 10 juillet 1973.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "L'indépendance est accordée par la Grande-Bretagne le 10 juillet 1973.",
+          "to": "le 10 juillet 1973."
+        }
+      ]
+    },
+    {
+      "id": "BHS-5",
+      "topic": "geographie",
+      "title": "700 îles dans l'Atlantique",
+      "short": "Les Bahamas comptent environ 700 îles et îlots, dans l'océan Atlantique, au nord-est de Cuba.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahamas",
+          "from": "L'archipel des Bahamas occupe environ 700 îles et îlots",
+          "to": "sous dépendance britannique."
+        }
+      ]
+    },
+    {
+      "id": "BHS-6",
+      "topic": "drapeau",
+      "title": "Turquoise, jaune et un triangle noir",
+      "short": "Le drapeau des Bahamas associe trois bandes horizontales turquoise, jaune et turquoise, et un triangle noir côté mât.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Bahamas",
+          "from": "Le drapeau des Bahamas est composé de trois bandes horizontales",
+          "to": "du côté de la hampe."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BHS-C1",
+      "topic": "histoire",
+      "era": "1684-1695",
+      "title": "De Charles Town à Nassau",
+      "short": "D'abord appelée Charles Town et détruite par les Espagnols en 1684, la ville est reconstruite et rebaptisée Nassau en 1695, en l'honneur du roi Guillaume III d'Orange-Nassau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nassau_(Bahamas)",
+          "from": "Détruite par les Espagnols en 1684",
+          "to": "en 1695."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nassau_(Bahamas)",
+          "from": "Nassau (anciennement Charles Town)",
+          "to": "est la capitale des Bahamas."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un long chapelet d'îles dans l'Atlantique, entre la Floride et Cuba au nord-ouest et Haïti au sud-est.",
+    "flag": "Turquoise, jaune, turquoise à l'horizontale avec un triangle noir côté mât. La Jamaïque a aussi du noir et du jaune, mais en X avec du vert ; le Guyana a un triangle rouge.",
+    "capital": "Nassau, le nom d'un roi : Guillaume III d'Orange-Nassau. Pense à la maison d'Orange, comme le soleil des îles."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "PNG",
+  "facts": [
+    {
+      "id": "PNG-1",
+      "topic": "culture",
+      "title": "Le pays aux 851 langues",
+      "short": "Avec 851 langues connues sur son territoire, la Papouasie-Nouvelle-Guinée est d'une diversité linguistique exceptionnelle. Ses habitants vivent dans des communautés coutumières aussi variées que leurs langues.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Il existe 851 langues connues sur son territoire.",
+          "to": "sur son territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Sa population, estimée à 8 millions de personnes",
+          "to": "aussi diverses que les langues."
+        }
+      ]
+    },
+    {
+      "id": "PNG-2",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Une « nouvelle Guinée » au bout du monde",
+      "short": "Au XVIe siècle, un explorateur espagnol nomme l'île « Nouvelle-Guinée », trouvant que ses habitants ressemblaient à ceux de la Guinée, en Afrique. Le nom « Papua » apparaît, lui, sur des cartes établies au XVIIIe siècle par les Bugis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Nouvelle-Guinée est le nom qu'a donné au XVIe siècle un explorateur espagnol",
+          "to": "avec la population de Guinée équatoriale en Afrique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "L'ethnologue français Christian Pelras",
+          "to": "pour désigner la Nouvelle-Guinée."
+        }
+      ]
+    },
+    {
+      "id": "PNG-3",
+      "topic": "histoire",
+      "era": "1883-1975",
+      "title": "Trois puissances, puis l'indépendance",
+      "short": "À partir de 1883, le territoire est gouverné par l'Allemagne, le Royaume-Uni, puis l'Australie, qui l'administre pendant près de soixante ans. Le pays obtient pacifiquement son indépendance le 16 septembre 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Après avoir été gouvernée par trois puissances extérieures depuis 1883",
+          "to": "en tant que royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Cette indépendance fit suite à près de 60 ans d'administration australienne",
+          "to": "à partir de la Première Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "La Papouasie-Nouvelle-Guinée obtient paisiblement son indépendance",
+          "to": "en 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "créées initialement comme districts lors de l'indépendance du pays le 16 septembre 1975",
+          "to": "le 16 septembre 1975"
+        }
+      ]
+    },
+    {
+      "id": "PNG-4",
+      "topic": "histoire",
+      "era": "1989-2019",
+      "title": "Bougainville, l'île qui veut partir",
+      "short": "De 1989 à 2001, une guérilla sécessionniste sur l'île de Bougainville, autour de la mine de cuivre de Panguna, aurait fait près de 20 000 morts. En novembre 2019, l'île a voté lors d'un référendum sur l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Le pays a vécu des conflits frontaliers avec l'Indonésie",
+          "to": "un référendum sur l'indépendance a eu lieu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Ce conflit entraîne des affrontements violents dans les années 1980",
+          "to": "(qui abrite la mine de cuivre de Panguna"
+        }
+      ]
+    },
+    {
+      "id": "PNG-5",
+      "topic": "geographie",
+      "title": "La moitié d'une grande île",
+      "short": "Le pays occupe la moitié orientale de l'île de Nouvelle-Guinée, dont l'autre moitié appartient à l'Indonésie, ainsi que de nombreuses îles. C'est le troisième plus grand État insulaire du monde.",
+      "long": "Géologiquement, la Nouvelle-Guinée prolonge la plaque australienne : pendant les glaciations, un pont de terre la reliait à l'Australie, ce qui explique la parenté de leurs oiseaux et mammifères.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "La Nouvelle-Guinée fait partie du continent australien",
+          "to": "sous souveraineté indonésienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "il est le troisième plus grand État insulaire au monde",
+          "to": "avec une superficie de 462 840 km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Géologiquement, l'île de Nouvelle-Guinée est une extension de la plaque australienne",
+          "to": "pendant les périodes de glaciation"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "from": "Par conséquent, de nombreuses espèces d'oiseaux et de mammifères",
+          "to": "correspondantes en Australie."
+        }
+      ]
+    },
+    {
+      "id": "PNG-6",
+      "topic": "drapeau",
+      "era": "1971",
+      "title": "Un drapeau dessiné par une étudiante de 15 ans",
+      "short": "Le drapeau a été dessiné par Susan Karike Huhume, une étudiante de 15 ans, lauréate d'un concours national. Il est coupé en diagonale : un oiseau de paradis jaune en plein envol sur le rouge, la Croix du Sud en blanc sur le noir.",
+      "long": "Le noir et le rouge sont depuis longtemps les couleurs des tribus papoues. Le blanc de la constellation rappellerait les couleurs de l'Empire allemand, dont la Nouvelle-Guinée fut une colonie jusqu'en 1914.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "from": "Le dessin final revient à Susan Karike Huhume",
+          "to": "le futur drapeau du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "from": "divisé en diagonale du haut de la hampe au bas du battant",
+          "to": "représentant la Croix du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "from": "Dans la partie noire est représentée la croix du Sud",
+          "to": "la constellation la plus connue de l'hémisphère Sud"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "from": "Les deux couleurs principales (noir et rouge)",
+          "to": "des tribus papoues."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "from": "La constellation est en blanc afin de rappeler",
+          "to": "jusqu'en 1914."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PNG-C1",
+      "topic": "histoire",
+      "era": "1873",
+      "title": "Le port du capitaine Moresby",
+      "short": "Le site est découvert en 1873 par le capitaine anglais John Moresby, qui lui donne son nom ; la ville est fondée dix ans plus tard sur les rives de la mer de Corail.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port_Moresby",
+          "from": "Elle est située sur les rives de la mer de Corail",
+          "to": "la ville est fondée dix ans plus tard."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié est de la grande île de Nouvelle-Guinée, juste au nord de l'Australie ; l'autre moitié de l'île est indonésienne. Des îles comme la Nouvelle-Bretagne et Bougainville s'étendent à l'est.",
+    "flag": "Coupé en diagonale : en bas à gauche, noir avec la Croix du Sud blanche ; en haut à droite, rouge avec un oiseau de paradis doré.",
+    "capital": "Port Moresby, sur la côte sud, face à l'Australie, de l'autre côté du détroit de Torrès."
+  }
+}

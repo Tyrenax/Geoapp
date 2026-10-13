@@ -1,0 +1,104 @@
+{
+  "id": "DMA",
+  "facts": [
+    {
+      "id": "DMA-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "L'île du dimanche",
+      "short": "Christophe Colomb longe l'île le dimanche 3 novembre 1493, lors de son deuxième voyage : elle reçoit le nom de Domingo, « dimanche » en espagnol, d'où Dominique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "Le nom actuel de l'île provient du mot espagnol Domingo signifiant « dimanche » en français - puisque c'est le dimanche 3 novembre 1493 que l'île fut longée par Christophe Colomb - d’où proviennent ses noms actuels, Dominique en français et Dominica en anglais."
+        }
+      ]
+    },
+    {
+      "id": "DMA-2",
+      "topic": "histoire",
+      "era": "1903",
+      "title": "Le dernier territoire kalinago",
+      "short": "Les Kalinagos appelaient l'île Wai'tu kubuli, « son corps est grand ». Environ 3 000 de leurs descendants vivent dans le territoire Kalinago, une réserve créée pour eux en 1903 au nord-est de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "Son nom kalinago est Wai'tu kubuli qui signifie « Son corps est grand »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "Aujourd'hui, les 3 000 descendants des Indiens Caraïbes, derniers héritiers de ces peuples précolombiens, vivent pour la plupart dans le territoire Kalinago (Réserve Caraïbe), de 1 480 hectares, autour de la petite ville de Salybia, au nord-est de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "Ces derniers vivent aujourd'hui dans une réserve créée spécialement pour eux en 1903, le Territoire Kalinago."
+        }
+      ]
+    },
+    {
+      "id": "DMA-3",
+      "topic": "histoire",
+      "era": "1763",
+      "title": "Une île longtemps française",
+      "short": "L'île a connu une présence française jusqu'au traité de Paris de 1763. On y parle encore un créole, et elle se trouve juste au sud de la Guadeloupe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "L'île a auparavant connu une présence française jusqu'au traité de Paris de 1763."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "La Dominique (en anglais : Dominica ; en créole dominiquais : Donmnik ; en kalinago : Wai'tu kubuli) en forme longue le Commonwealth de la Dominique ou Commonwealth de Dominique, est un pays insulaire de la mer des Caraïbes situé dans l'archipel des Petites Antilles, entre les îles françaises des Saintes et de Marie-Galante (deux dépendances de la Guadeloupe) au nord"
+        }
+      ]
+    },
+    {
+      "id": "DMA-4",
+      "topic": "histoire",
+      "era": "1978",
+      "title": "Indépendante en 1978",
+      "short": "Colonie britannique membre de l'éphémère fédération des Indes occidentales, puis État associé à la Couronne, la Dominique devient indépendante en 1978.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dominique_(pays)",
+          "quote": "Avant son indépendance en 1978, la Dominique était un État associé de la couronne britannique (États associés des Indes occidentales) et, avant 1967, une colonie britannique membre de l'éphémère fédération des Indes occidentales (1958-1962)."
+        }
+      ]
+    },
+    {
+      "id": "DMA-5",
+      "topic": "drapeau",
+      "title": "Un perroquet violet",
+      "short": "Au centre du drapeau trône le sisserou, un perroquet qui ne vit que sur l'île. Sa tête bleu-violet fait du drapeau dominiquais l'un des trois seuls drapeaux nationaux à contenir du violet, avec ceux du Nicaragua et du Salvador.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Dominique",
+          "quote": "Au centre du drapeau, on trouve un cercle rouge avec un perroquet présent endémique de l’île, le sisserou ou Amazone impériale (Amazona imperialis), devenu son emblème."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Dominique",
+          "quote": "Sa tête, sa nuque et sa poitrine sont bleu-violet ce qui fait du drapeau de la Dominique l'un des trois seuls drapeaux nationaux à contenir du violet, avec le drapeau du Nicaragua et celui du Salvador qui contiennent tous deux un arc-en-ciel."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DMA-C1",
+      "topic": "geographie",
+      "title": "Une capitale au bord de son fleuve",
+      "short": "Roseau s'étend le long de la mer des Caraïbes, traversée par un petit fleuve côtier qui porte le même nom qu'elle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Roseau_(ville_de_la_Dominique)",
+          "quote": "C'est une ville située le long de la mer des Caraïbes et traversée par le petit fleuve côtier Roseau."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Petite île volcanique des petites Antilles, prise en sandwich entre deux îles françaises : la Guadeloupe au nord et la Martinique au sud.",
+    "flag": "Vert, traversé par une croix jaune, noire et blanche, avec au centre un disque rouge, un perroquet violet et dix étoiles vertes. Ne la confonds pas avec la République dominicaine, à la croix blanche sur bleu et rouge.",
+    "capital": "Roseau, un nom français pour une île longtemps française : pense aux roseaux du petit fleuve qui la traverse."
+  }
+}

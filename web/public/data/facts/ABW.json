@@ -1,0 +1,121 @@
+{
+  "id": "ABW",
+  "facts": [
+    {
+      "id": "ABW-1",
+      "topic": "histoire",
+      "era": "1000-1499",
+      "title": "Des Arawaks venus du Venezuela",
+      "short": "Vers l'an 1000, des Caiquetios, une tribu arawak venue de l'actuel Venezuela, peuplent l'île. L'explorateur espagnol Alonso de Ojeda y accoste en 1499.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "L'île d'Aruba est d'abord peuplée d'Amérindiens caiquetios (en), une tribu arawak venue de l'actuel Venezuela vers l'an 1000."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "En 1499, l'explorateur espagnol Alonso de Ojeda accoste sur l'île."
+        }
+      ]
+    },
+    {
+      "id": "ABW-2",
+      "topic": "histoire",
+      "era": "1825",
+      "title": "La ruée vers l'or",
+      "short": "En 1825, les Néerlandais découvrent de l'or à Aruba. Les mines s'ouvrent et les chercheurs d'or affluent : c'est le premier âge de prospérité de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "En 1825, les Néerlandais découvrent de l'or. C'est le premier âge de prospérité de l'île avec l'ouverture de mines et l'afflux de chercheurs d'or."
+        }
+      ]
+    },
+    {
+      "id": "ABW-3",
+      "topic": "histoire",
+      "era": "1924",
+      "title": "La raffinerie du pétrole vénézuélien",
+      "short": "En 1924, profitant de sa position à la sortie du golfe pétrolier du Venezuela, Aruba ouvre une raffinerie de pétrole : c'est son deuxième âge d'abondance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "En 1924, Aruba profite de sa position au sortir du golfe pétrolier du Venezuela et du lac Maracaibo pour ouvrir une raffinerie de pétrole, c'est le deuxième âge d'abondance pour Aruba."
+        }
+      ]
+    },
+    {
+      "id": "ABW-4",
+      "topic": "politique",
+      "era": "1986",
+      "title": "Un pays dans le royaume des Pays-Bas",
+      "short": "Depuis 1986, Aruba s'est séparée des Antilles néerlandaises et forme un pays autonome au sein du royaume des Pays-Bas. On y parle néerlandais et papiamento, le créole local.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "L'île forme un État autonome (pays constitutif) au sein du royaume des Pays-Bas, le pays d'Aruba (Land Aruba en néerlandais, Pais Aruba en papiamento), depuis qu'elle s'est séparée des Antilles néerlandaises en 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "Le Mouvement électoral du peuple (Movimiento Electoral di Pueblo en papiamento, le créole local)"
+        }
+      ]
+    },
+    {
+      "id": "ABW-5",
+      "topic": "geographie",
+      "title": "Seulement 29 jours de pluie par an",
+      "short": "Aruba a un climat chaud et très sec, presque semi-désertique : il n'y pleut que 29 jours par an, mais les vents de l'Atlantique rafraîchissent l'air.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "Aruba a un climat tropical chaud et très sec, voire semi-désertique mais cependant rafraîchi par des vents venant de l'océan Atlantique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Aruba",
+          "quote": "On compte seulement 29 jours de pluie par an."
+        }
+      ]
+    },
+    {
+      "id": "ABW-6",
+      "topic": "drapeau",
+      "era": "1976",
+      "title": "Des couleurs qui racontent l'économie",
+      "short": "Sur le drapeau adopté en 1976, le jaune rappelle les industries de l'or, de l'aloès et du pétrole, le rouge l'ancien commerce du bois brésil, le bleu la mer et le blanc les plages.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Aruba",
+          "quote": "Le drapeau d'Aruba a été adopté le 18 mars 1976."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Aruba",
+          "quote": "le bleu représente la mer qui entoure Aruba ; le jaune est la couleur de l'abondance, représentant les industries aurifère, de l'aloès et pétrolière d'hier et d'aujourd'hui ; le rouge représente l'amour que chaque habitant d'Aruba porte à son pays et l'ancienne industrie du « bois brésil » ; et le blanc symbolise les plages de sable blanc et la pureté des cœurs du peuple d'Aruba, toujours en quête de justice, d'ordre et de liberté."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ABW-C1",
+      "topic": "histoire",
+      "title": "La « ville d'Orange »",
+      "short": "Oranjestad signifie « ville d'Orange ». C'est aussi la plus grande ville de l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oranjestad_(Aruba)",
+          "quote": "Oranjestad (prononcé en néerlandais : [oːˈrɑɲəstɑt] ; en français : « Orangeville » ou « ville d'Orange ») est la capitale d'Aruba, État d'outre-mer néerlandais dans les Caraïbes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oranjestad_(Aruba)",
+          "quote": "Elle compte 34 980 habitants en 2015, ce qui en fait également la première ville de l'île en nombre d'habitants."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La plus occidentale des îles ABC (Aruba, Bonaire, Curaçao), à une trentaine de kilomètres au large de la côte du Venezuela.",
+    "flag": "Bleu clair avec deux fines bandes jaunes horizontales en bas et une étoile rouge à quatre branches bordée de blanc en haut à gauche. Le drapeau de Curaçao a aussi du bleu et du jaune, mais avec deux étoiles blanches à cinq branches.",
+    "capital": "Oranjestad, la « ville d'Orange » : la couleur de la famille royale néerlandaise."
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "id": "MHL",
+  "facts": [
+    {
+      "id": "MHL-1",
+      "topic": "histoire",
+      "era": "1788",
+      "title": "Un pays qui porte le nom d'un capitaine",
+      "short": "L'Espagnol Alonso de Salazar aperçoit les îles dès 1526, mais elles restent peu visitées jusqu'en 1788, quand le capitaine britannique John Marshall les traverse. C'est l'un des rares pays nommés d'après une personne, comme la Colombie ou la Bolivie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Le 21 août 1526, l'explorateur espagnol Alonso de Salazar est le premier Européen à apercevoir les Ralik et les Ratak, mais celles-ci restent très peu visitées jusqu'en 1788, date à laquelle le capitaine britannique John Marshall les traverse par hasard à nouveau"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Ces îles portent le nom de John Marshall, un de leurs découvreurs, et font partie des quelques États, comme la Colombie, les Îles Cook, la Bolivie ou l'Arabie saoudite, nommés d'après une personne."
+        }
+      ]
+    },
+    {
+      "id": "MHL-2",
+      "topic": "histoire",
+      "era": "1885-1945",
+      "title": "Allemandes, japonaises, puis champ de bataille",
+      "short": "Une société de commerce allemande colonise les îles en 1885. Le Japon les occupe dès octobre 1914 et les administre sous mandat de la Société des Nations. Pendant la Seconde Guerre mondiale, plusieurs atolls sont le théâtre de violents combats.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Une société de commerce allemande colonise les îles en 1885, puis elles intègrent le protectorat de la Nouvelle-Guinée allemande quelques années après."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Le 3 octobre 1914, les Japonais débarquent sur ces îles et les administrent comme territoire sous mandat des îles du Pacifique accordé par la Société des Nations le 17 décembre 1920."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Lors de la Seconde Guerre mondiale, certains des atolls sont l'enjeu de violents combats entre les forces japonaises et américaines."
+        }
+      ]
+    },
+    {
+      "id": "MHL-3",
+      "topic": "histoire",
+      "title": "Le terrain d'essais nucléaires des États-Unis",
+      "short": "Dès la fin de la guerre, les États-Unis font des îles Marshall un site d'essais nucléaires atmosphériques, qui ont rendu l'archipel tristement célèbre dans le monde entier.",
+      "long": "En 2022, le Conseil des droits de l'homme de l'ONU a soutenu la campagne du gouvernement marshallais pour obtenir des États-Unis une réparation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Dès la fin de la guerre, les États-Unis commencent à effectuer des essais nucléaires"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Il s'est fait connaître du monde entier comme site d'essais nucléaires atmosphériques des États-Unis dans les années 1940 et 1950."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "En 2022, le Conseil des Droits de l'Homme de l'ONU apporte son soutien à la campagne du gouvernement en vue d'obtenir des États-Unis réparation à la suite des essais nucléaires."
+        }
+      ]
+    },
+    {
+      "id": "MHL-4",
+      "topic": "culture",
+      "title": "Les cartes en bâtonnets",
+      "short": "Les anciens navigateurs marshallais se repéraient grâce aux étoiles et à des cartes faites de bâtons et de coquillages : les cartes à bâtonnets.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Marshall",
+          "quote": "Les Marshallais étaient par le passé des navigateurs qui utilisaient les étoiles et des cartes faites de bâtons et de coquillages, les cartes à bâtonnets pour se diriger sur la mer."
+        }
+      ]
+    },
+    {
+      "id": "MHL-5",
+      "topic": "drapeau",
+      "era": "1979",
+      "title": "Une étoile à 24 branches au nord de l'équateur",
+      "short": "La diagonale du drapeau figure l'équateur : l'étoile placée au-dessus rappelle que tout l'archipel se trouve au nord. Ses 24 branches représentent les districts du pays ; l'orange et le blanc, les deux chaînes d'îles, Ratak et Ralik.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Marshall",
+          "quote": "La diagonale qui traverse le drapeau représente l'équateur, l'archipel se trouvant entièrement au nord de cette ligne, comme l'étoile sur le drapeau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Marshall",
+          "quote": "L'étoile blanche symbolise la chrétienté, et ses 24 pointes représentent le pays et ses 24 districts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Marshall",
+          "quote": "Les couleurs (orange et blanc) représentent respectivement la chaîne de Ratak (« lever de soleil ») et la chaîne de Ralik (« coucher de soleil »)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MHL-C1",
+      "topic": "geographie",
+      "title": "Une capitale en trois îles",
+      "short": "La capitale, sur l'atoll de Majuro, s'appelle Delap-Uliga-Darrit, du nom des trois îles qui la composent ; on l'abrège souvent en « D-U-D ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Majuro",
+          "quote": "C'est sur cet atoll que se trouve la capitale, Delap-Uliga-Darrit, du nom des trois îles qui la composent (souvent appelée D-U-D)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux chaînes parallèles d'atolls dans le Pacifique Nord, au nord des Kiribati et à l'est de la Micronésie, juste au-dessus de l'équateur.",
+    "flag": "Bleu, avec une étoile blanche à 24 branches en haut à gauche et deux bandes diagonales orange et blanche qui s'élargissent vers le coin opposé.",
+    "capital": "Majuro, l'atoll capitale, qu'on appelle aussi par le nom de ses trois îles : D-U-D, Delap-Uliga-Darrit."
+  }
+}

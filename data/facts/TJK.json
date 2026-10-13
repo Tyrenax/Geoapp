@@ -1,0 +1,148 @@
+{
+  "id": "TJK",
+  "facts": [
+    {
+      "id": "TJK-1",
+      "topic": "histoire",
+      "title": "L'empire des Samanides",
+      "short": "L'empire des Samanides, avec Boukhara pour capitale, est le premier État persan indépendant à renaître après la conquête arabe. La culture tadjike, persane d'Asie centrale, s'épanouit alors à Boukhara et Samarcande, avec les poètes Roudaki et Ferdowsi ou le savant Avicenne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "L'empire des Samanides fut le premier État persan indépendant à se reformer après la conquête de la région par les Arabes. Fondé par Ismoïl Samani, d'où son nom, il avait pour capitale la ville de Boukhara, dans l'actuel Ouzbékistan,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "La culture tadjike, ou persane d'Asie centrale, se développa dans les florissantes cités de Boukhara et Samarcande : en témoignent les poètes Roudaki et Ferdowsi ou le philosophe et savant Avicenne."
+        }
+      ]
+    },
+    {
+      "id": "TJK-2",
+      "topic": "histoire",
+      "era": "1924-1929",
+      "title": "Samarcande et Boukhara perdues",
+      "short": "Créé en 1924 au sein de l'Ouzbékistan soviétique, le Tadjikistan en est séparé en 1929. Lors de ce découpage de l'Asie centrale par Staline, les grandes villes de Samarcande et Boukhara, peuplées surtout de Tadjiks, sont données à l'Ouzbékistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "La République socialiste soviétique autonome du Tadjikistan est créée en 1924 au sein de la République socialiste soviétique d'Ouzbékistan. Elle devient la République socialiste soviétique du Tadjikistan, séparée de l'Ouzbékistan, en 1929. Sa création s'inscrit dans le découpage de l'Asie centrale par Joseph Staline en républiques ethniques aux frontières tortueuses, alors même que les différentes nationalités, notamment Ouzbeks et Tadjiks, vivaient côte à côte depuis des siècles dans les villes ou la vallée de Ferghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Les grandes villes de Samarcande et Boukhara, qui étaient peuplées majoritairement de Tadjiks, furent ainsi données à l'Ouzbékistan, et nombre de leurs habitants persanophones furent contraints de souscrire à leur nouvelle « identité » ouzbèke ou d'émigrer dans la nouvelle république tadjike."
+        }
+      ]
+    },
+    {
+      "id": "TJK-3",
+      "topic": "histoire",
+      "era": "1992-1997",
+      "title": "La guerre civile",
+      "short": "Après l'indépendance, une guerre civile oppose de 1992 à 1997 le gouvernement post-communiste, soutenu par Moscou, à une opposition allant des démocrates aux islamistes. Elle fait près de 50 000 morts. Emomali Rahmon, arrivé à la tête du pays en 1992, en sort renforcé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Les troubles qui s'ensuivent s'intensifient après l'élection de Nabiyev à la présidence le 24 novembre, jusqu'au développement d'une guerre civile entre partisans du gouvernement post-communiste, soutenus par Moscou, et une opposition variée, allant de démocrates libéraux à des groupes islamistes,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "La guerre se prolonge jusqu'en 1997, sans qu'aucun camp ne parvienne à l'emporter, et fait près de 50 000 morts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Dès septembre 1992, Nabiyev, capturé par l'opposition, est contraint de se retirer du jeu politique, et le président du Parlement, Emomali Rahmon, le remplace à la tête du pays et de la faction gouvernementale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "La paix, conclue sous l'égide des Nations unies et de la Russie, consacre le pouvoir de Rahmon."
+        }
+      ]
+    },
+    {
+      "id": "TJK-4",
+      "topic": "culture",
+      "title": "Une langue persane",
+      "short": "C'est le seul pays de l'ancienne Asie centrale soviétique où la langue dominante n'est pas turcique mais iranienne : le tadjik, proche du persan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "C'est le seul État issu de l'ancienne Asie centrale soviétique où la langue dominante n'est pas une langue turcique mais iranienne, le tadjik."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "et le tadjik, de la famille des langues indo-européennes, du groupe des langues iraniennes ou persanes."
+        }
+      ]
+    },
+    {
+      "id": "TJK-5",
+      "topic": "geographie",
+      "title": "Le pays des montagnes",
+      "short": "Le Tadjikistan est à 93 % montagneux, et plus de la moitié de son territoire dépasse 3 000 m. Les glaciers du Pamir sont la principale source d'eau de l'Asie centrale ; on y a relevé jusqu'à −63 °C.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Le territoire tadjik est constitué à 93 % de montagnes, et plus de la moitié a une altitude supérieure à 3 000 m."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Les glaciers du Pamir sont la principale source d'eau de l'Asie centrale,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "quote": "Le minimum absolu relevé est de −63 °C dans le Pamir (Boulounkoul)"
+        }
+      ]
+    },
+    {
+      "id": "TJK-6",
+      "topic": "drapeau",
+      "era": "1992",
+      "title": "La couronne et les sept étoiles",
+      "short": "Rouge, blanc, vert, avec au centre une couronne entourée de sept étoiles. Adopté en novembre 1992, c'est le dernier des drapeaux des anciennes républiques soviétiques à avoir été dévoilé. Le blanc représenterait le coton.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "quote": "Adopté en novembre 1992, il est le dernier de toutes les anciennes républiques soviétiques à avoir été dévoilé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "quote": "Le symbole au milieu de la bande blanche, qui est deux fois plus large que les bandes rouge et verte, est une couronne entourée de sept étoiles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "quote": "On sait maintenant que, si l'on doit donner une signification au drapeau, le rouge représente l'unité de la nation, le blanc représente le coton et le vert représente la nature du pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TJK-C1",
+      "topic": "histoire",
+      "era": "1929-1961",
+      "title": "La ville du lundi",
+      "short": "Douchanbé signifie « lundi » en persan : la ville était un simple village où se tenait un marché ce jour-là. Devenue capitale de la république soviétique en 1929, elle est rebaptisée Stalinabad, puis retrouve son nom en 1961.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "quote": "Son nom vient du mot persan signifiant « lundi » (du « deux » + šambe « samedi » ; littéralement « deux (jours après) samedi ») et fait référence au fait qu'un marché populaire y a lieu le lundi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "quote": "révèlent un simple village accueillant un marché du lundi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "quote": "Avec la victoire de l'Armée rouge et l'arrivée du chemin de fer en 1929, la ville devient la capitale de la république socialiste soviétique du Tadjikistan. En hommage à Staline, elle est renommée Stalinabad. Le 10 novembre 1961, dans le cadre de la politique de destalinisation, elle retrouve son nom de Douchanbé."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays de hautes montagnes en Asie centrale, au nord de l'Afghanistan, entre l'Ouzbékistan, le Kirghizistan et la Chine.",
+    "flag": "Rouge, blanc (plus large), vert, avec une petite couronne dorée sous un arc de sept étoiles au centre.",
+    "capital": "Douchanbé, dans l'ouest du pays, au pied des montagnes."
+  }
+}

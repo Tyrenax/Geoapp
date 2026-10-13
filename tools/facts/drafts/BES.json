@@ -1,0 +1,120 @@
+{
+  "id": "BES",
+  "facts": [
+    {
+      "id": "BES-1",
+      "topic": "histoire",
+      "era": "1776",
+      "title": "La première île à saluer les États-Unis",
+      "short": "Le 16 novembre 1776, le gouverneur de Saint-Eustache accueille un navire américain pourchassé par les Britanniques. C'est la première reconnaissance de fait des États-Unis par une autre puissance.",
+      "long": "L'île, surnommée alors le « Rocher doré », prospérait grâce au commerce, que les guerres européennes ne perturbaient pas. Les Britanniques s'en emparent le 3 février 1781.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Eustache_(Antilles)",
+          "from": "Cette amitié entre les États-Unis d'Amérique et Saint-Eustache",
+          "to": "par une autre puissance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Eustache_(Antilles)",
+          "from": "Saint-Eustache est alors connue sous le surnom",
+          "to": "sur les autres îles des Antilles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Eustache_(Antilles)",
+          "from": "Le 3 février 1781, les Britanniques prennent Saint-Eustache.",
+          "to": "prennent Saint-Eustache."
+        }
+      ]
+    },
+    {
+      "id": "BES-2",
+      "topic": "histoire",
+      "title": "Esclaves et salines",
+      "short": "À Bonaire, des esclaves amenés d'Afrique travaillaient dans les plantations de maïs et les salines de la Compagnie néerlandaise des Indes occidentales. Leurs petites maisons sont devenues un site historique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bonaire",
+          "from": "Les trois îles accueillent alors des esclaves venant d’Afrique",
+          "to": "constituent depuis un site historique."
+        }
+      ]
+    },
+    {
+      "id": "BES-3",
+      "topic": "histoire",
+      "era": "2010",
+      "title": "Trois îles devenues communes néerlandaises",
+      "short": "Depuis la dissolution des Antilles néerlandaises, le 10 octobre 2010, Bonaire, Saint-Eustache et Saba fonctionnent comme des « municipalités spéciales » des Pays-Bas. Elles paient depuis 2011 en dollars américains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas_caribéens",
+          "from": "Ces îles ont réintégré l'État néerlandais",
+          "to": "le 10 octobre 2010."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas_caribéens",
+          "from": "Les gouvernements de ces trois îles fonctionnent de facto",
+          "to": "(bijzondere gemeenten)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pays-Bas_caribéens",
+          "from": "Depuis le 1er janvier 2011, la monnaie utilisée",
+          "to": "par le dollar américain."
+        }
+      ]
+    },
+    {
+      "id": "BES-4",
+      "topic": "geographie",
+      "title": "Le point culminant des Pays-Bas est dans les Caraïbes",
+      "short": "Le sommet le plus élevé des Pays-Bas ne se trouve pas en Europe mais sur la petite île de Saba : le mont Scenery, à 870 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saba",
+          "from": "Bien qu'elle soit le plus petit des territoires néerlandais des Antilles",
+          "to": "au mont Scenery."
+        }
+      ]
+    },
+    {
+      "id": "BES-5",
+      "topic": "geographie",
+      "era": "1938-1958",
+      "title": "Une seule route, vingt ans de chantier",
+      "short": "Sur Saba, il a fallu tailler dans la montagne un escalier de 800 marches pour relier le port au village de The Bottom. La seule route de l'île, lancée en 1938 par un ingénieur avec l'aide des habitants, n'est achevée qu'en 1958.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saba",
+          "from": "Au cours du XXe siècle, un escalier de 800 marches",
+          "to": "Le dernier tronçon fut achevé en 1958."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BES-C1",
+      "topic": "histoire",
+      "era": "1840",
+      "title": "Kralendijk, rebaptisée vers 1840",
+      "short": "Kralendijk, le chef-lieu de Bonaire, reçoit son nom actuel des colonisateurs néerlandais vers 1840.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kralendijk",
+          "from": "Kralendijk est le chef-lieu de l'île de Bonaire",
+          "to": "dans les Antilles néerlandaises."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kralendijk",
+          "from": "La ville fut rebaptisée « Kralendijk »",
+          "to": "vers 1840."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Trois îles éparpillées : Bonaire, à l'est d'Aruba et de Curaçao au large du Venezuela, et, bien plus au nord, Saint-Eustache et Saba, au sud de Saint-Martin.",
+    "flag": "Pas de drapeau commun : les trois îles utilisent officiellement le drapeau des Pays-Bas, rouge, blanc, bleu.",
+    "capital": "Kralendijk, sur Bonaire : la plus grande des trois îles accueille le chef-lieu."
+  }
+}

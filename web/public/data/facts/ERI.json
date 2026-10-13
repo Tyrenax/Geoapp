@@ -1,0 +1,157 @@
+{
+  "id": "ERI",
+  "facts": [
+    {
+      "id": "ERI-1",
+      "topic": "histoire",
+      "era": "1890",
+      "title": "Le pays de la mer Rouge",
+      "short": "« Érythrée » vient du grec ancien Eruthraía, « la Rouge » : le nom désignait la mer Rouge et ses côtes. Le roi d'Italie Humbert Ier le donne officiellement à sa nouvelle colonie en 1890.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "Les premières occurrences du terme « Érythrée » proviennent du grec ancien Ερυθραία / Eruthraía signifiant « rouge » et latinisé Erythræa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "Ce terme, désignant originellement toutes les côtes de la mer Rouge, sera donné à l'actuel territoire en 1890 par le roi Humbert Ier d'Italie juste après en avoir fait une colonie italienne."
+        }
+      ]
+    },
+    {
+      "id": "ERI-2",
+      "topic": "histoire",
+      "era": "Ier s. av. J.-C.",
+      "title": "Adulis, le port du royaume d'Aksoum",
+      "short": "Le centre de l'Érythrée et le nord de l'Éthiopie partagent l'héritage du royaume d'Aksoum, né vers le Ier siècle av. J.-C. Pendant sa naissance, le royaume prend pour capitale Adulis, sur la côte.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Érythrée",
+          "quote": "Les peuples du Centre de l'Érythrée et du Nord de l'Éthiopie partagent un héritage historique et culturel commun, issu du Royaume d'Aksoum"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Érythrée",
+          "quote": "Il est suivi par le Royaume d'Aksoum, au Ier siècle av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "Pendant cette transition, les deux royaumes cohabitent dans la région et prend comme capitale Adulis, le long de la côte."
+        }
+      ]
+    },
+    {
+      "id": "ERI-3",
+      "topic": "histoire",
+      "era": "1869-1890",
+      "title": "Un port acheté par un prêtre italien",
+      "short": "En 1869, un prêtre italien, Sapetto, achète le port d'Assab au sultan afar pour une compagnie maritime italienne. Puis l'Italie occupe Massaoua en 1885 et fonde la colonie d'Érythrée en 1890.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Érythrée",
+          "quote": "Un prêtre italien catholique du nom de Sapetto achète le port d'Assab au sultan Afar, un vassal de l'empereur d'Éthiopie, pour le compte du conglomérat commercial italien Rubatinno."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "À la suite de l'achat par les Italiens de la baie d'Assab, au sultan local en 1869, puis de leur occupation de Massaoua en 1885, l’Érythrée est constituée en 1890 en territoire particulier."
+        }
+      ]
+    },
+    {
+      "id": "ERI-4",
+      "topic": "histoire",
+      "era": "1961-1993",
+      "title": "Trente ans de guerre pour l'indépendance",
+      "short": "Fédérée à l'Éthiopie par l'ONU en 1952, l'Érythrée est annexée en 1962. La guerre d'indépendance, commencée en 1961, dure trente ans ; un référendum sous contrôle de l'ONU mène à l'indépendance en 1993.",
+      "long": "Le Front populaire de libération de l'Érythrée l'emporte en mai 1991. Mais la paix est courte : de 1998 à 2000, une nouvelle guerre oppose les deux pays sur le tracé de la frontière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "Après la défaite italienne durant la Seconde Guerre mondiale, l'ONU décide en 1952 de fédérer l’Érythrée à l'Éthiopie, qui l'annexe en 1962."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Érythrée",
+          "quote": "Le pays a obtenu son indépendance de l'Éthiopie le 24 mai 1993, au terme d'un long conflit, de 1961 à 1991, suivi d'un nouveau conflit avec l’Éthiopie de 1998 à 2000."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Érythrée",
+          "quote": "Le peuple érythréen se prononce pour l'indépendance au cours d'un référendum tenu du 23 au 25 avril 1993 sous la surveillance de l'ONU."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "C'est le début de la guerre d'indépendance qui se termine en mai 1991 par la victoire du mouvement indépendantiste, le Front populaire de libération de l'Érythrée (FPLE) mené par Isaias Afwerki"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Érythrée",
+          "quote": "En mai 1998, une nouvelle guerre éclate entre l'Éthiopie et l'Érythrée sur le tracé de la frontière."
+        }
+      ]
+    },
+    {
+      "id": "ERI-5",
+      "topic": "drapeau",
+      "era": "1995",
+      "title": "Un triangle rouge qui rétrécit",
+      "short": "Le drapeau de 1995 réunit trois triangles, vert, rouge et bleu, et une branche d'olivier dorée. Le triangle rouge rétrécit de gauche à droite : le vœu de ne plus devoir verser de sang.",
+      "long": "Il s'inspire du drapeau du Front populaire de libération de l'Érythrée. Les branches d'olivier reprennent celles du drapeau de la fédération avec l'Éthiopie (1952-1962) ; le vert représente l'agriculture et la terre fertile.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Érythrée",
+          "quote": "Il a été adopté le 5 décembre 1995."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Érythrée",
+          "quote": "Inspiré du drapeau du Front populaire de libération de l'Érythrée (FPLE), il est composé de trois triangles : un vert, un rouge et un bleu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Érythrée",
+          "quote": "En effet, le triangle rouge est disposé de telle sorte que sa taille diminue de gauche à droite exprimant ainsi la volonté de ne plus devoir verser de sang dans le futur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Érythrée",
+          "quote": "Les branches d'olivier dorées proviennent du drapeau utilisé de 1952 à 1962, lors de la fédération avec l'Éthiopie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Érythrée",
+          "quote": "Le triangle vert représente l'agriculture, l'idée d'une terre fertile."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ERI-C1",
+      "topic": "histoire",
+      "era": "1930",
+      "title": "« La petite Rome » sur les hauts plateaux",
+      "short": "Capitale de l'Érythrée italienne dès 1900, Asmara est profondément remodelée par les Italiens à la fin des années 1930 : ils la surnomment Piccola Roma, « la petite Rome ». Son centre est inscrit au patrimoine mondial de l'UNESCO.",
+      "long": "En 1939, 53 000 des 76 000 Italiens d'Érythrée vivaient à Asmara. Perchée à 2 325 m sur le plateau de Hamasen, c'est l'une des capitales les plus élevées du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asmara",
+          "quote": "Elle est occupée par l'Italie en février 1889, et devient la capitale de l'Érythrée italienne en 1900."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asmara",
+          "quote": "Vers la fin des années 1930, les Italiens modifient profondément la ville avec un nouvel ordonnancement et de nouveaux bâtiments; Asmara est alors appelée par les colons italiens Piccola Roma (« la petite Rome »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asmara",
+          "quote": "Elle est inscrite au patrimoine mondial de l'UNESCO."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asmara",
+          "quote": "En 1939, 53 000 des 76 000 Italiens présents en Érythrée vivaient à Asmara."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Asmara",
+          "quote": "Elle est située sur le plateau de Hamasen à 2 325 m d'altitude et est la deuxième capitale la plus élevée d'Afrique et la sixième au niveau mondial."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une longue bande côtière au bord de la mer Rouge, au nord de l'Éthiopie, qu'elle prive d'accès à la mer. Le Soudan est à l'ouest, Djibouti au sud-est.",
+    "flag": "Un grand triangle rouge pointé vers la droite, qui sépare un triangle vert (en haut) d'un triangle bleu (en bas), avec une couronne d'olivier dorée côté mât. Le Guyana a aussi une flèche, mais jaune sur fond vert.",
+    "capital": "Asmara, « la petite Rome » : une capitale à l'italienne, perchée à plus de 2 300 m d'altitude."
+  }
+}

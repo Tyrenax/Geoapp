@@ -1,0 +1,141 @@
+{
+  "id": "ARM",
+  "facts": [
+    {
+      "id": "ARM-1",
+      "topic": "histoire",
+      "era": "301",
+      "title": "Le premier État chrétien",
+      "short": "En 301 selon la tradition, le roi Tiridate IV se convertit au christianisme sous l'influence de saint Grégoire l'Illuminateur. L'Arménie devient ainsi le premier État au monde à adopter le christianisme comme religion officielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Le royaume d'Arménie est le premier État à reconnaître",
+          "to": "par saint Grégoire l'Illuminateur."
+        }
+      ]
+    },
+    {
+      "id": "ARM-2",
+      "topic": "culture",
+      "era": "406",
+      "title": "Un alphabet pour sauver une nation",
+      "short": "Pour affirmer l'unité de la nation arménienne, le moine Mesrob Machtots invente un alphabet, adopté par tout le royaume vers l'an 406. Ce geste politique fondateur sauve la culture arménienne de l'oubli.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Pour affirmer l'intégrité de la nation arménienne",
+          "to": "sauve ainsi cette culture de l'oubli."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Ainsi, vers l'an 406, l'alphabet arménien",
+          "to": "par l'ensemble du royaume."
+        }
+      ]
+    },
+    {
+      "id": "ARM-3",
+      "topic": "histoire",
+      "era": "1915",
+      "title": "Le génocide de 1915",
+      "short": "À partir du 24 avril 1915, le gouvernement Jeunes-Turcs de l'Empire ottoman organise déportations et massacres : entre 1 200 000 et 1 500 000 Arméniens périssent. La Turquie n'a jamais reconnu ce génocide.",
+      "long": "La négation du génocide par la Turquie, ainsi que le conflit du Karabagh, pèsent sur les relations entre les deux pays, au point que leur frontière commune est officiellement fermée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Le 24 avril 1915, le gouvernement Jeunes-Turcs",
+          "to": "perpétrant ainsi un génocide"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Ce génocide n'a jamais été reconnu en tant que tel par la Turquie",
+          "to": "un génocide des Arméniens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Les relations avec la Turquie sont très conflictuelles",
+          "to": "est officiellement fermée."
+        }
+      ]
+    },
+    {
+      "id": "ARM-4",
+      "topic": "geographie",
+      "era": "1915",
+      "title": "Le mont Ararat, symbole hors des frontières",
+      "short": "Le mont Ararat, 5 160 m, fut le point culminant historique de l'Arménie et en reste le symbole. Il se trouve pourtant aujourd'hui en Turquie ; le sommet du pays est désormais le mont Aragats, 4 095 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Son point culminant historique était le mont Ararat",
+          "to": "quelques névés sommitaux."
+        }
+      ]
+    },
+    {
+      "id": "ARM-5",
+      "topic": "histoire",
+      "title": "Un petit pays, une grande diaspora",
+      "short": "Peu peuplée, l'Arménie s'appuie sur une très importante diaspora : environ 1,5 million d'Arméniens en Russie, 1,2 million au Canada et aux États-Unis, 900 000 en Syrie et au Liban. Ses dons remplacent souvent l'État pour financer de grands projets, comme un tunnel routier vers la Géorgie.",
+      "long": "Le chanteur Charles Aznavour et le groupe System of a Down sont issus de cette diaspora.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Peu peuplée, l'Arménie jouit du soutien",
+          "to": "en Syrie et au Liban (900 000)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "Les dons recueillis par la diaspora arménienne",
+          "to": "sur l'axe menant vers la Géorgie,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Arménie",
+          "from": "De plus, dans la diaspora, il y a le groupe",
+          "to": "le chanteur Charles Aznavour."
+        }
+      ]
+    },
+    {
+      "id": "ARM-6",
+      "topic": "drapeau",
+      "era": "1990",
+      "title": "Rouge, bleu et couleur abricot",
+      "short": "Adopté le 24 août 1990, le drapeau est rouge, bleu et jaune-orangé, couleur que l'on appelle populairement « abricot ». On y lit souvent le sang versé pour le pays, le ciel et la fertilité du sol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Arménie",
+          "from": "Il est composé de trois bandes horizontales",
+          "to": "le 24 août 1990"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Arménie",
+          "from": "L'interprétation de la signification des trois couleurs est variable",
+          "to": "fait référence au sol fertile"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ARM-C1",
+      "topic": "histoire",
+      "era": "782 av. J.-C.",
+      "title": "Une ville avec son acte de naissance",
+      "short": "Erevan possède son « certificat de naissance » : une inscription gravée en 782 av. J.-C. sur ordre du roi Argishti Ier, qui fonde la forteresse d'Erebouni. C'est de ce nom que vient celui d'Erevan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Erevan",
+          "from": "Erevan est une ville ancienne qui possède",
+          "to": "(origine du nom « Erevan »)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays montagneux et enclavé du Caucase du Sud, entre la Turquie à l'ouest, la Géorgie au nord, l'Azerbaïdjan à l'est et l'Iran au sud. De Erevan, on voit le mont Ararat, de l'autre côté de la frontière turque.",
+    "flag": "Rouge, bleu, orange en trois bandes horizontales égales, l'orange en bas. La Colombie a aussi du jaune, du bleu et du rouge, mais dans l'ordre inverse et avec une bande jaune deux fois plus large.",
+    "capital": "Erevan, l'ancienne Erebouni, avec vue sur le mont Ararat."
+  }
+}

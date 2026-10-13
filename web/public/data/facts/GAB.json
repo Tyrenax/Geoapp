@@ -1,0 +1,147 @@
+{
+  "id": "GAB",
+  "facts": [
+    {
+      "id": "GAB-1",
+      "topic": "histoire",
+      "era": "1472",
+      "title": "Un pays nommé d'après un manteau de marin",
+      "short": "En 1472, les Portugais entrent dans l'estuaire où s'élève aujourd'hui Libreville. Sa forme leur rappelle un caban, un manteau de marin à capuche, gabão en portugais : le pays en tient son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "En 1472, les Portugais furent les premiers Européens à pénétrer la province de l’Estuaire du Gabon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Il dérive du mot portugais gabão (« caban », un vêtement à manches longues et capuche), en référence à la forme de l’estuaire situé près de l’actuelle Libreville."
+        }
+      ]
+    },
+    {
+      "id": "GAB-2",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Des outils vieux de 400 000 ans",
+      "short": "Dans la région de la Lopé, on a découvert des pierres taillées datées de 400 000 ans. Les chasseurs-cueilleurs de la forêt, comme les Baka ou les Babongo, comptent parmi les plus anciens habitants connus de la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Des pierres travaillées ont été découvertes dans la région de la Lopé, datées de 400 000 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Les chasseurs-cueilleurs de la forêt tropicale (souvent désignés sous le nom de Pygmées, parmi lesquels les Babongo, les Baka et les Bakoya) comptent parmi les plus anciens occupants connus de la région"
+        }
+      ]
+    },
+    {
+      "id": "GAB-3",
+      "topic": "histoire",
+      "era": "1958-1960",
+      "title": "Le pays qui voulait devenir un département français",
+      "short": "En 1958, le Gabon demande à devenir un département français. De Gaulle refuse et pousse le pays vers l'indépendance, acceptée le 17 août 1960 ; Léon Mba est élu président en 1961.",
+      "long": "De Gaulle s'en est expliqué : Léon Mba voulait le statut de département, mais la solution souhaitée par la France était l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "En octobre 1958, la Communauté française étant nouvellement créée, le Conseil de gouvernement du Gabon, s'appuyant sur l'article 76 de la Constitution, demanda à devenir un département français."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Au Gabon, Léon M'Ba voulait opter pour le statut de département français."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Qu’on m’imagine retournant à Libreville pour expliquer au Conseil de gouvernement que la solution souhaitée par la France c’était l’indépendance et non pas le département !"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Abandonnant sa demande de rattachement à la France, le Gabon accepte l'indépendance le 17 août 1960 et en 1961 Léon Mba (1902-1967), poussé par Charles de Gaulle, est élu président de la République indépendante."
+        }
+      ]
+    },
+    {
+      "id": "GAB-4",
+      "topic": "histoire",
+      "era": "1967-2023",
+      "title": "La dynastie Bongo",
+      "short": "En 1967, Albert-Bernard Bongo, choisi avec l'appui de Paris, succède à Léon Mba. Devenu Omar Bongo, il gouverne jusqu'à sa mort en 2009 ; son fils Ali lui succède, jusqu'au coup d'État de 2023.",
+      "long": "Bongo avait été choisi par Jacques Foccart, secrétaire général de l'Élysée pour les affaires africaines et malgaches. Il fait du Parti démocratique gabonais un parti unique en 1968 ; malgré le multipartisme des années 1990, le parti reste dominant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "En 1967, alors que Léon Mba est atteint d'un cancer, Albert Bernard Bongo (1935-2009), directeur de cabinet de Mba, est choisi par Jacques Foccart, secrétaire général à la présidence de la République pour les affaires africaines et malgaches"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Son vice-président, Omar Bongo, lui succède et déclare le Parti démocratique gabonais (PDG) parti unique en 1968. Bien que le multipartisme soit instauré au début des années 1990, le PDG reste toujours le parti dominant, tandis que Bongo se maintient au pouvoir jusqu'à sa propre mort en 2009."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Bien que le multipartisme soit instauré au début des années 1990, le PDG reste toujours le parti dominant, tandis que Bongo se maintient au pouvoir jusqu'à sa propre mort en 2009."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Son fils, Ali Bongo, devient alors le nouveau président, et gouverne le pays jusqu'à son renversement par le coup d'État de 2023."
+        }
+      ]
+    },
+    {
+      "id": "GAB-5",
+      "topic": "geographie",
+      "title": "Un réacteur nucléaire naturel",
+      "short": "En 1972, on découvre dans la mine d'uranium d'Oklo, au sud-est du pays, des réacteurs nucléaires… naturels. Il y a environ 2 milliards d'années, l'uranium y était assez riche pour déclencher spontanément des réactions de fission.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Le réacteur nucléaire naturel d’Oklo est un phénomène géologique unique découvert en 1972 dans la mine d’uranium d’Oklo, près de Franceville, dans le sud-est du Gabon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Il s’agit d’anciens réacteurs nucléaires naturels qui se sont formés il y a environ 2 milliards d’années, lorsque la proportion d’uranium 235 (environ 3 %) permettait le déclenchement d’une fission nucléaire spontanée."
+        }
+      ]
+    },
+    {
+      "id": "GAB-6",
+      "topic": "geographie",
+      "title": "Le pays des éléphants de forêt",
+      "short": "Pays de forêts, traversé par l'équateur, le Gabon compte treize parcs nationaux. Celui de Minkébé abriterait à lui seul plus de la moitié des éléphants de forêt d'Afrique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "C’est un pays forestier, où la faune et la flore sont encore bien conservées et protégées dans treize parcs nationaux dont le parc national de la Lopé et celui d'Ivindo, inscrits au patrimoine mondial de l'UNESCO."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gabon",
+          "quote": "Il abrite aussi plus de la moitié de la population des éléphants de forêt d'Afrique avec 22 000 individus (2005) dans le parc national de Minkébé."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GAB-C1",
+      "topic": "histoire",
+      "era": "1849",
+      "title": "La ville des esclaves libérés",
+      "short": "Libreville naît en 1849 d'un épisode de la lutte contre la traite : ses premiers habitants sont des esclaves libérés du navire négrier brésilien Elizia. Son nom exprime la liberté qu'ils venaient de retrouver.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "La création de Libreville (1849) est liée à l'incident du navire négrier brésilien Elizia."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Gabon",
+          "quote": "Ainsi, Libreville, nom choisi pour exprimer la liberté acquise par ces esclaves"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique centrale, pile sur l'équateur : la Guinée équatoriale et le Cameroun au nord, le Congo-Brazzaville à l'est et au sud.",
+    "flag": "Trois bandes horizontales : vert (la forêt) en haut, jaune (le soleil, l'équateur) au milieu, bleu (la mer) en bas. La Sierra Leone a vert, blanc, bleu.",
+    "capital": "LIBREville, la « ville libre », fondée avec des esclaves libérés."
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "BMU",
+  "facts": [
+    {
+      "id": "BMU-1",
+      "topic": "histoire",
+      "era": "1515",
+      "title": "Le nom d'un navigateur espagnol",
+      "short": "L'archipel doit son nom au navigateur espagnol Juan de Bermúdez, qui le découvre en 1515.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bermudes",
+          "from": "L'archipel des Bermudes doit son nom",
+          "to": "qui le découvrit en 1515."
+        }
+      ]
+    },
+    {
+      "id": "BMU-2",
+      "topic": "histoire",
+      "era": "1609-1612",
+      "title": "Une colonie née d'un naufrage",
+      "short": "En 1609, un navire de la Virginia Company, le Sea Venture, fait naufrage aux Bermudes : ses rescapés fondent par accident une colonie anglaise permanente. Elle devient officielle en 1612, avec Saint George's pour capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bermudes",
+          "from": "L'Angleterre établit (officieusement et par accident)",
+          "to": "« îles Somers »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Bermudes",
+          "from": "Dans la partie flottante du drapeau figure les armes du pays",
+          "to": "sur l'archipel en 1609."
+        }
+      ]
+    },
+    {
+      "id": "BMU-3",
+      "topic": "histoire",
+      "era": "1995",
+      "title": "Non à l'indépendance",
+      "short": "En août 1995, les Bermudiens rejettent l'indépendance par référendum, à 73 % des votants. L'archipel reste un territoire britannique d'outre-mer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bermudes",
+          "from": "En août 1995, lors d'un référendum",
+          "to": "contre l'indépendance des Bermudes."
+        }
+      ]
+    },
+    {
+      "id": "BMU-4",
+      "topic": "culture",
+      "title": "Le fameux « triangle »",
+      "short": "Les Bermudes ont donné leur nom à une célèbre légende, celle du Triangle des Bermudes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bermudes",
+          "from": "Les Bermudes sont liées à la légende",
+          "to": "du Triangle des Bermudes."
+        }
+      ]
+    },
+    {
+      "id": "BMU-5",
+      "topic": "drapeau",
+      "title": "Le naufrage sur le drapeau",
+      "short": "Le blason du drapeau montre un lion tenant un écu où est peinte l'épave du Sea Venture, le bateau des premiers arrivants en 1609.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Bermudes",
+          "from": "Dans la partie flottante du drapeau figure les armes du pays",
+          "to": "sur l'archipel en 1609."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BMU-C1",
+      "topic": "histoire",
+      "era": "1790-1815",
+      "title": "La capitale qui a remplacé Saint George's",
+      "short": "En 1790, le gouvernement achète 59 hectares pour y installer son nouveau siège. Hamilton devient officiellement la capitale en 1815, à la place de Saint George's.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hamilton_(Bermudes)",
+          "from": "L'histoire d'Hamilton commence en 1790",
+          "to": "qui s'y installa en 1793."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hamilton_(Bermudes)",
+          "from": "Hamilton devint officiellement la capitale de la colonie en 1815",
+          "to": "de la ville de Saint George's."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel isolé en plein Atlantique, à environ mille kilomètres à l'est des côtes des États-Unis : rien à voir avec les Caraïbes, bien plus au sud.",
+    "flag": "Un drapeau rouge (et non bleu, comme la plupart des territoires britanniques) avec l'Union Jack en haut à gauche et un lion tenant l'écu du naufrage.",
+    "capital": "Hamilton : un nom anglais, comme pour la plupart des capitales des territoires britanniques."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": "USA",
+  "facts": [
+    {
+      "id": "USA-1",
+      "topic": "histoire",
+      "era": "1507",
+      "title": "« America », un nom né dans les Vosges",
+      "short": "En 1507, à Saint-Dié, dans les Vosges, le cartographe Martin Waldseemüller dessine un planisphère et y écrit pour la première fois « America », en hommage au navigateur florentin Amerigo Vespucci.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États-Unis",
+          "quote": "En 1507, dans la ville vosgienne de Saint-Dié, le cartographe lorrain Martin Waldseemüller produit un planisphère (dit planisphère de Waldseemüller) représentant notamment la région méridionale du continent de l'hémisphère ouest. Il y inscrivit alors le prénom féminisé « America », en l'honneur du navigateur florentin Amerigo Vespucci."
+        }
+      ]
+    },
+    {
+      "id": "USA-2",
+      "topic": "histoire",
+      "era": "1776",
+      "title": "Treize colonies proclament leur indépendance",
+      "short": "Les colons des Treize colonies britanniques veulent se gouverner eux-mêmes : le 4 juillet 1776, le Congrès adopte la déclaration d'indépendance rédigée par Thomas Jefferson. Le 4 juillet est resté la fête nationale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "Désireux de s'affranchir de la métropole britannique et de gouverner par eux-mêmes, les colons des Treize colonies proclament leur indépendance en 1776."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "La déclaration d'indépendance, rédigée par Thomas Jefferson, est adoptée par le Congrès le 4 juillet 1776."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Les étoiles sont ajoutées le 4 juillet, jour de la fête nationale, suivant l'intégration des nouveaux États."
+        }
+      ]
+    },
+    {
+      "id": "USA-3",
+      "topic": "histoire",
+      "era": "1803-1867",
+      "title": "Un pays agrandi à coups d'achats",
+      "short": "Les États-Unis ont acheté une partie de leur territoire : la Louisiane à la France en 1803, puis l'Alaska à la Russie en 1867.",
+      "long": "La Louisiane d'alors n'est pas l'État actuel : c'est toute la région du Mississippi, que les Français avaient baptisée ainsi en l'honneur de Louis XIV. En la vendant aux États-Unis pour 15 millions de dollars, la France permet au jeune pays de doubler sa superficie d'un seul coup.\n\nLe reste de l'expansion vers l'ouest passe par des guerres, comme celle contre le Mexique, et se poursuit jusqu'au XXe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États-Unis",
+          "quote": "Le territoire américain s'agrandit progressivement vers l'ouest par des achats (Louisiane à la France en 1803, Alaska à la Russie en 1867) et des conflits."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "La domination française s'étend alors sur toute la région du Mississippi, baptisée « Louisiane » en l'honneur de Louis XIV."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "En 1803, la France vend la Louisiane aux États-Unis pour 15 millions de dollars, ce qui permet le doublement du territoire de l'Union."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "Par la suite, le territoire des États-Unis s'agrandit en incorporant de nouveaux États (par exemple avec l'achat de la Louisiane, la guerre américano-mexicaine, l'achat de l'Alaska, etc.) et cela jusqu'au XXe siècle."
+        }
+      ]
+    },
+    {
+      "id": "USA-4",
+      "topic": "histoire",
+      "era": "1861-1865",
+      "title": "La guerre de Sécession, première guerre moderne",
+      "short": "La guerre de Sécession oppose le Nord et le Sud. Sa première conséquence est l'abolition de l'esclavage.",
+      "long": "On la considère souvent comme la première guerre moderne : les armées se déplacent en train, communiquent par télégraphe, se battent avec des fusils rayés bien plus précis et des armes à répétition, et creusent des tranchées protégées par des sacs de terre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "Mais les passions sont telles que la Sécession du Sud s'annonce."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "La première conséquence de la guerre de Sécession est l'abolition de l'esclavage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_États-Unis",
+          "quote": "La guerre de Sécession est aussi considérée comme la première guerre moderne : recours massif aux transports ferroviaires, au télégraphe, adoption du fusil rayé qui décuple la puissance et la précision du tir, chargement des canons par la culasse, emploi d'armes à répétition, nouvelles formes de défense, tranchées, remblais de sacs de terre."
+        }
+      ]
+    },
+    {
+      "id": "USA-5",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Une étoile de plus à chaque nouvel État",
+      "short": "Les treize bandes rappellent les treize États fondateurs ; les étoiles, elles, suivent le nombre d'États. La version à cinquante étoiles est officielle depuis le 4 juillet 1960, après l'entrée d'Hawaï.",
+      "long": "Le nombre de bandes a un temps suivi celui des États, puis a été fixé définitivement à treize en 1818, tandis que les étoiles continuaient de s'ajouter. Il y a eu ainsi vingt-sept drapeaux différents.\n\nAvant l'Alaska et Hawaï, le drapeau à 48 étoiles est resté en usage de 1912 à 1959 : c'est lui qu'on voit sur la célèbre photo des soldats hissant la bannière à Iwo Jima.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Les treize bandes représentent les treize États fondateurs qui se sont unis pour former les États-Unis d'Amérique ; de même, il n'y avait initialement que treize étoiles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "La forme actuelle à cinquante étoiles est la version officielle depuis le 4 juillet 1960, qui résulte de l'intégration d'Hawaï le 21 août 1959 comme 50e État."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Ainsi, lorsqu'en 1795 le drapeau fut modifié à la suite des entrées du Vermont (en 1791) et du Kentucky (en 1792) dans l'Union, le nombre d'étoiles et le nombre de bandes passèrent à quinze"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Ce n'est qu'en 1818, après les admissions entre 1796 et 1817 de cinq nouveaux États qui n'avaient pas encore donné lieu à des changements, que le nombre treize fut repris et définitivement fixé pour le nombre de bandes, alors que le nombre d'étoiles continua d'évoluer et atteignit 20."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "On compte ainsi vingt-sept drapeaux différents, où seuls changent le nombre et la disposition des étoiles sur le champ bleu"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Depuis 2008, c'est la version qui est restée inchangée le plus longtemps : 66 ans, battant depuis cette date le record de longévité de la version à 48 étoiles (disposées en huit rangées verticales de six étoiles) qui était restée en usage durant 48 ans : du 4 juillet 1912 au 4 juillet 1959 (avant donc l'adhésion de l'Alaska et d'Hawaï)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États-Unis",
+          "quote": "Cette version à 48 étoiles a notamment été utilisée pendant les deux guerres mondiales et c'est donc celle que l'on voit sur la célèbre photographie de Joe Rosenthal : Raising the Flag on Iwo Jima."
+        }
+      ]
+    },
+    {
+      "id": "USA-6",
+      "topic": "geographie",
+      "title": "Des États plus grands que des pays",
+      "short": "Les 48 États d'un seul tenant s'étirent sur quatre fuseaux horaires. Et l'Alaska comme le Texas sont chacun plus vastes que n'importe quel pays d'Europe, Russie mise à part.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États-Unis",
+          "quote": "Situés en Amérique du Nord, les 48 États d'un seul tenant (appelés parfois « Mainland » ou « États-Unis continentaux »), dont la forme évoque un pentagone s'étirent sur quatre fuseaux horaires."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États-Unis",
+          "quote": "Les États de l'Alaska et du Texas sont ainsi plus grands que tout autre pays européen (hors Russie)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "USA-C1",
+      "topic": "histoire",
+      "era": "1790",
+      "title": "Une capitale dessinée par un Français",
+      "short": "Washington n'a pas grandi peu à peu : une loi de 1790 décide de créer une capitale fédérale, fondée sur les rives du Potomac et tracée par l'ingénieur français Pierre Charles L'Enfant.",
+      "long": "L'Enfant avait combattu aux côtés des insurgés américains pendant la guerre d'Indépendance ; c'est là qu'il avait connu George Washington, à qui il propose ensuite ses services. Son plan en damier est traversé de grandes avenues obliques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Washington est créée à la suite de la signature du Residence Act en 1790, qui prévoit la création d'une capitale fédérale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Nommée en hommage au premier président des États-Unis, George Washington, elle est construite ex nihilo selon un plan hippodamien de l'ingénieur français Pierre Charles L'Enfant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Elle est fondée en janvier 1791, sur les rives du fleuve Potomac, à proximité des villes de Georgetown et d'Alexandria."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Son plan est l'œuvre de Pierre Charles L'Enfant, un ingénieur militaire, fils d'un peintre de la cour de France qui propose ses services à George Washington, dont il a fait la connaissance durant la guerre d'Indépendance alors qu'il s'était engagé en 1777, à l'âge de 23 ans, aux côtés des insurgés américains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Ensuite, le plan orthogonal, conçu par l'architecte et urbaniste français Pierre Charles L'Enfant, trace des axes obliques qui contrarient la structure en damier."
+        }
+      ]
+    },
+    {
+      "id": "USA-C2",
+      "topic": "histoire",
+      "era": "1814",
+      "title": "La Maison-Blanche incendiée par les Britanniques",
+      "short": "En août 1814, les troupes britanniques entrent dans Washington et détruisent la Maison-Blanche, les bâtiments du Congrès et le Trésor. Le président Madison a dû fuir dans les montagnes de Virginie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Le 24 août 1814, le général britannique Robert Ross remporta la bataille de Bladensburg (en), qui lui ouvre le chemin de Washington."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Washington_(district_de_Columbia)",
+          "quote": "Cela provoque la retraite du président James Madison dans les montagnes de Virginie. La plupart des habitants de la ville s'enfuient également devant l'avancée britannique. Le 25 août, les troupes britanniques marchent sur Capitol Hill. Ne pouvant occuper la ville, Robert Ross veut la détruire. La Maison-Blanche, les bâtiments du Sénat, de la Chambre des représentants et du Trésor sont détruits, de même que l'intérieur de la Bibliothèque du Congrès."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le grand pays coincé entre le Canada au nord et le Mexique au sud, avec l'Atlantique à l'est et le Pacifique à l'ouest. N'oublie pas ses deux morceaux détachés : l'Alaska, collé au Canada au nord-ouest, et l'archipel d'Hawaï, au milieu du Pacifique.",
+    "flag": "Treize bandes rouges et blanches et un canton bleu semé de cinquante étoiles blanches. Le Liberia lui ressemble, mais n'a que onze bandes et une seule grande étoile ; la Malaisie a aussi des bandes rouges et blanches, avec un croissant et une étoile jaunes dans le canton.",
+    "capital": "Washington porte le nom du premier président, George Washington : la capitale est celle du « père de la nation ». Ne la confonds pas avec l'État de Washington, tout à l'ouest, au bord du Pacifique."
+  }
+}

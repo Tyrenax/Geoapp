@@ -1,0 +1,129 @@
+{
+  "id": "KHM",
+  "facts": [
+    {
+      "id": "KHM-1",
+      "topic": "histoire",
+      "era": "XIIe siècle",
+      "title": "L'Empire khmer et Angkor Vat",
+      "short": "Au XIIe siècle, l'Empire khmer domine la majeure partie de la péninsule indochinoise. De nombreux temples sont alors érigés sur tout le territoire ; le plus célèbre est Angkor Vat.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "Le Cambodge actuel se veut l’héritier de l’Empire khmer qui domine la majeure partie de la péninsule indochinoise au XIIe siècle. De nombreux temples sont alors érigés sur l’ensemble du territoire, dont le plus notable est Angkor Vat."
+        }
+      ]
+    },
+    {
+      "id": "KHM-2",
+      "topic": "histoire",
+      "era": "1863-1953",
+      "title": "Sous protectorat français",
+      "short": "Affaibli par ses voisins, le Siam à l'ouest et l'Annam à l'est, le Cambodge passe sous protectorat français en 1863 et entre dans l'Indochine française. Il retrouve son indépendance en 1953, après la guerre d'Indochine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "S’ensuit un long déclin au profit du Siam (actuelle Thaïlande) à l’ouest puis de l’Annam à l’est ; l'affaiblissement prend fin avec la mise sous tutelle du pays par la France, à la suite de la signature d’un traité de « protectorat » en 1863."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "En 1863, le Cambodge devient un protectorat français comme partie de l'Indochine française. Après la guerre d'Indochine, le pays recouvre son indépendance en 1953 en tant que monarchie constitutionnelle."
+        }
+      ]
+    },
+    {
+      "id": "KHM-3",
+      "topic": "histoire",
+      "era": "1975-1979",
+      "title": "Le génocide des Khmers rouges",
+      "short": "En 1975, les Khmers rouges de Pol Pot prennent Phnom Penh et vident les villes de leurs habitants, envoyés dans les campagnes. En quatre ans, leur régime commet un génocide qui tue près d'un quart de la population. Il est renversé en 1979 par le Viêt Nam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "Les Khmers rouges de Pol Pot, soutenus par la république populaire de Chine, prennent Phnom Penh le 17 avril 1975 et installent un régime totalitaire maoïste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "Les villes, à l'image de Phnom Penh dans la nuit du 17 au 18 avril 1975, sont vidées de leurs habitants, envoyés en rééducation dans les campagnes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "Au cours des quatre années suivantes, les Khmers rouges commettent un génocide, durant lequel près d'un quart de la population est tué.\nEn 1979, les Khmers rouges sont renversés par une guerre contre le Viêt Nam,"
+        }
+      ]
+    },
+    {
+      "id": "KHM-4",
+      "topic": "histoire",
+      "era": "1970",
+      "title": "Sous un déluge de bombes",
+      "short": "Pendant la guerre du Viêt Nam, les États-Unis larguent sur le Cambodge plus de 2,7 millions de tonnes de bombes, ce qui en fait le pays le plus bombardé de l'histoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "Dans le contexte de la guerre froide et de la guerre du Vietnam, une guerre civile éclate en 1967 entre le gouvernement et les rebelles communistes des Khmers rouges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "À la fin de 1970, les Khmers rouges et le Nord-Vietnam sont en passe de gagner, mais les États-Unis interviennent intensivement (larguant plus de 2,7 millions de tonnes de bombes, faisant du Cambodge le pays le plus bombardé de l'histoire)."
+        }
+      ]
+    },
+    {
+      "id": "KHM-5",
+      "topic": "geographie",
+      "title": "Le fleuve qui change de sens",
+      "short": "La géographie du Cambodge est dominée par le Mékong et le lac Tonlé Sap. À la saison des pluies, le courant s'inverse : le Mékong se déverse dans le Tonlé Sap, dont le lac s'étend alors considérablement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cambodge",
+          "quote": "La géographie du Cambodge est dominée par le fleuve Mékong et le lac Tonlé Sap, principales ressources halieutiques. Sa faible altitude fait que le pays se trouve en grande partie au niveau ou sous le niveau des fleuves. À la saison des pluies, le courant du Mékong se renverse et s’écoule vers le Tonlé Sap dont le lac augmente considérablement sa superficie."
+        }
+      ]
+    },
+    {
+      "id": "KHM-6",
+      "topic": "drapeau",
+      "title": "Un temple sur le drapeau",
+      "short": "Au centre du drapeau cambodgien, entre deux bandes bleues et une bande rouge, se dessine en blanc le temple d'Angkor Vat. C'est le seul drapeau national à représenter un bâtiment réel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cambodge",
+          "quote": "est constitué d'une bande rouge horizontale entourée de deux bandes bleues, l'une en haut et l'autre en bas. Au centre se dessine en blanc une représentation d'Angkor Vat ( = le Temple d'Angkor )."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Cambodge",
+          "quote": "Les couleurs rouge et bleu étaient les couleurs traditionnelles de l'Empire khmer du IXe siècle. La couleur bleue symbolise la royauté du Cambodge, le rouge représente la Nation et le blanc évoque la Religion, principalement le bouddhisme. Par coïncidence, les couleurs du nouveau drapeau étaient celles de la puissance protectrice française.\nIl s'agit du seul drapeau national à représenter un bâtiment réel."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KHM-C1",
+      "topic": "culture",
+      "title": "La colline de grand-mère Penh",
+      "short": "Phnom Penh signifie « colline de Penh ». La ville tire son nom d'un temple bâti sur un tertre, le Wat Phnom Daun Penh ; Daun Penh, « grand-mère Penh », était une riche veuve qui l'aurait fait construire.",
+      "long": "Dans les années 1920, à l'époque de l'Indochine française, on surnommait la ville la « Perle de l'Asie ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Phnom_Penh",
+          "quote": "Phnom Penh (en khmer : ភ្នំពេញ, romanisation : Phnum Pɨñ, /pʰnʊm ˈpɨɲ/ ; littéralement : « Colline de Penh ») est la capitale du Cambodge, située dans la moitié sud du pays, au confluent du Tonlé Sap et du Mékong."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Phnom_Penh",
+          "quote": "La ville tire son nom du Wat Phnom Daun Penh (connu maintenant seulement comme Wat Phnom, ou « temple de la colline » វត្តភ្នំ), édifice religieux construit en 1373 pour abriter cinq statues du Bouddha sur un tertre de 27 m de haut. Daun Penh (« Grand-mère Penh ») était une riche veuve qui l'aurait fait construire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Phnom_Penh",
+          "quote": "Devenue capitale du Royaume à l'époque de l'Indochine française, Phnom Penh était surnommée la  « Perle de l'Asie » dans les années 1920."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Asie du Sud-Est, sur la péninsule indochinoise, entre la Thaïlande à l'ouest, le Laos au nord et le Viêt Nam à l'est, avec une ouverture sur le golfe de Thaïlande.",
+    "flag": "Le seul drapeau avec un temple : Angkor Vat en blanc, sur une bande rouge entre deux bandes bleues.",
+    "capital": "Phnom Penh, dans le sud, au confluent du Mékong et du Tonlé Sap."
+  }
+}

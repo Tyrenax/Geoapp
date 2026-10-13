@@ -1,0 +1,174 @@
+{
+  "id": "LVA",
+  "facts": [
+    {
+      "id": "LVA-1",
+      "topic": "histoire",
+      "era": "Moyen Âge",
+      "title": "Sous la domination des Allemands",
+      "short": "Au Moyen Âge, des Allemands asservissent les populations indigènes et développent le commerce sur la Baltique. Riga est fondée en 1201 par Albert de Buxhoeveden, évêque de Livonie et fondateur de l'ordre des chevaliers Porte-Glaives.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Durant le Moyen Âge, les Allemands asservissent les populations indigènes et développent le commerce sur la mer Baltique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riga",
+          "quote": "La ville est mentionnée pour la première fois, dans un écrit, en 1198, mais elle a été fondée officiellement en 1201, par Albert de Buxhoeveden, évêque de Livonie et fondateur de l'ordre des chevaliers Porte-Glaives,"
+        }
+      ]
+    },
+    {
+      "id": "LVA-2",
+      "topic": "histoire",
+      "era": "1918-1940",
+      "title": "Une première indépendance",
+      "short": "Profitant de la révolution russe et de la défaite allemande de novembre 1918, les Lettons fondent leur propre État. Leur indépendance est reconnue internationalement en 1919 ; la première république dure jusqu'en 1940.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Profitant de l'instabilité consécutive à la révolution russe, les Lettons créent leur propre État à partir de 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Selon ce traité, le territoire de la Lettonie aurait dû être annexée par le Reich, mais la défaite allemande du 11 novembre 1918 lui permet de déclarer pour la première fois son indépendance qui est reconnue internationalement en 1919 (république de Lettonie, 1918-1940)."
+        }
+      ]
+    },
+    {
+      "id": "LVA-3",
+      "topic": "histoire",
+      "era": "1940-1953",
+      "title": "Entre deux occupations",
+      "short": "Pendant la Seconde Guerre mondiale, la Lettonie subit les crimes de masse de l'URSS comme de l'Allemagne nazie. Environ 70 000 Juifs lettons sont assassinés, par les Einsatzgruppen allemands mais aussi par des unités auxiliaires lettones, et quelque 70 000 Lettons sont déportés par les Soviétiques.",
+      "long": "La déportation de 1949 frappe à elle seule 42 133 personnes, soit 2 % de la population d'avant-guerre. Des maquisards continuent la lutte armée contre les Soviétiques jusqu'à la mort de Staline, en 1953.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Lors de la Seconde Guerre mondiale, la population lettone est victime de persécutions et de crimes de masse perpétrés tant par l'Union soviétique que par l'Allemagne nazie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Accusés en bloc d'avoir soutenu les Soviétiques, environ 70 000 juifs lettons furent assassinés en Lettonie durant la Seconde Guerre mondiale, par des Einsatzgruppen allemands mais aussi par des unités paramilitaires et les forces de police auxiliaires lettones."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Quelque 70 000 Lettons furent déportés par les Soviétiques et seule une minorité survécut au goulag ; ils furent remplacés après la guerre par des colons russes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "En 1949, une seconde vague de déportations eut lieu : 42 133 personnes furent déportées à Krasnoïarsk, Amur, Irkoutsk, Omsk, Tomsk et Novossibirsk en Sibérie (soit 2 % de la population lettone avant la guerre)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Pendant l'occupation soviétique, la lutte armée par les maquisards lettons continua jusqu'à la mort de Joseph Staline en mars 1953."
+        }
+      ]
+    },
+    {
+      "id": "LVA-4",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Libre avant la fin de l'URSS",
+      "short": "Occupée et annexée illégalement par l'URSS, la Lettonie retrouve son indépendance en 1991, avec la Lituanie et l'Estonie, avant même l'effondrement complet de l'Union soviétique. Elle rejoint l'Union européenne le 1er mai 2004.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "L'URSS occupe et annexe illégalement le territoire jusqu'en 1991, date à laquelle la Lettonie retrouve son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Redevenue indépendante en 1991, comme la Lituanie et l'Estonie avant même l'effondrement total de l'Union soviétique, la Lettonie n'adhère pas à la CEI."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "La Lettonie compte parmi les États membres de l'Union européenne depuis le 1er mai 2004."
+        }
+      ]
+    },
+    {
+      "id": "LVA-5",
+      "topic": "culture",
+      "era": "1873",
+      "title": "Un peuple de chanteurs",
+      "short": "Environ la moitié des Lettons a suivi une école de musique, chante dans un chœur ou joue d'un instrument. Depuis 1873, tous les cinq ans, les grandes fêtes nationales du Chant et de la Danse rassemblent le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Environ la moitié des Lettons soit a suivi les cours d'une école de musique, soit chante dans un chœur, soit sait jouer d'un instrument."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "Les festivals nationaux lettons du Chant et de la Danse (Latviesu Dziesmu un Deju Svetki) sont d'importants événements dans la vie culturelle de la Lettonie et ont lieu tous les cinq ans depuis 1873."
+        }
+      ]
+    },
+    {
+      "id": "LVA-6",
+      "topic": "drapeau",
+      "era": "1279",
+      "title": "Un drapeau du XIIIe siècle",
+      "short": "Le rouge grenat barré de blanc est attesté dès 1279 en Latvie, la région qui deviendra le foyer national letton. Selon une croyance, le rouge serait le sang des soldats tombés au combat, et le blanc, la neige restée immaculée sous leurs corps.",
+      "long": "Adopté à l'indépendance en 1918, il est interdit par les Soviétiques à partir de 1940 : le posséder pouvait valoir des poursuites pénales.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lettonie",
+          "quote": "À partir de 1279, le grenat-blanc-grenat devint le drapeau de la Latvie, une région qui deviendra le foyer national letton."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lettonie",
+          "quote": "Selon certaines croyances, il représenterait le sol sous les soldats tombés au combat, leur sang coulant autour d'eux, mais sous eux, la neige restait immaculée, ne tournant pas le dos aux ennemis, aucune blessure ne pouvait saigner."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lettonie",
+          "quote": "Ce drapeau est adopté lors de l'indépendance en 1918. Interdit par les Soviétiques à partir de 1940 suite à l'occupation de la Lettonie, l'usage ou la possession de ce drapeau était passible de poursuites pénales."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LVA-C1",
+      "topic": "histoire",
+      "era": "1201-1282",
+      "title": "Une ville de la Hanse",
+      "short": "Fondée officiellement en 1201 sur une île de la Daugava, Riga entre dans la ligue hanséatique en 1282. Elle est aujourd'hui le principal centre économique des pays baltes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riga",
+          "quote": "mais elle a été fondée officiellement en 1201, par Albert de Buxhoeveden, évêque de Livonie et fondateur de l'ordre des chevaliers Porte-Glaives, sur une île fluviale formée par un bras de la Daugava."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riga",
+          "quote": "Entrée dans la ligue hanséatique en 1282, Riga sera au fil des siècles victime de l'instabilité politique des pays baltes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lettonie",
+          "quote": "et sa capitale Riga constitue le principal centre économique des pays baltes."
+        }
+      ]
+    },
+    {
+      "id": "LVA-C2",
+      "topic": "culture",
+      "era": "1997",
+      "title": "La capitale de l'Art nouveau",
+      "short": "Riga possède la plus forte concentration de bâtiments Art nouveau d'Europe, construits pour beaucoup entre 1895 et 1912, notamment par Mikhaïl Eisenstein. Son centre historique est inscrit au patrimoine mondial depuis 1997.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riga",
+          "quote": "Grâce à la plus forte concentration de bâtiments de style Art nouveau en Europe, le centre historique de Riga a été inclus, en 1997, sur la liste du patrimoine mondial de l'Unesco, ce qui permet la préservation présente et future de la vieille ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Riga",
+          "quote": "l'un des intérêts de Rīga réside dans un ensemble de témoignages de l'Art nouveau réalisés entre 1895 et 1912, en particulier par Mikhaïl Eisenstein."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le pays balte du milieu, entre l'Estonie au nord et la Lituanie au sud, avec la Russie et la Biélorussie à l'est. Riga s'ouvre au fond d'un grand golfe, le golfe de Riga.",
+    "flag": "Rouge sombre (grenat) avec une fine bande blanche au milieu. L'Autriche a le même dessin, mais un rouge vif et une bande blanche aussi large que les rouges.",
+    "capital": "Riga, au fond du golfe du même nom : la ville de la Hanse et de l'Art nouveau."
+  }
+}

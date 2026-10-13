@@ -1,0 +1,119 @@
+{
+  "id": "BLM",
+  "facts": [
+    {
+      "id": "BLM-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Ouanalao, abordée par Colomb",
+      "short": "Les Kalinas appelaient l'île Ouanalao. Christophe Colomb l'aborde lors de son deuxième voyage, en 1493.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Le nom kalina de l'île était Ouanalao ou Arawak."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Christophe Colomb aborde l'île lors de son deuxième voyage (1493)."
+        }
+      ]
+    },
+    {
+      "id": "BLM-2",
+      "topic": "histoire",
+      "era": "1651-1674",
+      "title": "Une île des chevaliers de Malte",
+      "short": "De 1651 à 1674, Saint-Barthélemy appartient à l'ordre de Saint-Jean de Jérusalem, les chevaliers de Malte, avant d'être rachetée par la France. La croix de Malte figure encore sur son blason.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gustavia_(Saint-Barthélemy)",
+          "quote": "En 1674, après l'achat de l'île par la France à l'ordre de Saint-Jean de Jérusalem qui en était le propriétaire depuis 1651"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Le blason de Saint-Barthélemy est composé dans le chef azur, de trois fleurs de lys représentant la souveraineté française, sur la fasce de gueules, une croix de Malte qui rappelle la possession et le gouvernement des Hospitaliers de l'ordre de Saint-Jean de Jérusalem"
+        }
+      ]
+    },
+    {
+      "id": "BLM-3",
+      "topic": "histoire",
+      "era": "1784-1878",
+      "title": "Un siècle sous pavillon suédois",
+      "short": "En 1784, Louis XVI cède l'île au roi Gustave III de Suède, contre un droit d'entrepôt à Göteborg. Les Suédois en font un port franc. La France la rachète pour 320 000 francs et la rattache à la Guadeloupe en 1878.",
+      "long": "Le suédois a été la langue administrative de l'île pendant toute cette période : de nombreuses archives de 1784 à 1878 sont rédigées en suédois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "En 1784, l'île est cédée par Louis XVI au roi Gustave III de Suède contre un droit d'entrepôt à Göteborg."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Les Suédois font de Saint-Barthélemy un port franc en 1785."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Moyennant le versement de 320 000 francs, Saint-Barthélemy retourne à la France et est rattachée à la Guadeloupe le 16 mars 1878."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Le suédois a disparu depuis les années 1970, mais il reste une langue culturelle du patrimoine, car de nombreux documents des archives, entre 1784 et 1878, sont rédigés en suédois, qui fut la langue coloniale de cette époque."
+        }
+      ]
+    },
+    {
+      "id": "BLM-4",
+      "topic": "politique",
+      "era": "2007",
+      "title": "Une collectivité d'outre-mer depuis 2007",
+      "short": "Longtemps commune de la Guadeloupe, Saint-Barthélemy forme depuis le 15 juillet 2007 une collectivité d'outre-mer à part entière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Avec les îlots qui en dépendent et sont situés à moins de 8 milles marins de ses côtes, elle constitue la collectivité de Saint-Barthélemy, une collectivité d'outre-mer (COM) au sens de l'article 74 de la Constitution depuis le 15 juillet 2007."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "De 1962 à 2007, les communes de Saint-Martin et de Saint-Barthélemy constituent le 3e arrondissement de la Guadeloupe (« les îles du Nord »)"
+        }
+      ]
+    },
+    {
+      "id": "BLM-5",
+      "topic": "geographie",
+      "era": "2017",
+      "title": "Dévastée par Irma",
+      "short": "Le 6 septembre 2017, l'île est frappée de plein fouet par l'ouragan Irma, l'un des plus puissants jamais enregistrés dans l'Atlantique Nord.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Barthélemy_(Antilles_françaises)",
+          "quote": "Le 6 septembre 2017, Saint-Barthélemy est directement touchée par l'ouragan Irma, l'un des plus puissants jamais enregistrés dans l'Atlantique Nord (classé 5), et le plus long (plus de 33 heures) jamais documenté dans le monde."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BLM-C1",
+      "topic": "histoire",
+      "era": "1787",
+      "title": "Le Carénage devenu Gustavia",
+      "short": "Le bourg s'appelait d'abord « Le Carénage », car son abri permettait de caréner les bateaux. En 1787, les Suédois le rebaptisent Gustavia, en l'honneur de leur roi Gustave III.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gustavia_(Saint-Barthélemy)",
+          "quote": "le site de Gustavia est nommé « Le Carénage », probablement du fait de l'abri qu'il procure pour permettre de caréner les bateaux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gustavia_(Saint-Barthélemy)",
+          "quote": "En 1787, le bourg du Carénage est renommé « Gustavia » en l'honneur du roi de Suède Gustave III."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île française des Antilles au sud-est de Saint-Martin, au nord de Saint-Christophe.",
+    "flag": "Pas de drapeau propre officiel : on y hisse le drapeau tricolore français, bleu, blanc, rouge.",
+    "capital": "Gustavia, la ville de Gustave : le nom suédois rappelle le siècle où l'île appartenait à la Suède."
+  }
+}

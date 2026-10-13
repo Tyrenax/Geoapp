@@ -1,0 +1,176 @@
+{
+  "id": "CYP",
+  "facts": [
+    {
+      "id": "CYP-1",
+      "topic": "histoire",
+      "title": "L'île du cuivre",
+      "short": "Le nom grec de l'île, Kupros, signifie « cuivre » : ses riches gisements de ce métal ont fait sa renommée et sa prospérité dans toute la Méditerranée. Le cuivre se retrouve d'ailleurs sur son drapeau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Son nom de « Kupros »",
+          "to": "dans l'ensemble du bassin méditerranéen."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Chypre",
+          "from": "La carte est de couleur cuivre",
+          "to": "dont la couleur est jaune."
+        }
+      ]
+    },
+    {
+      "id": "CYP-2",
+      "topic": "histoire",
+      "title": "Une île convoitée",
+      "short": "Chypre a connu une histoire mouvementée et de nombreuses tutelles : grecque, romaine, byzantine, arabe, franque, vénitienne, ottomane et enfin britannique. Le Royaume-Uni y conserve encore deux bases militaires souveraines.",
+      "long": "Ces bases, Akrotiri et Dhekelia, donnent à cette île environ 150 km de frontière terrestre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "L'histoire de Chypre fut très mouvementée",
+          "to": "ottomane et enfin britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Ce dernier conserve deux bases souveraines",
+          "to": "près de 4 200 soldats britanniques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Bien qu'étant une île, Chypre possède",
+          "to": "d'Akrotiri et Dhekelia."
+        }
+      ]
+    },
+    {
+      "id": "CYP-3",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "Une indépendance sous garantie",
+      "short": "Chypre devient indépendante du Royaume-Uni le 16 août 1960, sous un traité de garantie qui associe la Turquie, la Grèce et le Royaume-Uni. Dès les années 1960, des affrontements opposent les communautés grecque et turque.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "La république de Chypre actuelle obtient son indépendance",
+          "to": "la Grèce et le Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Percevant le risque de marginalisation",
+          "to": "tant côté turc que grec."
+        }
+      ]
+    },
+    {
+      "id": "CYP-4",
+      "topic": "histoire",
+      "era": "1974",
+      "title": "Une île coupée en deux",
+      "short": "En juillet 1974, après une tentative de coup d'État menée par des officiers grecs acquis aux colonels, la Turquie intervient militairement et prend le nord de l'île. Depuis, une « ligne verte » surveillée par l'ONU sépare les deux parties ; en 1983, le nord se proclame « république turque de Chypre du Nord ».",
+      "long": "Environ 200 000 Chypriotes grecs doivent quitter le nord entre 1974 et 1975, tandis que les Chypriotes turcs s'installent au nord. Il ne reste aujourd'hui que deux villages mixtes sur l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Le 15 juillet 1974, la Garde nationale chypriote",
+          "to": "le contrôle de 38 % du territoire)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Depuis 1974, le tiers nord de l’île",
+          "to": "république turque de Chypre du Nord (RTCN)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "200 000 Chypriotes grecs sont contraints à l'exode",
+          "to": "lors de pourparlers à Vienne (Autriche)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Depuis la partition, il ne reste en tout que deux villages mixtes",
+          "to": "deux villages mixtes dans toute l'île"
+        }
+      ]
+    },
+    {
+      "id": "CYP-5",
+      "topic": "politique",
+      "era": "2004",
+      "title": "Un plan de réunification rejeté",
+      "short": "Juste avant l'entrée de Chypre dans l'Union européenne, en 2004, un plan de réunification porté par l'ONU est soumis à référendum : accepté par plus de 65 % des habitants du nord, il est rejeté par 70 % de ceux du sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "En 2003, la perspective de l'entrée de Chypre",
+          "to": "Kofi Annan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "ce plan fut accepté à plus de 65 %",
+          "to": "lors d'un référendum"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Chypre est membre de l'ONU (depuis le 20 septembre 1960)",
+          "to": "de l'UE (depuis 2004),"
+        }
+      ]
+    },
+    {
+      "id": "CYP-6",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Une carte et deux rameaux d'olivier",
+      "short": "Le drapeau de Chypre, officialisé le 16 août 1960, montre la carte de l'île en couleur cuivre au-dessus de deux rameaux d'olivier, symboles de paix, sur fond blanc. La carte occupe 44 % du drapeau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Chypre",
+          "from": "Le drapeau de la république de Chypre a été officialisé",
+          "to": "le 16 août 1960"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Chypre",
+          "from": "Ce drapeau représente la carte de l'île",
+          "to": "sur un fond blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Chypre",
+          "from": "La carte de l'île occupe 44 % du drapeau.",
+          "to": "44 % du drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CYP-C1",
+      "topic": "histoire",
+      "era": "1974",
+      "title": "Une capitale coupée en deux",
+      "short": "Depuis 1974, Nicosie est divisée en deux par la ligne verte, une zone démilitarisée contrôlée par l'ONU. Le secteur nord est la capitale de la république autoproclamée de Chypre du Nord.",
+      "long": "En 2008, la rue Ledra, coupée par un mur depuis 1974, est rouverte et devient le premier point de passage du centre-ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicosie",
+          "from": "Depuis l’invasion turque de Chypre, la ville est divisée",
+          "to": "la totalité de l'île entre ces deux entités)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nicosie",
+          "from": "Nicosie fut la scène d'une violence extrême",
+          "to": "dont elle est la capitale,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Chypre_(pays)",
+          "from": "Le 3 avril 2008, malgré l'opposition de l'armée turque",
+          "to": "le premier point de passage du centre de la ville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une grande île de l'est de la Méditerranée, au sud de la Turquie et à l'ouest de la Syrie et du Liban. Une ligne de démarcation la traverse d'ouest en est, et passe au milieu de Nicosie.",
+    "flag": "Fond blanc avec la silhouette de l'île en couleur cuivre et deux rameaux d'olivier verts en dessous. Avec le Kosovo, c'est l'un des rares drapeaux à montrer une carte.",
+    "capital": "Nicosie, au centre de l'île, une capitale coupée en deux par la ligne verte."
+  }
+}

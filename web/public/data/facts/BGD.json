@@ -1,0 +1,146 @@
+{
+  "id": "BGD",
+  "facts": [
+    {
+      "id": "BGD-1",
+      "topic": "histoire",
+      "title": "Le pays du Bengale",
+      "short": "Bangladesh signifie littéralement « le pays du Bengale ». L'origine du mot Bangla reste incertaine : il viendrait de Bang, le nom d'une tribu installée dans la région vers l'an 1000 av. J.-C.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Le Bangladesh (/bɑ̃.ɡla.dɛʃ/ ; bengali : বাংলাদেশ /ˈbaŋlad̪eʃ/ , littéralement « le pays du Bengale »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "L'origine exacte du mot « Bangla » ou « Bengal » est inconnue, quoiqu'on les pense dérivés de « Bang », le nom d'une tribu parlant le dravidien et installée dans la région aux environs de -1000."
+        }
+      ]
+    },
+    {
+      "id": "BGD-2",
+      "topic": "histoire",
+      "era": "1947",
+      "title": "Le Pakistan oriental",
+      "short": "En 1947, la partition des Indes coupe le Bengale en deux : l'ouest, à majorité hindoue, va à l'Inde ; l'est, à majorité musulmane, devient une province du Pakistan, le Bengale oriental.",
+      "long": "Dès 1952, le Mouvement pour la langue révèle les tensions : le pouvoir, aux mains du Pakistan occidental, a proclamé l'ourdou langue officielle du Pakistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Lorsque l'Inde est divisée en 1947, le Bengale est de nouveau séparé en deux pour des raisons religieuses ; la partie occidentale, majoritairement hindoue, est donnée à l'Inde et la partie orientale, majoritairement musulmane, devient une province du Pakistan appelée Bengale oriental"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Le Mouvement pour la Langue de 1952 est le premier signe de tension entre les deux parties du Pakistan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Soumis à une discrimination politique et linguistique — l'ourdou étant proclamé langue officielle du Pakistan — ainsi qu'à une négligence économique de la part du pouvoir aux mains du Pakistan occidental, les Bengalis du Pakistan oriental déclarent l'indépendance en 1971, appuyés par l'Inde et l'URSS."
+        }
+      ]
+    },
+    {
+      "id": "BGD-3",
+      "topic": "histoire",
+      "era": "1971",
+      "title": "La guerre de libération",
+      "short": "En 1971, les Bengalis du Pakistan oriental déclarent leur indépendance. La guerre de libération dure neuf mois ; le conflit et le génocide qui l'accompagnent font entre 300 000 et 3 millions de morts et 10 millions de réfugiés. L'armée indienne intervient en décembre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Soumis à une discrimination politique et linguistique — l'ourdou étant proclamé langue officielle du Pakistan — ainsi qu'à une négligence économique de la part du pouvoir aux mains du Pakistan occidental, les Bengalis du Pakistan oriental déclarent l'indépendance en 1971, appuyés par l'Inde et l'URSS."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Un conflit et un génocide contre les Bengalis s'ensuivent, faisant entre 300 000 et 3 millions de morts, 10 millions de réfugiés"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "La guerre de libération du Bangladesh dure neuf mois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "La guérilla menée par les Mukti Bahini (Freedom Fighters) et les troupes bengalies sont finalement aidés par les Forces armées indiennes en décembre 1971, lors de la Troisième guerre indo-pakistanaise."
+        }
+      ]
+    },
+    {
+      "id": "BGD-4",
+      "topic": "geographie",
+      "title": "Un pays-delta",
+      "short": "Le Bangladesh est presque entièrement occupé par le delta du Gange et du Brahmapoutre. La plus grande partie du pays est à moins de douze mètres d'altitude, et environ 10 % du territoire est sous le niveau de la mer.",
+      "long": "La montée des eaux liée au réchauffement climatique pourrait lui faire perdre 20 % de son territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Le Bangladesh est situé dans le delta plat et bas formé par la confluence du Gange et du Brahmapoutre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "La plus grande partie du Bangladesh est à moins de douze mètres au-dessus du niveau de la mer et environ 10 % du territoire est situé en dessous du niveau de la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "En raison du réchauffement climatique, le Bangladesh pourrait perdre 20 % de son territoire sous l'effet de la montée des eaux."
+        }
+      ]
+    },
+    {
+      "id": "BGD-5",
+      "topic": "geographie",
+      "title": "Les Sundarbans, royaume du tigre",
+      "short": "Sur la côte s'étendent les Sundarbans, la plus grande forêt de mangrove du monde, où vit notamment le tigre du Bengale. Le pays est aussi l'un des plus densément peuplés de la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "La plus grande partie de la côte maritime est constituée de jungle marécageuse, les Sundarbans, la plus grande forêt de mangrove du monde, abritant de nombreuses et diverses espèces de faune et flore, notamment le tigre du Bengale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "quote": "Avec 1 286 hab/km2 en 2020, le Bangladesh est l'un des pays du monde dont la population est la plus dense."
+        }
+      ]
+    },
+    {
+      "id": "BGD-6",
+      "topic": "drapeau",
+      "era": "1971-1972",
+      "title": "Un soleil rouge sur fond vert",
+      "short": "Le drapeau, vert frappé d'un disque rouge, est hissé pour la première fois le 3 mars 1971 et adopté officiellement le 17 janvier 1972. Le rouge rappelle le sang des Bangladais tués lors des affrontements avec le Pakistan, le vert la jeunesse et les terres agricoles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bangladesh",
+          "quote": "Il est vert frappé d'un disque rouge.\nLe drapeau au soleil rouge a été utilisé pour la première fois le 3 mars 1971. Dans sa forme actuelle, il a été adopté officiellement par le Bangladesh le 17 janvier 1972 et fut utilisé pour la première fois aux Nations unies en septembre 1974."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bangladesh",
+          "quote": "Le rouge symbolise le sang des Bangladais tués depuis 1947 lors des affrontements avec le Pakistan. Le vert symbolise la vitalité, la jeunesse et les terres agricoles."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BGD-C1",
+      "topic": "histoire",
+      "era": "1608-1704",
+      "title": "La ville aux 700 mosquées",
+      "short": "Fondée au Xe siècle, Dacca prend son essor comme capitale des nababs du Bengale de 1608 à 1704, sous le nom de Jahangir Nagar. Elle est connue pour ses 700 mosquées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dacca",
+          "quote": "Fondée au cours du Xe siècle, Dacca prend son essor lorsqu'elle sert de capitale aux nâwabs du Bengale de 1608 à 1704, où elle est connue sous le nom de Jahangir Nagar,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dacca",
+          "quote": "Dacca est connue pour ses 700 mosquées."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au fond du golfe du Bengale, presque entièrement entouré par l'Inde, avec une courte frontière avec la Birmanie au sud-est. Repère : le grand delta du Gange et du Brahmapoutre.",
+    "flag": "Un disque rouge sur fond vert, légèrement décalé vers le mât. Le Japon a aussi un disque rouge, mais sur fond blanc ; les Palaos, un disque jaune sur fond bleu.",
+    "capital": "Dacca, la ville aux 700 mosquées, au cœur du delta."
+  }
+}

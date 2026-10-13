@@ -1,0 +1,182 @@
+{
+  "id": "SEN",
+  "facts": [
+    {
+      "id": "SEN-1",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "Le Tekrour et l'empire du Djolof",
+      "short": "Le Tekrour, vassal de l'empire du Ghana, est l'un des premiers royaumes organisés de la région. Au XIVe siècle, l'empire du Djolof domine à son tour, réunissant le Cayor, le Baol, le Sine, le Saloum et le Waalo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal",
+          "from": "Contemporain de l'empire du Ghana, mais bien moins étendu",
+          "to": "le royaume du Tekrour est son vassal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Sénégal",
+          "from": "Ghana et Tekrour sont les seuls ensembles organisés",
+          "to": "avant l’islamisation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Parmi les différents royaumes, le plus puissant au XIVe siècle",
+          "to": "le Fouta-Toro et le Bambouk."
+        }
+      ]
+    },
+    {
+      "id": "SEN-2",
+      "topic": "histoire",
+      "era": "XVIIe-XIXe siècle",
+      "title": "Gorée et les Quatre Communes",
+      "short": "Les Européens installent des comptoirs sur la côte : les Hollandais à Gorée, les Français à Saint-Louis en 1659. Saint-Louis, Gorée, Dakar et Rufisque deviennent les « Quatre Communes », dont les habitants sont citoyens français.",
+      "long": "C'est une originalité du Sénégal parmi les colonies d'Afrique-Occidentale française : le pays indépendant réunit un territoire d'anciens citoyens français et un territoire d'anciens « indigènes ». Sur l'île de Gorée, la Maison des esclaves rappelle aujourd'hui la traite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Les Hollandais fondent un comptoir sur l'île de Gorée",
+          "to": "la première capitale du Sénégal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "La France prend peu à peu l'ascendant sur les autres puissances",
+          "to": "le statut des Quatre communes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Contrairement aux autres anciennes colonies de l'Afrique-Occidentale française",
+          "to": "(le reste du pays)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Dakar, la capitale, est une ville portuaire",
+          "to": "sur l'île de Gorée."
+        }
+      ]
+    },
+    {
+      "id": "SEN-3",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "Senghor, le président poète",
+      "short": "Le 20 août 1960, le Sénégal quitte la fédération du Mali et proclame son indépendance. Son premier président, Léopold Sédar Senghor, est aussi un grand poète, chantre de la négritude et figure de la francophonie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Le 20 août 1960, le Sénégal se retire de la fédération du Mali",
+          "to": "proclame son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Le premier président est Léopold Sédar Senghor",
+          "to": "poète de renom."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "La littérature sénégalaise a longtemps été connue",
+          "to": "figure emblématique de la francophonie."
+        }
+      ]
+    },
+    {
+      "id": "SEN-4",
+      "topic": "histoire",
+      "era": "1976",
+      "title": "Le Concorde se pose à Dakar",
+      "short": "Le 21 janvier 1976, le Concorde inaugure sa ligne commerciale Paris-Dakar-Rio. Le président Senghor accueille à l'aéroport de Dakar les premiers passagers supersoniques de l'histoire de l'aviation.",
+      "long": "Cinq ans plus tôt, en 1971, un vol de démonstration avait relié Paris à Dakar en 2 h 52.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Le 25 mai 1971, l'avion supersonique Concorde",
+          "to": "ligne commerciale Paris-Dakar-Rio."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Le président Senghor assiste à son arrivée à l'aéroport de Dakar",
+          "to": "de l'histoire de l'aviation"
+        }
+      ]
+    },
+    {
+      "id": "SEN-5",
+      "topic": "histoire",
+      "era": "1886",
+      "title": "Lat Dior contre le chemin de fer",
+      "short": "Au XIXe siècle, la France veut relier ses comptoirs par un chemin de fer. Le damel du Cayor, Lat Dior, s'y oppose ; le conflit permet à la France de faire du Cayor un protectorat en 1886.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Avec la révolution industrielle, la France désirait construire un chemin de fer",
+          "to": "Lat Dior."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Ce conflit permit à la France de faire officiellement du Cayor un protectorat",
+          "to": "la conférence de Berlin."
+        }
+      ]
+    },
+    {
+      "id": "SEN-6",
+      "topic": "drapeau",
+      "era": "1960",
+      "title": "Une étoile pour les cinq continents",
+      "short": "Adopté à l'indépendance, le drapeau aligne trois bandes verticales, verte, or et rouge, avec une étoile verte au centre. Ses cinq branches marquent l'ouverture du Sénégal aux cinq continents.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sénégal",
+          "from": "Le drapeau de la république du Sénégal, adopté en 1960",
+          "to": "verticales et égales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sénégal",
+          "from": "Une étoile verte à cinq branches se trouve",
+          "to": "de la bande or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Sénégal",
+          "from": "l'étoile à cinq branches marque l’ouverture",
+          "to": "aux cinq continents."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SEN-C1",
+      "topic": "histoire",
+      "era": "1902",
+      "title": "La capitale de toute l'Afrique-Occidentale française",
+      "short": "Dakar succède à Saint-Louis comme capitale de l'Afrique-Occidentale française en 1902, puis devient celle du Sénégal indépendant en 1960. Son nom wolof, Ndakaaru, viendrait peut-être de dakhar, le tamarinier.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Après Saint-Louis, Dakar devient en 1902",
+          "to": "de l'Afrique-Occidentale française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sénégal",
+          "from": "Dakar devient ensuite la capitale de la République sénégalaise",
+          "to": "en 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dakar",
+          "from": "La ville de Dakar (wolof : Ndakaaru)",
+          "to": "de la région de Dakar."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dakar",
+          "from": "Selon la même source, il pourrait aussi s'agir du terme wolof dakhar",
+          "to": "au XVIe siècle."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe la plus occidentale de l'Afrique (la presqu'île du Cap-Vert, où est Dakar). La Mauritanie au nord, le Mali à l'est, la Guinée et la Guinée-Bissau au sud ; la Gambie s'enfonce en son milieu.",
+    "flag": "Vert, jaune, rouge en bandes verticales, avec une étoile verte au centre. Le Mali a les mêmes bandes, sans étoile ; le Cameroun a l'étoile jaune sur la bande rouge.",
+    "capital": "Dakar, au bout du « nez » de l'Afrique, sur la presqu'île du Cap-Vert."
+  }
+}

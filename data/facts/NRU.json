@@ -1,0 +1,207 @@
+{
+  "id": "NRU",
+  "facts": [
+    {
+      "id": "NRU-1",
+      "topic": "histoire",
+      "era": "1798",
+      "title": "L'« île Agréable » des douze tribus",
+      "short": "Le 8 novembre 1798, le capitaine britannique John Fearn approche une île peuplée de quelques centaines d'habitants. Les Britanniques la baptisent Pleasant Island, « l'île Agréable ».",
+      "long": "Les Nauruans, d'origines micronésienne et mélanésienne, sont alors organisés en douze tribus, chacune avec son propre dialecte du nauruan. Ces douze tribus sont toujours présentes sur le drapeau, dans les douze branches de son étoile.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Nauru est approchée par les Européens le 8 novembre 1798 par le capitaine britannique John Fearn."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "L'île, alors peuplée de quelques centaines de Nauruans aux origines micronésiennes et mélanésiennes, est approchée par le navigateur britannique John Fearn en 1798."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "les premiers colons britanniques l'ont appelée Pleasant Island (« Île Agréable ») ou encore Shank Island,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "La société nauruane s'organise alors en douze tribus (qui sont représentées par l'étoile à douze branches sur le drapeau du pays), parlant chacune un dialecte différent du nauruan, la langue originaire de l'île."
+        }
+      ]
+    },
+    {
+      "id": "NRU-2",
+      "topic": "histoire",
+      "era": "1878-1888",
+      "title": "Dix ans de guerre, puis l'annexion allemande",
+      "short": "En 1878, un jeune chef est tué par accident pendant un mariage. Les armes à feu, introduites depuis peu, transforment les querelles entre tribus en guerre civile : un tiers de la population disparaît.",
+      "long": "Ce chaos nuit au commerce. Le 16 avril 1888, l'Allemagne annexe l'île pour la pacifier. Les nouvelles autorités arrêtent les chefs et menacent de les exécuter si les armes ne sont pas rendues : dès le lendemain, 765 armes à feu et des milliers de munitions sont remis, et la guerre s'arrête.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Nauru",
+          "quote": "L'introduction des armes à feu déséquilibre les rapports de force entre les tribus nauruanes et les accrochages sporadiques au sujet de discordes se muent rapidement en une guerre tribale. Elle se déclenche en 1878, lorsqu'un jeune chef est tué accidentellement par balle au cours d'un mariage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "En 1878, une guerre civile tribale se déclenche chez les Nauruans au cours de laquelle un tiers de la population disparaît."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Nauru",
+          "quote": "L'instabilité sur Nauru n'ayant pas profité au commerce, l'Allemagne accepte alors d'annexer l'île le 16 avril 1888 pour en assurer le contrôle et la pacifier, mettant ainsi fin à cette guerre civile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Nauru",
+          "quote": "Alcool et armes à feu sont interdits et les chefs tribaux arrêtés : ils serviront de moyen de pression sur les Nauruans afin qu'ils cessent les combats. En effet, les autorités les somment de restituer toutes les armes sous peine de voir leurs chefs tribaux exécutés. Le lendemain, 765 armes à feu et plusieurs milliers de munitions sont rendues, mettant un terme définitif à la guerre civile."
+        }
+      ]
+    },
+    {
+      "id": "NRU-3",
+      "topic": "economie",
+      "era": "1900-1990",
+      "title": "La fortune du phosphate, puis la ruine",
+      "short": "En 1900, on découvre sous le plateau central d'énormes gisements de phosphate, réputé le plus pur du monde. À l'indépendance, cette richesse offre aux Nauruans un très haut niveau de vie, jusqu'à l'épuisement des gisements au début des années 1990.",
+      "long": "Le prix est lourd : l'extraction a détruit la forêt tropicale du plateau, qui couvre environ 80 % de l'île, et l'a laissé aride et inculte, hérissé de tourelles calcaires. En 1989, Nauru porte plainte contre l'Australie devant la Cour internationale de justice pour obtenir réparation.\n\nLes placements immobiliers censés préparer l'après-phosphate échouent, et les caisses de l'État se vident, minées aussi par la corruption.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Les Allemands développent tout d'abord la culture du cocotier dont ils exportent le coprah mais la véritable mise en valeur de l'île prend ses sources en 1900 lorsque d'énormes gisements de phosphate sont découverts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Cette ressource, d'abord exploitée au bénéfice des nations colonisatrices de l'île, permet à la population de Nauru d'accéder à un très haut niveau de vie à partir de l'indépendance en 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "L'île, ancien volcan recouvert de calcaire corallien exondé appelé makatea, est grossièrement ovale et constituée d'un plateau central peu élevé occupant environ 80 % de la superficie de l'île. Le point culminant de Nauru est le Command Ridge, avec 71 mètres d'altitude. Ce plateau est constitué de tourelles calcaires entre lesquelles se logeait du minerai de phosphate considéré comme le plus pur au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Cette exploitation, bien qu'ayant enrichi considérablement mais temporairement la population de Nauru, a bouleversé la topographie de l'île, irrémédiablement détruit la forêt tropicale qui se trouvait sur le plateau et endommagé le récif corallien qui fait intégralement le tour de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "le reste du centre de l'île étant constitué d'un plateau calcaire rendu inculte et extrêmement aride à la suite de l'exploitation de son phosphate."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Face aux séquelles minières désastreuses, en 1989, Nauru porte plainte devant la Cour internationale de justice contre l'Australie, réclamant compensation pour la destruction du centre de l'île provoquée par l'extraction de phosphate."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Lorsque les gisements de phosphate s'épuisent au début des années 1990, il s'avère que les investissements immobiliers prévus par le gouvernement se révèlent infructueux et que les caisses de l'État ont pratiquement été vidées par le détournement de fonds et la corruption"
+        }
+      ]
+    },
+    {
+      "id": "NRU-4",
+      "topic": "histoire",
+      "era": "1942-1946",
+      "title": "Les déportés des îles Truk",
+      "short": "Occupée par le Japon à partir de 1942, l'île manque bientôt de vivres. Les Japonais déportent 1 200 Nauruans aux travaux forcés dans les îles Truk : plus d'un tiers ne reviendront pas.",
+      "long": "Les survivants rentrent le 31 janvier 1946. Cette date est devenue celle de la fête nationale : c'est le jour du 22e anniversaire de leur retour, le 31 janvier 1968, que Nauru devient une république indépendante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "À partir d'août 1942, l'île, partiellement évacuée par les Occidentaux, est occupée par les Japonais après le succès de l'opération RY. Ils la fortifient et font construire par des travailleurs forcés une piste d'atterrissage qui sera la base de l'actuel aéroport international de Nauru. Courant 1943, les Américains bombardent l'île dans le cadre de leur reconquête des îles du Pacifique, mais n'y débarquent pas. Les habitants et occupants de Nauru, coupés des lignes d'approvisionnement japonaises, commencent alors à manquer de ravitaillement. Les Japonais décident en conséquence de déporter 1 200 Nauruans dans les îles Truk où ils sont astreints à des travaux forcés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Nauru",
+          "quote": "sur les 1 200 habitants déportés dans les îles Truk, seuls 759 ont survécu aux dures conditions d'exil et sont rapatriés le 31 janvier 1946 sur Nauru."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Nauru",
+          "quote": "Le 31 janvier 1968, au 22e anniversaire du rapatriement des prisonniers des îles Truk, Nauru devient indépendant sous la forme d'une République."
+        }
+      ]
+    },
+    {
+      "id": "NRU-5",
+      "topic": "histoire",
+      "era": "1964-1968",
+      "title": "Le peuple qu'on voulait déménager",
+      "short": "En 1964, l'Australie envisage de déplacer toute la population sur l'île Fraser, puis sur l'île Curtis. Ils refusent : ils veulent l'indépendance, qu'ils obtiennent le 31 janvier 1968. Nauru devient la plus petite république du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "En 1964, un projet australien de déplacement de la population nauruane sur l'île Fraser puis sur l'île Curtis est abandonné car les Nauruans désirent à terme l'indépendance, ce que leur refuse l'Australie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Elle accède à l'indépendance le 31 janvier 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "C'est l'un des plus petits États du monde et, à partir de 1968, la plus petite république du monde."
+        }
+      ]
+    },
+    {
+      "id": "NRU-6",
+      "topic": "drapeau",
+      "era": "1968",
+      "title": "Un drapeau qui est une carte",
+      "short": "Le drapeau est une carte : la bande jaune figure l'équateur, et l'étoile placée juste en dessous marque la position de Nauru, à 42 km au sud. Ses douze branches rappellent les douze tribus, et son blanc, le phosphate.",
+      "long": "Il a été adopté le jour de l'indépendance, le 31 janvier 1968, et dessiné par un habitant de l'île employé chez un fabricant australien de drapeaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Nauru",
+          "quote": "La bande jaune (rapport : 1:24) sur fond bleu représente l'équateur traversant l'océan Pacifique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Nauru",
+          "quote": "L'étoile blanche placée sous la bande jaune symbolise la position de l'île de Nauru à 42 kilomètres au sud de l'équateur. Ses douze branches symbolisent les douze tribus à l'origine de la population du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Nauru",
+          "quote": "Sa couleur blanche représente le phosphate, la seule richesse de Nauru."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Nauru",
+          "quote": "Le drapeau de Nauru a été adopté le 31 janvier 1968 à l'occasion de l'indépendance de ce pays vis-à-vis de l'Australie. Il a été créé par un habitant de l'île employé par le fabricant australien de drapeaux Evans."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NRU-C1",
+      "topic": "politique",
+      "title": "Un pays sans capitale officielle",
+      "short": "La Constitution de Nauru ne désigne aucune capitale, et l'île n'a pas vraiment de villes. Yaren joue ce rôle de fait, parce que le district abrite le Parlement et le gouvernement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaren",
+          "quote": "Nauru ne possédant aucune subdivision correspondant aux communes, Yaren est désigné comme capitale de facto, car le district abrite le Cabinet et le Parlement de Nauru."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaren",
+          "quote": "L'établissement de la constitution nauruanne n'a pas formalisé une capitale pour le pays, mais depuis l'indépendance de la nation, Yaren a de facto représenté cette fonction."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Il n'y a pas à proprement parler de villes à Nauru, l'État ne dispose pas de capitale."
+        }
+      ]
+    },
+    {
+      "id": "NRU-C2",
+      "topic": "geographie",
+      "title": "Une capitale traversée par une piste d'avion",
+      "short": "Le district de Yaren abrite le Parlement, les bureaux du gouvernement, le commissariat… et une partie de la piste de l'aéroport international, le seul du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yaren",
+          "quote": "Yaren abrite sur son territoire le Sud de la piste d'atterrissage de l'Aéroport international de Nauru ainsi que son aérogare, le Parlement de la République, les bureaux de l'administration du gouvernement, le commissariat de police et la station de télécommunication satellite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nauru",
+          "quote": "Concernant le transport aérien, Nauru ne possède qu'un seul aéroport situé tout au sud de l'île près de la rive sur la commune de Yaren, la capitale."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un point minuscule au milieu du Pacifique, juste sous l'équateur, au nord-est des îles Salomon. Son voisin le plus proche est l'île de Banaba, aux Kiribati, à l'est.",
+    "flag": "Fond bleu, une fine bande jaune horizontale au milieu (l'équateur) et une étoile blanche à douze branches juste en dessous, côté mât (Nauru, au sud de l'équateur). Curaçao a aussi du bleu et une bande jaune, mais placée plus bas, et deux étoiles blanches à cinq branches en haut à gauche.",
+    "capital": "Yaren, « la capitale qui n'existe pas » : aucune loi ne la désigne, mais c'est là que siège le Parlement, au bout de la piste d'aéroport."
+  }
+}

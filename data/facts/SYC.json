@@ -1,0 +1,147 @@
+{
+  "id": "SYC",
+  "facts": [
+    {
+      "id": "SYC-1",
+      "topic": "histoire",
+      "era": "1756",
+      "title": "Un archipel nommé d'après un ministre des Finances",
+      "short": "Le 1er novembre 1756, la frégate française Le Cerf prend possession des îles au nom du roi de France. L'archipel est baptisé en l'honneur de Jean Moreau de Séchelles, contrôleur général des finances de Louis XV.",
+      "long": "Les Français voulaient ainsi empêcher les Britanniques de s'y installer. Avant cela, les îles n'avaient pas d'habitants permanents : les navigateurs n'y faisaient escale que pour se ravitailler, notamment en tortues géantes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Le 1er novembre 1756, Nicolas O'Murphy, commandant de l'expédition des découvertes et capitaine de la frégate le Cerf, prit possession des îles au nom du roi de France"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Les principales îles de l'archipel furent baptisées « Séchelles » en l'honneur de Jean Moreau de Séchelles, alors contrôleur général des finances de Louis XV."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_Seychelles",
+          "quote": "Le successeur de La Bourdonnais envoie une expédition vers Mahé en 1756 pour s'emparer de l'île et empêcher du même coup les Britanniques d'y débarquer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_Seychelles",
+          "quote": "Aucun élément ne permet de supposer qu’ils aient fondé des colonies, les îles leur servant avant tout de source d’approvisionnement en nourriture, par exemple avec les tortues géantes."
+        }
+      ]
+    },
+    {
+      "id": "SYC-2",
+      "topic": "histoire",
+      "era": "1794",
+      "title": "Le gouverneur qui capitulait à chaque passage",
+      "short": "En 1794, le commandant français Quéau de Quinssy, avec ses 60 fusils, doit céder les îles à une escadre britannique de 1 200 hommes. Ce fut la première d'une série de capitulations, peut-être 16, au gré du passage des navires britanniques et français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Le 16 mai 1794, le commandant de vaisseau britannique Henry Newcome, commandant d'une escadre, jette l'ancre dans la rade de Mahé"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_des_Seychelles",
+          "quote": "Quinssy, qui dispose en tout de 60 fusils, n’a aucune chance de défendre l'île contre les 1 200 soldats du commandant britannique Newcome."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Quéau de Quinssy n'a pas les moyens de résister et doit lui céder les îles Seychelles. Il signe une capitulation honorable qu'il rédige avec les principaux habitants des îles. C'est la première capitulation des îles. Il y en a eu d'autres, peut-être 16, en fonction du passage des vaisseaux britanniques et français."
+        }
+      ]
+    },
+    {
+      "id": "SYC-3",
+      "topic": "histoire",
+      "era": "1976-1977",
+      "title": "Indépendance, puis coup d'État",
+      "short": "Les Seychelles deviennent indépendantes du Royaume-Uni le 29 juin 1976. Moins d'un an plus tard, le Premier ministre France-Albert René prend le pouvoir par un coup d'État pendant un voyage du président à l'étranger.",
+      "long": "Il dirige le pays jusqu'en 2004 à la tête d'un parti unique socialiste, à tendance marxiste.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Le 29 juin 1976, les Seychelles sont devenues un État indépendant du Royaume-Uni et faisant du pays une république au sein du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Moins d'un an plus tard, le 5 juin 1977, France-Albert René, alors Premier ministre, prend le pouvoir par un coup d'État lors d'un déplacement du président à Londres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Il dirigera le pays de 1977 à 2004 en instaurant un parti unique, socialiste à tendance marxiste."
+        }
+      ]
+    },
+    {
+      "id": "SYC-4",
+      "topic": "geographie",
+      "title": "Des îles de granit au milieu de l'océan",
+      "short": "Sur les 115 îles des Seychelles, une quarantaine sont en granit : Mahé, Praslin et La Digue reposent sur un microcontinent, ni corallien ni volcanique. Les autres îles sont coralliennes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Les îles qui forment le cœur de l'archipel (Mahé, Praslin, La Digue) reposent sur le plateau des Seychelles, un microcontinent de type ni corallien ni volcanique, son soubassement étant granitique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Les Seychelles sont composées de 115 îles et îlots dont 40 sont granitiques et le reste coralliens."
+        }
+      ]
+    },
+    {
+      "id": "SYC-5",
+      "topic": "geographie",
+      "title": "Le coco de mer et les tortues géantes",
+      "short": "Deux sites des Seychelles sont inscrits au patrimoine mondial : la vallée de Mai, forêt préhistorique où pousse le cocotier de mer et son célèbre fruit, le coco de mer, et l'atoll d'Aldabra pour ses tortues géantes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "Deux sites naturels sont classés au patrimoine mondial de l'Unesco : la vallée de Mai pour ses cocos de mer, et l'atoll d'Aldabra pour ses tortues."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Seychelles",
+          "quote": "C'est une forêt préhistorique abritant le cocotier de mer qui produit le célèbre fruit : le coco de mer."
+        }
+      ]
+    },
+    {
+      "id": "SYC-6",
+      "topic": "drapeau",
+      "era": "1996",
+      "title": "Cinq rayons et deux partis",
+      "short": "Le drapeau de 1996 déploie cinq bandes obliques qui partent du coin inférieur côté mât. Il réunit les couleurs des deux grands partis du pays : rouge, blanc et vert pour l'un, bleu et jaune pour l'autre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Seychelles",
+          "quote": "Le drapeau des Seychelles se compose de cinq écharpes obliques : triangulaires bleue et jaune, quadrangulaire rouge, triangulaires blanche et verte qui prennent toutes les cinq leur origine dans le coin de drisse inférieur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Seychelles",
+          "quote": "Adopté le 18 juin 1996, il réunit les couleurs des deux principaux partis du pays, le Parti uni du peuple des Seychelles (rouge, blanc, vert) et le Parti démocratique (bleu, jaune)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SYC-C1",
+      "topic": "histoire",
+      "era": "1838",
+      "title": "De Port-Royal à Port-Victoria",
+      "short": "En 1744, le navigateur Lazare Picault nomme Port-Royal la baie où s'élève la ville. Rebaptisée « Établissement du Roy » en 1778, elle prend en 1838 le nom de Port-Victoria, en hommage à la reine d'Angleterre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Victoria_(Seychelles)",
+          "quote": "En 1744, le navigateur français Lazare Picault revient sur l'île d'Abondance, future Mahé, et y ancre son bateau Elisabeth dans une large baie calme et sûre qu'il nomme Port-Royal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Victoria_(Seychelles)",
+          "quote": "L'endroit conserve cette dénomination jusqu'en 1778, année où il sera rebaptisé « Établissement du Roy », avant de reprendre son nom définitif de Port-Victoria, en 1838, en hommage à la reine d'Angleterre."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel de l'océan Indien, loin au large de l'Afrique de l'Est, au nord-est de Madagascar.",
+    "flag": "Cinq bandes en éventail (bleu, jaune, rouge, blanc, vert) qui rayonnent depuis le coin inférieur gauche. Aucun autre drapeau n'a cette forme.",
+    "capital": "Victoria, comme la reine d'Angleterre, sur l'île principale, Mahé."
+  }
+}

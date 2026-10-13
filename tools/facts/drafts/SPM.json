@@ -1,0 +1,121 @@
+{
+  "id": "SPM",
+  "facts": [
+    {
+      "id": "SPM-1",
+      "topic": "histoire",
+      "era": "1520-1536",
+      "title": "Les îles de saint Pierre, patron des pêcheurs",
+      "short": "En 1520, le Portugais João Álvares Fagundes baptise l'archipel « îles des onze mille vierges ». En juin 1536, Jacques Cartier le nomme îles Saint-Pierre, du nom du saint patron des pêcheurs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "En 1520, le navigateur portugais João Álvares Fagundes",
+          "to": "l'archipel des onze mille vierges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "Ensuite, Jacques Cartier le nomme ysles Sainct Pierre",
+          "to": "le saint patron des pêcheurs"
+        }
+      ]
+    },
+    {
+      "id": "SPM-2",
+      "topic": "histoire",
+      "era": "1713-1763",
+      "title": "Britanniques, puis de nouveau françaises",
+      "short": "Cédées à la Grande-Bretagne avec Terre-Neuve au traité d'Utrecht de 1713, les îles sont récupérées par la France au traité de Paris de 1763.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "Au XVIIIe siècle, les îles sont concédées avec Terre-Neuve",
+          "to": "la côte française de Terre-Neuve."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "Les îles de Saint-Pierre et de Miquelon sont ensuite récupérées",
+          "to": "lors du traité de Paris de 1763."
+        }
+      ]
+    },
+    {
+      "id": "SPM-3",
+      "topic": "histoire",
+      "era": "1919-1933",
+      "title": "Le paradis des contrebandiers",
+      "short": "Pendant la Prohibition américaine, la loi des États-Unis ne s'applique pas à cette colonie française. De 1919 à 1933, l'archipel prospère grâce aux alcools acheminés clandestinement vers les côtes canadiennes et américaines par des Saint-Pierrais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "L'archipel a un certain rôle lors de la prohibition aux États-Unis",
+          "to": "n’y était pas applicable."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "L'île connaît, de 1919 à 1933, une réelle prospérité",
+          "to": "montées par des Saint-Pierrais."
+        }
+      ]
+    },
+    {
+      "id": "SPM-4",
+      "topic": "histoire",
+      "era": "1941",
+      "title": "Le débarquement du 24 décembre 1941",
+      "short": "Le 24 décembre 1941, sur ordre du général de Gaulle, l'amiral Muselier débarque à Saint-Pierre-et-Miquelon, à l'insu et contre l'avis des Américains et des Canadiens. L'affaire nourrit la méfiance de Roosevelt envers de Gaulle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "Sur l'ordre du général de Gaulle à Londres",
+          "to": "un premier assentiment de Winston Churchill."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "from": "L'affaire du 24 décembre 1941",
+          "to": "la méfiance de Roosevelt envers de Gaulle."
+        }
+      ]
+    },
+    {
+      "id": "SPM-5",
+      "topic": "drapeau",
+      "era": "1536",
+      "title": "Le navire de Jacques Cartier",
+      "short": "Le drapeau local représente La Grande Hermine, le navire de Jacques Cartier, avec, le long de la hampe, les drapeaux du Pays basque, de la Bretagne et de la Normandie, d'où venaient la plupart des habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Pierre-et-Miquelon",
+          "from": "Le drapeau de Saint-Pierre-et-Miquelon représente La Grande Hermine",
+          "to": "le 15 juin 1536."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Pierre-et-Miquelon",
+          "from": "Le long de la hampe (à dextre)",
+          "to": "Pays basque, Bretagne et Normandie."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SPM-C1",
+      "topic": "histoire",
+      "era": "1902",
+      "title": "Une cathédrale partie en fumée",
+      "short": "Saint-Pierre, la principale ville de l'archipel, a perdu sa première cathédrale dans un incendie en 1902.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre_(Saint-Pierre-et-Miquelon)",
+          "from": "La première cathédrale Saint-Pierre fut détruite en 1902",
+          "to": "lors d'un incendie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit archipel français de l'Atlantique Nord, collé à la côte sud de Terre-Neuve, au Canada.",
+    "flag": "Officiellement, c'est le drapeau français. Le drapeau local, non officiel, montre un navire jaune sur fond bleu et, côté mât, les drapeaux basque, breton et normand.",
+    "capital": "Saint-Pierre, sur l'île du même nom : la capitale porte le nom du saint patron des pêcheurs."
+  }
+}

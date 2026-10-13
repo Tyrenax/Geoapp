@@ -1,0 +1,164 @@
+{
+  "id": "GRC",
+  "facts": [
+    {
+      "id": "GRC-1",
+      "topic": "histoire",
+      "title": "Des Hellènes que les Latins appelèrent Grecs",
+      "short": "Les Grecs se nomment eux-mêmes Hellènes, et leur pays Elláda, l'antique Hellás. Le mot « Grecs » est le nom que leur ont donné les Latins.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "La Grèce, en forme longue la République hellénique (en grec : Ελλάδα / Elláda, /eˈlaða/, en forme longue Ελληνική Δημοκρατία / Ellinikí Dimokratía, [Démocratie hellénique] ; en grec ancien et en katharévousa Ἑλλάς / Hellás),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Ces peuples sont les Hellènes, ou Grecs, selon le nom que leur ont donné les Latins."
+        }
+      ]
+    },
+    {
+      "id": "GRC-2",
+      "topic": "histoire",
+      "era": "507 av. J.-C.",
+      "title": "La première démocratie de l'histoire",
+      "short": "En 507 av. J.-C., Athènes adopte les réformes de Clisthène et met en place la toute première démocratie de l'histoire. Au siècle de Périclès, la cité devient un foyer de théâtre et de littérature, avec Euripide ou Aristophane.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "En 507 av. J.-C., Athènes met en place via les réformes clisthéniennes la toute première démocratie de l'Histoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Le siècle de Périclès est l'un des plus prolifiques : Athènes est le berceau d'une littérature profuse avec Gorgias, Isocrate, Euripide ou encore Aristophane."
+        }
+      ]
+    },
+    {
+      "id": "GRC-3",
+      "topic": "histoire",
+      "era": "395-1830",
+      "title": "Mille ans de Byzance, quatre siècles d'Ottomans",
+      "short": "Après le partage de l'Empire romain en 395, l'Empire romain d'Orient dure plus de mille ans, jusqu'à la prise de Constantinople en 1453. La Grèce passe ensuite près de quatre siècles sous domination ottomane.",
+      "long": "Quelques territoires y échappent : Corfou, Ithaque et l'archipel ionien n'ont jamais fait partie de l'Empire ottoman, et une partie du pays reste longtemps vénitienne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "En 395, à la mort de Théodose Ier, l’Empire romain est partagé en deux parties : l’Empire romain d'Occident qui disparaît en 476, et l’Empire romain d’Orient qui dura jusqu'en 1453 à Constantinople, jusqu’en 1461 à Trébizonde et Mistra et jusqu’en 1475 en Crimée grecque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Les croisades et les incessantes guerres conduisent à la chute de Constantinople en 1453 par Mehmed II. La Grèce passe sous influence et occupation ottomane pendant près de quatre siècles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "La majeure partie de la Grèce fait alors partie de l’Empire ottoman, dont les conquêtes durent plusieurs siècles (la dernière île grecque prise est Tinos en 1715 : une partie non négligeable de l’actuel territoire restant jusqu’à très tardivement sous la souveraineté vénitienne). Corfou, Ithaque et l’archipel ionien n’ont jamais fait partie de l’Empire ottoman."
+        }
+      ]
+    },
+    {
+      "id": "GRC-4",
+      "topic": "histoire",
+      "era": "1822-1830",
+      "title": "La guerre d'indépendance grecque",
+      "short": "Le 1er janvier 1822, une assemblée réunie à Épidaure proclame l'indépendance. Après une guerre de libération, le royaume de Grèce est reconnu en 1830 ; il ne comprend alors que le Péloponnèse et l'Attique.",
+      "long": "La cause grecque soulève l'enthousiasme des « philhellènes », jusqu'en Grande-Bretagne, où l'écrivain Lord Byron meurt pendant le second siège de Missolonghi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Le 1er janvier 1822 du calendrier julien, les élites Helléniques réunies en assemblée nationale à Épidaure proclament l'indépendance de la Grèce vis-à-vis de la Sublime Porte. Neuf ans plus tard, après une guerre d'indépendance, le royaume de Grèce est reconnu par le Protocole de Londres (1830)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Toutefois, la Grèce indépendante de 1830 est limitée au Péloponnèse et à l'Attique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "En Grande-Bretagne, les chantres de ce mouvement sont l'écrivain Lord Byron (qui mourut durant le second siège de Missolonghi),"
+        }
+      ]
+    },
+    {
+      "id": "GRC-5",
+      "topic": "geographie",
+      "title": "Des milliers d'îles",
+      "short": "Plus de 9 000 îles et îlots forment un cinquième du territoire grec, mais à peine 200 sont habités. Elles vont de la minuscule Délos, 3 km², à la Crète, 8 263 km².",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "Le cinquième de son territoire est constitué de plus de 9 000 îles et îlots, près de 200 étant habités."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grèce",
+          "quote": "La taille de ces îles habitées varie de 3 km2 pour la plus petite Délos (qui jouit d'un statut particulier) à 8 263 km2 pour la Crète."
+        }
+      ]
+    },
+    {
+      "id": "GRC-6",
+      "topic": "drapeau",
+      "era": "1822",
+      "title": "Neuf bandes pour « la liberté ou la mort »",
+      "short": "Les neuf bandes bleues et blanches du drapeau rappelleraient les neuf syllabes de la devise de la guerre d'indépendance : Elefthería í thánatos, « la liberté ou la mort ».",
+      "long": "Fixé en mars 1822, ce dessin était d'abord celui de la marine. Le drapeau de l'armée de terre, une simple croix blanche sur fond bleu, a longtemps servi de drapeau national, jusqu'en 1978.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Grèce",
+          "quote": "Les neuf bandes horizontales seraient le rappel des neuf syllabes qui constituent la devise grecque Ελευθερία ή θάνατος (Elefthería í thánatos), soit « la liberté ou la mort », slogan pour la lutte pour l'indépendance de 1821."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Grèce",
+          "quote": "Il a été adopté pour la première fois au cours de l'Assemblée nationale d'Épidaure, et fixé par décret en mars 1822 : celui des forces terrestres consistait en une croix blanche sur fond bleu, celui de la marine militaire étant similaire au drapeau actuel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Grèce",
+          "quote": "Le drapeau des forces terrestres fut adopté comme drapeau national en 1833 par Othon de Bavière lors de la création du royaume de Grèce ; diverses variantes avec et sans couronne furent utilisées de 1833 à 1978. Différentes teintes de bleu et différentes proportions ont aussi été utilisées.\nLe drapeau maritime, utilisé par les marines marchande et militaire du royaume (avec une couronne pour la première à la fin du XIXe siècle) fut officiellement adopté comme seul drapeau national en 1969, pendant le régime des Colonels. Après le retour de la démocratie, le drapeau terrestre a été réutilisé de 1975 à 1978, date à laquelle le drapeau maritime est redevenu le seul drapeau national."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GRC-C1",
+      "topic": "histoire",
+      "era": "1834",
+      "title": "Une capitale presque vide",
+      "short": "Quand Athènes est proclamée capitale du jeune royaume, le 1er décembre 1834, elle est presque inhabitée. Des architectes allemands la rebâtissent dans un style néoclassique, autour des places Omónia et Sýntagma.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Athènes",
+          "quote": "La ville était quasiment inhabitée lorsqu'elle fut proclamée capitale du royaume de Grèce le 1er décembre 1834, mais elle fut rebâtie dans les décennies qui suivirent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Athènes",
+          "quote": "Lorsqu'Athènes est devenue la capitale du royaume de Grèce au XIXe siècle, les architectes allemands ont tenté de créer une ville nouvelle de style néoclassique autour des places Omónia (la Concorde en grec moderne) et Sýntagma (la Constitution)."
+        }
+      ]
+    },
+    {
+      "id": "GRC-C2",
+      "topic": "culture",
+      "title": "La ville d'Athéna",
+      "short": "Athènes est la cité de la déesse Athéna, que la légende fait naître tout armée de la tête de Zeus. En grec, son nom est pluriel. Le culte d'Athéna Parthénos, « la Vierge », y a ensuite été remplacé par celui de la Vierge Marie, devenue patronne de la ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Athènes",
+          "quote": "Cela expliquerait d'ailleurs l'origine de la légende mythologique portant sur la naissance d'Athéna selon laquelle la déesse, devenue protectrice de la cité, serait sortie armée de la tête de Zeus"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Athènes",
+          "quote": "Athènes (en grec : Αθήνα / Athína, /a.ˈθi.na/ ; en grec ancien : Ἀθῆναι / Athễnai — le nom est toujours pluriel)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Athènes",
+          "quote": "En effet, le culte de la Vierge (en grec Parthénos) Athéna fut remplacé par celui de la Vierge Marie Mère de Dieu, qualifiée d'Athénienne comme patronne de la cité."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le bout sud-est des Balkans, qui s'émiette dans la mer : la presqu'île du Péloponnèse en forme de main, des milliers d'îles en mer Égée jusqu'aux côtes turques, et la Crète qui ferme le sud. Au nord, elle touche l'Albanie, la Macédoine du Nord, la Bulgarie et la Turquie.",
+    "flag": "Neuf bandes horizontales bleues et blanches, et une croix blanche sur un carré bleu en haut à gauche. L'Uruguay a aussi neuf bandes blanches et bleues, mais un soleil doré à la place de la croix.",
+    "capital": "Athènes, la ville d'Athéna, dominée par l'Acropole et le Parthénon."
+  }
+}

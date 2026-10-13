@@ -1,0 +1,108 @@
+{
+  "id": "VIR",
+  "facts": [
+    {
+      "id": "VIR-1",
+      "topic": "histoire",
+      "title": "Les Antilles danoises",
+      "short": "Les îles de Saint-Thomas, Saint-John et Sainte-Croix ont été danoises jusqu'en 1917. Elles étaient exploitées par la Compagnie danoise des Indes occidentales et de Guinée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_des_États-Unis",
+          "from": "Composées principalement de trois îles",
+          "to": "leur rachat par les États-Unis en 1917."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_des_États-Unis",
+          "from": "Les îles sont ensuite exploitées par la Compagnie danoise",
+          "to": "et de Guinée."
+        }
+      ]
+    },
+    {
+      "id": "VIR-2",
+      "topic": "histoire",
+      "era": "1733-1734",
+      "title": "L'une des plus longues révoltes d'esclaves",
+      "short": "En 1733-1734, l'île de Saint John connaît une grande révolte d'esclaves, l'une des plus longues des Amériques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_des_États-Unis",
+          "from": "En 1733-1734, l'île Saint John est le théâtre",
+          "to": "une des plus longues aux Amériques."
+        }
+      ]
+    },
+    {
+      "id": "VIR-3",
+      "topic": "histoire",
+      "era": "1792-1848",
+      "title": "Le premier pays à interdire la traite",
+      "short": "Le Danemark est le premier pays à interdire la traite négrière dans ses possessions, en 1792. L'esclavage, lui, n'est aboli dans ses îles antillaises qu'en 1848.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_des_États-Unis",
+          "from": "La traite négrière dans les possessions danoises sera interdite en 1792",
+          "to": "qu'en 1848."
+        }
+      ]
+    },
+    {
+      "id": "VIR-4",
+      "topic": "histoire",
+      "era": "1917",
+      "title": "Achetées 25 millions de dollars",
+      "short": "En 1916, les États-Unis rachètent les îles au Danemark pour 25 millions de dollars. Avec leurs 26 000 habitants, elles passent sous contrôle américain le 31 mars 1917.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_des_États-Unis",
+          "from": "En 1916, ces territoires sont finalement rachetés",
+          "to": "le 31 mars 1917."
+        }
+      ]
+    },
+    {
+      "id": "VIR-5",
+      "topic": "drapeau",
+      "title": "Un aigle et trois flèches",
+      "short": "Le drapeau montre le pygargue à tête blanche, l'emblème américain, entre les lettres V et I. Il tient un rameau d'olivier et trois flèches, une pour chaque île principale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Vierges_des_États-Unis",
+          "from": "L'aigle est encadré par les lettres V et I",
+          "to": "Saint John (Saint-Jean) et Sainte-Croix)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VIR-C1",
+      "topic": "culture",
+      "title": "Un port de pirates et une très vieille synagogue",
+      "short": "Charlotte-Amélie, sur l'île de Saint-Thomas, était un port en eau profonde prisé des pirates ; il accueille aujourd'hui des paquebots de croisière. La ville abrite la deuxième plus vieille synagogue d'Amérique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Charlotte-Amélie",
+          "from": "Charlotte-Amélie se trouve au sud de l'île de Saint-Thomas.",
+          "to": "de Saint-Thomas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Charlotte-Amélie",
+          "from": "Charlotte-Amélie est également le nom du port en eau profonde",
+          "to": "paquebots de croisière."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Charlotte-Amélie",
+          "from": "Charlotte-Amélie contient plusieurs bâtiments",
+          "to": "la deuxième plus vieille synagogue de l'Amérique."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié ouest des îles Vierges, juste à l'est de Porto Rico ; la moitié est est britannique.",
+    "flag": "Blanc, avec un aigle jaune tenant des flèches, entre les lettres V et I. Les îles Vierges britanniques ont un fond bleu à Union Jack.",
+    "capital": "Charlotte-Amélie : un nom de reine danoise, souvenir des Antilles danoises."
+  }
+}

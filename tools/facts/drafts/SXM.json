@@ -1,0 +1,143 @@
+{
+  "id": "SXM",
+  "facts": [
+    {
+      "id": "SXM-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "L'île de la Saint-Martin",
+      "short": "Selon la tradition, Christophe Colomb aperçoit l'île le 11 novembre 1493, jour de la fête de saint Martin de Tours : d'où son nom, Sint Maarten en néerlandais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Selon la tradition, l'île doit son nom à Christophe Colomb",
+          "to": "lors de son deuxième voyage"
+        }
+      ]
+    },
+    {
+      "id": "SXM-2",
+      "topic": "histoire",
+      "era": "1648",
+      "title": "La moitié néerlandaise d'une île partagée",
+      "short": "Depuis le traité de Concordia de 1648, l'île est partagée entre la France au nord et les Pays-Bas au sud. Un monument commémore ce traité à la frontière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "Néerlandais et Français s'y installent",
+          "to": "entre la France et les Provinces-Unies"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(Antilles_françaises)",
+          "from": "La partie sud de l'île forme Sint Maarten",
+          "to": "royaume des Pays-Bas"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Le monument frontalier de commémoration du traité de Concordia",
+          "to": "(Koolbaai/Sain-Jean)."
+        }
+      ]
+    },
+    {
+      "id": "SXM-3",
+      "topic": "histoire",
+      "era": "2010",
+      "title": "Un pays du royaume depuis 2010",
+      "short": "Ancienne partie des Antilles néerlandaises, Sint Maarten est devenu le 10 octobre 2010 l'un des quatre pays du royaume des Pays-Bas. Ses langues officielles sont le néerlandais et l'anglais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Appartenant anciennement à l'État autonome",
+          "to": "à la suite de la dissolution de la fédération."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "est un des quatre pays constitutifs",
+          "to": "forment le royaume des Pays-Bas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Sa capitale est Philipsburg",
+          "to": "le néerlandais et l'anglais."
+        }
+      ]
+    },
+    {
+      "id": "SXM-4",
+      "topic": "culture",
+      "title": "Des avions au ras de la plage",
+      "short": "La plage de Maho se trouve au bout de la piste de l'aéroport Princesse-Juliana : les avions, du petit appareil au Boeing 747, y atterrissent de façon spectaculaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "L'atterrissage spectaculaire des jets",
+          "to": "l'aéroport international Princesse-Juliana."
+        }
+      ]
+    },
+    {
+      "id": "SXM-5",
+      "topic": "geographie",
+      "era": "2023",
+      "title": "Les singes envahissants",
+      "short": "Des singes vervets, venus d'Afrique et introduits par l'homme, sont devenus envahissants et menacent les cultures. En 2023, les autorités décident d'éliminer toute leur population, au moins 450 animaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Les autorités décident en 2023 de tuer",
+          "to": "au moins 450 individus."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Cette espèce de singes originaire d’Afrique australe",
+          "to": "les écosystèmes locaux."
+        }
+      ]
+    },
+    {
+      "id": "SXM-6",
+      "topic": "drapeau",
+      "title": "Semper Progrediens",
+      "short": "Les armoiries du drapeau portent la devise Semper Progrediens, « toujours en progrès », sous un pélican qui vole devant un coucher de soleil.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Sur le timbre, un pélican vole",
+          "to": "devant un coucher de soleil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Martin_(royaume_des_Pays-Bas)",
+          "from": "Au-dessous est inscrite la devise de l'île",
+          "to": "dans un ruban jaune."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SXM-C1",
+      "topic": "histoire",
+      "era": "1763",
+      "title": "Fondée par un capitaine écossais",
+      "short": "Philipsburg est fondée en 1763 par John Philips, un capitaine écossais au service de la marine néerlandaise. La ville s'étire sur un cordon de sable entre la Grande Baie et une ancienne saline.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philipsburg_(Saint-Martin)",
+          "from": "Philipsburg est fondée en 1763 par John Philips",
+          "to": "de la marine des Pays-Bas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philipsburg_(Saint-Martin)",
+          "from": "Philipsburg est située sur la côte sud de Saint-Martin",
+          "to": "une ancienne saline."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié sud de la petite île de Saint-Martin, au nord des Petites Antilles ; la moitié nord est française.",
+    "flag": "Rouge en haut, bleu en bas, avec un triangle blanc côté mât portant les armoiries. Les Philippines ont une disposition proche, mais avec le bleu en haut et un soleil dans le triangle.",
+    "capital": "Philipsburg, le bourg de John Philips, son fondateur."
+  }
+}

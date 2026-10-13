@@ -1,0 +1,178 @@
+{
+  "id": "VUT",
+  "facts": [
+    {
+      "id": "VUT-1",
+      "topic": "histoire",
+      "era": "1100 av. J.-C.",
+      "title": "Deux peuples mêlés",
+      "short": "L'archipel est peuplé à partir de 1100 av. J.-C. par des Austronésiens de la civilisation Lapita. Quelques siècles plus tard arrivent des Mélanésiens venus de Nouvelle-Guinée ; la population actuelle est issue du métissage des deux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Peuplé à partir de 1100 av. J.-C. par des Austronésiens porteurs de la civilisation Lapita, l'archipel accueille, quelques siècles plus tard, des Mélanésiens venus des archipels de Nouvelle-Guinée. Le profil génétique du Vanuatu résulte essentiellement du métissage entre ces deux populations, austronésienne et mélanésienne, déployé sur plusieurs siècles."
+        }
+      ]
+    },
+    {
+      "id": "VUT-2",
+      "topic": "histoire",
+      "era": "1606-1774",
+      "title": "Le faux continent austral",
+      "short": "En 1606, le Portugais Pedro Fernandes de Queirós, au service de l'Espagne, aborde une grande île qu'il nomme Espiritu Santo, croyant avoir découvert le continent austral. En 1774, James Cook fait le tour de l'archipel et le baptise « Nouvelles-Hébrides », un nom qui durera deux siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Le premier explorateur européen à atteindre l'archipel est le Portugais Pedro Fernandes de Queirós en 1606, qui aborde pour le compte de l'Espagne à Espiritu Santo, qu'il nomme ainsi, croyant avoir découvert le continent austral."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "James Cook fait le tour complet de l'archipel en 1774 et lui donne son nom pour deux siècles, « Nouvelles-Hébrides »."
+        }
+      ]
+    },
+    {
+      "id": "VUT-3",
+      "topic": "histoire",
+      "era": "1906-1980",
+      "title": "Une colonie pour deux puissances",
+      "short": "Rivales dans l'archipel, la France et le Royaume-Uni le gèrent ensemble de 1906 à 1980 : c'est le condominium des Nouvelles-Hébrides. À l'indépendance, le 30 juillet 1980, le pays prend le nom de Vanuatu, « le pays debout ».",
+      "long": "Vanua signifie « terre » ou « pays », et tu « être debout » : ensemble, ces deux mots affirment le statut indépendant du nouveau pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Il fit alors l'objet d'un conflit d'intérêts entre la France et le Royaume-Uni qui décidèrent en 1904 de mettre en place une administration conjointe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "C'est ainsi que fut instauré, de 1906 à 1980, le condominium des Nouvelles-Hébrides, faisant de ces îles océaniennes une colonie gérée conjointement par deux puissances coloniales. Le 30 juillet 1980, les Nouvelles-Hébrides deviennent indépendantes ; le nouveau nom de « Vanuatu » remplace rapidement la dénomination européenne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Le nom Vanuatu est dérivé du mot Vanua (« terre » ou « pays »), reflétant la racine proto-austronésienne *banua « terre habitée, pays » et du verbe tu « être debout » (dans la langue hano de l'île de Pentecôte). Ensemble, ces deux mots signifient « le pays debout », et indiquent le statut indépendant du nouveau pays."
+        }
+      ]
+    },
+    {
+      "id": "VUT-4",
+      "topic": "culture",
+      "title": "138 langues pour un archipel",
+      "short": "Le Vanuatu compte 138 langues indigènes, toutes issues d'une même langue ancestrale liée à l'expansion Lapita. Il a trois langues officielles : le français et l'anglais, héritées du condominium, et le bichelamar, un pidgin à base anglaise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Les 138 langues indigènes du Vanuatu appartiennent toutes à la famille austronésienne, plus précisément au groupe océanien ; elles descendent donc toutes de la même langue ancestrale, le proto-océanien – langue associée à l'histoire de l'expansion Lapita."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "La république du Vanuatu compte trois langues officielles : le français et l'anglais, les deux langues héritées de la colonisation, et le bichelamar, un pidgin à base anglaise"
+        }
+      ]
+    },
+    {
+      "id": "VUT-5",
+      "topic": "geographie",
+      "title": "Des îles qui sortent de l'eau",
+      "short": "Le Vanuatu se trouve là où la plaque australienne plonge sous la plaque pacifique : l'archipel s'élève peu à peu, parfois brutalement. En décembre 2018, la caldeira d'Ambrym s'est vidée et a soulevé la côte est de l'île de plus de deux mètres, sortant de l'eau la barrière de corail.",
+      "long": "Plusieurs volcans sont encore actifs, comme le Yasur sur l'île de Tanna.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Le Vanuatu est situé sur la crête occidentale de la plaque pacifique, sous laquelle plonge la plaque australienne : ainsi, au fil de ce phénomène de subduction, l'archipel s'élève progressivement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Le dernier événement de ce type en date a eu lieu en décembre 2018, quand la caldeira volcanique d'Ambrym s'est brutalement vidée, élevant la côte est de l'île de plus de deux mètres, et sortant brutalement de l'eau la barrière de corail."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "Certaines îles volcaniques sont encore en activité, comme les îles de Tanna avec le volcan Yasur"
+        }
+      ]
+    },
+    {
+      "id": "VUT-6",
+      "topic": "histoire",
+      "era": "2015",
+      "title": "Le cyclone Pam",
+      "short": "En mars 2015, le cyclone Pam, le plus violent jamais enregistré dans le pays, cause des dégâts majeurs, rase presque entièrement la capitale et fait 16 morts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vanuatu",
+          "quote": "en mars 2015 Pam, le plus violent jamais enregistré, qui a causé des dégâts majeurs, presque intégralement rasé la capitale et provoqué la mort de 16 personnes."
+        }
+      ]
+    },
+    {
+      "id": "VUT-7",
+      "topic": "drapeau",
+      "era": "1980",
+      "title": "Une défense de sanglier",
+      "short": "Adopté en 1980, le drapeau reprend les couleurs du Vanua'aku Party, qui a mené le pays à l'indépendance. Dans le triangle noir, une défense de sanglier en spirale symbolise la prospérité, avec deux feuilles de namele, gages de paix.",
+      "long": "Les 39 folioles des feuilles représentent les 39 premiers membres du Parlement. Le Y jaune évoque la forme de l'archipel sur la carte.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vanuatu",
+          "quote": "Le drapeau du Vanuatu fut adopté le 18 février 1980, date à laquelle le Vanua'aku Party (parti politique vanuatuan) a conduit l'archipel à l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vanuatu",
+          "quote": "Les couleurs du parti (rouge, noir, jaune et vert) furent choisies comme futures couleurs du drapeau national."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vanuatu",
+          "quote": "Le dessin jaune sur fond noir est une défense de sanglier en forme de spirale, symbole de prospérité : l'importance symbolique de ces animaux est primordiale. Des feuilles de « namele » (cycas), symboles de paix, complètent le symbolisme du drapeau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vanuatu",
+          "quote": "La forme en Y jaune représente la forme des îles de Vanuatu sur la carte"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vanuatu",
+          "quote": "Ces feuilles sont censées être un gage de paix, et leurs 39 tracts représentent les 39 membres originaux du Parlement de Vanuatu."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VUT-C1",
+      "topic": "histoire",
+      "era": "1889",
+      "title": "Franceville, la commune indépendante",
+      "short": "En 1889, des colons français fondent Franceville, une éphémère municipalité indépendante, sur le site de l'actuelle capitale. Pendant un an, elle vit en autonomie, avec un suffrage universel… réservé aux Blancs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Vila",
+          "quote": "Au XIXe siècle, des colons français fondent Franceville, éphémère municipalité indépendante en 1889 (le territoire est officieusement sous administration franco-britannique depuis 1887). De 1889 à 1890, la colonie, forte de 500 autochtones et d'environ 50 colons occidentaux, a vécu une forme d'autonomie, avec suffrage universel direct (réservé aux blancs)."
+        }
+      ]
+    },
+    {
+      "id": "VUT-C2",
+      "topic": "histoire",
+      "era": "1906-1959",
+      "title": "La capitale du condominium",
+      "short": "Les commissaires-résidents français et britannique s'installent à Vila, qui devient la capitale de fait du condominium. Fin 1959, la ville est détruite à 60 % par un ouragan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Vila",
+          "quote": "Au début du XXe siècle, Français et Anglais nomment des commissaires-résidents au Nouvelles-Hébrides ; leur résidence est édifiée à Vila."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Vila",
+          "quote": "La concentration des services administratifs, commerciaux et navals à Port-Vila en fait la capitale de facto du condominium des Nouvelles-Hébrides."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Vila",
+          "quote": "À la fin de l'année 1959, la ville, qui compte alors 2500 habitants, est détruite à 60 % par un ouragan."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un long chapelet d'îles en forme de Y en mer de Corail, au nord-est de la Nouvelle-Calédonie et au sud-est des îles Salomon.",
+    "flag": "Un Y couché jaune bordé de noir sépare le rouge (en haut) du vert (en bas) ; dans le triangle noir côté mât, une défense de sanglier jaune enroulée.",
+    "capital": "Port-Vila, sur la côte sud de l'île d'Éfaté, au centre de l'archipel."
+  }
+}

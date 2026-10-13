@@ -1,0 +1,128 @@
+{
+  "id": "AZE",
+  "facts": [
+    {
+      "id": "AZE-1",
+      "topic": "histoire",
+      "title": "La terre du feu sacré",
+      "short": "Azer, ou Azar, signifie « feu sacré » en persan : Azerbaïdjan serait littéralement « le territoire des zoroastriens ». On le surnomme aussi la « Terre de feu », pour ses sources de gaz naturel qui s'enflamment toutes seules à l'air libre, comme à Yanar Dag.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "Azer ou Azar signifiant « feu sacré » en persan, Azarbaïdjan est donc littéralement le Territoire des Zoroastriens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "Situé entre l’Europe et l’Asie, l’Azerbaïdjan est parfois surnommé la Terre de feu, en raison de ses sources de gaz naturel qui s’enflamment spontanément à l’air libre, comme à Yanar Dag, et de son héritage zoroastrien, dans lequel le feu est une force sacrée."
+        }
+      ]
+    },
+    {
+      "id": "AZE-2",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Bakou, capitale mondiale du pétrole",
+      "short": "À la fin du XIXe siècle, la Russie découvre les richesses pétrolières du pays, et Bakou devient le premier producteur mondial de pétrole. Aujourd'hui encore, le pétrole de la Caspienne représente 70 % des exportations.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "À la fin du XIXe siècle, la Russie découvre les richesses en pétrole du pays. Bakou devient le premier producteur mondial de pétrole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "L'économie de l'Azerbaïdjan est fortement dépendante de l'exploitation du pétrole en mer Caspienne, à Neft Daşları, qui représente 70 % de ses exportations et 50 % du budget de l'État."
+        }
+      ]
+    },
+    {
+      "id": "AZE-3",
+      "topic": "histoire",
+      "era": "1918-1920",
+      "title": "Une république éphémère et moderne",
+      "short": "Proclamée le 28 mai 1918, la République démocratique d'Azerbaïdjan se dote d'un parlement et accorde le droit de vote aux femmes. Elle ne dure que deux ans : le 26 avril 1920, l'Armée rouge entre dans le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "Le 28 mai 1918, la République démocratique d'Azerbaïdjan est proclamée à Tbilissi en Géorgie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "Dans la lignée de la proclamation de la république se met en place l'intégration juridique de certains principes institutionnels occidentaux à l'instar de la création du Parlement national, la garantie de certains droits et libertés individuels, le droit de vote des femmes, etc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "La République démocratique d'Azerbaïdjan a été fondée en 1918, mais deux ans plus tard, le 26 avril 1920, l'Armée rouge a franchi la frontière et est entrée en Azerbaïdjan."
+        }
+      ]
+    },
+    {
+      "id": "AZE-4",
+      "topic": "histoire",
+      "era": "1988-2023",
+      "title": "Le conflit du Haut-Karabagh",
+      "short": "Dès la fin de l'URSS, l'Azerbaïdjan affronte les Arméniens du Haut-Karabagh, soutenus par l'Arménie, qui y établissent une indépendance de fait. En 2020 puis en 2023, l'Azerbaïdjan reprend ce territoire par les armes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "Dès la sortie de l'URSS, une guerre oppose l'Azerbaïdjan et les Arméniens du Haut-Karabagh, soutenus par l'Arménie, à l'issue de laquelle le Haut-Karabagh maintient son indépendance de facto."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "En septembre 2020, le pays se lance dans la guerre de 2020 au Haut-Karabagh, conflit dont l'objectif avoué est de reprendre le territoire perdu pendant la guerre du Haut-Karabagh, objectif réussi lors de la guerre en 2023."
+        }
+      ]
+    },
+    {
+      "id": "AZE-5",
+      "topic": "geographie",
+      "title": "Un morceau détaché : le Nakhitchevan",
+      "short": "L'Azerbaïdjan possède une exclave, le Nakhitchevan, séparée du reste du pays par l'Arménie. Elle est coincée entre l'Arménie au nord et l'Iran au sud, et touche la Turquie à l'ouest.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Azerbaïdjan",
+          "quote": "L'exclave azerbaïdjanaise du Nakhitchevan dans le sud-ouest du pays est située au sud de l'Arménie et au nord de l'Iran et communique avec la Turquie à l'ouest."
+        }
+      ]
+    },
+    {
+      "id": "AZE-6",
+      "topic": "drapeau",
+      "era": "1918",
+      "title": "Turc, moderne et musulman",
+      "short": "Adopté en 1918 et repris le 5 février 1991, le drapeau associe le bleu des racines turques, le rouge du progrès et de la modernité, et le vert de l'islam. Au centre, un croissant et une étoile à huit branches.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Azerbaïdjan",
+          "quote": "Il fut adopté le 9 novembre 1918 et utilisé de 1918 à 1920 (période de la république démocratique d'Azerbaïdjan), puis fut réadopté le 5 février 1991, au moment de l'éclatement de l'Union soviétique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Azerbaïdjan",
+          "quote": "La signification de leurs couleurs a été exprimée par le leader nationaliste Ali Bey Hussein Zade comme suit : \n\nle bleu pour les racines turques de l'Azerbaïdjan,\nle vert pour ses racines islamiques,\nle rouge pour le besoin de progrès et de modernisation, en suivant l'exemple des pays européens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Azerbaïdjan",
+          "quote": "Au milieu du drapeau, et à l'avant et à l'arrière, se trouvent un croissant blanc et une étoile à huit branches."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AZE-C1",
+      "topic": "histoire",
+      "title": "La ville battue par les vents",
+      "short": "Le nom de Bakou viendrait du persan bâdkoubé, que l'on peut traduire par « coup de vent » ou « battu par les vents ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bakou",
+          "quote": "Le nom de Bakou viendrait du persan بادکوبه (bâdkoubé), qui peut être traduit par « coup de vent » ou « battu par les vents »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la rive ouest de la mer Caspienne, dans le Caucase : la Russie au nord, la Géorgie au nord-ouest, l'Arménie à l'ouest et l'Iran au sud. Son exclave du Nakhitchevan est isolée de l'autre côté de l'Arménie.",
+    "flag": "Bleu, rouge, vert en bandes horizontales, avec un croissant et une étoile blancs au centre. L'Ouzbékistan et le Turkménistan ont aussi des croissants, mais pas cette combinaison de couleurs.",
+    "capital": "Bakou, « battue par les vents », sur une presqu'île de la mer Caspienne."
+  }
+}

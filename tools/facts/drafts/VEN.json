@@ -1,0 +1,165 @@
+{
+  "id": "VEN",
+  "facts": [
+    {
+      "id": "VEN-1",
+      "topic": "histoire",
+      "era": "1499",
+      "title": "La « petite Venise » des maisons sur pilotis",
+      "short": "En 1499, les premiers explorateurs européens, dont Amerigo Vespucci, longent la côte. Les maisons sur pilotis des Indiens du golfe de Maracaibo leur rappellent Venise : la « petite Venise », Venezuola, donne son nom au pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "En 1499, une expédition menée par Amerigo Vespucci",
+          "to": "(côte nord-ouest)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "Les maisons sur pilotis des Indiens du golfe de Maracaibo",
+          "to": "ce qui donne le nom du pays."
+        }
+      ]
+    },
+    {
+      "id": "VEN-2",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Une colonie confiée à des banquiers allemands",
+      "short": "Au XVIe siècle, Charles Quint confie le Venezuela à la famille Welser, des marchands allemands, en gage d'un emprunt. Ce sont eux qui tentent la première colonisation en profondeur du territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "from": "Après la première colonie permanente, à Nueva Cadiz",
+          "to": "tenta la première colonisation en profondeur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "from": "Il reçoit le droit de coloniser le Venezuela, comme gage d'un emprunt",
+          "to": "fait à l'empire espagnol"
+        }
+      ]
+    },
+    {
+      "id": "VEN-3",
+      "topic": "histoire",
+      "era": "1811-1830",
+      "title": "Le pays de Bolívar",
+      "short": "Le Venezuela se déclare indépendant le 5 juillet 1811, sous l'impulsion de Simón Bolívar. Après avoir fait partie de la Grande Colombie, il devient un État à part en 1830. Son nom officiel, « république bolivarienne », rend hommage à Simón Bolívar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "Le 5 juillet 1811, le Venezuela se déclare indépendant",
+          "to": "la couronne espagnole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "Simón Bolívar est le grand leader de ce mouvement",
+          "to": "d'une nouvelle nation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "from": "En 1830, le Venezuela devient alors un État indépendant",
+          "to": "de l'Équateur et du Panama."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "en espagnol República Bolivariana de Venezuela",
+          "to": "en l'honneur de Simón Bolívar"
+        }
+      ]
+    },
+    {
+      "id": "VEN-4",
+      "topic": "economie",
+      "era": "1914",
+      "title": "Un océan de pétrole sous le sol",
+      "short": "Le pétrole découvert en 1914 enrichit vite le pays. Le Venezuela possède les plus grandes réserves prouvées du monde, devant l'Arabie saoudite, mais près des trois quarts sont des sables bitumineux, difficiles et polluants à exploiter.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Venezuela",
+          "from": "En 1914, la découverte et l'exploitation d'importants gisements de pétrole",
+          "to": "la dette extérieure du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "Le Venezuela est une puissance énergétique majeure",
+          "to": "très polluante."
+        }
+      ]
+    },
+    {
+      "id": "VEN-5",
+      "topic": "geographie",
+      "title": "La plus haute chute d'eau du monde",
+      "short": "Dans le massif guyanais, le Salto Ángel tombe de 979 mètres : ce sont les plus hautes chutes d'eau du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Venezuela",
+          "from": "c'est une région sauvage, qui constitue un des lieux les plus attractifs",
+          "to": "les plus hautes chutes d'eau du monde."
+        }
+      ]
+    },
+    {
+      "id": "VEN-6",
+      "topic": "drapeau",
+      "era": "1806-2006",
+      "title": "Sept étoiles, puis huit",
+      "short": "Francisco de Miranda crée le drapeau en 1806 avec sept étoiles. En 2006, le Parlement, acquis au président Hugo Chávez, en ajoute une huitième ; les étoiles représentent les provinces.",
+      "long": "Les députés ont aussi retourné le cheval blanc des armoiries : il galope désormais vers la gauche, comme sur les écussons de la Grande Colombie de 1822.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "from": "Le général Francisco de Miranda créa le drapeau original avec 7 étoiles",
+          "to": "le 12 mars 1806."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "from": "Le 7 mars 2006, Le Parlement du Venezuela adopte",
+          "to": "à l'initiative du projet."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "from": "Entièrement contrôlé par les partisans du chef de l'État",
+          "to": "l'ajout d'une huitième étoile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "from": "Un arc de cercle constitué de 8 étoiles",
+          "to": "représentent les 8 provinces."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Venezuela",
+          "from": "Les députés vénézuéliens ont également modifié le galop",
+          "to": "adoptés en 1822."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VEN-C1",
+      "topic": "histoire",
+      "era": "1567",
+      "title": "Santiago de León de Caracas",
+      "short": "L'explorateur espagnol Diego de Losada fonde la ville en 1567 sous le nom de Santiago de León de Caracas. Elle s'étend dans une vallée entre 760 et 910 m d'altitude, au pied du massif de l'Ávila, tout près de la mer des Caraïbes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Caracas",
+          "from": "Caracas est fondée en 1567",
+          "to": "Diego de Losada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Caracas",
+          "from": "Elle est située au nord du Venezuela",
+          "to": "(cette montagne s'appelle l'Avila)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le nord de l'Amérique du Sud, face à la mer des Caraïbes, entre la Colombie à l'ouest et le Guyana à l'est ; l'Orénoque le traverse avant de finir en un immense delta.",
+    "flag": "Jaune, bleu, rouge à bandes égales, avec un arc de huit étoiles blanches sur le bleu. La Colombie a un jaune deux fois plus large et pas d'étoiles ; l'Équateur a le jaune large et un blason central.",
+    "capital": "Caracas, cap sur les Caraïbes : la capitale est tout près de la mer, juste de l'autre côté de la montagne de l'Ávila."
+  }
+}

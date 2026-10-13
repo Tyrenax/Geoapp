@@ -1,0 +1,125 @@
+{
+  "id": "MTQ",
+  "facts": [
+    {
+      "id": "MTQ-1",
+      "topic": "histoire",
+      "title": "L'île aux iguanes et l'« île aux femmes »",
+      "short": "Les Caribes appelaient l'île Iguanacaera, « l'île aux iguanes ». Ceux d'Hispaniola la nommaient Mantinino, du nom d'une île mythique des Taïnos peuplée de femmes : Colomb en fit l'« île aux femmes ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "La Martinique (en créole martiniquais Matinik ou Matnik",
+          "to": "ou encore Mantinino en caribe d'Hispaniola)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "Cependant, les Caraïbes d'Hispaniola appelaient aussi cette île Mantinino",
+          "to": "n'était peuplée que de femmes)."
+        }
+      ]
+    },
+    {
+      "id": "MTQ-2",
+      "topic": "histoire",
+      "era": "1502-1635",
+      "title": "De Colomb à d'Esnambuc",
+      "short": "Christophe Colomb y pose le pied en 1502. La colonisation française commence en 1635, quand Pierre Belain d'Esnambuc prend possession de l'île au nom de Louis XIII.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "Christophe Colomb est le premier Européen à y poser le pied en 1502",
+          "to": "sous régence espagnole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "La première colonie française est établie en 1635",
+          "to": "au nom du roi Louis XIII."
+        }
+      ]
+    },
+    {
+      "id": "MTQ-3",
+      "topic": "histoire",
+      "era": "1946",
+      "title": "Aimé Césaire et la départementalisation",
+      "short": "Le 19 mars 1946, la Martinique devient un département français d'outre-mer. Au Parlement, le rapporteur de la loi est le jeune député-maire de Fort-de-France, Aimé Césaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "La question est débattue au Parlement",
+          "to": "Aimé Césaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "Ce débat parlementaire aboutit au vote de la loi de départementalisation",
+          "to": "département français d'outre-mer."
+        }
+      ]
+    },
+    {
+      "id": "MTQ-4",
+      "topic": "geographie",
+      "era": "2023",
+      "title": "La montagne Pelée au patrimoine mondial",
+      "short": "En septembre 2023, les volcans et forêts de la montagne Pelée et les pitons du nord de l'île sont inscrits au patrimoine mondial de l'UNESCO.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Martinique",
+          "from": "En septembre 2023 les volcans et forêts de la montagne Pelée",
+          "to": "au patrimoine mondial de l'Unesco."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MTQ-C1",
+      "topic": "histoire",
+      "era": "1902",
+      "title": "Capitale grâce à une catastrophe",
+      "short": "Fort-de-France a longtemps rivalisé avec Saint-Pierre, la première ville fondée par les colons. C'est l'éruption de la montagne Pelée, en 1902, qui en dévastant Saint-Pierre fait définitivement de Fort-de-France la capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fort-de-France",
+          "from": "L'histoire de Fort-Royal, devenu Fort-de-France en 1807",
+          "to": "à plusieurs reprises."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fort-de-France",
+          "from": "C'est l'éruption de la montagne Pelée en 1902",
+          "to": "ville capitale de la Martinique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fort-de-France",
+          "from": "les colons français s'installent dès 1635",
+          "to": "à l'embouchure de la rivière Roxelane."
+        }
+      ]
+    },
+    {
+      "id": "MTQ-C2",
+      "topic": "histoire",
+      "era": "1635-1807",
+      "title": "Cul-de-Sac Royal, Fort-Royal, Fort-de-France",
+      "short": "La ville s'est appelée Cul-de-Sac Royal, puis Fort-Royal, République-Ville sous la Révolution, de nouveau Fort-Royal, et enfin Fort-de-France depuis 1807.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fort-de-France",
+          "from": "Fort-de-France a changé plusieurs fois d'appellation",
+          "to": "à la suite de la Révolution (1793-1794)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fort-de-France",
+          "from": "La ville redevient Fort-Royal (1794-1807)",
+          "to": "depuis 1807."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île française des Petites Antilles, entre la Dominique au nord et Sainte-Lucie au sud.",
+    "flag": "Officiellement, la Martinique utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Fort-de-France : le fort de la France, devenu capitale quand la montagne Pelée a détruit Saint-Pierre."
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "PSE",
+  "facts": [
+    {
+      "id": "PSE-1",
+      "topic": "histoire",
+      "era": "1947-1949",
+      "title": "La Nakba",
+      "short": "Après l'Empire ottoman puis le mandat britannique, les Palestiniens émergent comme peuple en quête d'un État à la suite du plan de partage de 1947, de la création d'Israël en 1948 et de la guerre israélo-arabe de 1948-1949. Ils appellent la défaite de 1949 la « Naqba », la catastrophe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Anciennement intégrés à l'Empire ottoman, puis passés sous mandat britannique après la Première Guerre mondiale, les Palestiniens émergent comme peuple expulsé ou dépendant ayant vocation à disposer d'un État à la suite du plan de partage de la Palestine en 1947, de la déclaration d'indépendance de l'État d'Israël en 1948, et de la guerre israélo-arabe de 1948-1949."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Pendant les deux décennies qui suivent la Nakba de 1948, les armistices de 1949, et l'annexion de ses territoires, la cause palestinienne minée par sa défaite face au nouvel État d'Israël cherche un second souffle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "La guerre, qui dure jusqu'en 1949, se solde par la défaite des armées arabes et des milices palestiniennes. Les Palestiniens qualifient cette défaite de « Naqba », la catastrophe."
+        }
+      ]
+    },
+    {
+      "id": "PSE-2",
+      "topic": "histoire",
+      "era": "1987-1993",
+      "title": "La guerre des pierres",
+      "short": "De 1987 à 1993, un soulèvement spontané éclate dans les territoires occupés par Israël : la première intifada, ou « guerre des pierres ». Les images d'enfants palestiniens armés de pierres face à des chars israéliens ont un impact immense dans le monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "C'est dans ce contexte qu'intervient un soulèvement spontané des Palestiniens dans ces mêmes territoires contre l'Autorité israélienne, entre 1987 et 1993"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Ces évènements, connus sous le nom de Première intifada (littéralement : « première guerre des pierres »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Les images diffusées dans les grands médias internationaux, montrant notamment des enfants palestiniens armés de pierres faire face à des militaires israéliens dans des tanks, ont un impact immense au niveau mondial."
+        }
+      ]
+    },
+    {
+      "id": "PSE-3",
+      "topic": "histoire",
+      "era": "1988-2012",
+      "title": "Un État proclamé à Alger",
+      "short": "Le 15 novembre 1988, l'Organisation de libération de la Palestine (OLP), alors en exil, proclame l'indépendance à Alger. L'État de Palestine adhère à l'UNESCO en 2011 et devient le 29 novembre 2012 État observateur non membre de l'ONU.",
+      "long": "En septembre 2025, il est reconnu par 158 États, mais pas par les pays d'Amérique du Nord ni par la plupart des pays d'Europe de l'Ouest.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "La déclaration du 15 novembre 1988 de l'Organisation de libération de la Palestine (OLP) en exil à Alger est retenue comme déclaration d'indépendance et acceptée comme telle par la Ligue arabe et l'Organisation de la coopération islamique. L'État adhère à l'Unesco en 2011, et le 29 novembre 2012 à l'Organisation des Nations unies (ONU) en tant qu'État observateur non-membre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "En septembre 2025, il est reconnu par 158 États (80 % des 193 États membres que compte l'Organisation des Nations unies plus le Vatican), mais ne l'est pas par les pays d'Amérique du Nord, ainsi que la plupart de l'Europe de l'Ouest, notamment les pays du G7."
+        }
+      ]
+    },
+    {
+      "id": "PSE-4",
+      "topic": "histoire",
+      "era": "1993-1995",
+      "title": "La poignée de main d'Oslo",
+      "short": "Le 13 septembre 1993, à Washington, le Premier ministre israélien Yitzhak Rabin et Yasser Arafat se serrent la main : les accords d'Oslo prévoient une autonomie palestinienne à Jéricho et à Gaza, et la reconnaissance mutuelle de l'OLP et d'Israël.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "À l'issue de plusieurs mois de tractations et de lourdes concessions de part et d'autre, le 7 juillet 1993, les accords d'Oslo sont signés et établissent un accord de principe entre Israël et l'OLP, représentante officielle de la Palestine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Ces accords, qui arrêtent le principe d'une future autonomie palestinienne à Jéricho et à Gaza, sont formalisés publiquement le 13 septembre à Washington sous le parrainage du président Bill Clinton par une vive poignée de mains entre le Premier ministre d'Israël, Yitzhak Rabin, et Yasser Arafat. Ils s'accompagnent d'une déclaration de reconnaissance mutuelle de l'OLP et d'Israël."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Mais l'assassinat en novembre 1995 d'Yitzhak Rabin par Yigal Amir, un extrémiste israélien, met à mal ce processus."
+        }
+      ],
+      "long": "L'assassinat de Rabin par un extrémiste israélien, en novembre 1995, met à mal ce processus."
+    },
+    {
+      "id": "PSE-5",
+      "topic": "geographie",
+      "title": "Un territoire en deux morceaux",
+      "short": "L'État de Palestine revendique la Cisjordanie, la bande de Gaza et Jérusalem-Est, soit 23 % de l'ancienne Palestine mandataire. En pratique, l'Autorité palestinienne ne gouverne qu'une partie de la Cisjordanie, et la bande de Gaza est contrôlée par le Hamas depuis 2007.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "l'État de Palestine est présent sur les territoires palestiniens occupés et revendique la bande de Gaza, Jérusalem-Est et l'entièreté de la Cisjordanie, soit 23 % de la  Palestine mandataire, mais il est soumis depuis sa fondation entre 1988 et 1997 à une forte instabilité administrative et territoriale. Ses frontières sont, de facto et depuis les accords d'Oslo signés en 1994, celles des zones A et B de la Cisjordanie, gouvernée partiellement par l'Autorité palestinienne, et celles de la bande de Gaza, sous contrôle du Hamas depuis 2007 mais revendiquée par l'Autorité palestinienne."
+        }
+      ]
+    },
+    {
+      "id": "PSE-6",
+      "topic": "histoire",
+      "era": "2005-2025",
+      "title": "Gaza",
+      "short": "En 2005, Israël démantèle ses colonies de Gaza et en retire ses soldats, tout en gardant le contrôle des frontières. Après les attaques du Hamas du 7 octobre 2023, qui font près de 1 200 morts en Israël, l'armée israélienne lance une offensive sur Gaza : selon l'ONU, 63 746 Palestiniens y ont été tués au 3 septembre 2025.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Le 12 septembre 2005, toutes les colonies de Gaza sont démantelées et les derniers soldats retirés. La bande de Gaza passe alors en partie sous l'administration de l'autorité palestinienne, tandis qu'Israël conserve le contrôle total des frontières, des eaux territoriales et de l'espace aérien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "La guerre de Gaza débute au lendemain des attaques du 7 octobre contre Israël par le Hamas et le Jihad islamique. Ces attaques provoquent la mort de près de 1 200 personnes en Israël, dont 815 civils."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "La contre-offensive de l'armée israélienne est lancée le jour-même, avec un blocus économique, médiatique et humanitaire, des bombardements aériens et une invasion terrestre. Selon le Bureau de la coordination des affaires humanitaires, au 3 septembre 2025, 63 746 Palestiniens ont été tuées, dont 18 430 enfants et 9 735 femmes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "En parallèle, Israël intensifie ses raids en Cisjordanie, tuant près d'un millier de personnes entre octobre 2023 et mai 2025."
+        }
+      ],
+      "long": "En parallèle, les raids israéliens en Cisjordanie font près d'un millier de morts entre octobre 2023 et mai 2025."
+    },
+    {
+      "id": "PSE-7",
+      "topic": "drapeau",
+      "era": "1916",
+      "title": "Les couleurs de la révolte arabe",
+      "short": "Le drapeau reprend les couleurs panarabes de la révolte arabe de 1916-1918 : le noir des Abbassides, le blanc des Omeyyades, le vert des Fatimides et le triangle rouge de la maison hachémite. Il est presque identique à celui de la Jordanie, qui porte en plus une étoile à sept branches.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Palestine",
+          "quote": "Comme pour beaucoup de pays arabes, le drapeau reprend les couleurs panarabes du drapeau de la Révolte arabe de 1916-1918. Il est presque identique à celui du parti Baas et à celui de la Jordanie"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Palestine",
+          "quote": "Les différentes couleurs représentent des dynasties arabes. Le triangle rouge sur le côté gauche figure la maison hachémite de Mahomet (570-632) et des émirs de La Mecque (Arabie saoudite) ; la bande noire est le signe des Abbassides de Bagdad (Irak, 750-1258) ; la blanche symbolise les Omeyyades de Damas (Syrie, 661-750) et la bande verte distingue les Fatimides d'Afrique du Nord (909-1171)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jordanie",
+          "quote": "L'étoile à sept branches représente les sept versets de la première sourate du Coran. Elle peut aussi symboliser l'unité des peuples arabes ou les sept collines sur laquelle Amman, capitale de la Jordanie, est construite. Avec la taille du triangle rouge, c'est la seule différence entre le drapeau de la Jordanie et celui de la Palestine."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PSE-C1",
+      "topic": "politique",
+      "title": "Deux capitales",
+      "short": "La capitale proclamée de l'État de Palestine est Jérusalem-Est, annexée par Israël. Le gouvernement siège donc à Ramallah, au centre de la Cisjordanie, où Yasser Arafat est inhumé dans un mausolée.",
+      "long": "Ramallah a été fondée au XVe siècle par une tribu arabe chrétienne, les Haddadéens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palestine_(État)",
+          "quote": "Sa capitale est de jure Jérusalem, cependant le siège du gouvernement palestinien se situe de facto à Ramallah en raison de l'annexion de Jérusalem-Est par Israël."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ramallah",
+          "quote": "Ramallah (en arabe : رام الله) est une ville palestinienne située au centre de la Cisjordanie, territoire occupé par Israël depuis 1967. Elle est la capitale administrative de facto de l'Autorité nationale palestinienne ; la capitale officielle, Jérusalem-Est, ayant été annexée par Israël en 1982.\nLa population, initialement composée principalement de Palestiniens chrétiens, comprend, depuis 1948, de nombreux réfugiés musulmans issus de toute la Palestine. L'estimation de la population de la ville, pour 2025, est de 45 644 habitants. Ses habitants s'appellent les Ramallawi.\nYasser Arafat est inhumé dans un mausolée situé dans l'enceinte de la Mouqata'a, quartier général de l'Autorité palestinienne, situé dans la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ramallah",
+          "quote": "La ville de Ramallah fut fondée au milieu du XVe siècle par les Haddadéens, tribu issue des Arabes chrétiens ghassanides."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux territoires séparés : la Cisjordanie, à l'ouest du Jourdain et de la Jordanie, et la petite bande de Gaza, au bord de la Méditerranée, à côté de l'Égypte.",
+    "flag": "Bandes noire, blanche et verte avec un triangle rouge côté mât, sans étoile. Avec une étoile blanche dans le triangle, c'est la Jordanie.",
+    "capital": "L'État de Palestine a proclamé Jérusalem-Est sa capitale ; son gouvernement siège à Ramallah. Les deux réponses sont acceptées."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "id": "BTN",
+  "facts": [
+    {
+      "id": "BTN-1",
+      "topic": "histoire",
+      "title": "La terre du dragon tonnerre",
+      "short": "Les Bhoutanais appellent leur pays Druk Yul, « la terre du dragon », ou Druk Tsendhen, « la terre du dragon tonnerre » : le tonnerre y est vu comme le grondement des dragons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Le nom local du pays est Brug-yul, souvent transcrit Druk Yul, il signifie « terre du dragon ». Il est aussi nommé Druk Tsendhen (« terre du dragon tonnerre »), le tonnerre étant interprété comme étant les grognements de dragons."
+        }
+      ]
+    },
+    {
+      "id": "BTN-2",
+      "topic": "histoire",
+      "era": "XVIIe siècle",
+      "title": "Un lama et ses forteresses",
+      "short": "Au début du XVIIe siècle, le lama tibétain Shabdrung Ngawang Namgyal, fuyant les persécutions au Tibet, unifie une mosaïque de petits fiefs guerriers. Il couvre le pays de dzongs, des forteresses à la fois administratives et religieuses, dont beaucoup existent encore.",
+      "long": "Sa mort, survenue en 1651, est tenue secrète pendant 54 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Le Bhoutan est un ensemble de fiefs mineurs en guerre jusqu'au début du XVIIe siècle, quand le lama et chef militaire Shabdrung Ngawang Namgyal, fuyant la persécution religieuse au Tibet, unifie la région et cultive une identité bhoutanaise distincte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Jusqu'au début du XVIIe siècle, il n'est qu'une mosaïque de petits fiefs guerriers que va unifier le lama tibétain Shabdrung Ngawang Namgyal en créant un réseau de forteresses (dzong) à codirection administrative (penlop) et spirituelle (lama). Il promulgue la Tsa Yig, un code législatif qui aide à unifier les chefs locaux. Beaucoup de ces dzong existent toujours, et jouent encore un rôle spirituel et administratif."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "La mort de Ngawang Namgyal en 1651 reste secrète pendant 54 ans."
+        }
+      ]
+    },
+    {
+      "id": "BTN-3",
+      "topic": "histoire",
+      "era": "1907-2008",
+      "title": "Une monarchie qui a choisi la démocratie",
+      "short": "Le 17 décembre 1907, Ugyen Wangchuck est élu roi héréditaire, fondant la dynastie des Wangchuck. En 2008, à l'initiative du roi lui-même, le pays passe de la monarchie absolue à la monarchie constitutionnelle et organise ses premières élections générales.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Le 17 décembre 1907 (la fête nationale célébrée le 17 décembre commémore cet événement), Ugyen Wangchuck est unanimement élu roi héréditaire du pays par une assemblée de lamas, des penlops et des chefs de clans (nobles)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Le 17 décembre 2005, le roi du Bhoutan, Jigme Singye Wangchuck, annonce que le royaume se transformera en une démocratie parlementaire en 2008"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "En 2008, le Bhoutan passe d'une monarchie absolue à une monarchie constitutionnelle et organise ses premières élections générales."
+        }
+      ]
+    },
+    {
+      "id": "BTN-4",
+      "topic": "politique",
+      "title": "Le bonheur national brut",
+      "short": "Là où la plupart des pays mesurent leur richesse par le produit national brut, le Bhoutan mesure le bonheur de ses habitants : c'est le « bonheur national brut ».",
+      "long": "Même le tourisme est encadré au nom de ce principe, selon une stratégie « haute valeur, faible volume » destinée à éviter le surtourisme.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "L'une des particularités du Bhoutan est sa recherche du bonheur à travers l'amélioration de ce qu'il appelle le « bonheur national brut » ou BNB. Là où la majorité des gouvernements se basent sur la valeur du produit national brut (PNB) pour mesurer le niveau de richesse des citoyens, le Bhoutan lui a substitué le BNB pour mesurer le niveau de bonheur de ses habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Afin de préserver le pays du surtourisme et de respecter la philosophie du Bonheur national brut, le gouvernement suit une stratégie « haute valeur, faible volume »"
+        }
+      ]
+    },
+    {
+      "id": "BTN-5",
+      "topic": "culture",
+      "era": "1999",
+      "title": "La télévision en 1999",
+      "short": "Le Bhoutan n'a levé l'interdiction de la télévision et d'Internet qu'en 1999, ce qui en fait l'un des derniers pays au monde à y avoir accédé. Le roi y voit un progrès, tout en mettant en garde contre un usage qui pourrait effacer les valeurs traditionnelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "En 1999, le gouvernement lève l'interdiction sur la télévision et internet. Le Bhoutan devient ainsi l'un des derniers pays du monde à avoir accédé à la télévision."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bhoutan",
+          "quote": "Dans un discours, le roi annonce que la télévision est un pas critique en avant pour la modernisation du Bhoutan, et qu'elle contribuera au bonheur national brut. Toutefois, il met en garde contre « l'usage abusif » de la télévision, qui pourrait effacer certaines valeurs traditionnelles bhoutanaises."
+        }
+      ]
+    },
+    {
+      "id": "BTN-6",
+      "topic": "drapeau",
+      "title": "Le dragon du drapeau",
+      "short": "Le drapeau porte un dragon, druk en dzongkha, qui renvoie au nom du pays, « le pays du dragon », et à l'école Drukpa du bouddhisme tibétain, religion dominante du Bhoutan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bhoutan",
+          "quote": "Le drapeau représente un dragon oriental (druk en dzongkha, la langue bhoutanaise) issu de la mythologie bhoutanaise. Il fait allusion au nom dzongkha du Bhoutan – Druk Yul (འབྲུག་ཡུལ་, 'brug yul, littéralement « Pays du Dragon » ou « Royaume du Dragon ») – ainsi qu'à la lignée Drukpa du bouddhisme tibétain, qui est la religion dominante du Bhoutan."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BTN-C1",
+      "topic": "culture",
+      "title": "Une capitale sans feux rouges",
+      "short": "À Thimphou, la circulation se règle sans feux de signalisation : les autorités en avaient installé, mais ils ont été retirés avant même d'avoir servi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thimphou",
+          "quote": "La régulation de la circulation sur le réseau routier se fait sans feux de circulation. Les autorités locales avaient installé des feux tricolores, mais ils ont été retirés avant d’être utilisés."
+        }
+      ]
+    },
+    {
+      "id": "BTN-C2",
+      "topic": "geographie",
+      "era": "1962",
+      "title": "Une capitale perchée",
+      "short": "Désignée capitale en 1952, Thimphou n'en obtient officiellement le statut qu'en 1962. Entre 2 248 et 2 648 m d'altitude, c'est l'une des plus hautes capitales du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thimphou",
+          "quote": "Désignée comme capitale du pays en 1952 elle n’a acquis officiellement ce statut qu’en 1962."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thimphou",
+          "quote": "Située entre 2 248 et 2 648 mètres d’altitude, Thimphou est une des plus hautes capitales du monde"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit royaume himalayen sans accès à la mer, coincé entre la Chine (le Tibet) au nord et l'Inde au sud, à l'est du Népal dont le sépare une étroite bande indienne.",
+    "flag": "Un dragon blanc sur un drapeau coupé en diagonale, jaune en haut et orange en bas. Aucun autre drapeau national n'a de dragon de ce genre ; le pays de Galles, qui en a un rouge, n'est pas un pays souverain.",
+    "capital": "Thimphou, la capitale sans feux rouges, dans une haute vallée de l'Himalaya."
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "id": "VAT",
+  "facts": [
+    {
+      "id": "VAT-1",
+      "topic": "histoire",
+      "era": "326-333",
+      "title": "Sur la tombe de saint Pierre",
+      "short": "On dit que saint Pierre fut enterré au Vatican, près du cirque où de nombreux chrétiens furent martyrisés sous Néron. Entre 326 et 333, l'empereur Constantin y fait bâtir une grande basilique, remplacée au XVIe siècle par la basilique actuelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "C'est là, ainsi que dans les jardins adjacents, qu'eut lieu le martyre de nombreux chrétiens de Rome au temps de Néron (54-68). On dit que saint Pierre fut enterré au nord de ce cirque, dans une nécropole qui longeait une route secondaire, la via Cornelia. Sur le lieu de sa sépulture, l'empereur Constantin fit édifier entre 326 et 333 une basilique grandiose à l'emplacement du site de l'ancien cirque romain qui fut alors démoli. L'édifice a été remplacé par la basilique actuelle au cours des XVIe"
+        }
+      ]
+    },
+    {
+      "id": "VAT-2",
+      "topic": "histoire",
+      "era": "1870",
+      "title": "La « question romaine »",
+      "short": "Le 20 septembre 1870, les troupes italiennes prennent Rome, capitale des États pontificaux. Le pape refuse de reconnaître l'annexion : c'est le début de la « question romaine », qui ne sera réglée qu'en 1929, par les accords du Latran.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Le 20 septembre 1870, après l'évacuation des troupes françaises, Rome est conquise par les troupes italiennes et rattachée au royaume d'Italie. Le pape Pie IX, qui résidait au palais du Quirinal (devenu depuis la résidence officielle des rois d'Italie, puis du président de la République italienne), se réfugie alors au palais du Vatican. Son refus de reconnaître l'annexion donne une dimension politique et diplomatique au conflit causé par l'Unité italienne : c'est le début de la « question romaine »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Cette controverse dure jusqu'aux accords du Latran en 1929, par lesquels l'État italien s'engage à respecter les frontières de l'État du Vatican qu'il reconnaît alors de fait, la reconnaissance de droit allant au Saint-Siège ;"
+        }
+      ]
+    },
+    {
+      "id": "VAT-3",
+      "topic": "histoire",
+      "era": "1929",
+      "title": "Un État né d'un accord avec Mussolini",
+      "short": "L'État de la Cité du Vatican est créé le 11 février 1929 par les accords du Latran, signés entre le Saint-Siège et l'Italie de Benito Mussolini. En échange, le pape reconnaît le rattachement à l'Italie des anciens États pontificaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "l'État de la Cité du Vatican est, lui, créé le 11 février 1929 aux termes des accords du Latran, signés par l'Italie représentée par Benito Mussolini"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "en échange, le Pape reconnaît le rattachement à l'Italie des États pontificaux,"
+        }
+      ]
+    },
+    {
+      "id": "VAT-4",
+      "topic": "geographie",
+      "title": "Le plus petit État du monde",
+      "short": "Avec 0,44 km² et quelque 764 habitants, le Vatican est à la fois le plus petit et le moins peuplé des États du monde. Il est entièrement enclavé dans la ville de Rome, à l'intérieur de murailles prévues par les accords du Latran.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Il comptait officiellement 764 habitants en 2023 sur une superficie totale de 0,439 km2, ce qui en fait le plus petit État au monde, ainsi que le moins peuplé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "En effet, cette population est concentrée sur une superficie de 0,44 km2 seulement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Il est enserré dans des murailles imposées par l'article 5 des accords du Latran, entièrement enclavé dans la ville de Rome, dans le territoire italien."
+        }
+      ]
+    },
+    {
+      "id": "VAT-5",
+      "topic": "politique",
+      "era": "1506",
+      "title": "La plus vieille armée du monde",
+      "short": "La Garde suisse pontificale, chargée de protéger le pape, est la plus vieille armée encore en activité. Depuis 1506, ses membres sont recrutés exclusivement dans les cantons suisses.",
+      "long": "Le Vatican a plusieurs langues officielles : l'italien pour l'État, le latin pour l'Église et le droit… et l'allemand pour les gardes suisses.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "La Garde suisse pontificale est la plus vieille armée encore en exercice."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "recrutés depuis 1506, exclusivement dans les cantons suisses"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Les langues officielles de la Cité du Vatican sont :\n\nl'italien pour l'État de la Cité du Vatican ;\nle latin, langue officielle de l'Église catholique romaine et langue juridique du Vatican ;\nl'allemand pour l'armée du Vatican, les gardes suisses ;"
+        }
+      ]
+    },
+    {
+      "id": "VAT-6",
+      "topic": "drapeau",
+      "era": "1929",
+      "title": "Les clés de saint Pierre",
+      "short": "Adopté le 7 juin 1929, le drapeau est carré, jaune et blanc. Sur le blanc figurent les clés de saint Pierre, l'une d'or et l'autre d'argent, sous la tiare papale. Avec celui de la Suisse, c'est l'un des deux seuls drapeaux nationaux carrés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vatican",
+          "quote": "Le drapeau du Vatican est adopté le 7 juin 1929,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vatican",
+          "quote": "Le drapeau est un carré constitué de deux bandes verticales, jaune du côté de la lance et blanche. La partie blanche est frappée en son centre des clefs de saint Pierre croisées et surmontées de la tiare papale. La clé d'argent est placée en position dextre et croise la clé d'or, en arrière-plan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vatican",
+          "quote": "Le drapeau est l'un des deux seuls drapeaux nationaux de forme carrée, avec celui de la Suisse."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VAT-C1",
+      "topic": "histoire",
+      "title": "Un cirque de Caligula",
+      "short": "Le Vatican est une cité-État : sa capitale, c'est lui-même. À l'époque romaine, l'empereur Caligula y avait fait construire un cirque privé, dont l'obélisque du Vatican est l'un des derniers vestiges.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Le fils de cette dernière, l'empereur Caligula (37-41 apr. J.-C.), y fit réaliser un cirque privé, le Circus Vaticanus, dont l'actuel obélisque du Vatican constitue un des seuls vestiges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vatican",
+          "quote": "Le Vatican, en forme longue l'État de la Cité du Vatican (en italien : Stato della Città del Vaticano, /ˈstaːto della tʃitˈta del vatiˈkaːno/ ; en latin : Status Civitatis Vaticanae), est un micro-État européen."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule État entièrement enclavé dans Rome, sur la rive droite du Tibre, autour de la basilique Saint-Pierre.",
+    "flag": "Un drapeau carré, moitié jaune côté mât, moitié blanc avec deux clés croisées sous une tiare. La Suisse est l'autre drapeau national carré, mais rouge à croix blanche.",
+    "capital": "Le Vatican est une cité-État : sa capitale, c'est la Cité du Vatican elle-même, autour de Saint-Pierre."
+  }
+}

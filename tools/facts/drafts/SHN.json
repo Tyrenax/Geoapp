@@ -1,0 +1,66 @@
+{
+  "id": "SHN",
+  "facts": [
+    {
+      "id": "SHN-1", "topic": "histoire", "era": "1502",
+      "title": "Une île découverte par João da Nova",
+      "short": "Le 21 mai 1502, le navigateur portugais João da Nova découvre l'île de Sainte-Hélène. Après une revendication néerlandaise, la Compagnie britannique des Indes orientales en prend possession en 1659.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "L’île Sainte-Hélène fut découverte le 21 mai 1502", "to": "João da Nova."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Les Pays-Bas revendiquèrent l’île de 1645 à 1659", "to": "en prirent possession."}
+      ]
+    },
+    {
+      "id": "SHN-2", "topic": "histoire", "era": "1815-1821",
+      "title": "La dernière prison de Napoléon",
+      "short": "En 1815, les Britanniques choisissent Sainte-Hélène, au milieu de l'Atlantique, pour exiler Napoléon Bonaparte. Il y meurt en 1821.",
+      "long": "Pour empêcher toute évasion depuis les îles voisines, les Britanniques annexent même l'Ascension et Tristan da Cunha et y installent des garnisons. Aujourd'hui encore, le tourisme de l'île repose sur le souvenir de l'exil de Napoléon.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "En 1815, le gouvernement britannique décida d'utiliser l'île Sainte-Hélène", "to": "pour Napoléon Bonaparte."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "En 1821, Napoléon Ier décéda sur l'île de Sainte-Hélène.", "to": "sur l'île de Sainte-Hélène."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Afin de prévenir toute tentative d'évasion", "to": "y installèrent des garnisons."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "L'industrie touristique de Sainte-Hélène est peu développée", "to": "l'emprisonnement de Napoléon."}
+      ]
+    },
+    {
+      "id": "SHN-3", "topic": "histoire", "era": "1961-1963",
+      "title": "Une île entière évacuée par un volcan",
+      "short": "En 1961, une éruption volcanique à Tristan da Cunha force les autorités à évacuer toute la population de l'île vers le Royaume-Uni. Les habitants ne peuvent rentrer qu'en 1963.",
+      "long": "Tristan da Cunha, à 2 100 km au sud de Sainte-Hélène, ne comptait que 284 habitants en 1998, presque tous issus des sept familles fondatrices de l'île.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "En 1961, une éruption volcanique à Tristan da Cunha", "to": "au Royaume-Uni."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Les habitants de Tristan da Cunha ne purent y revenir qu'en 1963.", "to": "qu'en 1963."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "l'archipel Tristan da Cunha à 2 100 kilomètres au sud", "to": "l'archipel Tristan da Cunha à 2 100 kilomètres au sud"},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "La population de Tristan da Cunha était de 284 habitants en 1998", "to": "des sept familles d'origine de l'île"}
+      ]
+    },
+    {
+      "id": "SHN-4", "topic": "geographie",
+      "title": "Huit îles éparpillées dans l'Atlantique Sud",
+      "short": "Ce territoire britannique réunit huit îles très éloignées les unes des autres : l'Ascension est à 1 131 km au nord-ouest de Sainte-Hélène, Tristan da Cunha à 2 100 km au sud.",
+      "long": "Pendant la Seconde Guerre mondiale, l'île de l'Ascension a été louée aux États-Unis, qui y ont établi une base aérienne. Les timbres-poste des trois îles, recherchés par les collectionneurs, rapportent un revenu important au territoire.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Le territoire de Sainte-Hélène, Ascension et Tristan da Cunha est composé de huit îles", "to": "à 2 100 kilomètres au sud"},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Durant la Seconde Guerre mondiale, l’île de l’Ascension fut louée", "to": "une base aérienne."},
+        {"url": "https://fr.wikipedia.org/wiki/Sainte-Hélène,_Ascension_et_Tristan_da_Cunha", "from": "Les îles d'Ascension, de Tristan da Cunha et de Sainte-Hélène produisent", "to": "un revenu significatif au territoire."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SHN-C1", "topic": "histoire", "era": "1659",
+      "title": "Jamestown, la ville du futur Jacques II",
+      "short": "Jamestown est fondée en 1659 par la Compagnie anglaise des Indes orientales. Elle doit son nom au duc d'York, le futur roi d'Angleterre Jacques II. Ses bâtiments du XVIIIe siècle lui donnent encore un style géorgien.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Jamestown_(Sainte-Hélène)", "from": "Fondée en 1659 par des colons de la Compagnie anglaise des Indes orientales", "to": "avant d'être reprise."},
+        {"url": "https://fr.wikipedia.org/wiki/Jamestown_(Sainte-Hélène)", "from": "Elle doit son nom au duc de York", "to": "sous le nom de Jacques II."},
+        {"url": "https://fr.wikipedia.org/wiki/Jamestown_(Sainte-Hélène)", "from": "De nombreux bâtiments construits par la Compagnie des Indes orientales", "to": "son caractère géorgien distinctif."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Des îles isolées au milieu de l'Atlantique Sud, à mi-chemin entre l'Afrique et l'Amérique du Sud : Sainte-Hélène au large de l'Angola, l'Ascension plus au nord, Tristan da Cunha très loin au sud.",
+    "flag": "Un drapeau bleu avec l'Union Jack dans le coin et un écusson montrant l'île et un navire. Comme beaucoup de territoires britanniques : repère l'écusson côté flottant.",
+    "capital": "Jamestown, la ville du roi Jacques II, nichée dans une vallée de Sainte-Hélène."
+  }
+}

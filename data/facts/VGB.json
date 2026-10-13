@@ -1,0 +1,108 @@
+{
+  "id": "VGB",
+  "facts": [
+    {
+      "id": "VGB-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Les îles des onze mille vierges",
+      "short": "Christophe Colomb aperçoit l'archipel en 1493, lors de son deuxième voyage. Il l'aurait nommé en l'honneur de sainte Ursule et de la légende des onze mille vierges.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "La première observation européenne des îles Vierges fut réalisée par Christophe Colomb, lors de son deuxième voyage en 1493. Il aurait nommé les îles en l'honneur de sainte Ursule, connue dans la légende des onze mille vierges."
+        }
+      ]
+    },
+    {
+      "id": "VGB-2",
+      "topic": "histoire",
+      "era": "1648-1672",
+      "title": "Un repaire de boucaniers",
+      "short": "Délaissé par les Espagnols, l'archipel devient un repaire de boucaniers anglais, français et néerlandais. Colonisé par les Néerlandais en 1648, il est annexé par les Anglais en 1672.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "Délaissées par les Espagnols qui préféraient les contrées plus riches, l'archipel devint le repaire idéal des anciens pirates : nouveaux boucaniers anglais, français et néerlandais qui sillonnèrent la mer des Caraïbes pour perpétrer leurs raids contre l'Armada espagnole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "Colonisées en 1648 par les Néerlandais et annexées par les Anglais en 1672, elles furent également disputées par les Français, les Espagnols et les Danois."
+        }
+      ]
+    },
+    {
+      "id": "VGB-3",
+      "topic": "histoire",
+      "era": "1811",
+      "title": "Un planteur pendu pour la mort d'un esclave",
+      "short": "En 1811, le planteur Arthur William Hodge est condamné à mort et exécuté à la prison de Road Town pour avoir fouetté à mort l'un de ses esclaves.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "La prison de Road Town, construite dans les années 1770, est le plus vieux bâtiment de Road Town et le lieu de l'exécution d'Arthur William Hodge (en), planteur condamné à mort en 1811 pour avoir flagellé un de ses esclaves à mort."
+        }
+      ]
+    },
+    {
+      "id": "VGB-4",
+      "topic": "economie",
+      "era": "1959",
+      "title": "Un territoire britannique qui paie en dollars",
+      "short": "Les îles Vierges britanniques utilisent le dollar américain depuis 1959. Leur économie est étroitement liée à leur statut de paradis fiscal, l'un des plus importants du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "Les îles Vierges britanniques ont adopté le dollar américain (USD) comme devise en 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "En 2022, les îles Vierges britanniques sont l'un des paradis fiscaux les plus importants au monde."
+        }
+      ]
+    },
+    {
+      "id": "VGB-5",
+      "topic": "drapeau",
+      "title": "La vierge aux lampes",
+      "short": "Le blason du drapeau montre une femme entre deux colonnes de lampes à huile, au-dessus de la devise latine « Vigilate », « Sois vigilant ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Vierges_britanniques",
+          "quote": "le blason qui figure sur le drapeau représente une femme placée entre deux colonnes formées, chacune par six lampes à huile superposées. Elle en tient une dans la main droite. Sous le blason, un rouleau jaune porte la mention latine « Vigilate », c'est-à-dire « Sois vigilant »."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VGB-C1",
+      "topic": "histoire",
+      "title": "Une capitale gardée par des forts",
+      "short": "Road Town, sur l'île de Tortola, était protégée à la fin du XVIIIe siècle par plusieurs forts, dont il ne reste que des ruines. Sa prison, des années 1770, est son plus vieux bâtiment.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Road_Town",
+          "quote": "Road Town est la capitale du territoire britannique d'outre-mer des îles Vierges britanniques, située sur l'île de Tortola."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Road_Town",
+          "quote": "Le fort Road Town, construit à la fin du XVIIIe siècle, est un ancien fort colonial dont il ne reste aujourd'hui que des ruines."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "La prison de Road Town, construite dans les années 1770, est le plus vieux bâtiment de Road Town"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Vierges_britanniques",
+          "quote": "Le fort Whelk Point, à l'est de Road Town, construit à la fin du XVIIIe siècle, dans l'optique de protéger la colonie de Road Town."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié est des îles Vierges, à l'est de Porto Rico ; la moitié ouest est américaine.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, une femme vêtue de blanc entourée de lampes. Les îles Vierges américaines ont un drapeau blanc avec un aigle jaune.",
+    "capital": "Road Town, sur Tortola : la « ville de la rade »."
+  }
+}

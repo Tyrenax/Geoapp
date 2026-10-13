@@ -1,0 +1,144 @@
+{
+  "id": "NIU",
+  "facts": [
+    {
+      "id": "NIU-1",
+      "topic": "histoire",
+      "era": "900-1440",
+      "title": "Peuplée depuis les Tonga et les Samoa",
+      "short": "Des Polynésiens venus des Tonga colonisent le sud de l'île vers 900 ; d'autres arrivent des Samoa vers 1440. Jusqu'au XVIIIe siècle, les chefs de tribu, les iki, et les pères de famille exercent l'autorité sur une population fragmentée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alofi_(Niue)",
+          "quote": "Alofi fait partie du territoire historique de la tribu Tafiti, qui couvre la moitié sud de l'île (qui fut colonisée par des Polynésiens venus des Tonga aux alentours de 900 ap. J-C. D'autres colons arrivèrent depuis les Samoa vers 1440). Jusqu'au XVIIIe siècle, les iki (chefs de tribu) et les pères de familles exerçaient l'autorité sur une population fragmentée."
+        }
+      ]
+    },
+    {
+      "id": "NIU-2",
+      "topic": "histoire",
+      "era": "1774",
+      "title": "« L'île Sauvage »",
+      "short": "James Cook découvre l'île en 1774 sans pouvoir y débarquer. Il la baptise « Savage Island », l'île Sauvage : selon la légende, les habitants venus l'accueillir semblaient peints de sang. Le nom reste en usage pendant près de deux siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "Découverte par les Européens en 1774 par le capitaine James Cook qui ne put y débarquer"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Niue",
+          "quote": "He named the island \"Savage Island\" because, as legend has it, the natives who \"greeted\" him were painted in what appeared to be blood. The red substance was actually hulahula, a native red fe'i banana. For the next couple of centuries, Niue was known as \"Savage Island\" until its original name, \"Niue\", which translates as \"behold the coconut\", regained use."
+        }
+      ]
+    },
+    {
+      "id": "NIU-3",
+      "topic": "histoire",
+      "era": "1900-1974",
+      "title": "Indépendante, mais associée",
+      "short": "Protectorat britannique en 1900, Niue fait partie de la Nouvelle-Zélande à partir de 1901. Le 19 octobre 1974, elle devient indépendante et conclut un accord de libre association avec la Nouvelle-Zélande, comme les îles Cook.",
+      "long": "En 2006, entre 90 et 95 % des Niuéens vivaient en Nouvelle-Zélande ; l'île elle-même ne comptait que 1 681 habitants en 2022.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "l'île devint en 1900 un protectorat britannique et a fait partie de la Nouvelle-Zélande à partir du 11 juin 1901. Le 19 octobre 1974, Niue, à l'instar des îles Cook, devient indépendante et conclut un accord de libre association avec la Nouvelle-Zélande au sein du royaume de Nouvelle-Zélande."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Niue",
+          "quote": "As of 2006, between 90% and 95% of Niuean people live in New Zealand"
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Niue",
+          "quote": "The 2022 Niue Census of Population and Housing enumerated a population of 1,681"
+        }
+      ]
+    },
+    {
+      "id": "NIU-4",
+      "topic": "geographie",
+      "title": "Le Rocher de Polynésie",
+      "short": "Niue est l'une des plus grandes îles coralliennes du monde : un atoll surélevé, bordé de falaises de calcaire et creusé de grottes. Isolée dans le Pacifique, elle est surnommée « le Rocher de Polynésie ».",
+      "long": "En 2020, Niue est devenu le premier pays entier désigné « sanctuaire international de ciel étoilé ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "Paradoxalement, Niue est une des plus grandes îles coralliennes au monde. C'est aussi un atoll surélevé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "L'île est également surnommée en anglais « The Rock » ou « The Rock of Polynesia » (en français  « Le Rocher » ou « Le Rocher de Polynésie »), ou encore en niuéen « Nukututaha » ou « Motusefua » (« la solitaire »), du fait de son isolement dans l'océan Pacifique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "Plusieurs grottes, telle la grotte d'Avaiki ou celle de Liku, parsèment Niue."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Niue",
+          "quote": "On 7 March 2020, the International Dark-Sky Association announced that Niue had become the first entire country to be designated an International Dark Sky Sanctuary."
+        }
+      ]
+    },
+    {
+      "id": "NIU-5",
+      "topic": "culture",
+      "title": "Voici le cocotier",
+      "short": "En niuéen, niu signifie « cocotier » et ē « ici » : Niue veut dire « voici le cocotier ».",
+      "long": "Dès 2003, un réseau Wi-Fi gratuit a été étendu à toute l'île, faisant de Niue la première « nation Wi-Fi ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niue",
+          "quote": "Issu du niuéen, le mot niuē se décompose en niu (en français : « cocotier ») et ē (« ici »). Il signifie en français « voici le cocotier »."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Niue",
+          "quote": "Starting in 2003, IUS-N began expanding Wi-Fi coverage throughout the capital village of Alofi and in several nearby villages and schools, and has been expanding Wi-Fi coverage into the outer villages since then, making Niue the first Wi-Fi nation."
+        }
+      ]
+    },
+    {
+      "id": "NIU-6",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "Le jaune de l'amitié",
+      "short": "Adopté en 1975, le drapeau est jaune, couleur du soleil et de « l'attachement des Niuéiens envers les Néo-Zélandais ». L'Union Jack porte cinq étoiles : quatre pour la Croix du Sud, et une au centre, sur un disque bleu, pour l'île elle-même au milieu de l'océan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Niue",
+          "quote": "Le champ du drapeau est jaune et le canton supérieur à la hampe porte le dessin du drapeau du Royaume-Uni chargé, sur la croix principale, de cinq étoiles jaunes à cinq branches. L'étoile centrale est sur un disque bleu autour duquel les quatre autres, plus petites, forment un losange."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Niue",
+          "quote": "Le jaune symbolise \"le soleil et le chaleureux attachement des Niuéiens envers les Néo-Zélandais\". En effet, ce drapeau a été adopté en 1975, juste après l'indépendance de l'île"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Niue",
+          "quote": "Les quatre étoiles formant la croix du Sud se retrouvent par ailleurs sur le drapeau de la Nouvelle-Zélande. Enfin, l'étoile centrale symbolise l'île et son autonomie au milieu de l'océan."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NIU-C1",
+      "topic": "geographie",
+      "era": "2004",
+      "title": "Une capitale de 610 habitants",
+      "short": "Avec 610 habitants, Alofi est la deuxième plus petite capitale du monde, après celle des Palaos. En janvier 2004, le cyclone Heta y détruit de nombreux bâtiments, dont l'hôpital ; les services du gouvernement ont depuis été déplacés à l'intérieur des terres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alofi_(Niue)",
+          "quote": "Alofi est composée de deux circonscriptions : Alofi Nord (187 habitants en 2022) et Alofi Sud (423 habitants), soit une population totale de 610 habitants, ce qui fait d'elle la seconde plus petite capitale du monde au regard de la population, après Melekeok, capitale des Palaos."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Alofi_(Niue)",
+          "quote": "En janvier 2004, Niue a été touchée par le cyclone Heta, qui fit deux morts et causa des dégâts importants. Un nombre élevé d’immeubles d’Alofi furent détruits, y compris son hôpital. Les bâtiments du gouvernement ont depuis été déplacés vers un lieu moins exposé appelé Fonuakula, 3 km plus à l’intérieur de l’île."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île solitaire du Pacifique Sud, au milieu du triangle formé par les Tonga, les Samoa et les îles Cook.",
+    "flag": "Le seul drapeau jaune avec l'Union Jack : dans le coin, cinq étoiles jaunes, dont une sur un disque bleu au centre de la croix.",
+    "capital": "Alofi, un village de la côte ouest, l'une des plus petites capitales du monde."
+  }
+}

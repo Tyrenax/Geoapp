@@ -1,0 +1,115 @@
+{
+  "id": "GRD",
+  "facts": [
+    {
+      "id": "GRD-1",
+      "topic": "histoire",
+      "title": "Kamahuye, l'île des Kalinagos",
+      "short": "Avant l'arrivée des Européens, l'île était habitée par les Kalinagos, qui la nommaient Kamahuye.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "Avant l'arrivée de Christophe Colomb, en 1492, l'île était habitée par les Arawaks Kalinagos qui avaient nommé l’île Kamahuye."
+        }
+      ]
+    },
+    {
+      "id": "GRD-2",
+      "topic": "histoire",
+      "era": "1649-1783",
+      "title": "Française, puis britannique",
+      "short": "La Grenade est d'abord une colonie française, de 1649 à 1763. Reprise par la France pendant la révolution américaine, elle redevient britannique en 1783, au traité de Versailles. Un créole français y est encore parlé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "Peuplée par les Caraïbes avant l'arrivée des Européens, la Grenade est d'abord une colonie du royaume de France de 1649 à 1763."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "Reconquise par la France durant la révolution américaine, elle redevient britannique grâce au traité de Versailles de 1783."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "La Grenade (en anglais : Grenada, /ɡɹɪˈneɪdə/ ; en créole anglais de Grenade : Gwenad  ; en créole français de Grenade : La Gwinad  ; en kali'na : Kamahuye) est un pays des Antilles."
+        }
+      ]
+    },
+    {
+      "id": "GRD-3",
+      "topic": "histoire",
+      "era": "1974-1983",
+      "title": "De l'indépendance à l'invasion américaine",
+      "short": "Indépendante le 7 février 1974, la Grenade devient en 1979 un État communiste, le Gouvernement révolutionnaire populaire mené par le mouvement de Maurice Bishop. Le régime prend fin avec l'invasion américaine de 1983.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "Le pays accède à son indépendance du Royaume-Uni le 7 février 1974."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "L'opposition se rassemble principalement au sein du New Jewel Movement (NJM) dirigé par Maurice Bishop"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "La Grenade devient le Gouvernement révolutionnaire populaire de la Grenade, un État communiste, de 1979 jusqu'à l'invasion américaine de 1983."
+        }
+      ]
+    },
+    {
+      "id": "GRD-4",
+      "topic": "economie",
+      "title": "L'île aux épices",
+      "short": "On surnomme la Grenade « l'île aux épices » : cannelle, girofle, curcuma et surtout noix de muscade, dont elle a longtemps été le deuxième producteur mondial derrière l'Indonésie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "La Grenade est surnommée « l'île aux épices » (Island of Spice) pour sa cannelle, ses clous de girofle, son curcuma et surtout le macis et la noix de muscade."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grenade_(pays)",
+          "quote": "La noix de muscade, qui orne le drapeau national, a fait la fortune de l'archipel : jusqu'en 2004, la Grenade en était le deuxième producteur mondial derrière l'Indonésie"
+        }
+      ]
+    },
+    {
+      "id": "GRD-5",
+      "topic": "drapeau",
+      "title": "Une noix de muscade sur le drapeau",
+      "short": "Le drapeau porte une noix de muscade stylisée, côté mât, et sept étoiles : six pour les paroisses du pays, la septième, au centre, pour celle de la capitale, Saint-Georges.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Grenade",
+          "quote": "À la gauche, une noix de muscade stylisée est présente."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Grenade",
+          "quote": "Les 6 étoiles alignées en haut et en bas représentent les 6 paroisses du pays et l'étoile au centre, dans un rond rouge représente la paroisse de Saint-Georges, la capitale."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GRD-C1",
+      "topic": "histoire",
+      "era": "1650-1960",
+      "title": "Fondée par les Français",
+      "short": "Saint-Georges est fondée par les Français en 1650. Sous domination britannique, elle sera de 1885 à 1960 la capitale des îles du Vent britanniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Georges_(Grenade)",
+          "quote": "La ville a été fondée en 1650 par les Français"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Georges_(Grenade)",
+          "quote": "Elle a été la capitale des Îles-du-Vent britanniques de 1885 à 1960."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La plus méridionale des îles du Vent, au sud de Saint-Vincent-et-les-Grenadines et au nord de Trinité-et-Tobago.",
+    "flag": "Une bordure rouge semée d'étoiles jaunes, un centre en triangles jaunes et verts, et une noix de muscade côté mât. La muscade le rend unique.",
+    "capital": "Saint-Georges : comme le saint qui terrasse le dragon, dans l'île des épices."
+  }
+}

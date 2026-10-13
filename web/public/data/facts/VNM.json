@@ -1,0 +1,162 @@
+{
+  "id": "VNM",
+  "facts": [
+    {
+      "id": "VNM-1",
+      "topic": "histoire",
+      "era": "939",
+      "title": "Libéré de la Chine",
+      "short": "Annexés par la dynastie chinoise des Han, le nord et le centre du Vietnam restent sous domination chinoise jusqu'à l'émergence de la première dynastie vietnamienne, en 939.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "La dynastie Han annexa le nord et le centre du Vietnam, qui furent ensuite sous domination chinoise jusqu'à l'émergence de la première dynastie en 939."
+        }
+      ]
+    },
+    {
+      "id": "VNM-2",
+      "topic": "histoire",
+      "era": "1858-1887",
+      "title": "L'Indochine française",
+      "short": "En 1858, la France intervient et s'empare du sud du pays, dont elle fait la colonie de Cochinchine. En 1887, le Vietnam est intégré à l'Indochine française.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Au milieu du siècle, la fermeture du pays au commerce étranger et au christianisme finit par entraîner un conflit avec la France : le Second Empire intervient en 1858 et s'empare du Sud du pays, qu'il annexe pour en faire la colonie de Cochinchine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "En 1887, les trois entités sont intégrées à l'Indochine française."
+        }
+      ]
+    },
+    {
+      "id": "VNM-3",
+      "topic": "histoire",
+      "era": "1945-1954",
+      "title": "De la révolution d'Août à Diên Biên Phu",
+      "short": "En 1945, le Việt Minh de Hô Chi Minh prend le pouvoir lors de la révolution d'Août. La guerre d'Indochine éclate fin 1946. Après leur défaite à Diên Biên Phu, les Français reconnaissent en 1954 l'indépendance du Nord ; le pays est coupé au 17e parallèle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "En 1945, le Japon, qui occupait l'Indochine française depuis 1940, démantèle l'appareil colonial français pour prendre le contrôle du territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "La reddition japonaise, quelques mois plus tard, permet au Việt Minh, front nationaliste dirigé par le Parti communiste de Hô Chi Minh, de prendre le pouvoir lors de la révolution d'Août."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Les Français ne parviennent que progressivement à reprendre le contrôle de l'Indochine ; Hô Chi Minh, dont le pouvoir est encore très fragile, tente la voie de la négociation, mais les pourparlers achoppent et, fin 1946, le conflit larvé débouche sur la guerre d'Indochine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Après leur défaite lors de la bataille de Diên Biên Phu (Chiến dịch Điện Biên Phủ), les Français renoncent à poursuivre un conflit ingagnable sans le soutien des Américains, encore affaiblis par la guerre de Corée et, lors des accords de Genève en juillet 1954, reconnaissent l'indépendance de la partie nord du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "À la suite des accords de Genève de 1954, le Vietnam a été divisé au niveau du 17e parallèle : les communistes ayant le contrôle du Nord et le gouvernement de Bảo Đại celui du Sud."
+        }
+      ]
+    },
+    {
+      "id": "VNM-4",
+      "topic": "histoire",
+      "era": "1975-1976",
+      "title": "La réunification",
+      "short": "Le 30 avril 1975, le Nord-Vietnam prend le contrôle de tout le Sud : la guerre du Vietnam est finie. Le pays, désormais entièrement communiste, est réunifié en 1976. Saïgon, la grande ville du Sud, s'appelle aujourd'hui Hô Chi Minh-Ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "En conséquence, le Nord-Vietnam a effectivement pris le contrôle de l'ensemble du Sud le 30 avril 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Le Vietnam, désormais entièrement sous contrôle communiste, est réunifié en 1976."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Sa capitale est Hanoï, tandis que sa municipalité la plus peuplée est Hô Chi Minh-Ville (ex Saïgon)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "sa délimitation est restée inchangée depuis la fin de la guerre du Vietnam en 1975."
+        }
+      ]
+    },
+    {
+      "id": "VNM-5",
+      "topic": "culture",
+      "title": "Une langue asiatique en lettres latines",
+      "short": "Le vietnamien s'écrit avec un alphabet dérivé de l'alphabet latin, le chữ quốc ngữ. Il est né de la volonté des missionnaires catholiques du XVIIe siècle ; auparavant, la langue s'écrivait avec des caractères dérivés du chinois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "La langue officielle, le vietnamien (Tiếng Việt), est aujourd'hui écrite au moyen d'un alphabet dérivé de l'alphabet latin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vietnam",
+          "quote": "Cette romanisation se nomme Chữ quốc ngữ ; elle découle de la volonté des missionnaires catholiques du XVIIe siècle de retranscrire dans un système phonétique une langue qui n'était alors transcrite que dans le système d'écriture en caractères vietnamiens dérivé du chinois, les chữ nôm."
+        }
+      ]
+    },
+    {
+      "id": "VNM-6",
+      "topic": "drapeau",
+      "era": "1945",
+      "title": "L'étoile jaune sur fond rouge",
+      "short": "Une étoile jaune à cinq branches sur fond rouge : les branches unissent ouvriers, paysans, soldats, intellectuels et jeunesse, le rouge rappelle le sang versé pour l'indépendance. Reconnu par Hô Chi Minh en septembre 1945, il devient en 1976 le drapeau du Vietnam réunifié.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vietnam",
+          "quote": "Il est rouge portant une étoile jaune à cinq branches."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vietnam",
+          "quote": "L'étoile représente l'unité du Vietnam, les branches de l'étoile étant l'union des ouvriers, des paysans, des soldats, des intellectuels et de la jeunesse travaillant ensemble dans la construction du socialisme, le fond rouge symbolise le sang versé pour l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vietnam",
+          "quote": "En septembre 1945, le président Ho Chi Minh signa le décret reconnaissant ce drapeau comme emblème national officiel de la République Démocratique du Viêt Nam."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Vietnam",
+          "quote": "En 1976, après la dissolution du drapeau du gouvernement provisoire du Sud, il est devenu le seul et unique drapeau officiel de la République Socialiste du Vietnam"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "VNM-C1",
+      "topic": "histoire",
+      "era": "1010",
+      "title": "L'envol du dragon",
+      "short": "Fondée officiellement en 1010 par le roi Lý Thái Tổ, Hanoï s'est longtemps appelée Thăng Long, « l'envol du dragon ». Son nom actuel signifie « la ville entre les fleuves ». Elle compte de nombreux lacs, comme le lac de l'Épée restituée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hanoï",
+          "quote": "Conglomérat de petits villages artisanaux, Hanoï est officiellement fondée par le roi Lý Thái Tổ en 1010, et demeure jusqu'en 1802 le cœur politique du Vietnam."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hanoï",
+          "quote": "Cependant, c'est le nom Thăng Long (signifiant « l'envol du dragon ») qui a subsisté le plus longtemps."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hanoï",
+          "quote": "Thăng Long, qui avait une connotation impériale a été rebaptisé Hà Nội, signifiant « la ville entre les fleuves » (de hà « cours d'eau » et ņôi « entre »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Hanoï",
+          "quote": "Les plus connus sont le lac de l'Épée restituée (Hoàn Kiếm), le plus touristique,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un long pays en forme de S le long de la côte est de la péninsule indochinoise, face à la mer de Chine méridionale, de la Chine au nord jusqu'au delta du Mékong au sud.",
+    "flag": "Rouge avec une grande étoile jaune au centre. La Chine a aussi du rouge et du jaune, mais avec cinq étoiles dans le coin.",
+    "capital": "Hanoï, dans le nord, sur le fleuve Rouge. Pas Hô Chi Minh-Ville, la grande ville du sud !"
+  }
+}

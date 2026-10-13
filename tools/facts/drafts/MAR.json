@@ -1,0 +1,192 @@
+{
+  "id": "MAR",
+  "facts": [
+    {
+      "id": "MAR-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Les plus anciens Homo sapiens connus",
+      "short": "En juin 2017, à Djebel Irhoud, on annonce la découverte des plus anciens restes d'Homo sapiens connus au monde, vieux de plus de 300 000 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "Les plus anciens restes d'Homo sapiens au monde ont été découverts",
+          "to": "datent de plus de 300 000 ans."
+        }
+      ]
+    },
+    {
+      "id": "MAR-2",
+      "topic": "histoire",
+      "era": "VIIIe siècle",
+      "title": "Idris Ier et la fondation de Fès",
+      "short": "À la fin du VIIIe siècle, Idris, un prince descendant d'Ali qui fuit les califes abbassides, rallie les tribus locales et fonde la dynastie des Idrissides, que le récit national marocain considère comme le premier État marocain. Il fonde la ville de Fès.",
+      "long": "Le calife Haroun ar-Rachid le fait assassiner. Son fils posthume, Idris II, lui succède à l'âge de onze ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "L'histoire des Idrissides commence, lorsqu'un prince arabe chiite",
+          "to": "Idris Ibn 'abd Allah al-Kamil"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "Parvenant à rallier les tribus locales à sa cause",
+          "to": "sous le nom d'Idris Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "L'État Idrisside, fondé en 789 par Idris Ier",
+          "to": "comme le premier État marocain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Assassiné par un émissaire du calife abbasside",
+          "to": "lui succède à l'âge de onze ans"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "La dynastie idrisside est fondée en 789 par Idris Ibn 'abd Allah al-Kamil",
+          "to": "fuyant la menace des Abbassides"
+        }
+      ]
+    },
+    {
+      "id": "MAR-3",
+      "topic": "histoire",
+      "era": "vers 1070",
+      "title": "Un pays nommé d'après Marrakech",
+      "short": "Vers 1070, les Almoravides fondent Marrakech. La ville a donné son nom au pays : « Maroc » en français, Marruecos en espagnol, Morocco en anglais.",
+      "long": "Jusqu'au XIXe siècle, les cartes européennes parlaient du « royaume de Maroc », en désignant ainsi l'ancienne capitale, Marrakech. Après les Almoravides, les Almohades bâtissent un vaste empire aux XIIe et XIIIe siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "Au XIe siècle, les Almoravides s'imposent dans la région",
+          "to": "vers 1070."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Le mot français « Maroc » est dérivé du nom de la ville de Marrakech.",
+          "to": "de la ville de Marrakech."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Les prononciations portugaise et espagnole",
+          "to": "Morocco en anglais"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Au XIXe siècle, les cartographes européens mentionnaient",
+          "to": "(pour Marrakech)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "Ils sont ensuite remplacés par les Almohades",
+          "to": "le XIIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "MAR-4",
+      "topic": "histoire",
+      "era": "1912-1956",
+      "title": "Un protectorat partagé entre la France et l'Espagne",
+      "short": "En 1912, le Maroc devient un protectorat : le centre à la France, le nord et le Rio de Oro à l'Espagne. Le sultan reste en place, mais le pouvoir réel appartient aux représentants des puissances de tutelle. L'indépendance est obtenue en 1956.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "À la suite du traité conclu entre la France et le Maroc le 30 mars 1912",
+          "to": "sont attribués à l'Espagne"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Dans le système de protectorat, le sultan et le makhzen traditionnel",
+          "to": "qui représentent respectivement la puissance de tutelle"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Le Maroc accède à son indépendance le 2 mars 1956",
+          "to": "le 2 mars 1956"
+        }
+      ]
+    },
+    {
+      "id": "MAR-5",
+      "topic": "geographie",
+      "title": "L'« Occident extrême »",
+      "short": "Les géographes arabes appelaient la région Maghreb al-Aqsa, « l'Occident extrême ». La conquête musulmane l'atteint au début du VIIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Maroc",
+          "from": "La conquête musulmane du Maghreb atteint le territoire",
+          "to": "(« Occident extrême »)."
+        }
+      ]
+    },
+    {
+      "id": "MAR-6",
+      "topic": "drapeau",
+      "era": "1915",
+      "title": "Une étoile verte sur le rouge des Alaouites",
+      "short": "Le rouge uni était l'emblème de la dynastie alaouite depuis le XVIIe siècle. En 1915, le sultan Moulay Youssef y ajoute une étoile verte à cinq branches, qui évoque notamment les cinq piliers de l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Maroc",
+          "from": "Entièrement rouge à l'origine",
+          "to": "le début du protectorat français au Maroc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Maroc",
+          "from": "Il est rouge frappé d'une étoile verte",
+          "to": "les cinq piliers de l'islam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MAR-C1",
+      "topic": "histoire",
+      "era": "XIIe siècle",
+      "title": "Le « camp de la victoire »",
+      "short": "Rabat est fondée au XIIe siècle par les Almohades autour d'une forteresse, un ribat. Son nom vient de Ribat al-Fath, « le camp de la victoire ».",
+      "long": "Face à elle, de l'autre côté de l'embouchure du Bouregreg, se trouve Salé : on les surnomme les « villes jumelles ». Plusieurs sites de Rabat sont inscrits au patrimoine mondial depuis 2012. La plus grande ville du pays reste Casablanca.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rabat",
+          "from": "La ville a été fondée au XIIe siècle par les Almohades",
+          "to": "ainsi qu'une résidence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rabat",
+          "from": "Il s’agissait alors d’un ribat",
+          "to": "(« forteresse »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rabat",
+          "from": "Le nom actuel de la ville dérive de Ribat Al Fath",
+          "to": "« le Camp de la Victoire »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rabat",
+          "from": "Elle est séparée de la ville de Salé",
+          "to": "« villes jumelles »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rabat",
+          "from": "Depuis 2012, un ensemble de sites de Rabat",
+          "to": "patrimoine mondial de l'Unesco."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maroc",
+          "from": "Sa capitale administrative et politique est Rabat",
+          "to": "est Casablanca."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'angle nord-ouest de l'Afrique, face à l'Espagne de l'autre côté du détroit de Gibraltar : la Méditerranée au nord, l'Atlantique à l'ouest, l'Algérie à l'est.",
+    "flag": "Rouge, avec une étoile verte à cinq branches tracée en entrelacs au centre. Le Viêt Nam a une étoile jaune pleine sur fond rouge.",
+    "capital": "Piège : ce n'est ni Casablanca (la plus grande ville) ni Marrakech, mais Rabat, le « camp de la victoire »."
+  }
+}

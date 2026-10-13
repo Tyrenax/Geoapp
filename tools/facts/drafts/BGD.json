@@ -1,0 +1,164 @@
+{
+  "id": "BGD",
+  "facts": [
+    {
+      "id": "BGD-1",
+      "topic": "histoire",
+      "title": "Le pays du Bengale",
+      "short": "Bangladesh signifie littéralement « le pays du Bengale ». L'origine du mot Bangla reste incertaine : il viendrait de Bang, le nom d'une tribu installée dans la région vers l'an 1000 av. J.-C.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Le Bangladesh (/bɑ̃.ɡla.dɛʃ/",
+          "to": "« le pays du Bengale »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "L'origine exacte du mot « Bangla »",
+          "to": "aux environs de -1000."
+        }
+      ]
+    },
+    {
+      "id": "BGD-2",
+      "topic": "histoire",
+      "era": "1947",
+      "title": "Le Pakistan oriental",
+      "short": "En 1947, la partition des Indes coupe le Bengale en deux : l'ouest, à majorité hindoue, va à l'Inde ; l'est, à majorité musulmane, devient une province du Pakistan, le Bengale oriental.",
+      "long": "Dès 1952, le Mouvement pour la langue révèle les tensions : le pouvoir, aux mains du Pakistan occidental, a proclamé l'ourdou langue officielle du Pakistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Lorsque l'Inde est divisée en 1947",
+          "to": "appelée Bengale oriental"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Le Mouvement pour la Langue de 1952",
+          "to": "entre les deux parties du Pakistan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Soumis à une discrimination politique et linguistique",
+          "to": "appuyés par l'Inde et l'URSS."
+        }
+      ]
+    },
+    {
+      "id": "BGD-3",
+      "topic": "histoire",
+      "era": "1971",
+      "title": "La guerre de libération",
+      "short": "En 1971, les Bengalis du Pakistan oriental déclarent leur indépendance. La guerre de libération dure neuf mois ; le conflit et le génocide qui l'accompagnent font entre 300 000 et 3 millions de morts et 10 millions de réfugiés. L'armée indienne intervient en décembre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Soumis à une discrimination politique et linguistique",
+          "to": "appuyés par l'Inde et l'URSS."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Un conflit et un génocide contre les Bengalis s'ensuivent",
+          "to": "10 millions de réfugiés"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "La guerre de libération du Bangladesh dure neuf mois.",
+          "to": "dure neuf mois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "La guérilla menée par les Mukti Bahini",
+          "to": "Troisième guerre indo-pakistanaise."
+        }
+      ]
+    },
+    {
+      "id": "BGD-4",
+      "topic": "geographie",
+      "title": "Un pays-delta",
+      "short": "Le Bangladesh est presque entièrement occupé par le delta du Gange et du Brahmapoutre. La plus grande partie du pays est à moins de douze mètres d'altitude, et environ 10 % du territoire est sous le niveau de la mer.",
+      "long": "La montée des eaux liée au réchauffement climatique pourrait lui faire perdre 20 % de son territoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Le Bangladesh est situé dans le delta plat et bas",
+          "to": "du Gange et du Brahmapoutre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "La plus grande partie du Bangladesh est à moins de douze mètres",
+          "to": "en dessous du niveau de la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "En raison du réchauffement climatique, le Bangladesh pourrait perdre",
+          "to": "sous l'effet de la montée des eaux."
+        }
+      ]
+    },
+    {
+      "id": "BGD-5",
+      "topic": "geographie",
+      "title": "Les Sundarbans, royaume du tigre",
+      "short": "Sur la côte s'étendent les Sundarbans, la plus grande forêt de mangrove du monde, où vit notamment le tigre du Bengale. Le pays est aussi l'un des plus densément peuplés de la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "La plus grande partie de la côte maritime est constituée",
+          "to": "notamment le tigre du Bengale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangladesh",
+          "from": "Avec 1 286 hab/km2 en 2020",
+          "to": "la plus dense."
+        }
+      ]
+    },
+    {
+      "id": "BGD-6",
+      "topic": "drapeau",
+      "era": "1971-1972",
+      "title": "Un soleil rouge sur fond vert",
+      "short": "Le drapeau, vert frappé d'un disque rouge, est hissé pour la première fois le 3 mars 1971 et adopté officiellement le 17 janvier 1972. Le rouge rappelle le sang des Bangladais tués lors des affrontements avec le Pakistan, le vert la jeunesse et les terres agricoles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bangladesh",
+          "from": "Il est vert frappé d'un disque rouge.",
+          "to": "en septembre 1974."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Bangladesh",
+          "from": "Le rouge symbolise le sang des Bangladais",
+          "to": "la jeunesse et les terres agricoles."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BGD-C1",
+      "topic": "histoire",
+      "era": "1608-1704",
+      "title": "La ville aux 700 mosquées",
+      "short": "Fondée au Xe siècle, Dacca prend son essor comme capitale des nababs du Bengale de 1608 à 1704, sous le nom de Jahangir Nagar. Elle est connue pour ses 700 mosquées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dacca",
+          "from": "Fondée au cours du Xe siècle, Dacca prend son essor",
+          "to": "sous le nom de Jahangir Nagar,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dacca",
+          "from": "Dacca est connue pour ses 700 mosquées.",
+          "to": "700 mosquées."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au fond du golfe du Bengale, presque entièrement entouré par l'Inde, avec une courte frontière avec la Birmanie au sud-est. Repère : le grand delta du Gange et du Brahmapoutre.",
+    "flag": "Un disque rouge sur fond vert, légèrement décalé vers le mât. Le Japon a aussi un disque rouge, mais sur fond blanc ; les Palaos, un disque jaune sur fond bleu.",
+    "capital": "Dacca, la ville aux 700 mosquées, au cœur du delta."
+  }
+}

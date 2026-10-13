@@ -1,0 +1,210 @@
+{
+  "id": "IRL",
+  "facts": [
+    {
+      "id": "IRL-1",
+      "topic": "histoire",
+      "era": "Ve siècle",
+      "title": "Saint Patrick, entre histoire et légende",
+      "short": "Le christianisme s'implante en Irlande au Ve siècle sous l'impulsion de saint Patrick, qui fonde l'église d'Armagh vers 445. Les récits de sa vie, où il tente de convaincre les druides, tiennent pourtant beaucoup de la légende.",
+      "long": "La légende veut aussi qu'il ait chassé tous les serpents de l'île et qu'il ait expliqué la Trinité en montrant les trois feuilles du trèfle. Il meurt vers 461 ; sa fête, la Saint-Patrick, tombe le 17 mars.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Les circonstances exactes de l’introduction du christianisme",
+          "to": "largement hagiographiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Patrick est souvent décrit conversant",
+          "to": "plus puissant que la magie druidique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "La légende rapporte aussi qu’il a chassé",
+          "to": "Patrick est mort vers 461."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "L’église d’Armagh est fondée",
+          "to": "vers 445."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "La Saint-Patrick est un événement",
+          "to": "le 17 mars."
+        }
+      ]
+    },
+    {
+      "id": "IRL-2",
+      "topic": "histoire",
+      "era": "1845-1852",
+      "title": "La Grande Famine",
+      "short": "Entre 1845 et 1852, une terrible famine frappe l'Irlande. Le pays passe de 6,5 millions d'habitants en 1841 à 5,1 millions en 1850, entre les morts et une émigration massive vers l'Amérique.",
+      "long": "La catastrophe est aggravée par les autorités britanniques, qui obligent l'Irlande à continuer d'exporter de la nourriture vers l'Angleterre pendant que sa population meurt de faim.\n\nLa langue irlandaise ne s'en remettra pas : la famine lui enlève au moins 90 % de ses locuteurs, morts ou partis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Le XIXe siècle est marqué par une émigration massive",
+          "to": "alors même que la population irlandaise meurt de faim."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Elle comptait 6,5 millions d'habitants en 1841",
+          "to": "accompagnée d'une émigration massive."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "La Grande famine en Irlande, surtout entre 1845 et 1850",
+          "to": "par la mort ou par l'émigration et la dilution."
+        }
+      ]
+    },
+    {
+      "id": "IRL-3",
+      "topic": "histoire",
+      "era": "1916-1918",
+      "title": "L'insurrection de Pâques",
+      "short": "En 1916, en pleine guerre mondiale, des insurgés proclament la république à Dublin : c'est l'insurrection de Pâques. Ses meneurs sont exécutés, mais leur cause triomphe : en 1918, le Sinn Féin gagne les élections et proclame l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Durant la guerre, en 1916, sous la direction",
+          "to": "au nom de Dieu et des générations disparues."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "James Conolly, Patrick Pearse et les autres meneurs",
+          "to": "sont exécutés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Mais le Sinn Féin en retire une popularité accrue",
+          "to": "et proclame l'indépendance."
+        }
+      ]
+    },
+    {
+      "id": "IRL-4",
+      "topic": "histoire",
+      "era": "1922-1949",
+      "title": "Une indépendance votée à deux voix près",
+      "short": "Le 9 janvier 1922, le parlement irlandais ratifie le traité avec Londres par 60 voix contre 58. Il crée l'État libre d'Irlande, sans les deux tiers de l'Ulster, qui restent britanniques.",
+      "long": "L'État libre est d'abord un dominion de l'Empire britannique. En 1937, une nouvelle constitution le rebaptise simplement « Irlande », Éire en irlandais, et la république est officiellement proclamée en 1949.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Le traité anglo-irlandais est ratifié par le Dáil Éireann",
+          "to": "par 60 voix contre 58."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "Le chef de l'IRA Michael Collins accepte ces conditions",
+          "to": "une constitution en octobre 1922."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "En 1937, une nouvelle constitution a été adoptée",
+          "to": "de la loi sur la république d'Irlande de 1948."
+        }
+      ]
+    },
+    {
+      "id": "IRL-5",
+      "topic": "culture",
+      "title": "La langue nationale que peu parlent",
+      "short": "La Constitution fait de l'irlandais la première langue nationale, devant l'anglais. Pourtant, s'il est enseigné à tous les écoliers, à peine plus d'un demi-million d'Irlandais le parlent chaque jour.",
+      "long": "En 1840, l'irlandais était encore parlé par 6 millions de personnes : c'était la langue celtique la plus parlée et la plus vivante. Il survit aujourd'hui surtout dans les Gaeltachtaí, éparpillées le long de la côte ouest.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "La constitution dispose que la première langue nationale",
+          "to": "surtout éparpillées le long de la côte occidentale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irlande_(pays)",
+          "from": "En 1840, l'Irlandais était parlé par 6 millions",
+          "to": "la plus dynamique."
+        }
+      ]
+    },
+    {
+      "id": "IRL-6",
+      "topic": "drapeau",
+      "era": "1848",
+      "title": "La paix entre le vert et l'orange",
+      "short": "Le vert représente la tradition catholique et nationale, l'orange les protestants, fidèles à Guillaume d'Orange, et le blanc la paix entre les deux communautés. Le drapeau est hissé pour la première fois en 1848 par le mouvement Jeune Irlande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irlande",
+          "from": "Ces trois couleurs symbolisent respectivement",
+          "to": "(issu de la maison d'Orange-Nassau)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irlande",
+          "from": "Le drapeau dans sa disposition actuelle",
+          "to": "par le mouvement Jeune Irlande."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IRL-C1",
+      "topic": "histoire",
+      "era": "IXe siècle",
+      "title": "« L'étang noir » des Vikings",
+      "short": "Dublin viendrait du gaélique Dubh Linn, « l'étang noir », près duquel les Vikings bâtissent une place forte au IXe siècle. En irlandais, la ville s'appelle Baile Átha Cliath, « la ville du gué des haies de roseaux », d'après un village celtique plus ancien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dublin",
+          "from": "Le nom de « Dublin » est généralement considéré",
+          "to": "ou Gall Gàidheal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dublin",
+          "from": "Le nom gaélique contemporain Baile Átha Cliath",
+          "to": "par les Vikings au IXe siècle."
+        }
+      ]
+    },
+    {
+      "id": "IRL-C2",
+      "topic": "culture",
+      "era": "1592",
+      "title": "Le trésor de Trinity College",
+      "short": "Trinity College, l'université fondée en 1592 par la reine Élisabeth Ire, conserve dans sa bibliothèque le Livre de Kells, célèbre manuscrit enluminé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dublin",
+          "from": "Trinity College, université fondée en 1592",
+          "to": "Élisabeth Ire d'Angleterre"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dublin",
+          "from": "Le Livre de Kells est conservé",
+          "to": "de Trinity College."
+        }
+      ]
+    },
+    {
+      "id": "IRL-C3",
+      "topic": "culture",
+      "title": "La capitale de l'Eurovision",
+      "short": "Dublin a accueilli le concours Eurovision de la chanson six fois, en 1971, 1981, 1988, 1994, 1995 et 1997 : aucune ville ne l'a organisé plus souvent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dublin",
+          "from": "La ville a accueilli le concours Eurovision",
+          "to": "le concours le plus de fois."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'île à l'ouest de la Grande-Bretagne, de l'autre côté de la mer d'Irlande. Le pays en occupe la plus grande partie ; seul le nord-est, l'Irlande du Nord, reste britannique, et c'est sa seule frontière terrestre.",
+    "flag": "Vert, blanc, orange en bandes verticales, le vert au mât. La Côte d'Ivoire a les mêmes couleurs dans l'ordre inverse (orange au mât), et l'Italie met du rouge à la place de l'orange.",
+    "capital": "Dublin, c'est Dubh Linn, « l'étang noir » : imagine une grande mare sombre comme une pinte de stout."
+  }
+}

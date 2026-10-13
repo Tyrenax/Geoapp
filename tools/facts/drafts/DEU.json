@@ -1,0 +1,237 @@
+{
+  "id": "DEU",
+  "facts": [
+    {
+      "id": "DEU-1",
+      "topic": "histoire",
+      "title": "Un pays, une foule de noms",
+      "short": "Deutschland vient du gotique Thiuda, « le peuple ». Le français « Allemagne » vient d'un autre peuple, les Alamans, et l'anglais Germany, des Germains : selon la langue, le pays porte le nom d'une tribu différente.",
+      "long": "Thiudisk, « du peuple », est devenu Diutisca en vieux haut allemand, puis Deutsch ; les Scandinaves disent Tyskland. L'ancien français en avait tiré « thiois » et « tudesque », et l'italien dit encore tedesco. Le finnois et l'estonien, eux, désignent les Allemands d'après les Saxons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Le mot gotique Thiuda signifiant « peuple »",
+          "to": "désignant le peuple des Alamans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "L'italien lui, a conservé l'origine latine",
+          "to": "se réfère aux Saxons."
+        }
+      ]
+    },
+    {
+      "id": "DEU-2",
+      "topic": "histoire",
+      "era": "962-1806",
+      "title": "Huit siècles de Saint-Empire",
+      "short": "De 962 à 1806, les terres germanophones forment le cœur du Saint-Empire romain germanique, fondé par Otton Ier. À l'époque moderne, il compte plus de 300 États qui n'obéissent que de très loin à l'empereur.",
+      "long": "L'Empire disparaît en 1806, sous la pression des guerres de la Révolution française, remplacé par la confédération du Rhin sous protectorat français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "De 962 à 1806, les territoires germanophones",
+          "to": "du Saint-Empire romain germanique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "C'est de la Francie orientale qu'est issu",
+          "to": "dit le Grand (936-973)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "À l'époque moderne, le Saint-Empire compte plus de 300 États",
+          "to": "l'empereur Habsbourg."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Sous la pression des guerres de la Révolution française",
+          "to": "sous protectorat français."
+        }
+      ]
+    },
+    {
+      "id": "DEU-3",
+      "topic": "histoire",
+      "era": "1517",
+      "title": "95 thèses contre les indulgences",
+      "short": "Le 31 octobre 1517, le moine Martin Luther aurait placardé ses 95 thèses contre les indulgences sur la porte de l'église de Wittemberg. C'est le début de la Réforme protestante.",
+      "long": "Les guerres de religion qui suivent déchirent les Allemands. La paix d'Augsbourg, en 1555, laisse chaque prince choisir sa religion, que ses sujets doivent adopter. Puis la guerre de Trente Ans ravage le pays de 1618 à 1648.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "La réforme luthérienne est introduite",
+          "to": "du pape Léon X."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Son échec à réduire le protestantisme",
+          "to": "cujus regio, ejus religio."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Les progrès du calvinisme en Allemagne",
+          "to": "de 1618 à 1648."
+        }
+      ]
+    },
+    {
+      "id": "DEU-4",
+      "topic": "histoire",
+      "era": "1871",
+      "title": "Un empire proclamé à Versailles",
+      "short": "L'Allemagne unifiée naît le 18 janvier 1871, au lendemain de la défaite française, dans la galerie des Glaces du château de Versailles. Guillaume Ier de Prusse en devient l'empereur, et l'Alsace et le nord de la Lorraine sont annexés.",
+      "long": "Cette unité s'est faite « par le haut et par la guerre », comme le voulait le chancelier Bismarck. Ironie de l'histoire : c'est à Versailles qu'est signé, le 28 juin 1919, le traité qui rend l'Alsace-Lorraine à la France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "La défaite française débouche sur la proclamation",
+          "to": "place-forte de première importance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "L'unité allemande s'est faite par le haut",
+          "to": "comme le souhaitait Bismarck."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Le traité de Versailles est finalement signé le 28 juin 1919.",
+          "to": "le 28 juin 1919."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "La Alsace-Lorraine, annexée par l'Allemagne en 1871",
+          "to": "est restituée à la France."
+        }
+      ]
+    },
+    {
+      "id": "DEU-5",
+      "topic": "histoire",
+      "era": "1989-1990",
+      "title": "Onze mois du Mur à la réunification",
+      "short": "Le mur de Berlin tombe le 9 novembre 1989. Onze mois plus tard, le 3 octobre 1990, l'Allemagne est réunifiée, et Berlin redevient sa capitale.",
+      "long": "Depuis, le pays se compose de seize Länder, des régions semi-autonomes. La réunification a coûté cher : elle a entraîné d'importantes difficultés économiques dans les années 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "La réunification a eu lieu le 3 octobre 1990",
+          "to": "qui marqua la réunification populaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Le mur de Berlin — qui symbolise cette division",
+          "to": "Berlin en redevenant la capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Depuis la réunification en octobre 1990, l'Allemagne se divise",
+          "to": "(ou Länder)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Allemagne",
+          "from": "Le coût de la réunification a entraîné",
+          "to": "depuis les années 1990."
+        }
+      ]
+    },
+    {
+      "id": "DEU-6",
+      "topic": "drapeau",
+      "era": "1813-1848",
+      "title": "Les couleurs d'un uniforme de volontaires",
+      "short": "Le noir-rouge-or viendrait probablement des uniformes des volontaires du corps franc de Lützow, qui combattaient Napoléon : tunique noire, parements rouges, boutons dorés. Il devient le drapeau de l'unité et de la liberté pendant les révolutions de 1848.",
+      "long": "On y lisait la sortie des ténèbres de la servitude (noir), à travers un combat sanglant (rouge), vers la lumière de la liberté (or). Sous la république de Weimar, ses adversaires l'appelaient par moquerie « noir-rouge-moutarde ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Allemagne",
+          "from": "Durant les guerres napoléoniennes, la lutte allemande",
+          "to": "une unité de volontaires de l'armée prussienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Allemagne",
+          "from": "Les uniformes de cette unité sont noirs",
+          "to": "des boutons dorés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Allemagne",
+          "from": "Les couleurs représentent alors la sortie des ténèbres",
+          "to": "la lumière de la liberté (or)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Allemagne",
+          "from": "Le drapeau tricolore apparaît au début du XIXe siècle",
+          "to": "au cours des révolutions de 1848."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Allemagne",
+          "from": "Au moment de son adoption par la république de Weimar",
+          "to": "Schwarz-Rot-Senf (noir-rouge-moutarde)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "DEU-C1",
+      "topic": "histoire",
+      "title": "Une ville née d'un marais, pas d'un ours",
+      "short": "Berlin vient d'une racine slave qui désigne un marais. L'ours des armoiries, présent dès 1280 sur un sceau, repose sur une étymologie populaire : le nom n'a rien à voir avec Bär, « l'ours » en allemand.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "L'influence lacustre se retrouve dans l'étymologie",
+          "to": "sous une forme dialectale (allemand -lein)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "Le symbole de l'ours, aujourd'hui associé",
+          "to": "guilde des fourreurs de Berlin,"
+        }
+      ]
+    },
+    {
+      "id": "DEU-C2",
+      "topic": "politique",
+      "era": "1991",
+      "title": "Capitale à une poignée de voix près",
+      "short": "Le 20 juin 1991, le Bundestag vote le transfert de la capitale de Bonn à Berlin, par 338 voix contre 320. Le Parlement et la Chancellerie ne déménagent qu'en 1999, et plusieurs ministères sont restés à Bonn.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "Cette décision est confirmée par un vote serré du Bundestag",
+          "to": "338 voix contre 320."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "Le transfert de fait des institutions politiques",
+          "to": "les autres restant à Bonn."
+        }
+      ]
+    },
+    {
+      "id": "DEU-C3",
+      "topic": "histoire",
+      "era": "1945-1989",
+      "title": "Une ville en quatre morceaux",
+      "short": "De 1945 à la chute du Mur en 1989, Berlin est partagée en quatre secteurs d'occupation. Après la construction du Mur, ses deux moitiés se dotent même chacune de leurs propres transports.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "Après 1945 et jusqu'à la chute du mur de Berlin en 1989",
+          "to": "quatre secteurs d'occupation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berlin",
+          "from": "Après la construction du mur, les deux parties",
+          "to": "leur propre moyen de transport."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Europe, entre la mer du Nord et la Baltique au nord et les Alpes au sud. Elle a neuf voisins : le Danemark, la Pologne, la Tchéquie, l'Autriche, la Suisse, la France, le Luxembourg, la Belgique et les Pays-Bas.",
+    "flag": "Noir, rouge, or en bandes horizontales, le noir en haut. La Belgique a les mêmes couleurs, mais en bandes verticales et dans un autre ordre (noir, jaune, rouge). Le drapeau de l'Empire de 1871 était noir, blanc, rouge.",
+    "capital": "Berlin, sur la Spree, vient d'un mot slave pour « marais ». Ce n'est pas la ville de l'ours (Bär), malgré ses armoiries et l'Ours d'or de la Berlinale."
+  }
+}

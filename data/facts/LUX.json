@@ -1,0 +1,177 @@
+{
+  "id": "LUX",
+  "facts": [
+    {
+      "id": "LUX-1",
+      "topic": "histoire",
+      "era": "963",
+      "title": "Né d'une « petite forteresse »",
+      "short": "En 963, Sigefroid, comte d'Ardenne, échange un domaine contre un éperon rocheux au-dessus de l'Alzette, où se dressent les ruines d'un fortin romain, Lucilinburhuc, la « petite forteresse ». Le nom du pays en vient.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "La plus ancienne forme du nom est Lucilinburhuc — petite forteresse ou fortin —, dans une charte en latin datée de 963."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "C'est du moins la date qui figure sur la charte d'échange signée par Sigefroid, comte d'Ardenne, et l'abbaye Saint-Maximin de Trèves. Le premier cède un domaine sis à Feulen, près d'Ettelbruck, en échange d'un promontoire rocheux surplombant l'Alzette où se trouvent les ruines d'un ancien castel datant de la fin de l'époque romaine et appelé Lucilinburhuc, qui peut se traduire par « petite forteresse »."
+        }
+      ]
+    },
+    {
+      "id": "LUX-2",
+      "topic": "histoire",
+      "era": "1839",
+      "title": "Un pays coupé en deux",
+      "short": "Le traité de Londres du 19 avril 1839 reconnaît l'indépendance du Luxembourg, mais le coupe en deux : la Belgique prend la partie ouest, la plus grande, qui devient sa province de Luxembourg. Le grand-duché perd plus de la moitié de son territoire.",
+      "long": "C'est aujourd'hui le seul grand-duché souverain au monde. En 1890, faute d'héritier mâle, la couronne quitte la famille royale néerlandaise pour la maison de Nassau-Weilburg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Le Grand-Duché de Luxembourg, État souverain et indépendant depuis le traité de Londres du 19 avril 1839,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Celle-ci se fait selon la frontière établie huit ans plus tôt : la Belgique obtient la partie occidentale, la plus grande, de langues romanes (qui devient la province de Luxembourg) mais doit rendre la partie orientale, de langues germaniques, au grand-duc de Luxembourg,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "La scission du Luxembourg réduit le Grand-duché de plus de la moitié de son territoire de 1815"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "à la tête du seul grand-duché encore existant en tant qu'État souverain au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "En 1890, à la mort du roi et grand-duc Guillaume III, qui n'avait pas d'héritier mâle alors que la loi luxembourgeoise ne permettait pas encore à une femme d'hériter de la couronne, le Grand-Duché passe à la maison de Nassau-Weilburg,"
+        }
+      ]
+    },
+    {
+      "id": "LUX-3",
+      "topic": "histoire",
+      "era": "1867",
+      "title": "Le pays qu'un roi voulait vendre",
+      "short": "En 1867, le roi grand-duc Guillaume III veut vendre le grand-duché à Napoléon III. L'Allemagne de Bismarck, en voie d'unification, s'y oppose ; la crise se règle par une conférence à Londres qui garantit l'indépendance du pays et sa neutralité.",
+      "long": "Cette neutralité n'a pas résisté aux guerres mondiales : l'Allemagne occupe le pays pendant la Première Guerre mondiale, jusqu'en 1918, puis de nouveau à partir de mai 1940.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "La crise luxembourgeoise en 1867, due à la volonté du roi grand-duc Guillaume III de vendre son grand-duché à Napoléon III, ce que l'Allemagne en voie d'unification (sous Otto von Bismarck) ne veut pas tolérer, a pour conséquence la reconnaissance internationale de l'indépendance du Grand-Duché et son statut de pays neutre, garanti par les pays signataires de la conférence à Londres,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Pendant la Première Guerre mondiale, le Luxembourg est occupé par les Allemands, en violation de la neutralité, jusqu'en 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Lors de la Seconde Guerre mondiale, le Troisième Reich viole à nouveau la neutralité luxembourgeoise en mai 1940, et occupe le grand-duché."
+        }
+      ]
+    },
+    {
+      "id": "LUX-4",
+      "topic": "economie",
+      "title": "Des plus pauvres aux plus riches",
+      "short": "Au XIXe siècle, le Luxembourg est l'un des pays les plus pauvres d'Europe : un tiers de sa population émigre outre-mer pour fuir la famine. En 2015, son PIB par habitant est le plus élevé du monde.",
+      "long": "L'industrie a d'abord façonné le sud du pays : la « Minett » tire son nom du minerai de fer extrait de sa terre rouge.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Le Luxembourg était, après avoir recouvré son indépendance en 1867, un des pays les plus pauvres et sous-développés d'Europe, de façon qu'un tiers de la population a dû, au XIXe siècle, s'expatrier outre-mer (surtout aux États-Unis, au Canada et au Brésil) pour des raisons de famine et de misère générale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "En 2015, le PIB par habitant du Luxembourg est le plus élevé au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "L'industrie y a façonné le paysage car de la terre rouge fut extrait du minerai de fer d'où l'appellation de « Minett » en luxembourgeois pour qualifier cette région (du terme lorrain « minette »)."
+        }
+      ]
+    },
+    {
+      "id": "LUX-5",
+      "topic": "culture",
+      "title": "Une langue du cœur et deux langues de bureau",
+      "short": "Le luxembourgeois est la seule langue nationale, la « langue du cœur » que les habitants parlent entre eux. Le français et l'allemand servent aussi dans l'administration et la justice, et les journaux alternent souvent les trois langues sans traduire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Le luxembourgeois est la seule langue nationale du pays et des Luxembourgeois. Cependant, en plus du luxembourgeois, le français et l'allemand sont aussi utilisés dans toutes les affaires administratives et judiciaires, ce qui en fait des langues administratives du Luxembourg."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Elle est définie comme la langue maternelle ou « langue du cœur » des Luxembourgeois et est la langue qu'ils utilisent généralement pour se parler ou s'écrire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "Illustration du multilinguisme : il est fréquent que les journaux ou sites internet institutionnels fassent s'alterner des articles en français, en allemand et en luxembourgeois, sans que chaque article soit traduit dans les deux autres langues."
+        }
+      ]
+    },
+    {
+      "id": "LUX-6",
+      "topic": "drapeau",
+      "era": "1972",
+      "title": "Le faux jumeau des Pays-Bas",
+      "short": "Rouge, blanc et bleu ciel, le drapeau luxembourgeois n'a été officiellement adopté qu'en 1972. On le confond souvent avec celui des Pays-Bas, dont le rouge et le bleu sont plus foncés.",
+      "long": "Il est presque identique au Statenvlag, l'ancien drapeau des Provinces-Unies. À ses côtés flotte souvent le « Roude Léiw », le lion rouge des comtes et ducs de Luxembourg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Luxembourg",
+          "quote": "Le drapeau du Luxembourg (en luxembourgeois : Fändel vu Lëtzebuerg) est un tricolore horizontal comprenant les trois couleurs rouge, blanc et bleu ciel. Il fut adopté officiellement en 1972."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Luxembourg",
+          "quote": "Il est souvent confondu avec le drapeau des Pays-Bas, qui a un rouge et un bleu plus foncés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Luxembourg",
+          "quote": "C'est d'ailleurs quasiment le même drapeau que le Statenvlag, le drapeau de la république des Provinces-Unies, l’ancêtre des Pays-Bas actuels,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Luxembourg",
+          "quote": "On le retrouve souvent flanqué du pavillon de la batellerie et de l'aviation, parfois appelé le « Roude Léiw » (le Lion Rouge en luxembourgeois) ou le « drapeau civil », qui reprend les armoiries des comtes et ducs de Luxembourg,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LUX-C1",
+      "topic": "histoire",
+      "era": "963-1867",
+      "title": "Le « Gibraltar du Nord »",
+      "short": "Née d'un château bâti en 963 sur le rocher du Bock, la ville devient une forteresse si imposante qu'on la surnomme « le Gibraltar du Nord ». Démantelée à partir de 1867, elle a laissé des vestiges inscrits au patrimoine mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg_(ville)",
+          "quote": "La ville s'est développée au Xe siècle à partir d'un château construit en 963 sur le rocher du Bock par le comte ardennais Sigefroy de Luxembourg (Siegfried)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg",
+          "quote": "On trouve la forteresse millénaire au cœur du quartier de la vieille ville à Luxembourg, patrimoine mondial : il s'agit des vestiges d'une époque où Luxembourg était surnommé « le Gibraltar du Nord », justement à cause de son imposante forteresse, qui fut démantelée dès 1867."
+        }
+      ]
+    },
+    {
+      "id": "LUX-C2",
+      "topic": "politique",
+      "title": "L'une des trois capitales de l'Europe",
+      "short": "Ville natale de Robert Schuman, l'un des pères de l'Europe unie, Luxembourg est l'un des trois sièges officiels de l'Union européenne. Elle accueille notamment la Cour de justice de l'Union et la Banque européenne d'investissement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luxembourg_(ville)",
+          "quote": "Ville natale d'un des pères fondateurs de l'Europe unie, Robert Schuman, elle est l'un des trois sièges officiels de l'Union européenne et héberge ses institutions juridictionnelles et financières : la Cour de justice de l'Union Européenne, Banque européenne d'investissement,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un tout petit pays enclavé au cœur de l'Europe de l'Ouest, coincé entre la Belgique à l'ouest, la France au sud et l'Allemagne à l'est.",
+    "flag": "Rouge, blanc, bleu ciel en bandes horizontales. Les Pays-Bas ont la même disposition, mais un bleu nettement plus foncé et un drapeau moins allongé : bleu clair, c'est le Luxembourg.",
+    "capital": "Luxembourg-ville porte le même nom que le pays : la « petite forteresse » devenue le « Gibraltar du Nord »."
+  }
+}

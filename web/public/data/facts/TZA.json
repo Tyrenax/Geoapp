@@ -1,0 +1,175 @@
+{
+  "id": "TZA",
+  "facts": [
+    {
+      "id": "TZA-1",
+      "topic": "histoire",
+      "era": "1964",
+      "title": "Un pays né de deux noms",
+      "short": "La Tanzanie est née le 26 avril 1964 de l'union du Tanganyika, sur le continent, et de l'archipel de Zanzibar. Son nom est un mot-valise : TANganyika + ZANzibar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "La Tanzanie actuelle est née de l'union du Tanganyika et de Zanzibar le 26 avril 1964, peu de temps après leur indépendance respective vis-à-vis du Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Le mot « Tanzania » est un mot-valise créé à partir de la première syllabe de « Tanganyika » et de la première syllabe de « Zanzibar », les noms des deux pays qui ont fusionné"
+        }
+      ]
+    },
+    {
+      "id": "TZA-2",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Zanzibar, le sultanat d'Oman en Afrique",
+      "short": "Au XIXe siècle, Zanzibar est gouverné par une branche de la dynastie des sultans d'Oman : à la mort du sultan, l'aîné garde Oman et le cadet, Majid, prend la tête de Zanzibar. L'archipel est ensuite placé sous protectorat britannique.",
+      "long": "En janvier 1964, juste après l'indépendance, de vieilles tensions communautaires éclatent à Zanzibar ; on estime à environ 10 000 le nombre de personnes massacrées dans la nuit du 11 au 12 janvier.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "Finalement, avec l’aide des Britanniques qui interviennent largement dans les affaires du sultanat, c’est le fils ainé Thuwaini qui récupère le trône à Oman tandis que Majid, son frère cadet, prend la tête des possessions de Zanzibar,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "=== Îles de Zanzibar et Pemba (1886-1964) ===\nZanzibar (sultanat), Zanzibar (protectorat)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Mais, à peine un mois plus tard, en janvier 1964, les tensions communautaires qui couvent depuis des années se libèrent et le parti ASP (Parti Afro-Shirazi)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "On estime à environ 10 000 le nombre de personnes qui furent massacrées dans la nuit du 11 au 12 janvier 1964 à Zanzibar."
+        }
+      ]
+    },
+    {
+      "id": "TZA-3",
+      "topic": "histoire",
+      "era": "1885-1919",
+      "title": "Quand le Kilimandjaro était allemand",
+      "short": "À la fin du XIXe siècle, l'intérieur du pays devient une colonie allemande, et le tracé des frontières place le Kilimandjaro en territoire allemand. Après la Première Guerre mondiale, le Tanganyika passe sous administration britannique.",
+      "long": "En 1911, les Allemands achèvent une première ligne de chemin de fer entre le port de Tanga et Moshi, au pied du Kilimandjaro.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "Avec cette frontière, le Kilimandjaro est dans le territoire allemand."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "=== Tanganyika sous domination britannique (1919-1964) ===\n\nLe premier gouverneur britannique de la Tanganyika est Sir Horace Byatt (en), de 1920 à 1924."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "En 1911, est achevée la première ligne de chemin de fer, entre Tanga au nord de la côte, et Moshi au pied du Kilimandjaro."
+        }
+      ]
+    },
+    {
+      "id": "TZA-4",
+      "topic": "histoire",
+      "era": "1961-1985",
+      "title": "Nyerere, l'enseignant devenu président",
+      "short": "Ancien enseignant, Julius Nyerere devient le premier président du Tanganyika, puis de la Tanzanie unifiée. Inspiré notamment par la Chine, il veut bâtir un socialisme africain égalitaire et autosuffisant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "En 1953, Julius Nyerere, un enseignant né en 1922, passé par l'université de Makerere en Ouganda puis Édimbourg au début des années 1950 pour terminer ses études"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Julius Nyerere est un court temps Premier ministre, puis à la suite des élections de décembre 1962, devient le premier président de la république du Tanganyika."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Nyerere devient le président de cet État nouvellement créé, tandis qu'Abeid Karume, restant président de Zanzibar, devient le vice-président de la Tanzanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Soucieux d’accélérer l’émancipation des Africains par rapport au monde occidental, inspiré des expériences communistes en Chine"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Selon l’idéal de Nyerere, le socialisme africain doit conduire à la création d’une société égalitaire, juste, solidaire, qui trouve dans ses propres ressources les moyens de son autosuffisance."
+        }
+      ]
+    },
+    {
+      "id": "TZA-5",
+      "topic": "geographie",
+      "title": "Le toit de l'Afrique",
+      "short": "Le Kilimandjaro, un volcan de 5 892 m, est le point culminant de l'Afrique. Signalé pour la première fois par un Européen, Rebmann, en 1848, il domine le nord du pays, non loin du cratère du Ngorongoro et du Serengeti.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "La Tanzanie comporte plusieurs volcans dont un seul, l'Ol Doinyo Lengaï, est encore actif et un autre constitue le point culminant du continent africain, le Kilimandjaro, avec 5 892 mètres d'altitude."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tanzanie",
+          "quote": "Rebmann est le premier Européen à signaler le Kilimandjaro en 1848."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "Le potentiel touristique de la Tanzanie, avec son littoral composé de superbes plages sur l'océan Indien, la région nord qui comprend le Kilimandjaro, le cratère de Ngorongoro"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tanzanie",
+          "quote": "On y trouve de nombreux parcs naturels tels que l'énorme terrain du Serengeti, le Tarangire, le lac Manyara ou le cratère du N'Gorongoro"
+        }
+      ]
+    },
+    {
+      "id": "TZA-6",
+      "topic": "drapeau",
+      "era": "1964",
+      "title": "Deux drapeaux fusionnés",
+      "short": "Adopté en 1964, le drapeau tanzanien fusionne ceux du Tanganyika et de Zanzibar. Une bande noire bordée de jaune le traverse en diagonale ; le noir représente le peuple.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tanzanie",
+          "quote": "Le drapeau de la Tanzanie fut adopté en 1964."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tanzanie",
+          "quote": "Il correspond à une fusion des drapeaux du Tanganyika et de Zanzibar."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tanzanie",
+          "quote": "Il est traversé diagonalement par une bande noire bordée de jaune allant du point de drisse inférieur au point flottant supérieur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tanzanie",
+          "quote": "Le noir (9-103) représente le peuple."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TZA-C1",
+      "topic": "politique",
+      "title": "Une capitale déplacée au centre du pays",
+      "short": "Dès les années 1970, la Tanzanie projette de transférer sa capitale de Dar es Salam, sur la côte, vers Dodoma, au centre du pays, à 486 km à l'ouest. Le plan de la nouvelle capitale est dessiné en 1986 par l'architecte américain James Rossant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dodoma",
+          "quote": "Au cours des années 1970 apparaissent les premiers projets de transférer la capitale de Dar es Salam (l'ancienne capitale) à Dodoma."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dodoma",
+          "quote": "Située à peu près au centre du pays, la ville est à 486 km à l'ouest de l'ancienne capitale Dar es Salam et à 441 km au sud d'Arusha, deux des principales villes du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dodoma",
+          "quote": "Le plan d'ensemble de la nouvelle capitale fut conçu en 1986 par l'architecte américain James Rossant, dont les travaux furent soutenus par l'ONU."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte de l'océan Indien, sous le Kenya et l'Ouganda : elle borde les trois grands lacs (Victoria au nord, Tanganyika à l'ouest, Malawi au sud-ouest). L'île de Zanzibar est au large.",
+    "flag": "Une large diagonale noire bordée de jaune, qui sépare un triangle vert (en haut à gauche) d'un triangle bleu (en bas à droite). La Namibie a une diagonale rouge et un soleil.",
+    "capital": "Piège : ce n'est pas Dar es Salam, la grande ville de la côte, mais Dodoma, au centre du pays."
+  }
+}

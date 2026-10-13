@@ -1,0 +1,155 @@
+{
+  "id": "BRB",
+  "facts": [
+    {
+      "id": "BRB-1",
+      "topic": "histoire",
+      "era": "1536",
+      "title": "L'île des « barbus »",
+      "short": "En 1536, un explorateur portugais baptise l'île Os Barbudos, « les barbus », à cause des longues racines aériennes de ses figuiers, qui lui font penser à des barbes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Le nom de Barbade vient de l'explorateur portugais",
+          "to": "à des « barbes »."
+        }
+      ]
+    },
+    {
+      "id": "BRB-2",
+      "topic": "histoire",
+      "era": "1816-1833",
+      "title": "La révolte de Bussa",
+      "short": "Le jour de Pâques 1816, les esclaves se soulèvent : c'est la rébellion de Bussa, écrasée dans le sang. La brutalité de la répression choque jusqu'en Angleterre et renforce le mouvement abolitionniste ; en 1833, 83 000 personnes sont libérées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "En 1816, une  révolte d'esclaves",
+          "to": "hommes, femmes et enfants à la Barbade."
+        }
+      ]
+    },
+    {
+      "id": "BRB-3",
+      "topic": "histoire",
+      "era": "1966-2021",
+      "title": "De la reine à la république",
+      "short": "Indépendante le 30 novembre 1966 avec la reine Élisabeth II pour souveraine, la Barbade devient une république exactement 55 ans plus tard, le 30 novembre 2021, tout en restant dans le Commonwealth.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Elle obtient son indépendance le 30 novembre 1966",
+          "to": "la reine Élisabeth II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Le 16 septembre 2020, la gouverneure générale",
+          "to": "d'indépendance de l'île"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Ainsi, le 30 novembre 2021, la Barbade devient officiellement une république",
+          "to": "membre du Commonwealth."
+        }
+      ]
+    },
+    {
+      "id": "BRB-4",
+      "topic": "histoire",
+      "era": "1833-1951",
+      "title": "Le vote réservé aux planteurs",
+      "short": "Après l'abolition de l'esclavage, les anciens propriétaires reçoivent un large dédommagement, et la minorité des planteurs garde le pouvoir grâce à un cens qui exclut 70 % de la population du vote. Le suffrage universel n'arrive qu'en 1951.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Leurs anciens propriétaires perçoivent de l’État",
+          "to": "un large dédommagement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "La minorité constituée par les planteurs reste au pouvoir",
+          "to": "puis le suffrage universel fit son apparition en 1951."
+        }
+      ]
+    },
+    {
+      "id": "BRB-5",
+      "topic": "drapeau",
+      "title": "Le ciel, la mer, le sable et un trident",
+      "short": "Adopté le 30 novembre 1966, jour de l'indépendance, le drapeau a été dessiné par Grantley Prescod, un professeur d'art, lauréat d'un concours. Les deux bandes bleues figurent le ciel et la mer, la jaune le sable, et le trident noir l'alliance du peuple avec la mer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Barbade",
+          "from": "Le drapeau de la Barbade a été adopté le 30 novembre 1966",
+          "to": "le jour de l'accession à l'indépendance du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Barbade",
+          "from": "Le drapeau comprend trois bandes verticales",
+          "to": "l'alliance du peuple avec la mer"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Barbade",
+          "from": "C'est la proposition de Grantley Prescod",
+          "to": "et par le gouvernement de la Barbade."
+        }
+      ],
+      "era": "1966"
+    },
+    {
+      "id": "BRB-6",
+      "topic": "geographie",
+      "title": "Une île qui n'est pas volcanique",
+      "short": "Contrairement à la plupart des îles des Antilles, nées de volcans, la Barbade est faite de roches sédimentaires : des sédiments du fond de l'océan, poussés par la rencontre de deux plaques, se sont accumulés jusqu'à émerger.",
+      "long": "Un peu à l'écart des autres Petites Antilles, l'île est tournée vers l'Atlantique. Son promontoire du Pico Teneriffe doit son nom à une croyance locale : la première terre rencontrée vers l'est serait l'île espagnole de Tenerife.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "La Barbade est la partie émergée d'un prisme d'accrétion",
+          "to": "grâce au volcanisme de subduction."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "L'île, située en mer des Caraïbes, a cependant une position plus excentrée",
+          "to": "que les autres îles des Petites Antilles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Barbade",
+          "from": "Cette structure géologique se manifeste également",
+          "to": "depuis le territoire de la Barbade."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BRB-C1",
+      "topic": "histoire",
+      "era": "1628",
+      "title": "La ville du pont indien",
+      "short": "Avant l'arrivée des colons britanniques, qui fondent la ville en 1628, les Amérindiens avaient bâti un pont sur la rivière. Ce « pont indien » a donné son nom à Bridgetown, la « ville du pont ». Son centre historique est inscrit au patrimoine mondial depuis 2011.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bridgetown",
+          "from": "Elle fait partie de la paroisse de Saint-Michael",
+          "to": "par des colons britanniques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bridgetown",
+          "from": "Avant cette période, les Indiens avaient construit un pont",
+          "to": "Bridgetown (« ville du Pont »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bridgetown",
+          "from": "Le 25 juin 2011, le « centre historique de Bridgetown et sa garnison »",
+          "to": "du patrimoine mondial"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'île la plus à l'est des petites Antilles, un peu à l'écart dans l'Atlantique, à l'est de Sainte-Lucie et de Saint-Vincent.",
+    "flag": "Bleu, jaune, bleu en bandes verticales, avec un trident noir au centre. Aucun autre drapeau national n'a de trident ; l'Ukraine en a un dans ses armoiries, pas sur son drapeau.",
+    "capital": "Bridgetown, la « ville du pont » : pense au pont indien qui lui a donné son nom."
+  }
+}

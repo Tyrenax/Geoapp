@@ -1,0 +1,173 @@
+{
+  "id": "TUR",
+  "facts": [
+    {
+      "id": "TUR-1",
+      "topic": "histoire",
+      "title": "Parmi les plus vieux villages du monde",
+      "short": "L'Anatolie a été habitée sans interruption tout au long de l'histoire humaine. Ses premiers établissements, comme Çatalhöyük ou Göbekli Tepe, « la colline au nombril », comptent parmi les plus anciens au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "La péninsule anatolienne (ou Asie Mineure)",
+          "to": "tout au long de l'histoire de l'humanité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Les premières implantations comme celles de Çatalhöyük",
+          "to": "parmi les plus anciennes au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Le toponyme turc Göbekli Tepe se traduit",
+          "to": "en référence à sa forme."
+        }
+      ]
+    },
+    {
+      "id": "TUR-2",
+      "topic": "histoire",
+      "era": "1299-1453",
+      "title": "Les Ottomans prennent Constantinople",
+      "short": "En 1299, le sultan Osman Ier conquiert la ville byzantine de Mocadène : c'est le début de l'Empire ottoman, qui durera jusqu'en 1923. En 1453, les troupes du sultan Mehmet II prennent Constantinople.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "=== Empire ottoman (1299 à 1923) ===",
+          "to": "la ville byzantine de Mocadène."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "1453 voit la prise de Constantinople",
+          "to": "du sultan Mehmet II."
+        }
+      ]
+    },
+    {
+      "id": "TUR-3",
+      "topic": "histoire",
+      "era": "1923",
+      "title": "Atatürk, le « Père des Turcs »",
+      "short": "Sur les ruines de l'Empire ottoman, Mustafa Kemal fonde la Turquie moderne : la république est proclamée le 29 octobre 1923, avec Ankara pour capitale. En 1934, le Parlement lui donne le nom d'Atatürk, « Père des Turcs ». Les Turques votent dès 1930 aux municipales.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Le 13 octobre 1923, Ankara devient la nouvelle capitale",
+          "to": "en remplacement de Constantinople."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Le 29 octobre 1923, la Grande Assemblée nationale de Turquie",
+          "to": "le premier président de la République."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "En 1934, une loi (Soyadı Kanunu",
+          "to": "(« Père des Turcs »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "la Turquie, sous l’impulsion de Mustafa Kemal Atatürk, accorde le droit de vote",
+          "to": "l'éligibilité en 1934,"
+        }
+      ]
+    },
+    {
+      "id": "TUR-4",
+      "topic": "histoire",
+      "era": "330-1930",
+      "title": "Byzance, Constantinople, Istanbul",
+      "short": "La plus grande ville de Turquie s'est appelée Byzance jusqu'en 330, puis Constantinople, du nom de l'empereur Constantin. Elle garde ce nom jusqu'en 1930, quand Atatürk lui donne son nom actuel : Istanbul.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Elle s’est auparavant appelée Byzance jusqu'en 330",
+          "to": "lui donnera son nom actuel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ankara",
+          "from": "par sa population, la deuxième ville du pays",
+          "to": "après Istanbul."
+        }
+      ]
+    },
+    {
+      "id": "TUR-5",
+      "topic": "geographie",
+      "title": "Un pied en Europe",
+      "short": "La Turquie est à 97 % en Asie, en Anatolie, et à 3 % en Europe, en Thrace orientale. Istanbul est à cheval sur les deux, de part et d'autre du détroit du Bosphore.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "La Turquie est située pour sa majeure partie (97 %) en Asie",
+          "to": "la Thrace orientale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turquie",
+          "from": "Elle est située à cheval entre la Thrace et l’Anatolie",
+          "to": "par le détroit du Bosphore."
+        }
+      ]
+    },
+    {
+      "id": "TUR-6",
+      "topic": "drapeau",
+      "era": "1844",
+      "title": "La lune et l'étoile",
+      "short": "Un croissant de lune et une étoile blancs sur fond rouge : le drapeau est surnommé Ay yıldız, « lune étoile ». Sa version actuelle date de 1844. Le croissant et l'étoile étaient utilisés par des peuples turcs avant même l'arrivée de l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Turquie",
+          "from": "Il consiste en une lune décroissante",
+          "to": "sur un fond rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Turquie",
+          "from": "Le drapeau est surnommé Ay yıldız",
+          "to": "« lune étoile »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Turquie",
+          "from": "La version actuelle a été adoptée en 1844",
+          "to": "en 1844"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Turquie",
+          "from": "L’étoile et le croissant, ont longtemps été utilisés",
+          "to": "avant l'arrivée de l'Islam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TUR-C1",
+      "topic": "culture",
+      "era": "1923",
+      "title": "Angora, la ville des chats",
+      "short": "Ankara, capitale depuis le 13 octobre 1923, s'appelait Ancyre dans l'Antiquité, puis Angora pour les Occidentaux : un nom resté aux chats, lapins et chèvres à poil long de la région. Atatürk y repose dans l'Anıtkabir, un mausolée achevé en 1953.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ankara",
+          "from": "Ankara (/ˈaŋkaɾa/ ) — anciennement appelée Angora",
+          "to": "depuis le 13 octobre 1923"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ankara",
+          "from": "Elle devint une ville secondaire de l'Empire ottoman",
+          "to": "typiques de la région."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ankara",
+          "from": "Ataturk y est enterré au Anıtkabir",
+          "to": "achevé en 1953."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Entre l'Europe et l'Asie : la grande péninsule d'Anatolie, bordée par la mer Noire au nord et la Méditerranée au sud, plus un petit morceau d'Europe autour d'Istanbul.",
+    "flag": "Rouge avec un croissant et une étoile blancs. La Tunisie a les mêmes couleurs, mais son croissant et son étoile sont dans un disque blanc.",
+    "capital": "Ankara, au centre de l'Anatolie. Pas Istanbul, la plus grande ville !"
+  }
+}

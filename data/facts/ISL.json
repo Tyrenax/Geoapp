@@ -1,0 +1,173 @@
+{
+  "id": "ISL",
+  "facts": [
+    {
+      "id": "ISL-1",
+      "topic": "histoire",
+      "era": "IXe siècle",
+      "title": "Un nom donné après un hiver terrible",
+      "short": "Ísland signifie « pays de glace ». Ce nom lui aurait été donné à la fin du IXe siècle par le Viking Flóki « aux Corbeaux », après un séjour particulièrement rigoureux sur l'île.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Islande (en islandais : Ísland /ˈistlant/, littéralement « pays de glace »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "Le premier viking à avoir délibérément pris la route de l'Islande serait Flóki Vilgerðarson, surnommé Hrafna-Flóki (« Flóki aux Corbeaux ») et ayant vécu à la fin du IXe. Après un séjour particulièrement rigoureux, il donne au pays son nom définitif, Ísland (« pays de glace »)."
+        }
+      ]
+    },
+    {
+      "id": "ISL-2",
+      "topic": "histoire",
+      "era": "874",
+      "title": "Des Norvégiens en fuite",
+      "short": "À partir de 874, l'île se peuple de colons norvégiens fuyant les conflits de leur pays. Selon la tradition, Ingólfr Arnarson, chassé de Norvège, bâtit sa ferme là où s'élèvera Reykjavik.",
+      "long": "Des moines irlandais l'avaient sans doute découverte avant eux, et les archéologues ont trouvé des habitations plus anciennes que la date traditionnelle de la colonisation. Les colons amenaient avec eux des femmes et des esclaves celtes, rencontrés lors de leurs escales.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "À partir de 874, elle commence à se peupler, principalement de colons norvégiens fuyant les conflits de leur pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "Plus tard (traditionnellement en 874), Ingólfr Arnarson, qui aurait été expulsé de Norvège avec son beau-frère Hjörleifr Hróðmarsson par le jarl Atli, construit sa ferme dans le site qui deviendra Reykjavik"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Islande fut probablement colonisée par des Norvégiens fuyant le roi Harald à la Belle Chevelure entre 870 et 930 environ (bien que vraisemblablement découverte auparavant par des moines irlandais connus sous le nom de papar), ramenant avec eux femmes et esclaves celtes au cours de leurs escales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "De récentes fouilles archéologiques ont révélé les ruines d'une cabane à Hafnir dans la péninsule de Reykjanes, dont la datation au carbone indique qu'elle a été abandonnée entre 770 et 880, tandis que les fouilles de Stöðvarfjörður révèlent une longhouse datée de vers 800, ce qui prouve que l'Islande avait été peuplée bien avant la date retenue"
+        }
+      ]
+    },
+    {
+      "id": "ISL-3",
+      "topic": "histoire",
+      "era": "930",
+      "title": "L'Althing, doyen des parlements",
+      "short": "En 930, les chefs islandais créent une assemblée commune, l'Althing, qui réunit chaque année les hommes libres à Þingvellir. C'est le plus ancien parlement d'Europe, et peut-être du monde.",
+      "long": "C'est lors d'une séance de l'Althing, vers l'an 1000, que l'Islande adopte le christianisme, au terme d'un débat qui divise païens et chrétiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "En 930, les chefs islandais (bœndr) décident de créer une assemblée commune, l'Althing, le plus vieux Parlement au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Althing est une assemblée annuelle qui réunit tous les hommes libres à Þingvellir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "Fondé en l'an 930, il s'agit du plus ancien parlement d'Europe, voire du monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Islande adopte le christianisme vers 999-1000, lors d'une séance de l'Althing marquée par la division entre les païens et les chrétiens."
+        }
+      ]
+    },
+    {
+      "id": "ISL-4",
+      "topic": "histoire",
+      "era": "1944",
+      "title": "La république du 17 juin 1944",
+      "short": "En mai 1944, 97 % des votants approuvent par référendum la fin de l'union avec le Danemark. L'Islande devient une république le 17 juin 1944, jour anniversaire de la naissance de Jón Sigurðsson.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "À partir du 20 mai 1944, les Islandais se prononcent lors d'un référendum de quatre jours sur l'opportunité de mettre fin à l'union avec le Danemark, l'abolition de la monarchie et l'instauration de la république : 97 % des votants sont favorables à la fin de l'union et 95 % en faveur de la nouvelle constitution républicaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Islande devient officiellement une république le 17 juin 1944, jour anniversaire de la naissance de Jón Sigurðsson, avec Sveinn Björnsson comme premier président."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'histoire du pays a aussi été marquée par nombre de catastrophes naturelles et par sa lutte pour l'indépendance, obtenue le 17 juin 1944."
+        }
+      ]
+    },
+    {
+      "id": "ISL-5",
+      "topic": "geographie",
+      "title": "Une île posée sur la dorsale",
+      "short": "L'Islande est la plus grande partie émergée de la dorsale médio-atlantique, là où s'écartent les plaques eurasienne et nord-américaine. Elle compte environ 130 volcans actifs, et c'est l'islandais qui a donné au monde le mot « geyser ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "Située sur la dorsale médio-atlantique, dont elle est la plus grande partie émergée,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "L'Islande est située sur la dorsale médio-atlantique séparant les plaques tectoniques eurasienne et nord-américaine, ce qui lui confère une intense activité volcanique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Islande",
+          "quote": "Les manifestations à la surface de cette intense activité volcanique sont nombreuses : de nombreux volcans et failles éruptives sont situés sur l'île, dont environ 130 actifs, et de nombreux phénomènes paravolcaniques comme les solfatares et les sources thermales, dont les geysers (ce mot étant lui-même d'origine islandaise)."
+        }
+      ]
+    },
+    {
+      "id": "ISL-6",
+      "topic": "drapeau",
+      "era": "1915",
+      "title": "Le ciel, la neige et le feu",
+      "short": "Le drapeau islandais est bleu comme le ciel, avec une croix blanc neige et, à l'intérieur, une croix rouge feu. Il est adopté en 1915, quand l'Islande dépend encore du Danemark.",
+      "long": "En 1809, un aventurier danois qui s'était proclamé protecteur de l'Islande lui avait brièvement donné un tout autre drapeau : trois morues blanches sur fond bleu.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Islande",
+          "quote": "Le drapeau civil des Islandais est bleu comme le ciel avec une croix blanc neige, ainsi qu'une croix rouge feu à l'intérieur de la croix blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Islande",
+          "quote": "Il a été officiellement adopté le 19 juin 1915, l'Islande restant un territoire du Danemark."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Islande",
+          "quote": "En 1809, l'aventurier danois Jørgen Jørgensen, dit « Jörundur, roi des jours de canicule », qui s'était proclamé Grand Protecteur de l'Islande et prétendait libérer le pays de la domination danoise en édictant une déclaration d'indépendance, dota brièvement l'Islande d'un drapeau représentant trois morues blanches sur fond bleu,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ISL-C1",
+      "topic": "histoire",
+      "era": "874",
+      "title": "La « baie des fumées »",
+      "short": "Reykjavík signifie « la baie des fumées ». La ville se trouve à l'endroit même où se seraient installés, en 874, les premiers colons menés par Ingólfur Arnarson.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Reykjavik",
+          "quote": "Reykjavík se traduit en français par « baie des fumées » (reykja- étant le génitif pluriel de reykur : « fumée » ; vík : « baie »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Reykjavik",
+          "quote": "Son emplacement se situe à l'endroit même où s'installent en 874 les premiers colons conduits par Ingólfur Arnarson."
+        }
+      ]
+    },
+    {
+      "id": "ISL-C2",
+      "topic": "geographie",
+      "title": "La capitale d'État la plus au nord",
+      "short": "À environ 250 km au sud du cercle polaire, Reykjavik est la capitale d'État souverain la plus septentrionale du monde. Seule Nuuk, capitale du Groenland, est un peu plus au nord.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Reykjavik",
+          "quote": "Elle se situe à environ 250 km au sud du cercle polaire arctique, ce qui en fait la capitale la plus septentrionale d'un État souverain (la capitale du Groenland, Nuuk, étant située quelques kilomètres plus au nord)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une grande île de l'Atlantique Nord, juste sous le cercle polaire, entre la Norvège et le Groenland, dont elle n'est qu'à 287 km. Reykjavik est au sud-ouest.",
+    "flag": "Une croix scandinave rouge bordée de blanc sur fond bleu. La Norvège a les mêmes couleurs inversées (fond rouge, croix bleue bordée de blanc) ; les îles Féroé ont une croix rouge bordée de bleu sur fond blanc.",
+    "capital": "Reykjavik, « la baie des fumées » : imagine la vapeur des sources chaudes au-dessus de la baie."
+  }
+}

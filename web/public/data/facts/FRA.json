@@ -1,0 +1,195 @@
+{
+  "id": "FRA",
+  "facts": [
+    {
+      "id": "FRA-1",
+      "topic": "histoire",
+      "era": "Ve-VIIIe siècle",
+      "title": "Le pays des Francs",
+      "short": "La France doit son nom aux Francs, un peuple germanique installé en Gaule à partir du Ve siècle. Leur nom viendrait d'un mot signifiant « javelot », ou peut-être « homme libre ».",
+      "long": "Les Francs bâtissent leur royaume sur les fondations de la Gaule romaine. En 751, Pépin le Bref est sacré roi des Francs et fonde la dynastie carolingienne ; avec son fils Charlemagne, le royaume grandit au point de couvrir, à la fin du VIIIe siècle, plus d'un million de kilomètres carrés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "La France tire son nom des Francs (peuple germanique) qui en ont institué les premiers fondements sur les bases de la Gaule romaine. Le nom Francs vient lui-même du proto-germanique frankon, qui signifie javelot ou lance ou alors peut-être du mot frank qui signifie « homme libre »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "Si le pouvoir de Clovis semblait originellement solide, la dynastie mérovingienne doit bientôt faire face à de graves difficultés ; elle disparaît en 751 lorsque Pépin le Bref est sacré roi des Francs, fondant ainsi la dynastie carolingienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "Pépin le Bref et son fils Charlemagne agrandissent considérablement le royaume des Francs, qui s'étend à la fin du VIIIe siècle sur plus d'un million de kilomètres carrés."
+        }
+      ]
+    },
+    {
+      "id": "FRA-2",
+      "topic": "histoire",
+      "era": "Paléolithique",
+      "title": "Des fresques vieilles de dizaines de millénaires",
+      "short": "Bien avant les Gaulois, des artistes du Paléolithique ont peint les parois des grottes : la grotte Chauvet, près du Pont d'Arc, vers −36 000, et Lascaux, en Dordogne, vers −18 000.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "La France compte un nombre important de grottes ornées du Paléolithique supérieur, dont deux des plus célèbres sont la grotte de Lascaux (Dordogne, −18000 environ) et la grotte Chauvet (Pont d'Arc, −36000 environ)."
+        }
+      ]
+    },
+    {
+      "id": "FRA-3",
+      "topic": "histoire",
+      "era": "58-50 av. J.-C.",
+      "title": "Vercingétorix face à César",
+      "short": "En 58 av. J.-C., Jules César se lance à la conquête de la Gaule. En -52, les Gaulois se soulèvent derrière l'Arverne Vercingétorix : César est battu à Gergovie, mais l'emporte à Alésia.",
+      "long": "La guerre est d'une rare violence : sièges, cités incendiées, terre brûlée, massacres et déportations en esclavage. Quand César repart, en 50 av. J.-C., il laisse une Gaule exsangue, mais il accorde aux villes une large autonomie.\n\nLa Gaule reste romaine jusqu'à l'installation des Francs, à partir du Ve siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "En 58 av. J.-C., Jules César prend prétexte d'une demande d'aide des Éduens pour se lancer à la conquête du reste de la Gaule. D'abord battu à Gergovie, il vainc à Alésia."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_France",
+          "quote": "La guerre est longue et meurtrière et en janvier -52, avec l'accession au pouvoir de Vercingétorix, les Arvernes et leur clientèle se soulèvent contre l'armée du proconsul. Jules César fait face à la détermination des Gaulois dont le soulèvement est quasi général. Sièges, incendies de cités, politique de la terre brûlée et massacres, déportation en esclavage sont alors au programme qui s'achève par une victoire romaine face à la fougue gauloise désorganisée. En 50 av. J.-C., Jules César laisse une Gaule exsangue. Il laisse aux villes une grande autonomie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "La France métropolitaine actuelle occupe la plus grande partie de l'ancienne Gaule celtique et de l'Aquitaine, conquises par Jules César au Ier siècle av. J.-C., mais elle tire son nom des Francs, le peuple germanique qui s'y installa à partir du Ve siècle."
+        }
+      ]
+    },
+    {
+      "id": "FRA-4",
+      "topic": "histoire",
+      "era": "1789",
+      "title": "La patrie des droits de l'Homme",
+      "short": "Le 26 août 1789, l'assemblée constituante adopte la Déclaration des droits de l'homme et du citoyen, la première déclaration des droits humains. Sa vocation universelle vaut à la France le surnom de « patrie des droits de l'Homme ».",
+      "long": "Tout s'enchaîne en quelques semaines : dans la nuit du 4 août, l'assemblée abolit les privilèges, et le roi ne peut l'en empêcher. La Révolution met fin à l'Ancien Régime et à la monarchie absolue, et ses idées se répandent bien au-delà des frontières.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "Le roi ne peut alors empêcher l'assemblée constituante de décider l'abolition des privilèges dans la nuit du 4 août puis d'adopter le 26 août la Déclaration des droits de l'homme et du citoyen."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "Depuis la Déclaration des droits de l'homme et du citoyen de 1789, la France est souvent appelée « le pays (ou la patrie) des droits de l'Homme », en raison de la vocation universelle de cette première déclaration des droits humains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "En 1789, la Révolution française adopte la déclaration des droits de l'homme et du citoyen, marque la fin de l'ancien régime et de la monarchie absolue, ainsi que la propagation des idées révolutionnaires."
+        }
+      ]
+    },
+    {
+      "id": "FRA-5",
+      "topic": "geographie",
+      "title": "Un pays sur quatre océans",
+      "short": "Grâce à l'outre-mer, la France borde l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien. Elle possède ainsi la deuxième zone économique exclusive du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/France",
+          "quote": "La France dispose d'importantes façades maritimes sur l'Atlantique, la Méditerranée, le Pacifique et l'océan Indien, lui permettant de bénéficier de la deuxième zone économique exclusive la plus vaste au monde."
+        }
+      ]
+    },
+    {
+      "id": "FRA-6",
+      "topic": "drapeau",
+      "era": "1794",
+      "title": "Le blanc du roi entre les couleurs de Paris",
+      "short": "Le bleu et le rouge viendraient des couleurs de Paris et de sa Garde nationale ; ils encadrent le blanc du royaume. L'ordre actuel, bleu côté mât, date du 15 février 1794.",
+      "long": "Le blanc a une longue histoire militaire : pendant la guerre de Cent Ans, la croix blanche distinguait les combattants français de la croix rouge d'Angleterre.\n\nBanni pendant la Restauration, le tricolore est rétabli en 1830 par Louis-Philippe, et il est depuis le drapeau national sans interruption.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "Le bleu et le rouge auraient pour origine les couleurs de la ville de Paris, celles de la Garde nationale, couleurs qui entouraient le blanc du royaume de France, donc identiques aux trois couleurs utilisées par les différents pavillons français d'Ancien Régime."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "C'est pour un second pavillon national tricolore adopté le 15 février 1794 (décret du 27 pluviôse an II) que la disposition actuelle « bleu au mât, blanc au centre, et rouge flottant » a été adoptée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "La guerre de Cent Ans est l'occasion d'exalter le symbole de la croix blanche, opposée à la croix rouge d'Angleterre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "Le drapeau tricolore est le pavillon de marine officiel de la France depuis 1794 et le drapeau officiel des armées depuis 1812, à l'exception des périodes de Restauration : 1814-1815 et 1815-1830."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "Louis-Philippe, qui a combattu à Valmy et à Jemappes, restaure en 1830 sous la monarchie de Juillet le drapeau tricolore (ainsi que la cocarde)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_France",
+          "quote": "Le drapeau de la France, drapeau tricolore bleu, blanc, rouge, également appelé « drapeau tricolore », ou simplement « drapeau français », est l'emblème et le drapeau national de la France sans interruption depuis 1830."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FRA-C1",
+      "topic": "histoire",
+      "title": "« Chez les Parisii »",
+      "short": "Paris doit son nom aux Parisii, le peuple gaulois dont elle était la capitale. Son premier nom, Lutèce, viendrait d'un mot gaulois signifiant « boue » : le site était marécageux.",
+      "long": "À l'époque romaine, les chefs-lieux de cité prennent peu à peu le nom de leur peuple : « Lutèce des Parisii » devient simplement « chez les Parisii ». Angers, Tours, Poitiers ou Amiens ont suivi le même chemin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "Le mot Paris est issu du nom du peuple gaulois des Parisii (au datif locatif pluriel : Parisiis), dont Paris était la capitale à l'époque gallo-romaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "Selon Pierre-Henry Billy, Lutetia pourrait être issu du gaulois *luta, boue, avec le suffixe -etia, ce qui correspond très bien à la nature du terrain décrit par César dans la Guerre des Gaules (existence d'un marais permanent qui déversait ses eaux dans la Seine)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "La première désignation Lutetia (Lutèce) a été remplacée au IVe siècle, suivant un processus général observé dans la Gaule du Bas-Empire pour les capitales de civitas (cités gallo-romaines) : celles-ci furent d'abord appelées de leur nom originel complété du nom du peuple dont elles étaient la capitale, comme Lutecia des Parisii en l'occurrence. Puis le nom du peuple au datif locatif est seul resté, le nom signifiant alors chez les Parisii (voir entre autres Angers capitale des Andécaves, Tours des Turones, Évreux des Éburovices, Saintes des Santons, Poitiers des Pictons, Amiens des Ambiens, etc., qui sont toutes dans le même cas)."
+        }
+      ]
+    },
+    {
+      "id": "FRA-C2",
+      "topic": "histoire",
+      "era": "508",
+      "title": "Capitale depuis Clovis",
+      "short": "En 508, après avoir conquis la majeure partie de la Gaule, Clovis fait de Paris sa capitale. Mais c'est le roi Philippe Auguste qui en fait la capitale incontestée du royaume.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "En 508, après avoir conquis la majeure partie de la Gaule, Clovis fait de Paris sa capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "C’est Philippe Auguste qui fait de Paris la capitale incontestée du royaume, sur lequel il est le premier des capétiens à exercer un fort contrôle ; cette position est encore renforcée sous les règnes de Louis IX et de Philippe IV le Bel."
+        }
+      ]
+    },
+    {
+      "id": "FRA-C3",
+      "topic": "histoire",
+      "title": "Lutèce, petite ville de province",
+      "short": "Contrairement à ce que suggère Astérix, Lutèce n'était pas la capitale de la Gaule : elle comptait environ dix mille habitants, quand Lugdunum, l'actuelle Lyon, en abritait de 50 000 à 80 000.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "Paris (sous le nom antique de Lutèce) apparaît dans pas moins de quatre aventures d'Astérix, série réalisée par René Goscinny et Albert Uderzo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "À l'époque gallo-romaine, Lutèce n'est qu'une cité relativement modeste du monde romain avec une population de l'ordre de dix mille habitants à son apogée ; en comparaison, Lugdunum (Lyon), capitale des trois Gaules (dont la lyonnaise qui englobe la région de Lutèce), aurait compté, au IIe siècle, de 50 000 à 80 000 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paris",
+          "quote": "En outre, Lutèce est souvent évoquée dans la série, donnant l'impression d'être la capitale de la Gaule (afin de mieux donner au lecteur le sentiment que la série se déroule à l'époque actuelle), alors que la capitale des Gaules était Lugdunum (l'antique Lyon), à partir de 27 avant notre ère."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'« Hexagone » : six côtés entre la Manche, l'Atlantique et la Méditerranée. La Belgique est au nord, l'Espagne au sud-ouest derrière les Pyrénées ; à l'est, le Rhin et les Alpes la séparent de l'Allemagne, de la Suisse et de l'Italie.",
+    "flag": "Trois bandes verticales bleu, blanc, rouge, le bleu côté mât. Les Pays-Bas ont les mêmes couleurs, mais en bandes horizontales avec le rouge en haut. L'Italie (vert, blanc, rouge) et la Belgique (noir, jaune, rouge) reprennent la même forme verticale.",
+    "capital": "Paris, c'est « chez les Parisii », les Gaulois qui vivaient au bord de la Seine. Avant, la ville s'appelait Lutèce, comme dans Astérix."
+  }
+}

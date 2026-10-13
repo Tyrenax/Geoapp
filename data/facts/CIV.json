@@ -1,0 +1,177 @@
+{
+  "id": "CIV",
+  "facts": [
+    {
+      "id": "CIV-1",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Une côte nommée par les marins portugais",
+      "short": "« Côte d'Ivoire » traduit le nom portugais Costa do Marfim, donné par les navigateurs en route vers l'Inde. Le commerce de l'ivoire, des fusils et la traite des esclaves s'y installent vite.",
+      "long": "En 1985, le gouvernement a demandé à tous les pays d'employer le nom français « Côte d'Ivoire », sans le traduire, comme on dit Costa Rica ou Sierra Leone dans toutes les langues.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "La dénomination de « Côte d'Ivoire » est la traduction en français du nom portugais de Costa do Marfim donné par les commerçants navigateurs en route vers l'Inde"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Le commerce de l'ivoire, des fusils et la traite des Noirs se mettent vite en place."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "En octobre 1985, le gouvernement ivoirien a demandé à tous les pays d'utiliser comme dénomination officielle le nom en français de « Côte d'Ivoire » (de manière similaire aux noms de certains pays qui ne sont pas traduits comme Costa Rica, Sierra Leone, etc.)."
+        }
+      ]
+    },
+    {
+      "id": "CIV-2",
+      "topic": "histoire",
+      "era": "1889",
+      "title": "Les monts de Kong, des montagnes qui n'existaient pas",
+      "short": "À la fin du XIXe siècle, les cartes européennes dessinaient encore les « monts de Kong », des montagnes légendaires au cœur de l'Afrique de l'Ouest. L'explorateur français Binger a démontré qu'elles n'existaient pas.",
+      "long": "Sur une carte allemande de 1889, l'intérieur du pays est encore presque vide, une terra incognita, et les monts de Kong y figurent toujours, avec un point d'interrogation. La vraie ville de Kong était, elle, une cité commerçante reliant la savane et la forêt.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Sur cette carte allemande de 1889, où la région est considérée comme faisant partie de l'Ober Guinea (Haute-Guinée, s'étendant du Liberia au Cameroun), on remarque combien l'intérieur des terres restait à l'époque terra incognita des géographes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Les légendaires Monts de Kong, dont Binger démontra l'inexistence, y apparaissent encore (avec un point d'interrogation)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Des villes commerçantes comme Kong ou Bondoukou deviendront par la suite de véritables cités-États, liens entre la savane et la forêt."
+        }
+      ]
+    },
+    {
+      "id": "CIV-3",
+      "topic": "histoire",
+      "era": "XVIIIe siècle",
+      "title": "Les grandes migrations akan",
+      "short": "Au XVIIIe siècle, des peuples akan venus de l'est, dont les Agnis et les Baoulés, s'installent dans le sud-est et le centre du pays. Le baoulé est aujourd'hui l'une des langues les plus parlées de Côte d'Ivoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Au XVIIIe siècle, la région est envahie par deux ethnies appartenant au groupe Akan : les Agnis dans le sud-est et les Baoulés dans le centre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "Le XVIIIe siècle consacre les grandes migrations akan (Agni, Baoulé, Atié, Abbey, Ébriés, M'Batto, Abidji), dans le sud-est et le centre du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "Plus au centre, le baoulé (7 200 000 locuteurs) et le bété (3 000 000 locuteurs) sont les plus parlées."
+        }
+      ]
+    },
+    {
+      "id": "CIV-4",
+      "topic": "histoire",
+      "era": "1946-1993",
+      "title": "Houphouët-Boigny, du travail forcé au « miracle ivoirien »",
+      "short": "En 1946, le député Félix Houphouët-Boigny fait voter la loi qui abolit le travail forcé dans les colonies françaises. Premier président à l'indépendance, le 7 août 1960, il dirige le pays jusqu'à sa mort en 1993.",
+      "long": "Grâce au café et au cacao, l'économie connaît un essor spectaculaire entre 1960 et 1980 : on parle de « miracle ivoirien ». Houphouët-Boigny ne cache pas ses regrets de quitter la « grande famille française » et garde des liens étroits avec la France. La chute des cours du café et du cacao entraîne une récession à la fin des années 1970.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "La citoyenneté française fut accordée aux sujets africains, le droit de s'organiser politiquement leur fut reconnu, et le travail forcé fut aboli par la loi du 11 avril 1946, proposée par Félix Houphouët-Boigny."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "D'abord protectorat français en 1843, puis colonie française, le 10 mars 1893 selon le traité de Kong, le pays acquiert son indépendance, le 7 août 1960, sous la houlette de Félix Houphouët-Boigny, premier président de la République."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Le président-fondateur est Félix Houphouët-Boigny (1905-1993)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "Entre 1960 et 1980, le développement de l'économie ivoirienne est spectaculaire dans tous les domaines, notamment agriculture, industrie, commerce et finances."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "=== L'indépendance et le régime de Houphouët-Boigny ===\n\n\n==== Miracle ivoirien ===="
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "Félix Houphouët-Boigny n'a jamais caché ses « regrets » de quitter la « grande famille française » pour conquérir l'indépendance et manifeste, dès 1960, sa volonté de maintenir des liens étroits avec la France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "La chute des cours des produits agricoles de base constitués par le café et le cacao, principaux produits d'exportation qui dominent l'économie du pays, entraîne une récession économique à la fin des années 1970."
+        }
+      ]
+    },
+    {
+      "id": "CIV-5",
+      "topic": "economie",
+      "title": "Le premier producteur de cacao au monde",
+      "short": "La Côte d'Ivoire est le premier producteur mondial de cacao. Le prix en a été lourd : depuis l'indépendance, ses forêts sont passées de 16 millions à 3 millions d'hectares.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "Depuis l'indépendance, la superficie couverte par les forêts est passée de 16 millions d'hectares à 3 millions aujourd'hui, en raison de la déforestation massive au profit de la culture du cacao, dont la Côte d'Ivoire est le premier producteur mondial."
+        }
+      ]
+    },
+    {
+      "id": "CIV-6",
+      "topic": "drapeau",
+      "title": "Orange côté mât, toujours",
+      "short": "Le drapeau est un tricolore vertical orange, blanc, vert, l'orange toujours du côté du mât. L'orange évoque les savanes du nord, le blanc la paix, le vert l'espoir et les forêts du sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Côte_d'Ivoire",
+          "quote": "Ce drapeau de proportions « 2:3 » est composé de trois bandes verticales de largeur égale, l'orange étant toujours du côté du mât."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Côte_d'Ivoire",
+          "quote": "La première, de couleur orange, symbolise les savanes du nord du pays et la fertilité ; la deuxième bande, de couleur blanche, représente la paix ; quant à la troisième, de couleur verte, elle symbolise à la fois l'espoir et les forêts abondantes du sud"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CIV-C1",
+      "topic": "politique",
+      "era": "1983",
+      "title": "La capitale née dans le village du président",
+      "short": "Depuis 1983, la capitale politique est Yamoussoukro, le village natal du président Houphouët-Boigny. Mais la quasi-totalité des institutions sont restées à Abidjan, la grande ville économique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Côte_d'Ivoire",
+          "quote": "Le 21 mars 1983, Yamoussoukro devient la capitale politique et administrative de Côte d'Ivoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yamoussoukro",
+          "quote": "familièrement « Yakro », est la capitale politique de la Côte d'Ivoire depuis mars 1983, et est le village natal du président Félix Houphouët-Boigny."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "La Côte d'Ivoire a pour capitale politique et administrative Yamoussoukro, mais la quasi-totalité des institutions se trouvent à Abidjan, son principal centre économique."
+        }
+      ]
+    },
+    {
+      "id": "CIV-C2",
+      "topic": "culture",
+      "era": "1990",
+      "title": "Une copie de Saint-Pierre de Rome en Afrique",
+      "short": "La basilique Notre-Dame-de-la-Paix de Yamoussoukro, consacrée par le pape Jean-Paul II en 1990, est une réplique de la basilique Saint-Pierre de Rome. Sa partie centrale peut accueillir 18 000 personnes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Côte_d'Ivoire",
+          "quote": "À Yamoussoukro, la basilique Notre-Dame-de-la-Paix de Yamoussoukro inaugurée et consacrée par le pape Jean-Paul II en 1990, est une réplique de la basilique Saint-Pierre de Rome et peut accueillir, dans sa partie centrale 18 000 personnes"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte du golfe de Guinée, entre le Liberia à l'ouest et le Ghana à l'est, avec le Mali et le Burkina Faso au nord. Sa côte est presque droite, bordée de lagunes, comme celle d'Abidjan.",
+    "flag": "Orange, blanc, vert en bandes verticales, l'orange côté mât. L'Irlande a exactement l'inverse : vert côté mât, puis blanc, puis orange. Moyen mnémotechnique : en Côte d'Ivoire, le soleil (orange) se lève côté mât.",
+    "capital": "Piège : Abidjan est la grande ville, mais la capitale est Yamoussoukro, « Yakro », le village natal d'Houphouët-Boigny."
+  }
+}

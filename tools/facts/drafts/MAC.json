@@ -1,0 +1,112 @@
+{
+  "id": "MAC",
+  "facts": [
+    {
+      "id": "MAC-1",
+      "topic": "histoire",
+      "era": "1557",
+      "title": "Les Portugais s'installent",
+      "short": "En 1557, les autorités chinoises autorisent les Portugais à s'établir à Macao de façon permanente, contre le paiement d'une « rente foncière » au trésor impérial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "En 1557, les autorités chinoises accordent finalement",
+          "to": "(près de 500 taels d'argent)"
+        }
+      ]
+    },
+    {
+      "id": "MAC-2",
+      "topic": "histoire",
+      "title": "La baie de la déesse A-Má",
+      "short": "Quand les marins portugais demandent le nom du lieu, les habitants répondent « A-Ma Kong », la baie d'A-Má, du nom d'un temple dédié à cette déesse. Le mot devient Amacao, puis Macao.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "Le nom portugais, Macau, provient",
+          "to": "en portugais, Macau."
+        }
+      ]
+    },
+    {
+      "id": "MAC-3",
+      "topic": "histoire",
+      "era": "1887-1999",
+      "title": "Du traité de 1887 à la rétrocession",
+      "short": "En 1887, un traité reconnaît au Portugal l'occupation perpétuelle de Macao. La république populaire de Chine le juge inégal et donc invalide. Le territoire redevient chinois le 20 décembre 1999, comme région administrative spéciale, sous le principe « un pays, deux systèmes ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "En 1887, le Portugal organise avec le faible gouvernement chinois",
+          "to": "par le Portugal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "1949 marque la fondation de la république populaire de Chine",
+          "to": "déclarés invalides en conséquence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "Depuis le 20 décembre 1999, la « région administrative spéciale",
+          "to": "« un pays, deux systèmes »"
+        }
+      ]
+    },
+    {
+      "id": "MAC-4",
+      "topic": "economie",
+      "title": "Le Las Vegas de l'Orient",
+      "short": "Avec ses nombreux casinos, qui lui procurent les trois quarts de ses revenus, Macao est surnommée le Las Vegas de l'Orient. Le chiffre d'affaires de ses casinos est quatre fois plus élevé qu'à Las Vegas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "Grâce à son grand nombre de casinos",
+          "to": "le Las Vegas de l'Orient."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "Le chiffre d'affaires des casinos y est notamment",
+          "to": "qu'à Las Vegas,"
+        }
+      ]
+    },
+    {
+      "id": "MAC-5",
+      "topic": "geographie",
+      "title": "Deux îles soudées par la mer",
+      "short": "Macao, c'est une péninsule et deux anciennes îles, Taipa et Coloane, reliées depuis 1997 par des terres gagnées sur la mer : Cotai, nom formé de leurs premières syllabes. Les grands casinos du Cotai Strip y ont été construits à partir de 2005.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "La région administrative spéciale de Macao se compose",
+          "to": "(l'isthme de Cotai),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "from": "C'est sur ces terrains appelés Cotai",
+          "to": "à partir de 2005."
+        }
+      ]
+    },
+    {
+      "id": "MAC-6",
+      "topic": "drapeau",
+      "era": "1999",
+      "title": "Un lotus sur un pont",
+      "short": "Le drapeau de Macao est vert, avec un lotus blanc au-dessus d'un pont et de l'eau, sous une arche de cinq étoiles jaunes : celles du drapeau chinois. Il remplace les drapeaux portugais le 19 novembre 1999.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Macao",
+          "from": "Le drapeau de Macao est vert frappé d'un lotus blanc",
+          "to": "par ce nouveau drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Un minuscule territoire sur la côte sud de la Chine, à l'ouest de l'embouchure de la rivière des Perles, en face de Hong Kong.",
+    "flag": "Vert, avec une fleur de lotus blanche et cinq étoiles jaunes en arc. Hong Kong, sa voisine, a un fond rouge avec une fleur de bauhinia.",
+    "capital": "Macao est une région de la Chine : elle n'a pas de capitale propre."
+  }
+}

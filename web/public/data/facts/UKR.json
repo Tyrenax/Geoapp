@@ -1,0 +1,163 @@
+{
+  "id": "UKR",
+  "facts": [
+    {
+      "id": "UKR-1",
+      "topic": "histoire",
+      "title": "Le pays « à la marche »",
+      "short": "Oukraïna signifierait « à la marche », c'est-à-dire aux confins : le mot vient d'une racine slave qui désigne une entaille, une limite. En français, il est attesté au sens de « province frontière » dès le XVIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Oukraïna signifiant « à la marche », terme employé surtout dans la langue ecclésiastique depuis le XVIe siècle — relancé par les intellectuels à la fin du XIXe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Le nom du pays est issu de l'ukrainien Україна ou du russe Украина, Oukraïna (transcriptions savantes respectives : Ukrajina et Ukraina), composés du préfixe ou, « dans, chez, près de, à l'intérieur », et de la racine slave kraï (край), qui désigne initialement une incision, une entaille,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "En français, cette étymologie est attestée au sens de « province frontière » dans la seconde moitié du XVIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "UKR-2",
+      "topic": "histoire",
+      "era": "XVe-XVIIIe siècle",
+      "title": "Les Cosaques, paysans libres",
+      "short": "À partir du XVe siècle se forment les Cosaques, des paysans orthodoxes qui refusent la servitude. En 1648, leur chef Bohdan Khmelnytsky se révolte contre la Pologne-Lituanie et fonde un État cosaque, l'Hetmanat.",
+      "long": "Après la mort de l'hetman Mazepa, son successeur Pylyp Orlyk introduit une constitution que certains historiens considèrent comme la première d'Europe. Au XVIIIe siècle, l'impératrice Catherine la Grande supprime l'Hetmanat et détruit la Sitch, la forteresse des Cosaques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "C'est durant cette domination lituano-polonaise, à partir du XVe siècle, que se formèrent les Cosaques, des paysans ruthènes orthodoxes qui refusaient la servitude et l'assimilation aux Polonais catholiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Le Hetmanat cosaque est créé en 1648 par Bohdan Khmelnytsky à la suite d'une révolte armée contre la République des Deux Nations."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Après la mort de Mazepa en 1711, les cosaques ukrainiens dirigés par Kost Hordienko ont élu Pylyp Orlyk comme nouvel hetman, qui a introduit la première constitution ukrainienne, que certains historiens considèrent comme la première constitution d'Europe,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Catherine la Grande, impératrice de Russie, supprime le Hetmanat au milieu du XVIIIe siècle et détruit la sitch dans le dernier quart du XVIIIe siècle,"
+        }
+      ]
+    },
+    {
+      "id": "UKR-3",
+      "topic": "histoire",
+      "era": "1933",
+      "title": "Le Holodomor",
+      "short": "En 1933, l'Ukraine soviétique est frappée par le Holodomor, « l'extermination par la faim », qui fait selon les historiens entre 2,6 et 5 millions de morts. En 2008, le Parlement européen l'a qualifié de « crime effroyable » contre le peuple ukrainien et contre l'humanité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "En 1933, la population ukrainienne est victime du Holodomor qui fit, selon les estimations des historiens, entre 2,6 et 5 millions de morts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Les Ukrainiens l'appellent « Holodomor » ou « l'extermination par la faim »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Le Parlement européen a reconnu dans une résolution de 2008 l'Holodomor comme un « crime effroyable perpétré contre le peuple ukrainien et contre l'humanité »."
+        }
+      ]
+    },
+    {
+      "id": "UKR-4",
+      "topic": "histoire",
+      "era": "1986",
+      "title": "Tchernobyl",
+      "short": "En 1986, la catastrophe nucléaire de Tchernobyl marque la fin de la période soviétique ; son coût humain et financier est considérable. Les retombées touchent surtout la Biélorussie voisine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "La fin de la période soviétique est marquée en 1986 par la catastrophe nucléaire de Tchernobyl dont le coût humain et financier a été considérable."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Le pays a été marqué par la catastrophe de Tchernobyl, même si les retombées ont essentiellement concerné la Biélorussie."
+        }
+      ]
+    },
+    {
+      "id": "UKR-5",
+      "topic": "histoire",
+      "era": "1991-2022",
+      "title": "Indépendante depuis 1991",
+      "short": "L'indépendance est proclamée le 24 août 1991 et confirmée le 1er décembre par référendum, avec 92 % des voix. Le 24 février 2022, l'Ukraine est envahie par les forces armées russes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Celle-ci est proclamée le 24 août 1991 et confirmée par le référendum du 1er décembre 1991 : 92 % des électeurs votent en faveur de l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "La crise prend une nouvelle dimension le 24 février 2022, lorsque l'Ukraine est envahie par les forces armées russes sur ordre de Vladimir Poutine."
+        }
+      ]
+    },
+    {
+      "id": "UKR-6",
+      "topic": "drapeau",
+      "era": "1848-1918",
+      "title": "Le ciel au-dessus des blés",
+      "short": "On associe souvent le drapeau au paysage ukrainien : le bleu du ciel au-dessus des champs de blé mûr. Hissées dès 1848 sur la mairie de Lemberg, ces couleurs sont adoptées en 1918, puis reprises à l'indépendance de 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ukraine",
+          "quote": "Les couleurs sont souvent associées au paysage ukrainien : les bandes horizontales bleue et jaune symbolisent le ciel bleu au-dessus des champs de blé mûrissant, avant la moisson, dans les steppes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ukraine",
+          "quote": "Un drapeau bleu et jaune est hissé sur la mairie de Lemberg lors du Printemps des peuples de 1848 par le conseil général ruthène ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ukraine",
+          "quote": "Adoptées en 1918, lors de la première indépendance par la République populaire ukrainienne, elles composent de nouveau le drapeau officiel de la nation après l'indépendance qui est la conséquence de la dislocation de l'Union soviétique à la fin de l'année 1991."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "UKR-C1",
+      "topic": "histoire",
+      "title": "La ville du prince Kii",
+      "short": "Selon une légende rapportée par la Chronique des temps passés, la ville tiendrait son nom de Kii, l'aîné de ses quatre fondateurs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiev",
+          "quote": "Selon une légende, parvenue à travers la Chronique des temps passés (ouvrage compilé vers 1111 retraçant l'histoire de la Rus' kiévienne de 858 à 1113), l'appellation Kiev serait dérivée du prénom d'un des princes slaves fondateurs de la ville : Kii (ou Ki), l'aîné des quatre fondateurs de la ville"
+        }
+      ]
+    },
+    {
+      "id": "UKR-C2",
+      "topic": "politique",
+      "era": "1995",
+      "title": "Kiev ou Kyïv ?",
+      "short": "En 1995, l'Ukraine adopte officiellement le nom « Kyïv », transcription de l'ukrainien, et demande d'abandonner « Kiev », jugé issu du russe. Depuis le 4 mars 2022, « Kyïv » est la désignation officielle en français à l'ONU.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiev",
+          "quote": "En 1995, quatre ans après son indépendance, l’Ukraine adopte officiellement le nom « Kyïv », translittération du nom ukrainien Київ. L’Ukraine demande alors aux autres pays d’utiliser le nom « Kyiv » à la place de « Kiev » qui est considéré comme étant la transcription de l'appellation russe de la ville (Киев)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kiev",
+          "quote": "Depuis le 4 mars 2022, sur demande de la Mission permanente de l’Ukraine, la désignation officielle en français de la ville à l’ONU est « Kyïv »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus grand pays entièrement européen, au nord de la mer Noire : la Russie à l'est, la Biélorussie au nord, et à l'ouest la Pologne, la Slovaquie, la Hongrie, la Roumanie et la Moldavie. Le Dniepr la traverse du nord au sud.",
+    "flag": "Deux bandes horizontales, bleu en haut, jaune en bas : le ciel au-dessus des blés. La Suède a les mêmes couleurs, mais en croix.",
+    "capital": "Kyïv (Kiev), sur le Dniepr, fondée selon la légende par le prince Kii et ses frères."
+  }
+}

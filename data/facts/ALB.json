@@ -1,0 +1,130 @@
+{
+  "id": "ALB",
+  "facts": [
+    {
+      "id": "ALB-1",
+      "topic": "histoire",
+      "title": "Le pays des aigles",
+      "short": "En albanais, le pays s'appelle Shqipëria, ce qui se traduit littéralement par « le pays des aigles ». L'aigle à deux têtes trône d'ailleurs au centre de son drapeau.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "L'Albanie, en forme longue la république d'Albanie (en albanais : Shqipëria et Republika e Shqipërisë /ɾɛpuˈblika ɛ ʃcipəˈɾiːsə/, en traduction littérale le « pays des aigles »),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Albanie",
+          "quote": "Le drapeau de l'Albanie est constitué d'un fond rouge avec une aigle à deux têtes en son centre."
+        }
+      ]
+    },
+    {
+      "id": "ALB-2",
+      "topic": "histoire",
+      "era": "XVe siècle",
+      "title": "Skanderbeg, le « champion du Christ »",
+      "short": "Au XVe siècle, le prince Georges Castriote, dit Skanderbeg, inflige pendant près d'un quart de siècle de rudes défaites aux Turcs. Les papes le saluent comme le « champion du Christ », mais il ne peut empêcher la conquête ottomane de son pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "Pendant près d’un quart de siècle, Skanderbeg — salué par les papes Nicolas V et Pie II du nom de « champion du Christ » — inflige de rudes défaites aux troupes turques, sans pouvoir toutefois éviter la conquête de son pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "En dépit d’une résistance rassemblée derrière le prince Georges Castriote (Skanderbeg)"
+        }
+      ]
+    },
+    {
+      "id": "ALB-3",
+      "topic": "histoire",
+      "era": "1912",
+      "title": "L'indépendance du 28 novembre 1912",
+      "short": "En pleine première guerre balkanique, soutenue par l'Autriche-Hongrie, l'Albanie se soulève contre l'Empire ottoman et proclame son indépendance le 28 novembre 1912.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "La guerre tourne rapidement à l'avantage des coalisés et l'Albanie, soutenue par l'Autriche-Hongrie (représentée par Ferenc Nopcsa), entre à nouveau en insurrection et proclame son indépendance le 28 novembre 1912."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "Le 8 octobre 1912, la ligue déclare la première guerre balkanique à l'Empire."
+        }
+      ]
+    },
+    {
+      "id": "ALB-4",
+      "topic": "histoire",
+      "era": "1944-1985",
+      "title": "Un pays déclaré athée",
+      "short": "Après 1944, l'Albanie est dirigée par le communiste Enver Hoxha jusqu'en 1985. Son régime interdit toute pratique religieuse en 1967 et déclare l'Albanie pays athée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "L'Albanie connaît, après novembre 1944, un gouvernement communiste, dont le principal dirigeant est Enver Hoxha, chef du gouvernement et premier secrétaire du Parti communiste d'Albanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "La pratique religieuse a été interdite en Albanie en 1967 par le régime communiste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "Enver Hoxha, qui l’a dirigé jusqu’en 1985, avait déclaré l’Albanie pays athée."
+        }
+      ]
+    },
+    {
+      "id": "ALB-5",
+      "topic": "economie",
+      "era": "1997",
+      "title": "La crise des pyramides financières",
+      "short": "En 1997, l'effondrement de banques et de « pyramides financières » engloutit les économies de nombreux Albanais et déclenche une quasi-guerre civile.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Albanie",
+          "quote": "La crise économique des années 1990, accentuée en 1997 par l'effondrement des banques et des « pyramides financières » qui a englouti les économies de nombreuses personnes, déclenche cette année-là une « quasi-guerre civile »"
+        }
+      ]
+    },
+    {
+      "id": "ALB-6",
+      "topic": "drapeau",
+      "era": "XVe siècle",
+      "title": "Le sceau de Skanderbeg",
+      "short": "L'aigle à deux têtes sur fond rouge vient du sceau de Skanderbeg, le héros de la révolte contre les Ottomans. Les régimes successifs l'ont gardé depuis 1912, l'un y ajoutant un casque, l'autre une étoile.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Albanie",
+          "quote": "Il provient du sceau similaire de Gjergj Kastriot Skanderbeg, un Albanais du XVe siècle, meneur de la révolte contre l'Empire ottoman qui conduisit à une période d'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Albanie",
+          "quote": "Le drapeau actuel est adopté officiellement le 7 avril 1992, mais les régimes albanais qui se sont succédé depuis l'indépendance acquise en 1912 ont utilisé un étendard similaire, la royauté plaçant au-dessus de l'aigle le « casque de Skanderbeg » et la république populaire d'après-guerre une étoile jaune"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ALB-C1",
+      "topic": "histoire",
+      "era": "1614-1920",
+      "title": "Une mosquée, une boulangerie et des bains",
+      "short": "Simple village en 1418, Tirana devient une ville en 1614, quand le général ottoman Sulejman Pasha y fait construire une mosquée, une boulangerie et des bains turcs. Elle reste modeste jusqu'à ce qu'elle devienne capitale, en 1920.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tirana",
+          "quote": "Tirana, mentionné dès 1418 comme un village dans un document vénitien, devient une ville en 1614 quand le général ottoman Sulejman Pasha (en) y construisit une mosquée, une boulangerie et des bains turcs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tirana",
+          "quote": "La ville resta de taille modeste jusqu'au début du XXe siècle. En 1910, elle ne comptait que 12 000 habitants. Le coup d'envoi de sa croissance fut donné par son élévation au rang de capitale en 1920, par le gouvernement provisoire établi au Congrès de Lushnjë."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte ouest des Balkans, face au talon de l'Italie, de l'autre côté du canal d'Otrante : le Monténégro et le Kosovo au nord, la Macédoine du Nord à l'est, la Grèce au sud.",
+    "flag": "Un aigle noir à deux têtes sur fond rouge vif. Le Monténégro a aussi un aigle bicéphale sur fond rouge, mais doré, avec une bordure dorée.",
+    "capital": "Tirana, née autour d'une mosquée, d'une boulangerie et de bains turcs en 1614."
+  }
+}

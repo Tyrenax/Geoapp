@@ -1,0 +1,110 @@
+{
+  "id": "SPM",
+  "facts": [
+    {
+      "id": "SPM-1",
+      "topic": "histoire",
+      "era": "1520-1536",
+      "title": "Les îles de saint Pierre, patron des pêcheurs",
+      "short": "En 1520, le Portugais João Álvares Fagundes baptise l'archipel « îles des onze mille vierges ». En juin 1536, Jacques Cartier le nomme îles Saint-Pierre, du nom du saint patron des pêcheurs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "En 1520, le navigateur portugais João Álvares Fagundes baptise l'archipel en l'honneur de sainte Ursule, alors qu'il débarque le jour de sa fête, l'archipel des onze mille vierges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "Ensuite, Jacques Cartier le nomme ysles Sainct Pierre lors de son passage en juin 1536, reprenant une dénomination pré-existante ; saint Pierre est le saint patron des pêcheurs"
+        }
+      ]
+    },
+    {
+      "id": "SPM-2",
+      "topic": "histoire",
+      "era": "1713-1763",
+      "title": "Britanniques, puis de nouveau françaises",
+      "short": "Cédées à la Grande-Bretagne avec Terre-Neuve au traité d'Utrecht de 1713, les îles sont récupérées par la France au traité de Paris de 1763.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "Au XVIIIe siècle, les îles sont concédées avec Terre-Neuve à la Grande-Bretagne lors de la ratification du traité d'Utrecht de 1713, qui octroie toutefois à la France un droit exclusif de pêche sur la côte française de Terre-Neuve."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "Les îles de Saint-Pierre et de Miquelon sont ensuite récupérées officiellement par la France lors du traité de Paris de 1763."
+        }
+      ]
+    },
+    {
+      "id": "SPM-3",
+      "topic": "histoire",
+      "era": "1919-1933",
+      "title": "Le paradis des contrebandiers",
+      "short": "Pendant la Prohibition américaine, la loi des États-Unis ne s'applique pas à cette colonie française. De 1919 à 1933, l'archipel prospère grâce aux alcools acheminés clandestinement vers les côtes canadiennes et américaines par des Saint-Pierrais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "L'archipel a un certain rôle lors de la prohibition aux États-Unis puisque du fait de son statut de colonie française, la loi américaine (le Volstead Act) n’y était pas applicable."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "L'île connaît, de 1919 à 1933, une réelle prospérité grâce au trafic d’alcools, de vins français et de whisky, acheminés clandestinement sur les côtes canadiennes et américaines par des goélettes ou des vedettes rapides (rhum runners) construites au Canada et montées par des Saint-Pierrais."
+        }
+      ]
+    },
+    {
+      "id": "SPM-4",
+      "topic": "histoire",
+      "era": "1941",
+      "title": "Le débarquement du 24 décembre 1941",
+      "short": "Le 24 décembre 1941, sur ordre du général de Gaulle, l'amiral Muselier débarque à Saint-Pierre-et-Miquelon, à l'insu et contre l'avis des Américains et des Canadiens. L'affaire nourrit la méfiance de Roosevelt envers de Gaulle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "Sur l'ordre du général de Gaulle à Londres, le vice-amiral Émile Muselier organisa, malgré son désaccord, le débarquement à Saint-Pierre-et-Miquelon à l'insu et contre l'avis des autorités américaines et canadiennes, mais avec un premier assentiment de Winston Churchill."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre-et-Miquelon",
+          "quote": "L'affaire du 24 décembre 1941 fit couler beaucoup d'encre, et cristallisa la méfiance de Roosevelt envers de Gaulle."
+        }
+      ]
+    },
+    {
+      "id": "SPM-5",
+      "topic": "drapeau",
+      "era": "1536",
+      "title": "Le navire de Jacques Cartier",
+      "short": "Le drapeau local représente La Grande Hermine, le navire de Jacques Cartier, avec, le long de la hampe, les drapeaux du Pays basque, de la Bretagne et de la Normandie, d'où venaient la plupart des habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Pierre-et-Miquelon",
+          "quote": "Le drapeau de Saint-Pierre-et-Miquelon représente La Grande Hermine, le navire sur lequel Jacques Cartier atteignit Saint-Pierre le 15 juin 1536."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Pierre-et-Miquelon",
+          "quote": "Le long de la hampe (à dextre), sont reproduits de haut en bas les drapeaux des trois principales régions françaises d’origine des habitants de l’archipel : Pays basque, Bretagne et Normandie."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SPM-C1",
+      "topic": "histoire",
+      "era": "1902",
+      "title": "Une cathédrale partie en fumée",
+      "short": "Saint-Pierre, la principale ville de l'archipel, a perdu sa première cathédrale dans un incendie en 1902.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Pierre_(Saint-Pierre-et-Miquelon)",
+          "quote": "La première cathédrale Saint-Pierre fut détruite en 1902 lors d'un incendie."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit archipel français de l'Atlantique Nord, collé à la côte sud de Terre-Neuve, au Canada.",
+    "flag": "Officiellement, c'est le drapeau français. Le drapeau local, non officiel, montre un navire jaune sur fond bleu et, côté mât, les drapeaux basque, breton et normand.",
+    "capital": "Saint-Pierre, sur l'île du même nom : la capitale porte le nom du saint patron des pêcheurs."
+  }
+}

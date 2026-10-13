@@ -1,0 +1,125 @@
+{
+  "id": "PER",
+  "facts": [
+    {
+      "id": "PER-1",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Un pays nommé d'après un chef du Panama",
+      "short": "« Pérou » viendrait de Birú, un cacique qui vivait au début du XVIe siècle près de la baie de San Miguel, au Panama. Les hommes de Francisco Pizarro reprennent le nom pour les terres conquises sur les Incas à partir de 1532.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Le nom « Pérou » dérive de Birú, dénomination d'un cacique qui vivait près de la baie de San Miguel (Panama), au début du XVIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Par la suite, Francisco Pizarro et ses hommes, lors de l'occupation de l'Empire inca en 1532, emploieront le nom Péru pour désigner les nouvelles terres conquises."
+        }
+      ]
+    },
+    {
+      "id": "PER-2",
+      "topic": "histoire",
+      "era": "2627-2100 av. J.-C.",
+      "title": "Caral, la plus vieille ville des Amériques",
+      "short": "La cité de Caral et ses pyramides tronquées abritaient la première civilisation du continent, entre 2627 et 2100 avant notre ère. C'est la plus ancienne ville d'Amérique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "La cité de Caral, un grand centre urbain doté de pyramides tronquées au sommet, appartenait à un ensemble de sites archéologiques qui aurait abrité la première civilisation américaine : Caral-Supe ou Norte Chico (entre 2627 et 2100 avant l’ère commune)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Ils permettent l'apparition de la plus vieille ville du continent et l'une des plus anciennes du monde : Caral."
+        }
+      ]
+    },
+    {
+      "id": "PER-3",
+      "topic": "histoire",
+      "title": "Le cœur de l'empire inca",
+      "short": "L'Empire inca est le plus vaste État connu de l'Amérique précolombienne : à son apogée, il couvre 2 500 000 km². L'une de ses anciennes villes, le Machu Picchu, est perchée sur les hauteurs des Andes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Les cultures et civilisations précoloniales notables incluent la civilisation Caral-Supe (la plus ancienne civilisation des Amériques et considérée comme l'un des berceaux de la civilisation), la culture Nazca, les empires Huari et Tiwanaku, le royaume de Cuzco et l'empire Inca, le plus grand État connu des Amériques précolombiennes qui à son apogée a réussi à s'étendre sur 2 500 000 km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Il englobe une section de la forêt amazonienne et du Machu Picchu, une ancienne ville inca aux hauteurs des Andes."
+        }
+      ]
+    },
+    {
+      "id": "PER-4",
+      "topic": "histoire",
+      "era": "1821",
+      "title": "San Martín proclame l'indépendance",
+      "short": "Le général José de San Martín débarque dans la baie de Paracas, prend Lima et y proclame l'indépendance du Pérou le 28 juillet 1821.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pérou",
+          "quote": "Après avoir débarqué dans la baie de Paracas, San Martín s'empara de Lima et déclara, le 28 juillet 1821, l'indépendance du Pérou par rapport à l'Espagne."
+        }
+      ]
+    },
+    {
+      "id": "PER-5",
+      "topic": "drapeau",
+      "era": "1820",
+      "title": "Les flamants de San Martín",
+      "short": "Le premier drapeau péruvien est créé par San Martín en 1820. Une tradition, mise par écrit en 1917, raconte qu'il s'est inspiré des flamants rouges et blancs aperçus en débarquant sur la côte de Pisco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Pérou",
+          "quote": "Le premier drapeau péruvien fut créé par le général José de San Martín et adopté par décret le 21 octobre 1820."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Pérou",
+          "quote": "Une tradition littéraire, couchée sur le papier par Abraham Valdelomar en 1917, affirme que San Martín fut inspiré par les couleurs des parihuanas, des flamants rouges et blancs, en arrivant sur la côte du sud de la province de Pisco."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PER-C1",
+      "topic": "histoire",
+      "era": "1535",
+      "title": "La Cité des Rois",
+      "short": "Francisco Pizarro fonde Lima le 18 janvier 1535 sous le nom de « Cité des Rois », en hommage aux Rois mages. En 1543, elle devient la capitale de la vice-royauté du Pérou.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lima",
+          "quote": "Lima est fondée le 18 janvier 1535 par le conquistador espagnol Francisco Pizarro."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lima",
+          "quote": "En même temps, d’autres graphies espagnoles telles que Limac ou Lyma coexistèrent pour nommer la nouvelle « Cité des rois » (Ciudad de los Reyes), appellation rendant hommage aux Rois mages."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lima",
+          "quote": "Dans les années qui suivent, Lima gagne en prestige en étant désignée capitale de la vice-royauté du Pérou en 1543, et siège d'une Audience royale en 1542."
+        }
+      ]
+    },
+    {
+      "id": "PER-C2",
+      "topic": "geographie",
+      "title": "Une métropole dans le désert",
+      "short": "Lima s'étend sur un désert côtier : après Le Caire et Bagdad, c'est la troisième ville la plus peuplée du monde bâtie dans un désert.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lima",
+          "quote": "C'est aussi la troisième  ville du monde la plus peuplée qui soit située dans un désert, après Le Caire et Bagdad."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte Pacifique de l'Amérique du Sud, sous l'Équateur et la Colombie, au-dessus du Chili ; à l'est, il partage le lac Titicaca avec la Bolivie et touche le Brésil par l'Amazonie.",
+    "flag": "Rouge, blanc, rouge en bandes verticales égales. Le Canada a la même disposition mais avec sa feuille d'érable ; l'Autriche et la Lettonie ont rouge-blanc-rouge à l'horizontale.",
+    "capital": "Lima, la « Cité des Rois » : pense aux trois Rois mages qui traversent le désert, car Lima est bâtie sur un désert côtier."
+  }
+}

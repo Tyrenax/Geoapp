@@ -1,0 +1,242 @@
+{
+  "id": "COD",
+  "facts": [
+    {
+      "id": "COD-1",
+      "topic": "histoire",
+      "era": "1885-1908",
+      "title": "La propriété privée d'un roi",
+      "short": "En 1885, l'immense bassin du Congo devient la propriété personnelle du roi des Belges Léopold II, sous le nom trompeur d'« État indépendant du Congo ». Pour produire du caoutchouc, ses forces commettent des atrocités massives.",
+      "long": "Les frontières du pays sont fixées à la conférence de Berlin (1884-1885). Pendant 23 ans, la population est soumise au travail forcé. Sous la pression des critiques, le Parlement belge reprend le territoire en 1908 : il devient le Congo belge.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Le territoire devient la propriété privée du roi des Belges Léopold II en 1885.",
+          "to": "Léopold II en 1885."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "Le secteur contrôlé prend le nom d'État indépendant du Congo",
+          "to": "la propriété personnelle de Léopold."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Au cours des 23 années suivantes",
+          "to": "le caoutchouc sauvage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Les frontières de l'actuelle république démocratique du Congo ont été reconnues",
+          "to": "février 1885."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "En 1908, le parlement belge, qui avait soutenu",
+          "to": "à la suite notamment de certaines critiques"
+        }
+      ]
+    },
+    {
+      "id": "COD-2",
+      "topic": "histoire",
+      "era": "1960-1961",
+      "title": "Patrice Lumumba, l'espoir assassiné",
+      "short": "Le 30 juin 1960, le Congo belge devient indépendant, avec Joseph Kasa-Vubu pour président et Patrice Lumumba pour Premier ministre. Quelques mois plus tard, Lumumba est arrêté, livré au Katanga et assassiné le 17 janvier 1961.",
+      "long": "Lumumba défendait une vision nationale du Congo, et non fédérale comme le voulaient les Belges. Le pays plonge aussitôt dans les sécessions et l'ONU envoie des casques bleus. Les États-Unis, qui voient d'un mauvais œil le socialisme de Lumumba, soutiennent le colonel Mobutu.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Le 30 juin 1960 l'indépendance du Congo belge est proclamée",
+          "to": "Lumumba, Premier ministre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Le 17 janvier 1961, Lumumba est assassiné",
+          "to": "déporté au Katanga par Mobutu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "Patrice Lumumba joue un rôle crucial",
+          "to": "et des Congolais opportunistes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Le pays obtient son indépendance en 1960 et est confronté immédiatement",
+          "to": "par un coup d'État en 1965."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "L'ONU propose sa médiation",
+          "to": "le 14 juillet 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Mobutu est bientôt soutenu par les États-Unis",
+          "to": "le socialisme de Lumumba."
+        }
+      ]
+    },
+    {
+      "id": "COD-3",
+      "topic": "histoire",
+      "era": "1965-1997",
+      "title": "Le Zaïre de Mobutu",
+      "short": "Arrivé au pouvoir par un coup d'État en 1965, Mobutu Sese Seko rebaptise le pays Zaïre en 1971. Il reste au pouvoir trente-deux ans, jusqu'à son renversement en 1997.",
+      "long": "Ses grands travaux, comme le barrage hydroélectrique d'Inga sur le fleuve Congo, donnent un temps l'image d'un « dragon africain ». Mais le régime est une dictature féroce, et il tombe lors de la première guerre du Congo. Le pays reprend alors le nom de république démocratique du Congo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "En 1965, Joseph-Désiré Mobutu (1930-1997)",
+          "to": "le président Joseph Kasa-Vubu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "Mobutu, qui a renommé le pays en Zaïre en 1971",
+          "to": "pendant trente deux ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Mobutu rebaptise le Congo le Zaïre en 1971",
+          "to": "lors de la première guerre du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "La réalisation de grands travaux",
+          "to": "est un dragon africain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "from": "La désignation informelle du pays « Congo-Brazzaville » est cependant réapparue en 1997",
+          "to": "à la fin du régime de Mobutu"
+        }
+      ]
+    },
+    {
+      "id": "COD-4",
+      "topic": "geographie",
+      "title": "Un géant de forêts et de volcans",
+      "short": "Deuxième plus vaste pays d'Afrique après l'Algérie, la RD Congo abrite au nord l'un des plus grands massifs de forêt équatoriale du monde, et à l'est les montagnes, les Grands Lacs et les volcans du rift.",
+      "long": "Plusieurs centaines d'ethnies y vivent. Le français est la langue officielle, et quatre langues bantoues ont le statut de langues nationales : le lingala, le kikongo, le swahili et le tshiluba.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "La RDC est le deuxième plus vaste pays d'Afrique après l'Algérie.",
+          "to": "après l'Algérie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Le nord du pays est un des plus grands domaines de forêt équatoriale",
+          "to": "mais aussi des volcans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "Plusieurs centaines d'ethnies forment la population du Congo",
+          "to": "le swahili et le tshiluba) ont le statut"
+        }
+      ]
+    },
+    {
+      "id": "COD-5",
+      "topic": "histoire",
+      "era": "1874-1885",
+      "title": "Stanley, l'explorateur au service du roi",
+      "short": "De 1874 à 1877, l'explorateur Henry Morton Stanley descend le fleuve Congo. À partir de 1879, il revient pour le compte de Léopold II et crée des postes le long du fleuve, préparant la colonie du roi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_démocratique_du_Congo",
+          "from": "1874-1877 : exploration du fleuve Congo par Henry Morton Stanley",
+          "to": "par Léopold II de Belgique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "À partir de 1879, l'explorateur Henry Morton Stanley",
+          "to": "Léopold II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_démocratique_du_Congo",
+          "from": "Sa mission est de créer des postes",
+          "to": "le roi des Belges Léopold II."
+        }
+      ]
+    },
+    {
+      "id": "COD-6",
+      "topic": "drapeau",
+      "era": "2006",
+      "title": "Une étoile née sous Léopold II",
+      "short": "Le drapeau actuel, bleu ciel avec une étoile jaune et une diagonale rouge bordée de jaune, date de 2006. Son étoile remonte au tout premier drapeau du Congo, une étoile à cinq branches sur fond bleu foncé créée pour l'association de Léopold II.",
+      "long": "Le bleu ciel symbolise la paix, le rouge le sang des martyrs, le jaune la richesse du pays, et l'étoile un pays uni promis à un avenir radieux. Ce drapeau reprend de près celui adopté en 1966.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_démocratique_du_Congo",
+          "from": "Le drapeau de la république démocratique du Congo est son emblème",
+          "to": "depuis le 18 février 2006."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_démocratique_du_Congo",
+          "from": "Son emblème est le drapeau bleu ciel",
+          "to": "finement encadrée de jaune."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_démocratique_du_Congo",
+          "from": "Le premier drapeau du Congo fut créé",
+          "to": "sur un fond bleu foncé"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_démocratique_du_Congo",
+          "from": "La couleur bleu ciel symbolise la paix",
+          "to": "promis à un avenir radieux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_démocratique_du_Congo",
+          "from": "En 2005, la nouvelle constitution prévoit",
+          "to": "proche de celui de 1966."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "COD-C1",
+      "topic": "histoire",
+      "era": "1881-1966",
+      "title": "De Léopoldville au « marché au sel »",
+      "short": "En 1881, Stanley baptise le poste Léopoldville, en l'honneur de Léopold II. En 1966, la ville prend le nom de Kinshasa, d'après un village voisin, Kinchassa, dont le nom signifierait « marché au sel ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kinshasa",
+          "from": "En 1881, l'explorateur Henry Morton Stanley nomme la ville",
+          "to": "Léopold II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kinshasa",
+          "from": "« marché au sel », nom issu d'un village proche",
+          "to": "appelée Léopoldville de 1881 à 1966"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kinshasa",
+          "from": "Ce nom devint officiel après l'indépendance du pays, en 1966",
+          "to": "au service duquel il se trouvait."
+        }
+      ]
+    },
+    {
+      "id": "COD-C2",
+      "topic": "culture",
+      "title": "La plus grande ville francophone du monde",
+      "short": "Avec plus de dix-sept millions d'habitants dans son agglomération en 2021, Kinshasa est la troisième agglomération d'Afrique et la plus grande agglomération francophone du monde, devant Paris.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kinshasa",
+          "from": "Avec une population estimée en 2021",
+          "to": "ayant dépassé celle de Paris"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le géant du centre de l'Afrique, à cheval sur l'équateur, avec une toute petite fenêtre sur l'Atlantique à l'embouchure du fleuve Congo. À l'est, il borde les Grands Lacs (Tanganyika, Kivu), face au Rwanda, au Burundi et à la Tanzanie.",
+    "flag": "Bleu ciel, une étoile jaune en haut à gauche et une diagonale rouge bordée de jaune. Le Congo-Brazzaville a aussi une diagonale, mais jaune, entre du vert et du rouge, et sans étoile.",
+    "capital": "Kinshasa fait face à Brazzaville de l'autre côté du fleuve Congo. Pour ne pas les confondre : le « grand » Congo (RDC) a la plus grande ville, Kinshasa."
+  }
+}

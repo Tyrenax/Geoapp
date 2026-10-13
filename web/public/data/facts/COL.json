@@ -1,0 +1,149 @@
+{
+  "id": "COL",
+  "facts": [
+    {
+      "id": "COL-1",
+      "topic": "histoire",
+      "era": "1819-1830",
+      "title": "Un nom en l'honneur de Christophe Colomb",
+      "short": "Le nom « Colombia » est choisi en 1819, au congrès d'Angostura, en hommage à Christophe Colomb. Il désigne alors un grand État qui réunit les actuels Colombie, Venezuela et Équateur.",
+      "long": "Pour la distinguer de la Colombie actuelle, on appelle aujourd'hui cette république la Grande Colombie. Elle ne dure guère : en 1830, le Venezuela et l'Équateur font sécession et elle s'effondre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Le nom « Colombia » fut conçu pendant le Congreso de Angostura pour dénommer le territoire correspondant aux actuels Équateur, Colombie et Venezuela, en hommage à Christophe Colomb (en espagnol : Cristóbal Colón) (en italien : Cristoforo Colombo)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Le 15 février 1819, au cours du congrès d'Angostura, fut proclamé l'État qui adopta le nom officiel de « république de Colombie » (« República de Colombia »), aujourd'hui connu sous le nom de Grande Colombie afin d'éviter les confusions avec la Colombie actuelle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "L'indépendance de la Colombie est acquise en 1819, mais en 1830 la Grande Colombie s'effondre avec la sécession du Venezuela et de l'Équateur."
+        }
+      ]
+    },
+    {
+      "id": "COL-2",
+      "topic": "histoire",
+      "era": "1903",
+      "title": "Le jour où le Panama est parti",
+      "short": "Le Panama faisait partie de la Colombie. Après la guerre des Mille Jours (1899-1902), il fait sécession en 1903, sur fond d'ingérence des États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Le Panama fait sécession en 1903 à la suite de la guerre des Mille Jours (1899-1902)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Des divisions internes demeurent, déclenchant ainsi une guerre civile qui aboutit à la sécession du Panama en 1903, avec l'ingérence des États-Unis."
+        }
+      ]
+    },
+    {
+      "id": "COL-3",
+      "topic": "histoire",
+      "title": "La confédération muisca",
+      "short": "Avant les Espagnols, le centre du pays est dominé par les Muiscas, ou Chibchas, réunis en une vaste confédération dans la savane de Bogota, au cœur de la cordillère Orientale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Colombie",
+          "quote": "Le centre de l'actuelle Colombie est alors dominé par les Chibchas (ou Muiscas), qui vivent dans la savane de Bogota, au cœur de la cordillère Orientale. Ils ont formé une vaste fédération, la Confédération muisca."
+        }
+      ]
+    },
+    {
+      "id": "COL-4",
+      "topic": "geographie",
+      "title": "Deuxième pays le plus riche en espèces",
+      "short": "Bordée par le Pacifique à l'ouest et la mer des Caraïbes au nord, la Colombie est le deuxième pays le plus riche du monde en biodiversité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Le pays est situé dans le Nord-Ouest du continent sud-américain ; il est bordé à l'ouest par l'océan Pacifique, au nord-ouest par le Panama, au nord par la mer des Caraïbes (donnant accès à l'océan Atlantique), au nord-est par le Venezuela, au sud-est par le Brésil, au sud par le Pérou et au sud-ouest par l'Équateur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "La Colombie est l'un des pays les plus riches de la planète en matière de biodiversité, classée à ce titre de pays mégadivers en tant que deuxième pays le plus diversifié au monde."
+        }
+      ]
+    },
+    {
+      "id": "COL-5",
+      "topic": "drapeau",
+      "era": "1801-1861",
+      "title": "Les couleurs de Miranda",
+      "short": "Jaune, bleu, rouge : ces couleurs viennent du drapeau imaginé en 1801 par le Vénézuélien Francisco de Miranda, précurseur de l'indépendance. Le drapeau colombien, adopté en 1861, a une bande jaune deux fois plus large que les autres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Colombie",
+          "quote": "La composition chromatique du drapeau de la Colombie est basée sur celui créé en 1801 par le général vénézuélien Francisco de Miranda, précurseur de l'indépendance latino-américaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Colombie",
+          "quote": "Le drapeau national de la république de Colombie, officiellement adopté en 1861, est un drapeau tricolore composé de trois bandes horizontales, de haut en bas jaune, bleu et rouge, qui sont devenues les couleurs nationales du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Colombie",
+          "quote": "La bande jaune étant deux fois plus large que chacune des deux autres, elle fait donc la moitié de la hauteur du drapeau."
+        }
+      ]
+    },
+    {
+      "id": "COL-6",
+      "topic": "economie",
+      "title": "Café, fleurs et émeraudes",
+      "short": "Café, fleurs, émeraudes, charbon et pétrole forment le cœur de l'économie colombienne. Le café pousse surtout sur les terres tempérées, entre 1 000 et 2 000 m d'altitude.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "La production de café, de fleurs, d'émeraudes, de charbon et de pétrole forme le principal secteur de l'économie colombienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Colombie",
+          "quote": "Les terres les plus productives et la majorité de la population se trouvent dans la tierra templada (terre tempérée entre 1 000 et 2 000 m d'altitude) qui offrent les meilleures conditions pour les producteurs de café du pays"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "COL-C1",
+      "topic": "histoire",
+      "era": "1538",
+      "title": "Bacatá, « la fin des champs »",
+      "short": "Bogota tire son nom de Bacatá, le nom que lui donnaient les Chibchas ; selon un chroniqueur espagnol, il signifiait « la fin des champs ». Le conquistador Gonzalo Jiménez de Quesada y fonde la ville espagnole le 6 août 1538.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bogota",
+          "quote": "Le nom de Bogota provient de Bacatá, appellation donnée par les indigènes chibchas, un des groupes indiens dont la civilisation était la plus avancée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bogota",
+          "quote": "Le chroniqueur espagnol Juan de Castellanos (1522-1607) affirmait que le sens originel de Bacatá, en langue indigène, était « la fin des champs »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bogota",
+          "quote": "Elle a été fondée le 6 août 1538 par le conquistador espagnol Gonzalo Jiménez de Quesada (1509-1579)."
+        }
+      ]
+    },
+    {
+      "id": "COL-C2",
+      "topic": "geographie",
+      "title": "Une capitale à 2 640 m",
+      "short": "Perchée à 2 640 m d'altitude, Bogota est la troisième capitale la plus haute du monde, après La Paz et Quito.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bogota",
+          "quote": "Pour ce qui est de la superficie, Bogota est la plus grande ville de la Colombie, et son altitude de 2 640 mètres fait d'elle la troisième plus haute capitale du monde après La Paz (Bolivie) et Quito (Équateur)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le coin nord-ouest de l'Amérique du Sud, la porte du continent : collée au Panama, c'est le seul pays sud-américain qui borde à la fois le Pacifique et la mer des Caraïbes.",
+    "flag": "Jaune, bleu, rouge à l'horizontale, avec un jaune qui prend toute la moitié du haut. L'Équateur a les mêmes bandes mais avec un blason au centre ; le Venezuela a des bandes égales et un arc d'étoiles blanches.",
+    "capital": "Bogota, l'ancienne Bacatá, perchée à plus de 2 600 m : « Bogo-tant de hauteur » pour se souvenir qu'elle est dans la montagne."
+  }
+}

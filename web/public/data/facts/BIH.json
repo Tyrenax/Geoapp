@@ -1,0 +1,139 @@
+{
+  "id": "BIH",
+  "facts": [
+    {
+      "id": "BIH-1",
+      "topic": "histoire",
+      "era": "XVe siècle",
+      "title": "Une rivière et un duc",
+      "short": "La Bosnie tirerait son nom de la rivière Bosna, qui traverse le cœur du pays. L'Herzégovine est « la terre du herzog », du duc : elle doit son nom au titre que prit au XVe siècle le noble bosnien Stefan Vukčić Kosača.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "On pense que le nom dérive de l'hydronyme de la rivière Bosna qui traverse le cœur de la Bosnie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "Le nom Herzégovine signifie « la terre du herzog » (du duc, en allemand). Il tire son origine du titre du noble bosnien du XVe siècle, Stefan Vukčić Kosača, qui après la mort de Stefan Tvrtko Ier de Bosnie est devenu « Herceg Humski i primorski »."
+        }
+      ]
+    },
+    {
+      "id": "BIH-2",
+      "topic": "histoire",
+      "era": "1463",
+      "title": "Quatre siècles ottomans",
+      "short": "En 1463, la Bosnie est annexée par l'Empire ottoman de Mehmed II. Pendant quatre siècles de domination, environ la moitié des habitants se convertit progressivement à l'islam.",
+      "long": "Les Ottomans y financent de grands ouvrages, comme le vieux pont de Mostar ou le pont Mehmed Pacha Sokolović de Višegrad, tous deux classés par l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "Après un bref âge d'or sous le règne de Stefan Tvrtko Ier de Bosnie, la Bosnie indépendante s'efface progressivement jusqu'à son annexion par l'Empire ottoman en 1463 par les troupes du Sultan Mehmed II.\nCommence alors une longue époque de domination turque qui va durer quatre siècles et durant laquelle les Ottomans convertissent progressivement à l'islam environ la moitié des habitants, modifiant durablement la société et la culture locale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "L’héritage ottoman se manifeste par des mosquées, des ponts et des bazars, dont le vieux pont de Mostar  et le Pont Mehmed Pacha Sokolović à Višegrad, également classés par l’UNESCO."
+        }
+      ]
+    },
+    {
+      "id": "BIH-3",
+      "topic": "histoire",
+      "era": "1995",
+      "title": "La guerre de Bosnie",
+      "short": "La guerre qui suit l'indépendance fait 100 000 morts, civils et militaires bosniaques, serbes et croates, et 1,8 million de déplacés. En juillet 1995, à Srebrenica, plus de 8 000 hommes et garçons bosniaques sont massacrés : la justice internationale a qualifié ce crime de génocide.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "La guerre a causé la mort de « 100 000 civils et militaires bosniaques, serbes et croates ; 1,8 million de personnes furent déplacées, tous groupes ethniques confondus."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "Le nettoyage ethnique a culminé avec le massacre de Srebrenica de plus de 8 000 hommes et garçons bosniaques en juillet 1995, qui a été qualifié de génocide par le Tribunal pénal international pour l'ex-Yougoslavie (TPIY)."
+        }
+      ]
+    },
+    {
+      "id": "BIH-4",
+      "topic": "politique",
+      "era": "1995",
+      "title": "Un pays, deux entités",
+      "short": "Depuis les accords de Dayton du 14 décembre 1995, la Bosnie-Herzégovine se compose de deux entités autonomes, la fédération de Bosnie-et-Herzégovine et la république serbe de Bosnie, plus un district commun.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "Depuis les accords de Dayton-Paris du 14 décembre 1995, elle comprend deux entités autonomes et un district commun"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "La Bosnie-Herzégovine présente deux organisations parallèles de subdivisions territoriales du fait de l'existence de deux entités constitutives de la fédération bosnienne :\n\nla fédération de Bosnie-et-Herzégovine (Federacija Bosne i Hercegovine) ;\nla république serbe de Bosnie"
+        }
+      ]
+    },
+    {
+      "id": "BIH-5",
+      "topic": "geographie",
+      "title": "Vingt kilomètres de mer",
+      "short": "La Bosnie-Herzégovine n'a qu'une minuscule façade maritime : environ 20 km de côte adriatique, autour de la ville de Neum, au sud du delta de la Neretva.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bosnie-Herzégovine",
+          "quote": "Une petite partie de la côte adriatique, longue d'environ 20 km, autour de la ville de Neum, au sud du delta de la Neretva, appartient à la Bosnie-Herzégovine."
+        }
+      ]
+    },
+    {
+      "id": "BIH-6",
+      "topic": "drapeau",
+      "era": "1998",
+      "title": "Un triangle pour trois peuples",
+      "short": "Adopté le 4 février 1998 sur proposition du Haut représentant international, le drapeau emprunte le bleu et les étoiles du drapeau européen. Le triangle jaune évoque la forme du pays, et ses trois pointes les trois peuples constitutifs : Bosniaques, Croates et Serbes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bosnie-Herzégovine",
+          "quote": "Le drapeau actuel de la Bosnie-Herzégovine est adopté le 4 février 1998, à la suite de la proposition du Haut représentant international, Carlos Westendorp.\n\n\n== Symbolisme ==\n\nLa forme jaune et triangulaire représente la forme géographique du pays ainsi que les trois communautés principales (Bosniaques, Croates, Serbes). La couleur bleue et les étoiles sont inspirées du drapeau de l'Union européenne et représentent l'Europe."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Flag_of_Bosnia_and_Herzegovina",
+          "quote": "The three points of the triangle stand for the three main ethnic groups (or \"constituent peoples\") of Bosnia and Herzegovina: Bosniaks, Croats, and Serbs. The triangle represents the approximate shape of the territory of Bosnia and Herzegovina."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BIH-C1",
+      "topic": "histoire",
+      "title": "La ville du palais du gouverneur",
+      "short": "Sarajevo doit son nom au saray, le palais du gouverneur ottoman qui fit aussi bâtir la mosquée impériale, un hammam, un pont et des moulins. On l'appelait autrefois Bosna-Seraï.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sarajevo",
+          "quote": "Il y fit édifier la mosquée impériale de Sarajevo (Careva džamija), un bain public (hammam), un pont, plusieurs moulins à eau, une auberge, ainsi que le palais du gouverneur (saray), qui donna son nom à la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sarajevo",
+          "quote": "Sarajevo (/sa.ʁa.je.vo/ ; en bosnien cyrillique : Сарајево, /sǎrajeʋo/ ; anciennement Bosna-Seraï ;"
+        }
+      ]
+    },
+    {
+      "id": "BIH-C2",
+      "topic": "histoire",
+      "era": "1984-1996",
+      "title": "Des Jeux olympiques au siège",
+      "short": "En 1984, Sarajevo accueille les Jeux olympiques d'hiver. Moins de dix ans plus tard, elle subit de 1992 à 1996 un siège de plus de mille jours, qui fait plus de 10 000 morts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sarajevo",
+          "quote": "Plus récemment, elle accueillit les Jeux olympiques d'hiver de 1984 et fut assiégée durant la guerre de Bosnie-Herzégovine dans les années 1990 : entre 1992 et 1996, elle a subi un siège de plus de mille jours qui a fait plus de 10 000 morts."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays en forme de triangle au cœur des Balkans, presque entièrement entouré par la Croatie, qui l'enserre au nord, à l'ouest et au sud ; la Serbie et le Monténégro sont à l'est. Il ne touche l'Adriatique qu'à Neum.",
+    "flag": "Un fond bleu, un triangle jaune et une diagonale d'étoiles blanches le long du triangle. Le bleu et les étoiles rappellent le drapeau européen ; aucun autre drapeau national n'a ce triangle jaune.",
+    "capital": "Sarajevo, la ville du saray, le palais du gouverneur ottoman."
+  }
+}

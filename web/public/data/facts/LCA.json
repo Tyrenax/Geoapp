@@ -1,0 +1,116 @@
+{
+  "id": "LCA",
+  "facts": [
+    {
+      "id": "LCA-1",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Du « pays des iguanes » à sainte Lucie",
+      "short": "Ses premiers habitants l'appelaient Iouanalao, « le pays des iguanes ». Au début du XVIe siècle, des marchands espagnols la baptisent Sainte-Lucie, en l'honneur de Lucie de Syracuse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "Nommée « Iouanalao », un nom qui signifierait « le pays des iguanes », par la population autochtone, elle est baptisée « Sainte-Lucie », en l'honneur de Lucie de Syracuse, par des marchands espagnols qui sont les premiers Européens à y mettre les pieds, au début du XVIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "LCA-2",
+      "topic": "histoire",
+      "era": "1660-1814",
+      "title": "L'« Hélène des Antilles »",
+      "short": "Française dès 1660, l'île est disputée pendant deux siècles entre Français et Britanniques, notamment pour ses sources d'eau douce, jusqu'au traité de Paris de 1814. D'où son surnom officiel d'« Hélène des Antilles », par analogie avec Hélène de Troie, enjeu de la guerre entre Grecs et Troyens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "C'est la France qui commence à établir une réelle colonie et signe un traité avec les Kalinago en 1660. Néanmoins, l'île est tout au long des XVIIe et XVIIIe siècles principalement disputée entre les Français et les Britanniques, lesquels en obtiennent le contrôle complet en 1814, avec le traité de Paris."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "Sainte-Lucie, qui fut l'enjeu d'une lutte acharnée entre Anglais et Français (notamment pour ses sources d'eau douce, rares dans les Caraïbes), est officiellement surnommée l'« Hélène de l'ouest » (the Helen of the West), ou « Hélène des Antilles » (« Helen of the West Indies »), par analogie avec Hélène de Troie (l'Hélène de l'Est), qui fut dans l'Antiquité l'enjeu d'une lutte acharnée entre les différents princes grecs et troyens."
+        }
+      ]
+    },
+    {
+      "id": "LCA-3",
+      "topic": "histoire",
+      "era": "1979",
+      "title": "Indépendante en 1979",
+      "short": "Sainte-Lucie devient indépendante le 22 février 1979, jour d'entrée en vigueur de sa Constitution.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "Sainte-Lucie devient indépendant le 22 février 1979, en tant que royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "La Constitution actuelle a été adoptée en 1978 ; elle est entrée en vigueur le 22 février 1979."
+        }
+      ]
+    },
+    {
+      "id": "LCA-4",
+      "topic": "culture",
+      "title": "On y parle un créole français",
+      "short": "L'anglais est la langue officielle, mais la première langue de 75 % des habitants est le créole saint-lucien, à base française.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "L'anglais est la langue officielle et d’enseignement du pays mais le créole saint-lucien à base lexicale française est la langue première du pays, parlée par 75 % de la population et son usage officiel est en augmentation."
+        }
+      ]
+    },
+    {
+      "id": "LCA-5",
+      "topic": "geographie",
+      "title": "Les deux Pitons",
+      "short": "Deux pics volcaniques, les Pitons, se dressent comme deux aiguilles géantes au-dessus de la mer. Leur site est inscrit au patrimoine mondial de l'UNESCO.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "Les pitons de Sainte-Lucie, qui sont au nombre de deux, font partie de la chaîne volcanique du Qualibou, également appelé Soufrière, volcan principal de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "Ces pitons ressemblent à deux aiguilles géantes émergeant des abîmes océaniques, et procurent au paysage de Sainte-Lucie force et caractère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sainte-Lucie",
+          "quote": "La zone de gestion des Pitons est inscrite par l'Organisation des Nations unies pour l'éducation, la science et la culture (UNESCO) au Patrimoine mondial."
+        }
+      ]
+    },
+    {
+      "id": "LCA-6",
+      "topic": "drapeau",
+      "era": "1967",
+      "title": "Des triangles dessinés par un artiste de l'île",
+      "short": "Le drapeau, dessiné par l'artiste saint-lucien Dunstan St. Omer, superpose sur fond bleu un triangle blanc, un triangle noir et un triangle doré. Il est utilisé depuis 1967, bien avant l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Sainte-Lucie",
+          "quote": "Le drapeau de Sainte-Lucie est utilisé depuis le 1er mars 1967 bien qu'il ne fut adopté officiellement que le 22 février 1979. Il a été inventé par un artiste de l'île, Dunstan St. Omer, qui le décrit comme suit :\n\nSur un fond bleu, le motif est composé d'un triangle blanc et noir, sur la base desquels un triangle doré occupe la position centrale.\nLes triangles sont superposés, le noir sur le blanc et le doré sur le noir."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LCA-C1",
+      "topic": "histoire",
+      "title": "Le nom d'un marquis",
+      "short": "Castries porte le nom de Charles Eugène Gabriel de La Croix, marquis de Castries.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Castries_(Sainte-Lucie)",
+          "quote": "Son nom vient de Charles Eugène Gabriel de La Croix, marquis de Castries."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île des petites Antilles juste au sud de la Martinique et au nord de Saint-Vincent.",
+    "flag": "Bleu ciel, avec au centre un triangle doré devant un triangle noir bordé de blanc, comme deux montagnes. Aucun autre drapeau n'a ce motif ; celui de Saint-Vincent, voisin, porte trois losanges verts.",
+    "capital": "Castries, comme le marquis de Castries : un nom français pour l'île que la France a longtemps disputée aux Anglais."
+  }
+}

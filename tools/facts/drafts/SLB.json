@@ -1,0 +1,158 @@
+{
+  "id": "SLB",
+  "facts": [
+    {
+      "id": "SLB-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Habitées depuis 30 000 ans",
+      "short": "Les îles Salomon sont habitées depuis plus de 30 000 ans. Bien plus tard, des navigateurs austronésiens de la culture Lapita, connus pour leurs céramiques, y arrivent à leur tour.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+          "from": "The islands have been settled since at least some time between 30,000 and 28,800 BC",
+          "to": "the modern indigenous Solomon Islanders population."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+          "from": "1200–800 BC, Austronesian Lapita people began arriving",
+          "to": "with their characteristic ceramics."
+        }
+      ]
+    },
+    {
+      "id": "SLB-2",
+      "topic": "histoire",
+      "era": "1568",
+      "title": "Les îles du roi Salomon",
+      "short": "En 1568, l'Espagnol Álvaro de Mendaña est le premier Européen à visiter l'archipel. Ce n'est pas lui qui le nomme : d'autres, rêvant des richesses du roi biblique Salomon et de la mystérieuse Ophir, l'appelleront « îles Salomon ».",
+      "long": "Contrairement à son voisin le Vanuatu, l'ancien Nouvelles-Hébrides, le pays a gardé son nom colonial après l'indépendance.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+          "from": "In 1568, the Spanish navigator Álvaro de Mendaña was the first European to visit them.",
+          "to": "the first European to visit them."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Solomon_Islands",
+          "from": "Though not named by Mendaña, the islands were subsequently referred to as Islas Salomón",
+          "to": "the Bible-mentioned city of Ophir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "Cet État de Mélanésie conserve encore son nom colonial",
+          "to": "les Nouvelles-Hébrides."
+        }
+      ]
+    },
+    {
+      "id": "SLB-3",
+      "topic": "histoire",
+      "era": "1942-1943",
+      "title": "La bataille de Guadalcanal",
+      "short": "Pendant la Seconde Guerre mondiale, l'île de Guadalcanal est le théâtre d'une grande bataille, qui se solde par une victoire majeure de la marine américaine contre la marine japonaise. La capitale, Honiara, est reconstruite à la fin de la guerre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honiara",
+          "from": "Au large de l'île s'est déroulée la bataille de Guadalcanal",
+          "to": "contre la marine japonaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honiara",
+          "from": "Honiara fut reconstruite à la fin de la Seconde Guerre mondiale",
+          "to": "sur l'île voisine."
+        }
+      ]
+    },
+    {
+      "id": "SLB-4",
+      "topic": "histoire",
+      "era": "1978-2003",
+      "title": "Une indépendance difficile",
+      "short": "Indépendant le 7 juillet 1978, le pays affronte d'importantes difficultés économiques et politiques. En 2003, le gouverneur général demande l'aide internationale : une force de sécurité, la RAMSI, dirigée par l'Australie et la Nouvelle-Zélande, est déployée.",
+      "long": "La rivalité entre les îles de Malaita et de Guadalcanal reste une source de tensions, comme lors des émeutes de novembre 2021 à Honiara.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "L’autonomie est accordée le 2 janvier 1976",
+          "to": "le 7 juillet 1978."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "Il doit faire face à d’importantes difficultés",
+          "to": "depuis son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "En juillet 2003, le gouverneur général des Salomon",
+          "to": "l’aide internationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "Un important contingent international de sécurité, baptisé RAMSI",
+          "to": "commandé par l’Australie et la Nouvelle-Zélande"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "En novembre 2021 éclatent des émeutes",
+          "to": "siège de la capitale Honiara."
+        }
+      ]
+    },
+    {
+      "id": "SLB-5",
+      "topic": "drapeau",
+      "era": "1977",
+      "title": "Cinq étoiles pour cinq districts",
+      "short": "Adopté en 1977, le drapeau porte cinq étoiles blanches, qui représentaient au départ les cinq districts de l'archipel. Le bleu symbolise l'océan Pacifique et le vert la végétation du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Salomon",
+          "from": "Le drapeau des Îles Salomon est adopté le 18 novembre 1977.",
+          "to": "le 18 novembre 1977."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Salomon",
+          "from": "Les cinq étoiles blanches représentent au départ",
+          "to": "les cinq districts administratifs de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Salomon",
+          "from": "Le bleu symbolise l'océan Pacifique.",
+          "to": "l'océan Pacifique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Salomon",
+          "from": "Le vert est la couleur nationale",
+          "to": "représente le pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SLB-C1",
+      "topic": "histoire",
+      "era": "1945",
+      "title": "Une capitale née de la guerre",
+      "short": "Honiara, sur l'île de Guadalcanal, a été reconstruite à la fin de la Seconde Guerre mondiale pour remplacer l'ancienne capitale, Tulagi, située sur une île voisine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Honiara",
+          "from": "Honiara fut reconstruite à la fin de la Seconde Guerre mondiale",
+          "to": "sur l'île voisine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Salomon",
+          "from": "Honaira, la capitale, sur l’île de Guadalcanal",
+          "to": "sur l’île de Guadalcanal"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un double chapelet d'îles dans le Pacifique Sud-Ouest, à l'est de la Papouasie-Nouvelle-Guinée et au nord-ouest du Vanuatu.",
+    "flag": "Coupé par une fine diagonale jaune : un triangle bleu en haut à gauche avec cinq étoiles blanches, un triangle vert en bas à droite.",
+    "capital": "Honiara, sur l'île de Guadalcanal, célèbre pour la bataille de 1942-1943."
+  }
+}

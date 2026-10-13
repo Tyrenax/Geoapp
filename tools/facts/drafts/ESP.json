@@ -1,0 +1,206 @@
+{
+  "id": "ESP",
+  "facts": [
+    {
+      "id": "ESP-1",
+      "topic": "histoire",
+      "title": "Le pays des lapins ?",
+      "short": "« España » vient d'Hispania, le nom romain de la péninsule, d'origine incertaine. Une piste célèbre : les Phéniciens l'appelaient i-shphan-im, peut-être « la terre des lapins », et des monnaies romaines montrent une femme avec un lapin à ses pieds.",
+      "long": "D'autres traductions sont possibles, comme « terre des métaux » ou « île du nord ». Mais Strabon parlait déjà, lui aussi, de « la terre des lapins ».",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Spain",
+          "from": "The name of Spain (España) comes from Hispania",
+          "to": "'land of the rabbits'."
+        }
+      ]
+    },
+    {
+      "id": "ESP-2",
+      "topic": "histoire",
+      "era": "711-1492",
+      "title": "Al-Andalus, huit siècles d'Espagne musulmane",
+      "short": "En 711, des troupes arabo-berbères menées par Tariq ibn Ziyad conquièrent le pays. Al-Andalus devient l'un des foyers de l'âge d'or de l'islam, avec Cordoue, Grenade et Séville.",
+      "long": "Indépendante dès 756 sous les Omeyyades de Cordoue, elle devient un califat en 929, puis éclate au XIe siècle en petits royaumes, les taïfas. Les royaumes chrétiens du nord profitent de ces divisions pour mener la Reconquista, qui s'achève en 1492 avec la chute de Grenade.\n\nLa culture juive y connaît aussi un âge d'or : la péninsule devient un pôle majeur du judaïsme européen au Moyen Âge.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Les Arabo-Berbères, menés par Tariq ibn Ziyad",
+          "to": "jusqu'à 25."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Quoi qu'il en soit, malgré ces divisions politiques",
+          "to": "Cordoue, Grenade ou Séville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Les chrétiens, réfugiés dans le nord",
+          "to": "sous le règne des rois catholiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Il se met également en place un âge d'or de la culture juive",
+          "to": "pôle majeur du judaïsme européen au Moyen Âge"
+        }
+      ]
+    },
+    {
+      "id": "ESP-3",
+      "topic": "histoire",
+      "era": "1492",
+      "title": "1492, l'année qui change tout",
+      "short": "En 1492, les Rois catholiques prennent Grenade, dernier royaume musulman de la péninsule, puis contraignent les juifs à choisir entre la conversion et l'exil. À la fin de la même année, Christophe Colomb atteint l'Amérique pour leur compte.",
+      "long": "Isabelle de Castille et Ferdinand d'Aragon s'étaient mariés en 1469. Cette union des deux couronnes dessine l'Espagne actuelle, même si chacune garde ses propres institutions jusqu'en 1715-1716.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "L'unification politique de l'Espagne actuelle se dessine",
+          "to": "pour le compte de ces derniers."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Pris dans l'exaltation religieuse de la Reconquista",
+          "to": "entre la conversion et l'exil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Ces deux entités politiques conservèrent toutefois",
+          "to": "institutionnelles distinctes"
+        }
+      ]
+    },
+    {
+      "id": "ESP-4",
+      "topic": "histoire",
+      "era": "1519-1532",
+      "title": "Un empire bâti sur l'or des Amériques",
+      "short": "Entre 1519 et 1521, Hernán Cortés fait tomber l'Empire aztèque ; en 1532, Pizarro s'attaque à l'Empire inca. L'afflux de métaux précieux venus d'Amérique fait de l'Espagne une grande puissance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "L'empire colonial, né essentiellement de l'exploration",
+          "to": "Diego de Almagro en 1532,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "L'Espagne acquit en partie sa puissance",
+          "to": "à un stock de monnaie."
+        }
+      ]
+    },
+    {
+      "id": "ESP-5",
+      "topic": "histoire",
+      "era": "1936-1978",
+      "title": "De la guerre civile à la démocratie",
+      "short": "La guerre civile entre nationalistes et républicains dure de 1936 à 1939, puis le général Franco impose sa dictature jusqu'à sa mort en 1975. Le roi Juan Carlos rétablit alors la démocratie, confirmée par la Constitution de 1978.",
+      "long": "Pendant la Seconde Guerre mondiale, le régime franquiste, pourtant allié d'Hitler et de Mussolini au départ, reste neutre. En 1981, la jeune démocratie résiste à une tentative de coup d'État.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "La guerre civile opposant nationalistes et républicains",
+          "to": "de 1936 à 1939."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "L'influence espagnole décline tout au long",
+          "to": "de 1939 à 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "À la mort de Franco, en 1975, la monarchie est restaurée",
+          "to": "de Coup d’État de 1981."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Espagne",
+          "from": "Le régime, bien qu'au départ allié d'Hitler",
+          "to": "reste neutre durant la Seconde guerre mondiale"
+        }
+      ]
+    },
+    {
+      "id": "ESP-6",
+      "topic": "drapeau",
+      "era": "1785",
+      "title": "Un pavillon pour ne plus confondre les navires",
+      "short": "Au XVIIIe siècle, la flotte espagnole arbore le blanc des Bourbons, comme la France : en pleine bataille, on confond les navires. Le 28 mai 1785, le roi Charles III impose un pavillon rouge et jaune, devenu le drapeau actuel.",
+      "long": "Sur le blason, deux colonnes d'Hercule encadrent les armes des anciens royaumes : les pals rouges et jaunes de l'Aragon, les chaînes de la Navarre…",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Espagne",
+          "from": "C'est par le décret royal du 28 mai 1785",
+          "to": "le drapeau actuel du royaume."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Espagne",
+          "from": "Bas à gauche : les pals rouges sur fond jaune",
+          "to": "Ferdinand II d'Aragon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Espagne",
+          "from": "Bas à droite : Les chaînes et l'émeraude",
+          "to": "représentent le royaume de Navarre,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Espagne",
+          "from": "A droite et à gauche : les deux colonnes d'Hercule",
+          "to": "des îles Canaries et des Baléares."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ESP-C1",
+      "topic": "histoire",
+      "era": "IXe siècle",
+      "title": "Une forteresse arabe",
+      "short": "Madrid naît à la fin du IXe siècle d'une forteresse construite par l'émir Muhammad Ier pour protéger Tolède, l'ancienne capitale wisigothe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madrid",
+          "from": "Madrid est fondée vers la fin du IXe siècle",
+          "to": "autour de laquelle se développe la ville."
+        }
+      ]
+    },
+    {
+      "id": "ESP-C2",
+      "topic": "histoire",
+      "era": "1561",
+      "title": "Capitale par la volonté d'un roi",
+      "short": "En juin 1561, Philippe II installe la cour à Madrid, qui compte alors 30 000 habitants, et en fait la capitale. Elle perd brièvement ce titre au profit de Valladolid de 1601 à 1606, avant de le retrouver face au mécontentement populaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madrid",
+          "from": "En juin 1561, alors que la ville compte déjà 30 000 habitants",
+          "to": "la capitale du royaume d'Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madrid",
+          "from": "Madrid perd provisoirement son titre",
+          "to": "le 4 mars 1606."
+        }
+      ]
+    },
+    {
+      "id": "ESP-C3",
+      "topic": "geographie",
+      "title": "Une capitale perchée",
+      "short": "À 657 m d'altitude, Madrid est la deuxième capitale la plus haute d'Europe, juste après Andorre-la-Vieille.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madrid",
+          "from": "Située à 657 m d'altitude",
+          "to": "après Andorre-la-Vieille,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Elle occupe la plus grande partie de la péninsule Ibérique, au sud-ouest de l'Europe ; les Pyrénées la séparent de la France, et le Portugal tient la façade atlantique à l'ouest. Au sud, le détroit de Gibraltar la sépare du Maroc, à une quinzaine de kilomètres.",
+    "flag": "Rouge, jaune, rouge en bandes horizontales, la bande jaune deux fois plus large que les rouges, avec le blason décalé vers le mât. Le drapeau rayé jaune et rouge de la Catalogne (neuf bandes, sans blason) est un drapeau régional, pas national.",
+    "capital": "Madrid, au centre de la péninsule, choisie par Philippe II en 1561 : une capitale « au milieu », au cœur du pays."
+  }
+}

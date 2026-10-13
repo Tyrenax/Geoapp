@@ -1,0 +1,163 @@
+{
+  "id": "MDG",
+  "facts": [
+    {
+      "id": "MDG-1",
+      "topic": "histoire",
+      "title": "Une langue venue de l'autre bout de l'océan",
+      "short": "Bien qu'à 400 km de l'Afrique, Madagascar a été peuplée en partie par des navigateurs austronésiens venus des îles de la Sonde. Le malgache est d'ailleurs une langue austronésienne, à 90 % par son vocabulaire.",
+      "long": "La population est issue d'apports africains, austronésiens et sémitiques. Certaines coutumes anciennes, comme celle d'ensevelir les défunts dans une pirogue coulée dans la mer ou un lac, témoignent de ces origines lointaines.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "Les Malgaches sont tantôt considérés comme majoritairement d'ascendance austronésienne (comme leurs langues) tantôt, compte tenu de la proximité de l'Afrique (400 km des côtes de Madagascar)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "En revanche, les études génétiques, linguistiques et historiques indiquent de manière concordante qu'une partie du peuplement malgache est d'origine austronésienne, (îles de la Sonde)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Linguistiquement, le lexique du malgache est composé de 90 % de vocabulaire austronésien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "La population de Madagascar est principalement issue d'apports africains, austronésiens et sémitiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Une partie du fonds culturel malgache est de type austronésien : coutumes anciennes (comme celle d'ensevelir les défunts dans une pirogue que l'on coule dans la mer ou dans un lac)"
+        }
+      ]
+    },
+    {
+      "id": "MDG-2",
+      "topic": "geographie",
+      "title": "La quatrième île du monde, un monde à part",
+      "short": "Avec 591 896 km², Madagascar est la quatrième plus grande île du monde, après le Groenland, la Nouvelle-Guinée et Bornéo. Elle abrite des espèces qui n'existent nulle part ailleurs, comme les lémuriens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "Longue de 1 580 km et large de 580 km, Madagascar couvre une superficie de 591 896 km2 qui la classe quatrième île du monde, après le Groenland, la Nouvelle-Guinée et Bornéo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "On trouve donc sur la Grande Île des espèces particulières qui n'existent nulle part ailleurs (endémiques), dont les lémuriens sont un exemple célèbre"
+        }
+      ]
+    },
+    {
+      "id": "MDG-3",
+      "topic": "histoire",
+      "era": "XVIIe-XIXe siècle",
+      "title": "Le royaume merina des hautes terres",
+      "short": "Sur les hauts plateaux, les luttes entre clans donnent naissance à de grands royaumes, dont le royaume merina au nord et le royaume betsileo au sud. Au XIXe siècle, le royaume merina est en pleine expansion.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "À l'intérieur des terres, les luttes pour l'hégémonie entre les différents clans néo-Vazimba des hauts plateaux centraux (que les autres clans néo-Vezo des côtes appelaient les Hova) aboutirent à la naissance des grands royaumes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Parmi les royaumes centraux, les plus importants étaient, au sud, le royaume Betsileos et, au nord, le royaume Merina."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "Le terme Masombika est une déformation de Mozambique et trace leur origine ;\nles royaumes malgaches en expansion, comme le royaume Merina au XIXe siècle"
+        }
+      ]
+    },
+    {
+      "id": "MDG-4",
+      "topic": "histoire",
+      "era": "1896",
+      "title": "La reine exilée à Alger",
+      "short": "En 1896, la France fait de Madagascar une colonie. Le général Gallieni est chargé de « pacifier » l'île, avec brutalité : la reine Ranavalona III est exilée à Alger.",
+      "long": "La même année, l'administration coloniale abolit l'esclavage dans toute l'île. Gallieni ouvre aussi une école de médecine en 1897 et un Institut Pasteur en 1899.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "En 1896, l'Empire colonial français déclare que « Madagascar et les îles qui en dépendent » deviennent colonie française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Mais par la suite, l’éclatement de la résistance populaire des Menalamba et l’arrivée du général Gallieni chargé de « pacifier » le pays en 1896 conduisent à l'annexion et à l'exil de la reine à Alger."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "La mission de « pacification » du général Gallieni (1896-1905) s'exerce avec brutalité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Madagascar",
+          "quote": "en 1896, l'administration coloniale française abolit définitivement l'esclavage sur l'ensemble de l'île sous le régime du protectorat (règne de Ranavalona III)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Gallieni porte une attention particulière au domaine de la santé : ouverture d'une École de Médecine en 1897 pour la formation de médecins auxiliaires, fondation d'un Institut Pasteur de Madagascar en 1899"
+        }
+      ]
+    },
+    {
+      "id": "MDG-5",
+      "topic": "histoire",
+      "era": "1947-1960",
+      "title": "L'insurrection de 1947, puis l'indépendance",
+      "short": "En 1947, une grande insurrection éclate contre le pouvoir colonial ; elle est violemment réprimée. Madagascar proclame son indépendance le 26 juin 1960.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Le MDRM est lui accusé par le régime colonial d'être à l'origine de l'insurrection de 1947 et sera poursuivi par de violentes répressions."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Madagascar",
+          "quote": "Le 14 octobre de la même année, la République malgache est instituée par le pouvoir colonial, suivie le 26 juin 1960 de la proclamation de l’indépendance."
+        }
+      ]
+    },
+    {
+      "id": "MDG-6",
+      "topic": "drapeau",
+      "era": "1958",
+      "title": "Un drapeau choisi par concours",
+      "short": "En 1958, un appel à projets est lancé à la radio auprès de la population pour créer les symboles de la future république. Le drapeau retenu : une bande verticale blanche côté mât, puis une bande rouge et une bande verte.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Madagascar",
+          "quote": "En 1958, un appel à projets dirigé par une commission technique, est lancé depuis Radio Tananarive auprès de la population malgache pour réaliser les futurs symboles de la république naissante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Madagascar",
+          "quote": "Il est composé de trois couleurs (blanc, rouge et vert) avec une bande verticale blanche du côté de la hampe, et deux bandes horizontales superposées rouge et verte."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MDG-C1",
+      "topic": "histoire",
+      "title": "La « ville des Mille »",
+      "short": "Antananarivo signifie « la ville des Mille », d'après les mille guerriers qui y seraient restés. Les Malgaches l'appellent simplement « Tana ».",
+      "long": "Le roi Andrianampoinimerina fit du vendredi, Zoma, le jour du marché : ses parasols blancs couvraient toute la vallée, en ce qu'on a appelé le plus grand marché en plein air du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antananarivo",
+          "quote": "Son nom signifie « La Ville des Mille » (de an, préfixe locatif correspondant à « à » ; tanana signifiant « ville » ou « village» ; arivo voulant dire « mille ») en raison des mille guerriers qui y sont restés"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antananarivo",
+          "quote": "Les Malgaches lui font souvent subir une aphérèse et une apocope qui donnent Tana"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antananarivo",
+          "quote": "Andrianampoinimerina a décrété le vendredi (Zoma) comme jour de marché, lorsque les marchands érigeaient des étals ombragés de parasols blancs, qui s'étendaient dans toute la vallée formant ce qu'on a appelé le plus grand marché en plein air du monde."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La très grande île au sud-est de l'Afrique, dans l'océan Indien, séparée du Mozambique par le canal du Mozambique. Le tropique du Capricorne la traverse.",
+    "flag": "Une bande verticale blanche côté mât, puis deux bandes horizontales : rouge en haut, vert en bas. Sans étoile ni emblème.",
+    "capital": "Antananarivo, « la ville des Mille », que tout le monde abrège en Tana (ou Tananarive en français)."
+  }
+}

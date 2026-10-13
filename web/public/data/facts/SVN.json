@@ -1,0 +1,135 @@
+{
+  "id": "SVN",
+  "facts": [
+    {
+      "id": "SVN-1",
+      "topic": "culture",
+      "title": "600 kg de lettres égarées",
+      "short": "La Slovénie et la Slovaquie sont si souvent confondues qu'en 2004, 600 kg de courrier mal adressé ont dû être réexpédiés vers la Slovénie. Les employés des deux ambassades se retrouvent chaque mois pour échanger les lettres mal dirigées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "La Slovénie et la Slovaquie sont souvent confondues, car les noms Slovenská Republika (qui signifie « République slovaque » en slovaque) et Republika Slovenija peuvent prêter à confusion dans de nombreuses langues. Chaque année, un poids considérable de courrier mal acheminé est à réexpédier vers la Slovénie (600 kg en 2004). Cette confusion fait que le personnel des ambassades des deux pays se retrouve chaque mois pour échanger le courrier mal dirigé"
+        }
+      ]
+    },
+    {
+      "id": "SVN-2",
+      "topic": "histoire",
+      "era": "XIVe siècle-1918",
+      "title": "Six siècles sous les Habsbourg",
+      "short": "Du XIVe siècle à 1918, les Slovènes vivent sous la domination des Habsbourg, sans véritable statut juridique, mais avec une représentation à Vienne. Le 1er décembre 1918, ils rejoignent le royaume des Serbes, Croates et Slovènes, futur royaume de Yougoslavie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Le territoire de l'actuelle Slovénie commence à partir du IXe siècle à passer de main en main au gré des invasions des puissances voisines, qu'il s'agisse de la Bavière, de la république de Venise, ou des Habsbourg. \n\n\n=== Temps modernes ===\nLes Slovènes restent sous la domination de ces derniers du XIVe siècle à 1918, sans réel statut juridique, mais avec toutefois une représentation à Vienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Le pays rejoint le royaume de Serbie (dans lequel le royaume du Monténégro était déjà entré trois jours auparavant) afin de former le 1er décembre 1918 le royaume des Serbes, Croates et Slovènes qui prendra le nom de royaume de Yougoslavie en 1929."
+        }
+      ]
+    },
+    {
+      "id": "SVN-3",
+      "topic": "histoire",
+      "era": "1990-1991",
+      "title": "Une guerre de dix jours",
+      "short": "Le 23 décembre 1990, près de 89 % des votants approuvent l'indépendance par référendum. Proclamée le 25 juin 1991, elle déclenche une guerre qui ne dure qu'une dizaine de jours : la Slovénie est la première république à quitter la Yougoslavie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Le 23 décembre 1990, un référendum sur l'indépendance aboutit avec près de 89 % des voix. La déclaration formelle d'indépendance intervient après le passage d'une loi en ce sens le 25 juin 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "La guerre s'étend sur une dizaine de jours, à l'issue desquels l'accord de Brioni est signé sous les auspices de la Communauté européenne le 7 juillet 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "En 1991, après l'introduction du multipartisme et de la démocratie, la Slovénie est devenue la première république à faire sécession de la Yougoslavie en devenant un État souverain indépendant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "La république de Slovénie entre dans l'Union européenne et l'OTAN en 2004. En 2007, le pays devient le premier ancien pays communiste à intégrer la zone euro."
+        }
+      ],
+      "long": "Membre de l'Union européenne et de l'OTAN depuis 2004, la Slovénie devient en 2007 le premier ancien pays communiste à adopter l'euro."
+    },
+    {
+      "id": "SVN-4",
+      "topic": "histoire",
+      "era": "746",
+      "title": "La Carinthie, berceau médiéval",
+      "short": "Après les Celtes et les Illyriens, soumis par Rome au Ier siècle, la Carinthie émerge vers le VIe siècle sur les actuelles Carinthies autrichienne et slovène. En 746, elle s'affranchit de la Bavière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Celtes et Illyriens constituent les premiers habitants de la région. Ils sont soumis par l'Empire romain au cours du Ier siècle. \n\n\n=== Moyen Âge ===\nLa Carinthie émerge probablement autour du VIe siècle, à l'issue des invasions lombardes du Nord de l'Italie, et recouvre le territoire correspondant aux actuelles Carinthies autrichienne et slovène. Son existence est formellement attestée à partir du VIIIe siècle, lorsqu'elle prend son indépendance par rapport à la Bavière (746)."
+        }
+      ]
+    },
+    {
+      "id": "SVN-5",
+      "topic": "geographie",
+      "title": "Forêts profondes et grottes",
+      "short": "Troisième pays le plus boisé d'Europe, la Slovénie est couverte à 58 % de forêts. Ses nombreuses grottes, comme celles de Postojna et de Škocjan, abritent le protée, une salamandre devenue l'un des symboles du pays.",
+      "long": "Son relief montagneux lui vaut parfois le surnom de « Suisse des Balkans ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Troisième pays forestier d’Europe, la Slovénie est couverte à 58 % par 1 177 244 hectares de forêt, dont 91% sont utilisées pour la production de bois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "Le protée, une espèce de salamandre, est l'un des symboles importants de la Slovénie. Ce pays dispose en effet de nombreuses grottes abritant cet animal. On en trouve par exemple dans la grande grotte de Postojna mais aussi dans les grottes de Škocjan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "quote": "La Slovénie est parfois surnommée la Suisse des Balkans ou la Suisse d'Europe du Sud en raison de son relief montagneux."
+        }
+      ]
+    },
+    {
+      "id": "SVN-6",
+      "topic": "drapeau",
+      "title": "Le mont Triglav et trois étoiles",
+      "short": "L'écu du drapeau montre en blanc les trois sommets du mont Triglav ; sous la montagne, deux lignes ondulées évoquent la mer et les rivières. Les trois étoiles d'or reprennent les armes des comtes de Celje, qui dominèrent le pays à partir de 1130 environ.",
+      "long": "Sans son écu, le drapeau serait identique à celui de la Russie, aux proportions près, et il ressemble beaucoup à celui de la Slovaquie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovénie",
+          "quote": "Celui-ci représente, en blanc, les trois sommets d'une montagne sur fond azur, le mont Triglav et les deux faces ondulées bleues en pointe de l'écu représentent la façade maritime et les rivières du pays. Les trois étoiles d'or à six rais placées au-dessus du mont Triglav rappellent les armes de la famille des comtes de Celje qui a dominé la Slovénie à partir de 1130 environ."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovénie",
+          "quote": "Sans son écu, le drapeau de la Slovénie est identique à celui de la Russie, bien que les proportions soient différentes. Il est aussi très similaire à celui de la Slovaquie, bien que l'écu soit différent et dans une position différente aussi."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SVN-C1",
+      "topic": "culture",
+      "title": "Le dragon tué par Jason",
+      "short": "Selon une légende, Jason et ses Argonautes, en remontant le Danube, auraient trouvé un grand lac près de l'actuelle Ljubljana, où Jason terrassa un monstre : le dragon qui figure aujourd'hui sur le blason et le drapeau de la ville.",
+      "long": "Plusieurs dragons ailés ornent le pont des Dragons, construit entre 1900 et 1901.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ljubljana",
+          "quote": "Selon la célèbre légende grecque, le héros Jason et ses Argonautes, qui auraient trouvé la célèbre Toison d'or en Colchide, se seraient alors dirigés au nord en remontant le fleuve Danube plutôt que de retourner vers la mer Égée. En remontant le Danube, ils se seraient dirigés vers son affluent la Save puis jusqu'à la source de la rivière Ljubljanica. Ils démontèrent alors le bateau pour le transporter jusqu'à la mer Adriatique située plus à l’ouest pour retourner chez eux. Entre les municipalités actuelles de Vrhnika et de Ljubljana, les argonautes trouvèrent un grand lac entouré d’un marais. C’est là que Jason terrassa un monstre. Ce monstre était le dragon de Ljubljana qui est aujourd’hui présent sur le blason et le drapeau de la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ljubljana",
+          "quote": "Plusieurs dragons ailés ornent le pont des Dragons (Zmajski Most) ; construit entre 1900 et 1901,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays alpin au nord de l'Adriatique, avec une courte façade maritime coincée entre l'Italie et la Croatie. L'Autriche est au nord, la Hongrie au nord-est et la Croatie au sud.",
+    "flag": "Blanc, bleu, rouge en bandes horizontales, avec en haut à gauche un écu montrant une montagne blanche à trois sommets et trois étoiles d'or. Sans écu, ce serait la Russie ; la Slovaquie a les mêmes couleurs, mais une double croix sur trois collines.",
+    "capital": "Ljubljana, la ville du dragon, perché sur son pont et sur son blason."
+  }
+}

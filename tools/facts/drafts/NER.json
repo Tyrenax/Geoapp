@@ -1,0 +1,160 @@
+{
+  "id": "NER",
+  "facts": [
+    {
+      "id": "NER-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Les girafes gravées du désert",
+      "short": "Le massif de l'Aïr et le désert du Ténéré abritent de nombreuses gravures rupestres, comme les célèbres girafes de Dabous. Elles datent d'une époque où le Sahara était encore humide et peuplé.",
+      "long": "On y trouve aussi un abondant matériel préhistorique, pointes de flèches et meules, jusqu'à la désertification de la région au Ier siècle avant notre ère. Plusieurs cimetières de dinosaures sont disséminés dans le désert, au sud d'Agadez.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niger",
+          "from": "Le massif de l'Aïr (Nord du pays) et le désert du Ténéré abritent",
+          "to": "comme les girafes de Dabous."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "lors de la dernière période pluviale du Sahara",
+          "to": "les peintures et gravures rupestres du Ténéré"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "Le désert du Ténéré est riche en témoignages",
+          "to": "au Ier siècle avant notre ère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niger",
+          "from": "Plusieurs cimetières de dinosaures sont disséminés",
+          "to": "au sud d'Agadez."
+        }
+      ]
+    },
+    {
+      "id": "NER-2",
+      "topic": "histoire",
+      "era": "1973",
+      "title": "L'arbre solitaire du Ténéré",
+      "short": "En plein désert du Ténéré se dressait un acacia solitaire, l'arbre du Ténéré, dernier vestige de la flore d'une époque plus humide. Il a été renversé en 1973.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "L'Arbre du Ténéré, acacia solitaire, renversé en 1973",
+          "to": "de la flore de cette époque."
+        }
+      ]
+    },
+    {
+      "id": "NER-3",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Le sultanat de Zinder",
+      "short": "Quand les cités-États haoussas tombent au début du XIXe siècle, le sultanat du Damagaram, ou de Zinder, résiste, grâce aux familles royales réfugiées. C'est depuis Zinder que les Français administrent d'abord le Niger, à partir de 1900.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "Toutes les cités-États tombent les unes après les autres",
+          "to": "ce sultanat va se maintenir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "En 1900, les Français font du Niger un territoire militaire",
+          "to": "l'ancien sultanat de Zinder."
+        }
+      ]
+    },
+    {
+      "id": "NER-4",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "L'indépendance et l'uranium",
+      "short": "Le Niger devient indépendant le 3 août 1960, avec Hamani Diori pour président. À partir de 1968, l'exploitation de l'uranium, exporté vers la France, donne au pays une importance nouvelle.",
+      "long": "L'économie dépend fortement de ce métal : en 1997-1998, la chute de son cours provoque une crise économique, puis politique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "Le 3 août 1960, le Niger accède à l'indépendance",
+          "to": "par l'Assemblée nationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "Le pays prend une importance nouvelle",
+          "to": "à partir de 1968."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niger",
+          "from": "Les exportations vers la France de l'uranium des mines d'Arlit",
+          "to": "du revenu extérieur du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Niger",
+          "from": "En 1997-1998, la crise économique causée par la chute des cours",
+          "to": "entraîne une crise politique"
+        }
+      ]
+    },
+    {
+      "id": "NER-5",
+      "topic": "geographie",
+      "title": "Les dernières girafes d'Afrique de l'Ouest",
+      "short": "À une soixantaine de kilomètres de Niamey, autour du village de Kouré, vit le dernier troupeau de girafes en liberté de toute l'Afrique de l'Ouest.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niger",
+          "from": "Le dernier troupeau de girafes en liberté",
+          "to": "à 60 km de la capitale Niamey."
+        }
+      ]
+    },
+    {
+      "id": "NER-6",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Le désert, la plaine et le soleil",
+      "short": "Adopté en 1959, le drapeau raconte le paysage du pays : la bande orange représente le désert du nord, la bande verte les plaines fertiles du bassin du Niger au sud, et le disque orange le soleil.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Niger",
+          "from": "Le drapeau du Niger a été adopté le 23 novembre 1959.",
+          "to": "le 23 novembre 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Niger",
+          "from": "La bande orange représente le désert",
+          "to": "le rond orange le soleil."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NER-C1",
+      "topic": "histoire",
+      "title": "Le rivage de l'arbre Nia",
+      "short": "Selon la tradition, des Maouris s'installent au bord du Niger près d'un arbre appelé Nia ; « Niamey » associerait ce nom au mot djerma qui désigne le rivage où l'on puise l'eau. En 1901, le village ne compte qu'environ 600 habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niamey",
+          "from": "Cependant les fondateurs du village de Niamey seraient des Maouris",
+          "to": "vers la fin du XIXe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niamey",
+          "from": "Ils se seraient installés sur une île appelée Neni Goungou",
+          "to": "rivage où l'on puise de l'eau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Niamey",
+          "from": "Le village de Niamey est habité par environ 600 personnes en 1901",
+          "to": "quand la mission Lenfant arrive."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un très grand pays enclavé au cœur du Sahel, au nord du Nigeria (son voisin presque homonyme) : le Mali et l'Algérie à l'ouest et au nord, la Libye au nord-est, le Tchad à l'est. Le fleuve Niger ne traverse que son coin sud-ouest.",
+    "flag": "Orange, blanc, vert en bandes horizontales, avec un disque orange au centre. L'Inde a les mêmes couleurs, mais une roue bleue au centre et un orange plus foncé.",
+    "capital": "Niamey, sur le fleuve Niger, tout au sud-ouest du pays. Ne pas confondre avec le Nigeria, dont la capitale est Abuja."
+  }
+}

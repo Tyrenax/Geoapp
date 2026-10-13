@@ -1,0 +1,125 @@
+{
+  "id": "SGS",
+  "facts": [
+    {
+      "id": "SGS-1",
+      "topic": "histoire",
+      "era": "1675-1775",
+      "title": "Une île nommée d'après George III",
+      "short": "La Géorgie du Sud, qui tire son nom du roi George III, est découverte en 1675 par le marchand britannique Anthony de la Roché. Les îles Sandwich du Sud sont découvertes par le capitaine James Cook en 1775.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_du_Sud-et-les_îles_Sandwich_du_Sud",
+          "from": "La Géorgie du Sud, qui tire son nom de George III",
+          "to": "Anthony de la Roché."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_du_Sud-et-les_îles_Sandwich_du_Sud",
+          "from": "Les îles Sandwich du Sud ont été découvertes",
+          "to": "en 1775."
+        }
+      ]
+    },
+    {
+      "id": "SGS-2",
+      "topic": "histoire",
+      "era": "1904-1966",
+      "title": "L'île des baleiniers",
+      "short": "Le capitaine norvégien Carl Anton Larsen fonde la station baleinière de Grytviken le 16 novembre 1904. La Géorgie du Sud a compté plusieurs stations de ce type ; le port de Grytviken ferme officiellement en 1966.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grytviken",
+          "from": "On doit au capitaine norvégien Carl Anton Larsen",
+          "to": "le 16 novembre 1904."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_du_Sud-et-les_îles_Sandwich_du_Sud",
+          "from": "Anciennes stations baleinières : Grytviken",
+          "to": "Ocean Harbour (centre-sud de l'île)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grytviken",
+          "from": "Officiellement, la fermeture du port a eu lieu en 1966.",
+          "to": "en 1966."
+        }
+      ]
+    },
+    {
+      "id": "SGS-3",
+      "topic": "histoire",
+      "era": "1922",
+      "title": "La tombe de Shackleton",
+      "short": "En 1922, en route vers l'Antarctique, l'explorateur britannique Ernest Shackleton meurt d'une crise cardiaque à Grytviken. À la demande de son épouse, il y est enterré.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grytviken",
+          "from": "En 1922, l'explorateur britannique Sir Ernest Shackleton",
+          "to": "à la demande de son épouse."
+        }
+      ]
+    },
+    {
+      "id": "SGS-4",
+      "topic": "histoire",
+      "era": "1982",
+      "title": "Trois semaines argentines",
+      "short": "Comme les Malouines, le territoire est revendiqué par l'Argentine. En avril 1982, des troupes argentines prennent Grytviken et King Edward Point ; les forces britanniques les reprennent trois semaines plus tard.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_du_Sud-et-les_îles_Sandwich_du_Sud",
+          "from": "Administré depuis les îles Malouines situées au nord-ouest",
+          "to": "revendiqué par l'Argentine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Grytviken",
+          "from": "En avril 1982, Grytviken et King Edward Point ont été prises",
+          "to": "les forces britanniques reprennent ces territoires."
+        }
+      ]
+    },
+    {
+      "id": "SGS-5",
+      "topic": "drapeau",
+      "era": "1985",
+      "title": "Un drapeau de 1985",
+      "short": "Le territoire n'existe en tant que tel que depuis 1985 : il dépendait auparavant des Malouines. Son drapeau, accordé le 3 octobre 1985, flotte sur les bâtiments officiels et les bases scientifiques britanniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud",
+          "from": "Le Drapeau de la Géorgie du Sud-et-les îles Sandwich du Sud a été accordé",
+          "to": "un drapeau similaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie_du_Sud-et-les_Îles_Sandwich_du_Sud",
+          "from": "Le drapeau flotte au-dessus des principaux édifices gouvernementaux",
+          "to": "British Antarctic Survey."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SGS-C1",
+      "topic": "geographie",
+      "title": "Une capitale qui est une base scientifique",
+      "short": "King Edward Point, le siège administratif, est une base britannique : elle abrite une station scientifique du British Antarctic Survey, les bureaux du gouvernement du territoire et une poste.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/King_Edward_Point",
+          "from": "King Edward Point est une base britannique",
+          "to": "non loin de Grytviken."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/King_Edward_Point",
+          "from": "Il héberge aujourd'hui une station scientifique",
+          "to": "par la Royal Mail."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Des îles glacées perdues dans l'Atlantique Sud, loin à l'est des Malouines et de la pointe de l'Amérique du Sud, sur la route de l'Antarctique.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, des armoiries tenues par une otarie et un manchot. Les Malouines ont le même fond, avec un mouton et un navire sur l'écu.",
+    "capital": "King Edward Point, la base « du roi Édouard » : une capitale de scientifiques, à côté de l'ancienne station baleinière de Grytviken."
+  }
+}

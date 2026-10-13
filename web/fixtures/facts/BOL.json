@@ -1,0 +1,25 @@
+{
+  "id": "BOL",
+  "facts": [
+    { "id": "BOL-1", "topic": "histoire", "era": "1825", "title": "[FICTIF] Un pays nommé d'après Simón Bolívar",
+      "short": "[FICTIF] Fait de démonstration : la république prend le nom du Libertador en 1825, l'année de son indépendance.",
+      "long": "[FICTIF] Texte long de démonstration pour « Approfondir ». Il sert à vérifier qu'un paragraphe de plusieurs lignes se lit bien dans le panneau, avec une longueur de ligne raisonnable et un interligne confortable.\n\nUn second paragraphe vérifie la séparation des paragraphes et le défilement interne du panneau quand le texte devient long, ce qui arrivera avec les vrais faits.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/Bolivie", "quote": "[FICTIF] citation de démonstration, 1825" } ] },
+    { "id": "BOL-2", "topic": "geographie", "title": "[FICTIF] Deux capitales",
+      "short": "[FICTIF] Sucre est la capitale constitutionnelle, La Paz le siège du gouvernement.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/Bolivie", "quote": "[FICTIF] citation" } ] },
+    { "id": "BOL-3", "topic": "drapeau", "title": "[FICTIF] Rouge, jaune, vert",
+      "short": "[FICTIF] Fait de démonstration sur le drapeau tricolore horizontal.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Bolivie", "quote": "[FICTIF] citation" } ] }
+  ],
+  "capital_facts": [
+    { "id": "BOL-C1", "topic": "histoire", "title": "[FICTIF] Sucre, ville blanche",
+      "short": "[FICTIF] Fait de démonstration sur la capitale constitutionnelle.",
+      "sources": [ { "url": "https://fr.wikipedia.org/wiki/Sucre_(Bolivie)", "quote": "[FICTIF] citation" } ] }
+  ],
+  "tips": {
+    "position": "[FICTIF] Au cœur de l'Amérique du Sud, sans accès à la mer, entre le Pérou et le Brésil.",
+    "flag": "[FICTIF] Rouge en haut, vert en bas : comme un feu tricolore couché.",
+    "capital": "[FICTIF] Sucre : la capitale « sucrée » de la constitution ; La Paz gouverne."
+  }
+}

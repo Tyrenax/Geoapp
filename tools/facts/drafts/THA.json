@@ -1,0 +1,153 @@
+{
+  "id": "THA",
+  "facts": [
+    {
+      "id": "THA-1",
+      "topic": "histoire",
+      "era": "1350-1767",
+      "title": "Le royaume d'Ayutthaya",
+      "short": "À partir de 1350, le royaume d'Ayutthaya devient de plus en plus puissant. Après plus de 400 ans, il est conquis en 1767 par les armées birmanes, et sa capitale est incendiée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Puis à partir de 1350, le nouveau royaume d'Ayutthaya",
+          "to": "gagner de la puissance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Après plus de 400 ans de puissance, en 1767",
+          "to": "son territoire démembré."
+        }
+      ]
+    },
+    {
+      "id": "THA-2",
+      "topic": "histoire",
+      "title": "Jamais colonisée",
+      "short": "Le Siam est le seul pays d'Asie du Sud-Est à avoir échappé à la colonisation, alors que les puissances occidentales étaient installées tout autour. Au XIXe siècle, il a pourtant dû reculer face au Royaume-Uni et à la France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Le Siam n'a jamais été colonisé par les puissances occidentales",
+          "to": "dans tous les pays alentour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Les Thaï attribuent aux qualités diplomatiques",
+          "to": "à avoir échappé à la colonisation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Progressivement, au XIXe siècle, le Siam recule",
+          "to": "le Royaume-Uni et la France."
+        }
+      ]
+    },
+    {
+      "id": "THA-3",
+      "topic": "histoire",
+      "era": "1932",
+      "title": "La révolution de trois heures",
+      "short": "Le 24 juin 1932, une révolution de palais qui ne dure que trois heures met fin à la monarchie absolue : le pays devient une monarchie constitutionnelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Le 24 juin 1932, une révolution de palais",
+          "to": "met fin à la monarchie absolue."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "C’est une monarchie constitutionnelle depuis 1932",
+          "to": "monarchie constitutionnelle depuis 1932"
+        }
+      ]
+    },
+    {
+      "id": "THA-4",
+      "topic": "histoire",
+      "era": "1939",
+      "title": "Du Siam à la Thaïlande",
+      "short": "Le pays s'appelait le royaume de Siam. Il prend le nom de Thaïlande le 24 juin 1939.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "est un pays d’Asie du Sud-Est, appelé royaume de Siam",
+          "to": "jusqu'en 1939."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "24 juin 1939 : le pays prend le nom de Thaïlande",
+          "to": "le nom de Thaïlande"
+        }
+      ]
+    },
+    {
+      "id": "THA-5",
+      "topic": "politique",
+      "title": "Le crime de lèse-majesté",
+      "short": "En Thaïlande, le roi est protégé des critiques par l'article 112 du code pénal : le crime de lèse-majesté peut valoir plusieurs dizaines d'années de prison.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Thaïlande",
+          "from": "Il est protégé des critiques notamment par l'article 112",
+          "to": "plusieurs dizaines d'années de prison."
+        }
+      ]
+    },
+    {
+      "id": "THA-6",
+      "topic": "drapeau",
+      "era": "1917",
+      "title": "De l'éléphant blanc aux trois couleurs",
+      "short": "Le drapeau actuel, adopté en 1917, aligne cinq bandes : rouge pour la nation, blanc pour le bouddhisme, bleu pour la monarchie. Il remplace un drapeau rouge frappé d'un éléphant blanc, symbole de la dynastie Chakri.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Thaïlande",
+          "from": "Adoptée le 28 septembre 1917 par décret du roi Rama VI",
+          "to": "le bleu pour la monarchie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Thaïlande",
+          "from": "Puis en 1851, Rama IV fait retirer la roue",
+          "to": "un drapeau rouge avec un éléphant blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Thaïlande",
+          "from": "Autrefois présent, l'éléphant blanc",
+          "to": "sa marine de guerre."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "THA-C1",
+      "topic": "culture",
+      "era": "1782",
+      "title": "Le plus long nom de ville du monde",
+      "short": "Fondée officiellement le 6 avril 1782 par Rama Ier, Bangkok s'appelle en thaï Krung Thep, la « Cité des anges ». Son nom complet, une longue phrase de louanges, est pour le Livre Guinness des records le nom de ville le plus long au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangkok",
+          "from": "Bangkok (en thaï",
+          "to": "est la capitale de la Thaïlande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangkok",
+          "from": "Mais la date officielle de sa fondation par Rama Ier",
+          "to": "sur l'autre rive du fleuve."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangkok",
+          "from": "Le Livre Guinness des records le note",
+          "to": "le nom de ville le plus long au monde."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur de l'Asie du Sud-Est, entre la Birmanie à l'ouest, le Laos et le Cambodge à l'est, avec une longue queue qui descend vers la Malaisie.",
+    "flag": "Cinq bandes : rouge, blanc, bleu (deux fois plus large), blanc, rouge. Le Costa Rica a le même dessin mais inversé : bleu, blanc, rouge, blanc, bleu.",
+    "capital": "Bangkok, au fond du golfe de Thaïlande, sur le fleuve Chao Phraya."
+  }
+}

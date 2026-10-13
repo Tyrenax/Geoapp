@@ -1,0 +1,138 @@
+{
+  "id": "KOR",
+  "facts": [
+    {
+      "id": "KOR-1",
+      "topic": "histoire",
+      "era": "918-1897",
+      "title": "Le pays du matin clair",
+      "short": "La Corée est unifiée en un seul État par le royaume de Goryeo (918-1392), puis gouvernée par la dynastie Joseon (1392-1897). Le pays est surnommé « pays du matin clair et frais » (Joseon), souvent mal traduit par « pays du Matin calme ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Après l'unification des Trois Royaumes de Corée en Silla et Balhae à la fin du VIIe siècle, le pays fut unifié en un seul État par Goryeo (918-1392), suivi de la période Joseon (1392-1897)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Le pays est surnommé le Pays du matin clair et frais (Joseon, 朝鮮), généralement mal traduit par Pays du Matin calme."
+        }
+      ]
+    },
+    {
+      "id": "KOR-2",
+      "topic": "histoire",
+      "era": "1443",
+      "title": "Un roi invente un alphabet",
+      "short": "En 1443, le roi Sejong le Grand fait créer le hangeul, l'alphabet coréen, pour faciliter l'éducation de ses sujets : les caractères chinois étaient jugés trop difficiles et trop longs à apprendre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Le système d'écriture coréen, han'gû ou hangeul, ou hangul a été inventé en 1443 par le roi Sejong le Grand pour faciliter l'éducation de ses sujets — en effet, les caractères chinois étaient jugés trop difficiles et trop longs à apprendre pour un individu moyen"
+        }
+      ]
+    },
+    {
+      "id": "KOR-3",
+      "topic": "histoire",
+      "era": "1910-1948",
+      "title": "De la colonie japonaise à la division",
+      "short": "L'Empire coréen est annexé par le Japon en 1910, et reste colonie japonaise jusqu'en 1945. Faute d'accord sur la réunification, la zone Sud devient la république de Corée en août 1948, et la zone Nord une république populaire communiste le mois suivant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "L'Empire coréen qui leur succéda (1897-1910) fut annexé en 1910 à l'empire du Japon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "En raison de la colonisation japonaise de 1910 à 1945,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Après l'échec des négociations sur la réunification, la zone Sud est devenue la république de Corée en août 1948, tandis que la zone Nord est devenue la république populaire démocratique de Corée communiste le mois suivant."
+        }
+      ]
+    },
+    {
+      "id": "KOR-4",
+      "topic": "histoire",
+      "era": "1950-1953",
+      "title": "La guerre de Corée",
+      "short": "En 1950, une invasion nord-coréenne déclenche la guerre de Corée. Le Sud est soutenu par les États-Unis, le Nord par la Chine. L'armistice de 1953 met fin aux combats, mais la péninsule reste coupée par une zone démilitarisée, paradoxalement la plus militarisée au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "La guerre de Corée commença en juin 1950, le Sud était soutenu par les États-Unis et le Nord par la Chine. L'armistice de Panmunjeom (signé en 1953) met fin aux combats. Mais à ce jour, la guerre n'est toujours pas officiellement terminée. Depuis, la péninsule est divisée par une zone démilitarisée (DMZ) aux alentours du 38e parallèle, qui est, paradoxalement, la plus militarisée au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "En 1950, une invasion nord-coréenne a déclenché la guerre de Corée, qui s'est terminée en 1953"
+        }
+      ]
+    },
+    {
+      "id": "KOR-5",
+      "topic": "economie",
+      "era": "années 1960",
+      "title": "Le miracle économique",
+      "short": "Dans les années 1960, ravagée par la guerre, la Corée du Sud est aussi pauvre que les pays les plus pauvres d'Afrique et d'Asie. Elle connaît ensuite une croissance spectaculaire, portée par les chaebol, des conglomérats familiaux comme Hyundai, Samsung ou LG.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Dans les années 1960, le PIB par habitant était comparable à celui des pays les plus pauvres de l’Afrique et de l’Asie à la suite de la guerre de Corée entre le nord et le sud qui a complètement rasé le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "la Corée du Sud a connu une phase spectaculaire de croissance et d’intégration dans l’économie mondiale moderne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Corée_du_Sud",
+          "quote": "Le fer de lance de la politique gouvernementale fut la création des chaebol ; ces conglomérats familiaux (Hyundai, Samsung, LG Group, etc)"
+        }
+      ]
+    },
+    {
+      "id": "KOR-6",
+      "topic": "drapeau",
+      "title": "Le yin et le yang",
+      "short": "Le Taegeukgi est blanc, avec au centre un yin-yang rouge et bleu, symbole de l'origine de toute chose. Aux quatre coins, des trigrammes représentent l'air, la terre, le feu et l'eau, chacun face à son complémentaire : une idée d'harmonie universelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Corée_du_Sud",
+          "quote": "Il est nommé le Taegeukgi. Il est blanc frappé d'un Taijitu (symbole du yin yang, dont l'équivalent coréen est le um yang) rouge (dessus) et bleu (dessous), celui-ci étant nommé Taegeuk et signifiant l'origine de toute chose dans l'univers. Le long des quatre diagonales, sont disposés quatre trigrammes du Livre des Mutations représentant les quatre éléments : la terre, l’air, le feu et l'eau. Chaque symbole a son complémentaire (air et terre, feu et eau, yin et yang). C'est donc l'idée d'harmonie universelle qui a guidé la conception du drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KOR-C1",
+      "topic": "histoire",
+      "era": "1394",
+      "title": "Plus de cinq siècles de capitale",
+      "short": "Fondée il y a deux mille ans par le royaume de Baekje, Séoul, alors appelée Hanyang, devient la capitale de la dynastie Joseon en 1394, et le reste plus de cinq cents ans. Elle accueille les Jeux olympiques d'été de 1988 et passe pour le berceau de la K-pop.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "quote": "Fondée il y a deux mille ans par le royaume Baekje, l'un des Trois Royaumes de Corée, Séoul est pendant plus de cinq cents ans la capitale du royaume de Joseon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "quote": "La ville vit changer son nom de Hanyang (한양 ; 漢陽) en Hanseong (한성 ; 漢城) lorsqu'elle devint la capitale de la dynastie Joseon en 1394"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "quote": "Symbole de son rayonnement, Séoul a organisé plusieurs grands évènements internationaux, dont les Jeux asiatiques de 1986, les Jeux olympiques d'été de 1988,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Séoul",
+          "quote": "Enfin, en tant que cœur culturel du pays, Séoul est le berceau de la K-pop"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié sud de la péninsule coréenne, entre la Chine et le Japon. Au nord, la Corée du Nord ; c'est sa seule frontière terrestre.",
+    "flag": "Fond blanc, un rond rouge et bleu en spirale au centre, et quatre groupes de barres noires dans les coins. La Corée du Nord a un drapeau très différent, avec une étoile rouge.",
+    "capital": "Séoul, au nord-ouest, sur le fleuve Han, tout près de la frontière nord-coréenne."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "id": "MSR",
+  "facts": [
+    {
+      "id": "MSR-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Un nom venu de Barcelone",
+      "short": "Christophe Colomb découvre l'île en 1493 et la baptise d'après le massif de Montserrat, près de Barcelone, ou l'abbaye du même nom selon les sources. Les Ciboneys y vivaient déjà il y a 2 500 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "L'île est découverte en 1493 par Christophe Colomb",
+          "to": "située dans ce massif."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Avant la colonisation européenne, l'île est habitée",
+          "to": "il y a 2 500 ans."
+        }
+      ]
+    },
+    {
+      "id": "MSR-2",
+      "topic": "histoire",
+      "era": "1632-1678",
+      "title": "L'île irlandaise des Caraïbes",
+      "short": "Devenue anglaise en 1632, l'île accueille des Irlandais catholiques chassés de Saint-Christophe. En 1678, ils forment 69 % de la population. Aujourd'hui encore, la Saint-Patrick, le 17 mars, y est un jour férié : un cas unique hors d'Irlande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "L'île passe sous contrôle anglais en 1632.",
+          "to": "en majorité catholique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "En 1678, les Irlandais représentent 69 %",
+          "to": "de la population de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Le 17 mars, jour de la Saint-Patrick est férié dans l'île.",
+          "to": "à avoir rendu ce jour férié."
+        }
+      ]
+    },
+    {
+      "id": "MSR-3",
+      "topic": "histoire",
+      "era": "1995-1997",
+      "title": "Une capitale ensevelie par un volcan",
+      "short": "Le 18 juillet 1995, le volcan de la Soufrière se réveille. Le 25 juin 1997, une violente éruption détruit totalement Plymouth, la capitale, et son aéroport. Les deux tiers des habitants doivent fuir vers le nord ou vers les îles voisines.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Le 18 juillet 1995, le volcan de la Soufrière",
+          "to": "entre en activité",
+          "nth": 2
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "entre en activité et une première éruption cause des dégâts dans la capitale",
+          "to": "Plymouth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Le 25 juin 1997, une violente éruption entraîne la destruction totale de Plymouth",
+          "to": "et de son aéroport."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Les deux tiers de la population de l'île sont ainsi contraints",
+          "to": "notamment Antigua."
+        }
+      ]
+    },
+    {
+      "id": "MSR-4",
+      "topic": "geographie",
+      "title": "L'île d'émeraude des Caraïbes",
+      "short": "On surnomme Montserrat « l'île d'émeraude des Caraïbes », pour sa ressemblance avec les côtes irlandaises et les descendants d'Irlandais qui y vivent. Le nom de son volcan, la Soufrière, est en revanche hérité des Français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Elle est souvent décrite comme l'île d'émeraude des Caraïbes",
+          "to": "des premiers colons européens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "De la France, l'île gardera le nom de « Soufrière »",
+          "to": "pour sa montagne-volcan."
+        }
+      ]
+    },
+    {
+      "id": "MSR-5",
+      "topic": "drapeau",
+      "title": "Ériu et sa harpe",
+      "short": "Le blason du drapeau représente Ériu, princesse divine de l'Irlande qui a donné son nom à l'Éire, tenant une harpe et une croix.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Montserrat",
+          "from": "Ce blason représente Ériu",
+          "to": "(d'où l'origine du nom Éire)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Montserrat",
+          "from": "Elle tient une harpe de la main gauche",
+          "to": "enserre de l'autre une croix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MSR-C1",
+      "topic": "histoire",
+      "era": "1995",
+      "title": "La capitale fantôme",
+      "short": "Plymouth reste la capitale officielle, mais elle est abandonnée depuis l'éruption de la Soufrière, à environ 4 km, qui l'a ensevelie sous des cendres parfois épaisses de plusieurs mètres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Plymouth_(Montserrat)",
+          "from": "La ville a été abandonnée lors de l'éruption du volcan de la Soufrière",
+          "to": "à partir du 18 juillet 1995."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Plymouth_(Montserrat)",
+          "from": "L'éruption se prolonge jusqu'à présent",
+          "to": "atteindre plusieurs mètres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montserrat_(Antilles)",
+          "from": "Molyneux, Morris, Plymouth",
+          "to": "désormais abandonnée)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île en forme de goutte entre la Guadeloupe au sud-est et Antigua au nord-est, dans les Petites Antilles.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, une femme en vert tenant une harpe et une croix. Anguilla a le même fond mais trois dauphins ; les îles Vierges britanniques, une femme en blanc et des lampes.",
+    "capital": "Deux réponses : Plymouth, la capitale officielle ensevelie par le volcan, et Brades, la capitale de fait au nord."
+  }
+}

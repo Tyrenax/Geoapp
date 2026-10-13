@@ -1,0 +1,163 @@
+{
+  "id": "KAZ",
+  "facts": [
+    {
+      "id": "KAZ-1",
+      "topic": "histoire",
+      "era": "1465",
+      "title": "Né de la Horde d'or",
+      "short": "Après la désintégration de la Horde d'or, le Khanat kazakh est établi en 1465 sur un territoire proche de celui du Kazakhstan actuel. Il atteint son apogée au début du XVIIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "À la suite de la désintégration de la Horde d'or au XVe siècle",
+          "to": "au Kazakhstan moderne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "Le début du xviiie siècle marque",
+          "to": "l'apogée du Khanat kazakh."
+        }
+      ]
+    },
+    {
+      "id": "KAZ-2",
+      "topic": "histoire",
+      "era": "1929-1933",
+      "title": "La famine de la sédentarisation",
+      "short": "Les tentatives de sédentarisation des nomades et la collectivisation forcée provoquent une famine qui décime un grand nombre d'habitants entre 1929 et 1933.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "À la suite de tentatives de sédentarisation",
+          "to": "durant les années 1929-1933."
+        }
+      ]
+    },
+    {
+      "id": "KAZ-3",
+      "topic": "histoire",
+      "era": "années 1950",
+      "title": "Fusées, bombes et terres vierges",
+      "short": "À partir des années 1950, le Kazakhstan accueille de grands projets soviétiques : le polygone nucléaire de Semipalatinsk, le cosmodrome de Baïkonour et la campagne des terres vierges, qui amène une importante immigration russe. En 1989, les Kazakhs ne sont plus majoritaires que dans sept des vingt régions.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "À partir des années 1950, le Kazakhstan devient l'enjeu",
+          "to": "la campagne des terres vierges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "Avec Nikita Khrouchtchev au pouvoir",
+          "to": "du programme spatial de la Russie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "En 1989, les Russes formaient 37,8 %",
+          "to": "vingt régions du Kazakhstan."
+        }
+      ]
+    },
+    {
+      "id": "KAZ-4",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Le dernier à quitter l'URSS",
+      "short": "Le 16 décembre 1991, le Kazakhstan est la dernière des quinze républiques soviétiques à proclamer son indépendance. Noursoultan Nazarbaïev le dirige de 1990 à 2019.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "Lors de la dislocation de l'URSS qui a lieu officiellement",
+          "to": "le 16 décembre 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "Le chef d'État Noursoultan Nazarbaïev reste au pouvoir",
+          "to": "de 1990 à 2019,"
+        }
+      ]
+    },
+    {
+      "id": "KAZ-5",
+      "topic": "geographie",
+      "title": "Le plus grand pays sans accès à l'océan",
+      "short": "Le Kazakhstan est le neuvième plus grand pays du monde et le plus grand pays enclavé. Il borde pourtant la mer Caspienne, mais c'est une mer fermée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "Le Kazakhstan est le neuvième plus grand pays",
+          "to": "le plus grand pays enclavé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kazakhstan",
+          "from": "le Kazakhstan se caractérise avant tout comme étant un pays enclavé",
+          "to": "qui demeure une mer fermée."
+        }
+      ]
+    },
+    {
+      "id": "KAZ-6",
+      "topic": "drapeau",
+      "title": "L'aigle des steppes sous le soleil",
+      "short": "Sur un fond bleu turquoise, couleur de Tengri, le dieu du ciel de la mythologie turque, vole un aigle des steppes doré, surmonté d'un soleil à 32 branches. Le long de la hampe court un ornement traditionnel kazakh.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kazakhstan",
+          "from": "Il a comme motif central un aigle des steppes",
+          "to": "de couleur or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kazakhstan",
+          "from": "On trouve le long du guindant un ornement national",
+          "to": "traditionnels kazakhs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kazakhstan",
+          "from": "Le bleu turquoise est également la couleur de Tengri",
+          "to": "dans la mythologie turque."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KAZ-C1",
+      "topic": "histoire",
+      "era": "1961-2022",
+      "title": "La ville aux cinq noms",
+      "short": "Akmola, russifiée en Akmolinsk, devient Tselinograd, « la ville des terres vierges », en 1961, puis redevient Akmola à l'indépendance. Devenue capitale, elle prend le nom d'Astana, « la capitale ». Rebaptisée Nour-Soultan en 2019 en l'honneur de Nazarbaïev, elle retrouve le nom d'Astana en 2022.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Astana",
+          "from": "D'abord appelée Akmola",
+          "to": "sous le nom d'Astana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Astana",
+          "from": "La ville est symboliquement renommée Tselinograd",
+          "to": "en 1961."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Astana",
+          "from": "À l'indépendance du Kazakhstan, en 1991, la ville retrouve",
+          "to": "littéralement « la capitale »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Astana",
+          "from": "En mars 2019, la ville prend le nom de Nour-Soultan",
+          "to": "qui venait de quitter le pouvoir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Astana",
+          "from": "Souhaitant rompre avec un certain culte",
+          "to": "le 17 septembre 2022."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'immense pays des steppes au cœur de l'Asie centrale, entre la mer Caspienne à l'ouest et la Chine à l'est, avec la Russie tout le long du nord.",
+    "flag": "Fond bleu ciel, un soleil et un aigle dorés au centre, une frise dorée le long de la hampe. Aucun autre drapeau national ne lui ressemble vraiment.",
+    "capital": "Astana, au nord des steppes, qui a changé de nom plusieurs fois. Pas Almaty, l'ancienne capitale et plus grande ville, au sud-est !"
+  }
+}

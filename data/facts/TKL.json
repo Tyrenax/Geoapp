@@ -1,0 +1,136 @@
+{
+  "id": "TKL",
+  "facts": [
+    {
+      "id": "TKL-1",
+      "topic": "histoire",
+      "era": "1860",
+      "title": "Les hommes enlevés",
+      "short": "Vers 1860, des navires péruviens en quête de main-d'œuvre forcée pour les mines du Pérou emmènent 253 hommes valides des trois atolls : presque toute la population active masculine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Vers 1860, des navires péruviens, cherchant de la main-d'œuvre forcée pour les mines du Pérou, visitèrent les trois atolls et forcèrent 253 hommes valides à se rendre au Pérou, soit la quasi-totalité de la population active masculine."
+        }
+      ]
+    },
+    {
+      "id": "TKL-2",
+      "topic": "histoire",
+      "era": "1877-1948",
+      "title": "Des îles de l'Union aux Tokelau",
+      "short": "Protectorat britannique en 1877, l'archipel est rattaché en 1916 à la colonie des îles Gilbert et Ellice, sous le nom d'« îles de l'Union », puis passe sous administration néo-zélandaise en 1925. Il prend le nom de Tokelau, « vent du nord » en polynésien, et est déclaré partie de la Nouvelle-Zélande en 1948.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Les Tokelau ou les Tokélaou, appelées îles de l'Union de 1916 à 1946"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "En 1877, le territoire devient un protectorat britannique et en 1916, il appartient à la colonie des Îles Gilbert et Ellice avant de passer sous l'administration néo-zélandaise en 1925."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Les Tokelau tirent ce nom depuis 1945, date à laquelle l'archipel n'est plus nommé les Îles de l'Union mais Tokelau, mot polynésien signifiant littéralement « nord-nord-est » ou « vent du nord »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "En 1948, les atolls sont déclarés faisant partie de la Nouvelle-Zélande mais ils gardent une autonomie par rapport au reste du pays."
+        }
+      ]
+    },
+    {
+      "id": "TKL-3",
+      "topic": "histoire",
+      "era": "2006-2007",
+      "title": "Deux fois presque autonomes",
+      "short": "En 2006, puis en 2007, les Tokelauans votent sous l'égide de l'ONU sur leur autodétermination. Il fallait deux tiers des voix : les deux fois, le « oui » échoue de justesse.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokelau",
+          "quote": "Besides the treaty, a United Nations-sponsored referendum on self-determination took place, with the three islands voting on successive days starting 13 February 2006."
+        },
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokelau",
+          "quote": "A repeat referendum took place on 20–24 October 2007, again narrowly failing to approve self-government."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Pour que le statut des Tokelau fût modifié, il fallait que le référendum recueillît l'approbation des deux-tiers des citoyens tokelauans."
+        }
+      ]
+    },
+    {
+      "id": "TKL-4",
+      "topic": "economie",
+      "title": "Le premier pays 100 % solaire",
+      "short": "Les Tokelau sont le premier territoire au monde alimenté à 100 % par l'énergie solaire. Leur économie, la plus petite du monde, repose sur la vente de timbres, de coprah et d'artisanat.",
+      "long": "L'archipel n'a pas connu d'homicide depuis au moins 150 ans.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Tokelau",
+          "quote": "It is a leader in renewable energy, being the first 100% solar-powered nation in the world."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Ce territoire, avec l'économie la plus faible du monde, se spécialise dans l'exportation de timbres, de coprah et de produits artisanaux"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "L'archipel n'a pas connu d'homicide depuis au moins 150 ans."
+        }
+      ]
+    },
+    {
+      "id": "TKL-5",
+      "topic": "geographie",
+      "title": "Trois atolls, 10 km²",
+      "short": "Les Tokelau se composent de trois atolls isolés, Atafu, Nukunonu et Fakaofo, pour 10,2 km² de terres et 1 337 habitants en 2014. Sa zone maritime dépasse pourtant celle de la Pologne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "L'atoll central est Nukunonu, à l'ouest et à l'est de celui-ci, respectivement, Atafu et Fakaofo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "Le territoire s'étend ainsi sur 10,2 km²"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "En 2014, la population des Tokelau est d'environ 1 337 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "le territoire a une zone économique exclusive plus vaste que celles de l'Algérie, du Sénégal, du Danemark continental ou de la Pologne."
+        }
+      ]
+    },
+    {
+      "id": "TKL-6",
+      "topic": "drapeau",
+      "era": "2009",
+      "title": "La pirogue et la Croix du Sud",
+      "short": "Longtemps, seul le drapeau néo-zélandais flottait sur les atolls. Le drapeau des Tokelau, choisi en 2008 après un long concours, est hissé sur les trois atolls le 19 octobre 2009 : une pirogue dorée et la Croix du Sud sur fond bleu marine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tokelau",
+          "quote": "Le drapeau des Tokelau fut longtemps celui de la Nouvelle-Zélande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Tokelau",
+          "quote": "En mai 2008, le Parlement annonça le choix du drapeau et du symbole du territoire. Il est approuvé par la reine Élisabeth II en août 2009, est présenté officiellement à l'administrateur des Tokelau par le gouverneur général de Nouvelle-Zélande le 7 septembre, puis est officiellement hissé sur les trois atolls le 19 octobre suivant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tokelau",
+          "quote": "son drapeau représente une pirogue en or sur fond bleu marine avec la Croix du Sud à la gauche, représentation d'une constellation."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Trois atolls minuscules au nord des Samoa, à l'est des Tuvalu, dans le Pacifique Sud.",
+    "flag": "Bleu marine avec une pirogue dorée et les quatre étoiles blanches de la Croix du Sud.",
+    "capital": "Pas de capitale : le siège de l'administration tourne entre les trois atolls, Atafu, Nukunonu et Fakaofo."
+  }
+}

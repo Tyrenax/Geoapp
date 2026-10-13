@@ -1,0 +1,194 @@
+{
+  "id": "IRN",
+  "facts": [
+    {
+      "id": "IRN-1",
+      "topic": "histoire",
+      "era": "VIe-IVe siècle av. J.-C.",
+      "title": "L'empire de Cyrus",
+      "short": "Les Achéménides bâtissent un immense empire, de l'Inde à l'Égypte, divisé en satrapies reliées par un vaste réseau routier. Le cylindre de Cyrus le Grand est considéré comme la première déclaration écrite de liberté religieuse. L'empire tombe en 330 av. J.-C., conquis par Alexandre le Grand.",
+      "long": "Leurs capitales s'appelaient Pasargades, Persépolis, Suse et Ecbatane ; leur règne est marqué par les guerres médiques contre les Grecs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "Les Achéménides construisent un immense empire s’étendant de l’Inde à l’Égypte, organisé en satrapies reliées entre elles par un immense réseau routier. Le cylindre de Cyrus est la première trace écrite d’une déclaration de liberté religieuse, datant de Cyrus le Grand. La dynastie achéménide établit des capitales à Pasargades, Persépolis, Suse et Ecbatane. Leur règne est marqué par les Guerres médiques les opposant aux Grecs. L’empire perse décline après le règne de Xerxès Ier et chute en 330 av. J.-C., conquis par Alexandre le Grand, sous Darius III."
+        }
+      ]
+    },
+    {
+      "id": "IRN-2",
+      "topic": "histoire",
+      "era": "224-651",
+      "title": "Iranshahr, la terre des Aryens",
+      "short": "Les Sassanides, qui fondent le second empire perse (224-651), sont les premiers à appeler leur empire Iranshahr, « terre des Aryens ». Pourtant, l'Occident a longtemps dit « Perse » : ce n'est que le 21 mars 1935 que le pays demande officiellement à être appelé Iran.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "Une nouvelle dynastie naît : les Sassanides, qui donnent naissance au second empire perse (224-651).\nLes Sassanides sont les premiers à appeler leur empire Iranshahr ou Eranshahr (en persan : ايرانشهر, Terre des Aryens)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "Le toponyme Iran, qui signifie « royaume des Aryens », d'usage natif depuis l'ère sassanide, est officiellement adopté le 21 mars 1935 pour l'usage international. Auparavant, le pays était connu en Occident sous le nom de Perse."
+        }
+      ]
+    },
+    {
+      "id": "IRN-3",
+      "topic": "histoire",
+      "era": "VIIe siècle",
+      "title": "Islamisé, mais jamais arabisé",
+      "short": "La conquête musulmane de la Perse commence en 637 et la conversion à l'islam se poursuit jusqu'au IXe siècle. Mais, contrairement aux autres régions conquises par le califat, l'Iran n'a jamais été arabisé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "La conquête musulmane de la Perse commence en 637, avec 'Umar. Après avoir occupé Ctésiphon, capitale de l’empire, les musulmans battent l’armée sassanide à Nahavand en 641-642. L’Iran est ensuite rapidement conquis. La conversion à l’islam est progressive jusqu’au IXe siècle. L’Iran a été islamisé, mais n’a jamais été arabisé, contrairement aux autres régions conquises par le califat."
+        }
+      ]
+    },
+    {
+      "id": "IRN-4",
+      "topic": "culture",
+      "era": "XIe siècle",
+      "title": "Le Livre des Rois et le calendrier de Khayyam",
+      "short": "Sous le patronage du sultan Mahmoud de Ghazni, Ferdowsi écrit en persan le Shâh Nâmâ, « Le Livre des Rois », poème épique qui rassemble la mythologie perse. Un peu plus tard, à l'observatoire d'Ispahan, Omar Khayyam met au point un calendrier avec année bissextile, encore utilisé aujourd'hui.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "C’est sous le patronage de Mahmoud de Ghazni que Ferdowsi écrit en persan le Shâh Nâmâ (signifiant « Le livre des Rois »), poème épique qui recueille les histoires de la mythologie perse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "L’observatoire d’Ispahan est créé, où Omar Khayyam met au point un nouveau calendrier qui introduit l’année bissextile : le calendrier persan, encore utilisé aujourd’hui."
+        }
+      ]
+    },
+    {
+      "id": "IRN-5",
+      "topic": "histoire",
+      "era": "XVIe-XVIIe siècle",
+      "title": "Les Safavides et le chiisme",
+      "short": "Au XVIe siècle, sous Ismaïl Ier, premier souverain safavide, l'Iran se convertit au chiisme duodécimain, face à l'Empire ottoman sunnite. Sous le shah Abbas Ier, le commerce et les arts s'épanouissent : production de tapis et construction d'Ispahan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "L’Iran se convertit au chiisme duodécimain au XVIe siècle, sous l’impulsion d’Ismaïl Ier, premier souverain safavide. Cette conversion résulte d’une volonté de s’affirmer face à la domination de l'Empire ottoman sunnite"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "L’apogée des Safavides est atteinte sous le shah Abbas Ier. Le pays est pacifié, son territoire étendu et son administration centralisée. Le commerce et les arts connaissent un essor important, avec l'accueil de commerçants et d’artistes étrangers, le développement de la production de tapis et la construction d’Ispahan."
+        }
+      ]
+    },
+    {
+      "id": "IRN-6",
+      "topic": "histoire",
+      "era": "1906",
+      "title": "La première constitution du Moyen-Orient",
+      "short": "En 1906, la colère populaire mène à la révolution constitutionnelle persane : l'Iran devient le premier pays du Moyen-Orient à faire une révolution et à se doter d'une constitution.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "La montée de la colère populaire et une demande de réforme mènent le pays à la révolution constitutionnelle persane de 1906. L’Iran devient le premier pays moyen-oriental à faire une révolution et à se doter d’une constitution."
+        }
+      ]
+    },
+    {
+      "id": "IRN-7",
+      "topic": "histoire",
+      "era": "1951-1953",
+      "title": "Mossadegh et le pétrole",
+      "short": "En 1951, le Premier ministre Mohammad Mossadegh nationalise l'Anglo-Persian Oil Company, qui ne reversait que 18 % de ses bénéfices aux Iraniens. En août 1953, il est renversé par un complot des services secrets britanniques et américains, l'opération Ajax.",
+      "long": "Le shah Mohammad Reza Pahlavi installe ensuite un régime autocratique fondé sur l'appui des États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "En 1951, le Premier ministre Mohammad Mossadegh nationalise la compagnie pétrolière Anglo-Persian Oil Company (AIOC). Cette dernière a depuis 1914 le contrôle exclusif des réserves iraniennes de pétrole et extrait chaque année 33 millions de tonnes ; seuls 18 % des bénéfices sont reversés aux Iraniens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "En août 1953, Mohammad Mossadegh est renversé à la suite d’un complot orchestré par les services secrets britanniques et américains, l'opération Ajax. Après sa chute, Mohammad Reza Shah Pahlavi met en place un régime politique autocratique et dictatorial fondé sur l’appui américain."
+        }
+      ]
+    },
+    {
+      "id": "IRN-8",
+      "topic": "histoire",
+      "era": "1979-1980",
+      "title": "La révolution islamique",
+      "short": "Après des mois de manifestations, le shah quitte l'Iran le 16 janvier 1979 et Khomeini revient d'exil le 1er février. La république islamique est instituée par référendum fin mars 1979. En septembre 1980, l'Irak envahit l'Iran.",
+      "long": "De novembre 1979 à janvier 1981, le personnel de l'ambassade des États-Unis à Téhéran est retenu en otage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "Après des mois de protestations populaires et de manifestations, Mohammad Reza Pahlavi quitte l’Iran le 16 janvier 1979. Le 1er février 1979, Rouhollah Khomeini revient en Iran après un exil de 15 ans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "La république islamique est instituée par référendum les 30 et 31 mars 1979."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "Le 22 septembre 1980, profitant de la faiblesse des forces armées iraniennes qui subissent des purges du nouveau gouvernement islamique, l'Irak envahit l'Iran."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Iran",
+          "quote": "(occupation de l'ambassade des États-Unis à Téhéran entre le 4 novembre 1979 et le 20 janvier 1981 et prise en otage de son personnel)"
+        }
+      ]
+    },
+    {
+      "id": "IRN-9",
+      "topic": "drapeau",
+      "era": "1907-1980",
+      "title": "Une tulipe et 22 inscriptions",
+      "short": "Le drapeau à trois bandes vert, blanc et rouge date de 1907. Depuis 1980, l'emblème central, en forme de tulipe, rappelle les martyrs. L'inscription « Allahu akbar » se répète onze fois en haut et onze fois en bas : 22, comme le 22 bahman, jour de la victoire de la révolution.",
+      "long": "Avant la révolution, le centre du drapeau portait un lion tenant une épée, surmonté d'un soleil.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Iran",
+          "quote": "Le drapeau à trois bandes horizontales est adopté en 1907, sa description est inscrite dans les Lois fondamentales qui complètent la Constitution de 1906."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Iran",
+          "quote": "est le drapeau national et le pavillon national depuis le 29 juillet 1980 à la suite de la révolution islamique, en remplacement du drapeau impérial."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Iran",
+          "quote": "Pour les auteurs de cet emblème, sa forme générale rappelle la tulipe, symbole des martyrs, utilisé pour rappeler les gens morts pour l'Iran. En effet, une croyance ancienne veut que, quand un homme meurt pour la patrie, une tulipe pousse à l'endroit où il est enterré. Enfin, l'expression stylisée, en coufique, Allahu akbar apparaît onze fois en haut et onze fois en bas du bandeau blanc, symbolisant le 22 bahman du calendrier persan (correspondant au 11 février du calendrier grégorien), commémorant le jour de la victoire de la révolution."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Iran",
+          "quote": "À l'époque impériale, le centre du drapeau portait un lion tenant une épée, symbole de la force, sur fond vert, couleur de l'islam, et surmonté du globe solaire, symbole de la royauté iranienne issu des récits mythiques du Shahnameh."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IRN-C1",
+      "topic": "histoire",
+      "era": "1228-1786",
+      "title": "Le village devenu géant",
+      "short": "Téhéran n'était qu'un village près de la grande ville de Ray. Elle grandit quand les Mongols détruisent Ray en 1228, puis devient capitale lors du changement de dynastie de 1786. Depuis, sa population a été multipliée par quarante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Téhéran",
+          "quote": "Téhéran était jadis un village situé à sept ou huit kilomètres de la grande ville historique de Ray."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Téhéran",
+          "quote": "Téhéran commence à prendre plus d'importance après la destruction de Rhagès (Ray) par les Mongols en 1228."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Téhéran",
+          "quote": "Téhéran a vu sa population multipliée par quarante depuis qu'elle est devenue la capitale à la suite du changement de dynastie de 1786."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand pays entre la mer Caspienne (au nord) et le golfe Persique (au sud), entre l'Irak à l'ouest et l'Afghanistan et le Pakistan à l'est.",
+    "flag": "Trois bandes vert, blanc, rouge, avec un emblème rouge en forme de tulipe au centre et une frise d'inscriptions blanches le long des bords des bandes.",
+    "capital": "Téhéran, dans le nord du pays, au pied des monts Elbourz, qui la séparent de la mer Caspienne."
+  }
+}

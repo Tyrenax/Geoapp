@@ -1,0 +1,153 @@
+{
+  "id": "GEO",
+  "facts": [
+    {
+      "id": "GEO-1",
+      "topic": "histoire",
+      "title": "Rien à voir avec saint Georges",
+      "short": "Contrairement à une idée répandue, « Géorgie » ne vient pas de saint Georges, le protecteur du pays. Le nom dérive vraisemblablement de Gorj, le nom persan des Géorgiens. Eux-mêmes appellent leur pays Sakartvelo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "La dénomination française du pays, Géorgie",
+          "to": "russe Gruzin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "Les Géorgiens nomment leur terre, la Géorgie, Sakartvelo",
+          "to": "kartuli (ქართული)."
+        }
+      ]
+    },
+    {
+      "id": "GEO-2",
+      "topic": "histoire",
+      "era": "IVe siècle",
+      "title": "L'un des premiers pays chrétiens",
+      "short": "Au début du IVe siècle, le roi Mirian III d'Ibérie se convertit au christianisme : la Géorgie est l'une des premières nations à en faire sa religion officielle. Lors de la séparation des Églises d'Orient et d'Occident, elle reste orthodoxe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "La Géorgie est l'une des premières nations",
+          "to": "elle choisit de demeurer orthodoxe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "À l'époque, le roi Mirian III d'Ibérie",
+          "to": "abandonne les divinités païennes."
+        }
+      ]
+    },
+    {
+      "id": "GEO-3",
+      "topic": "histoire",
+      "era": "XIIe siècle",
+      "title": "L'âge d'or de la reine Tamar",
+      "short": "Née de la réunion des royaumes antiques de Colchide et d'Ibérie, la Géorgie connaît son âge d'or au XIIe siècle, sous le règne de Tamar Ire. Elle affronte ensuite tour à tour Byzantins, Perses, Mongols et Ottomans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "L'histoire de la Géorgie remonte aux royaumes antiques",
+          "to": "qui furent ensuite unifiés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "Elle connaît son âge d'or au XIIe siècle",
+          "to": "aux Mongols et aux Ottomans,"
+        }
+      ]
+    },
+    {
+      "id": "GEO-4",
+      "topic": "histoire",
+      "era": "1800-1991",
+      "title": "Russe, soviétique, puis indépendante",
+      "short": "En 1800, la Russie annexe le royaume de Kartl-Kakhétie. Indépendante de 1918 à 1921, la Géorgie est ensuite annexée par la Russie soviétique, jusqu'à la dislocation de l'URSS.",
+      "long": "L'un de ses enfants a dirigé l'Union soviétique : Staline, né Joseph Djougachvili à Gori, en Géorgie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "à sa mort, en 1800, la Russie annexe",
+          "to": "l'empire d'Alexandre Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "mais retrouve son indépendance de 1918 à 1921.",
+          "to": "À la faveur de la dislocation de l'URSS,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "En 1927, Staline arrive à la tête de l'Union soviétique",
+          "to": "à Gori, en Géorgie"
+        }
+      ]
+    },
+    {
+      "id": "GEO-5",
+      "topic": "geographie",
+      "title": "Le faisan de Colchide",
+      "short": "L'ouest de la Géorgie correspond à l'antique Colchide. C'est là qu'a été découvert le célèbre faisan de Colchide, qui en tire son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "la Colchide occidentale, partiellement hellénisée",
+          "to": "sous influence parthe (Arsacides)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Géorgie_(pays)",
+          "from": "Par ailleurs, le célèbre faisan de Colchide",
+          "to": "dans l'ouest du pays."
+        }
+      ]
+    },
+    {
+      "id": "GEO-6",
+      "topic": "drapeau",
+      "era": "2004",
+      "title": "Le drapeau aux cinq croix",
+      "short": "Le « drapeau aux cinq croix » aurait pour ancêtre, selon beaucoup, la bannière adoptée au Ve siècle par le roi Vakhtang Ier pour le royaume d'Ibérie : une grande croix de saint Georges et quatre petites croix rouges. Il est réadopté le 14 janvier 2004, après la révolution des Roses.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "from": "D'abord utilisé comme symbole du royaume d'Ibérie",
+          "to": "issu de la révolution des Roses."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "from": "Ce drapeau, communément appelé « drapeau aux cinq croix »",
+          "to": "le plus ancien datant du Moyen Âge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Géorgie",
+          "from": "Composé d'une grande croix de saint Georges",
+          "to": "l'ancêtre de l'actuel drapeau aux cinq croix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GEO-C1",
+      "topic": "histoire",
+      "title": "La ville des sources chaudes",
+      "short": "Tbilissi vient de l'ancien géorgien Tp'ilisi, « (source) chaude » : une source d'eau chaude riche en soufre jaillit près de la place qui porte le nom du fondateur de la ville, le roi Vakhtang Gorgasali. Jusqu'en 1936, on l'appelait Tiflis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tbilissi",
+          "from": "Le nom dérive de l'ancien géorgien",
+          "to": "le roi Vakhtang Gorgasali"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tbilissi",
+          "from": "Tbilissi (en géorgien თბილისი",
+          "to": "jusqu'au 17 août 1936,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Dans le Caucase, au bord de l'est de la mer Noire : le Grand Caucase et la Russie au nord, la Turquie et l'Arménie au sud, l'Azerbaïdjan au sud-est.",
+    "flag": "Fond blanc, une grande croix rouge et quatre petites croix rouges dans les coins. L'Angleterre a la même grande croix rouge, mais sans les petites croix.",
+    "capital": "Tbilissi, « la (source) chaude », célèbre pour ses bains de soufre."
+  }
+}

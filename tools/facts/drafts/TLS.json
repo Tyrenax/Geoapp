@@ -1,0 +1,148 @@
+{
+  "id": "TLS",
+  "facts": [
+    {
+      "id": "TLS-1",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "Neuf jours d'indépendance",
+      "short": "Colonie portugaise pendant près de quatre siècles, le Timor oriental proclame son indépendance le 28 novembre 1975, après la révolution des Œillets. Moins de dix jours plus tard, le 7 décembre, il est envahi par l'armée indonésienne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Colonie portugaise durant près de quatre siècles",
+          "to": "après la révolution des Œillets."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "L'Indonésie intervient militairement au Timor oriental",
+          "to": "le 7 décembre 1975."
+        }
+      ]
+    },
+    {
+      "id": "TLS-2",
+      "topic": "histoire",
+      "era": "1975-1999",
+      "title": "L'occupation indonésienne",
+      "short": "L'annexion par l'Indonésie n'est jamais reconnue par l'ONU. Plus de 200 000 personnes, le quart de la population, sont tuées par l'armée indonésienne pendant l'occupation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Cette annexion ne fut jamais reconnue par l'ONU",
+          "to": "reconnue par l'ONU,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Plus de 200 000 personnes — le quart de la population",
+          "to": "durant cette occupation."
+        }
+      ]
+    },
+    {
+      "id": "TLS-3",
+      "topic": "histoire",
+      "era": "1999-2002",
+      "title": "Le vote de 1999",
+      "short": "En 1999, lors d'un référendum, 78,5 % des Timorais votent pour la séparation d'avec l'Indonésie. Malgré les massacres et le saccage des villes par l'armée indonésienne qui suivent, le pays devient indépendant le 20 mai 2002.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "En 1999, dans un référendum organisé par l'Indonésie",
+          "to": "une séparation d'avec l'Indonésie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Bien qu'il ait été suivi d'une période de massacres",
+          "to": "le 20 mai 2002."
+        }
+      ]
+    },
+    {
+      "id": "TLS-4",
+      "topic": "geographie",
+      "title": "L'« est oriental »",
+      "short": "Timor vient du malais et de l'indonésien timur, « est » : Timor oriental signifie donc littéralement « est oriental ». Le pays occupe l'est de l'île de Timor ; la partie ouest est indonésienne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Timor provient du malais et de l'indonésien timur",
+          "to": "signifie littéralement « est oriental »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "L'autre partie de l'île ou Timor occidental",
+          "to": "sous souveraineté indonésienne."
+        }
+      ]
+    },
+    {
+      "id": "TLS-5",
+      "topic": "culture",
+      "title": "Le portugais et le tétoum",
+      "short": "Les langues officielles sont le portugais et le tétoum. Pendant l'occupation indonésienne, ces deux langues ont été un élément d'unification et de résistance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Les langues officielles du pays sont le portugais et le tétoum.",
+          "to": "le portugais et le tétoum."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Timor_oriental",
+          "from": "Pendant l'occupation indonésienne, le tétoum et le portugais",
+          "to": "face à la culture javanaise."
+        }
+      ]
+    },
+    {
+      "id": "TLS-6",
+      "topic": "drapeau",
+      "era": "2002",
+      "title": "Le triangle noir",
+      "short": "Le triangle noir représente le sombre passé à surmonter, le jaune les traces du colonialisme, le rouge la lutte pour la libération. L'étoile blanche est « la lumière qui nous guide ». Créé en 1975, le drapeau est adopté en 2002.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Timor_oriental",
+          "from": "Le Drapeau du Timor oriental remonte à 1975",
+          "to": "l'acquisition de l'indépendance du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Timor_oriental",
+          "from": "Le triangle noir représente le sombre passé",
+          "to": "symbole de paix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TLS-C1",
+      "topic": "histoire",
+      "era": "1769",
+      "title": "Dili et son Christ-Roi",
+      "short": "Fondée vers 1520 par les Portugais, Dili devient la capitale du Timor portugais en 1769, puis celle du pays indépendant le 20 mai 2002. On y trouve le Cristo Rei, un Christ-Roi haut de 27 m construit en 1996.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dili",
+          "from": "Dili est fondée vers 1520 par le Portugal",
+          "to": "du Timor portugais en 1769."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dili",
+          "from": "En 1999, le pays est placé sous la tutelle de l'ONU",
+          "to": "le même jour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Dili",
+          "from": "La statue monumentale du Cristo Rei",
+          "to": "la plus grande statue du Timor oriental."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié est de l'île de Timor, au bout de l'archipel indonésien, au nord-ouest de l'Australie.",
+    "flag": "Rouge, avec un triangle jaune puis un triangle noir portant une étoile blanche, côté hampe.",
+    "capital": "Dili, sur la côte nord de l'île."
+  }
+}

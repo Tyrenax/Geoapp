@@ -1,0 +1,158 @@
+{
+  "id": "KGZ",
+  "facts": [
+    {
+      "id": "KGZ-1",
+      "topic": "histoire",
+      "era": "XVe-XVIe siècles",
+      "title": "Un peuple venu de Mongolie",
+      "short": "Les Kirghizes, peuple nomade turcique, vivaient à l'origine dans le nord-est de la Mongolie. Ils ne peuplent la région du Kirghizistan actuel qu'à partir des XVe et XVIe siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "La région correspondant au Kirghizistan est peuplée",
+          "to": "entre le VIe siècle et le VIIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "KGZ-2",
+      "topic": "culture",
+      "title": "L'épopée de Manas",
+      "short": "Née peut-être dès le IXe siècle, l'épopée de Manas a été transmise et enrichie pendant des siècles par la tradition orale avant d'être écrite. Ce récit d'une longueur exceptionnelle fait la fierté de tout un peuple.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "En 840, ils défont le Khaganat ouïgour",
+          "to": "écrite bien plus tard."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "L'épopée Manas, phénomène littéraire",
+          "to": "fait la fierté d'un peuple"
+        }
+      ]
+    },
+    {
+      "id": "KGZ-3",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Indépendant en 1991",
+      "short": "Après l'échec du coup d'État de Moscou qui marque la fin de l'URSS, le Kirghizistan vote son indépendance le 31 août 1991. Askar Akaïev, élu président en octobre, gouverne de façon de plus en plus autoritaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "Après l'échec du coup d'État à Moscou",
+          "to": "le 31 août 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "des élections libres sont organisées au Kirghizistan en 1991",
+          "to": "en octobre de la même année."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "Au cours des années suivantes, le pouvoir",
+          "to": "de plus en plus autoritaire."
+        }
+      ]
+    },
+    {
+      "id": "KGZ-4",
+      "topic": "histoire",
+      "era": "2005",
+      "title": "La révolution des Tulipes",
+      "short": "En mars 2005, après des élections dénoncées comme frauduleuses, des milliers de manifestants venus du sud prennent d'assaut la présidence, à Bichkek. C'est la « révolution des Tulipes » : le président Akaïev est contraint à la démission.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "Les élections législatives du 27 février et du 13 mars 2005",
+          "to": "C'est la « révolution des Tulipes »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "La démission forcée de l'ancien président Askar Akaïev",
+          "to": "le 11 avril 2005."
+        }
+      ]
+    },
+    {
+      "id": "KGZ-5",
+      "topic": "geographie",
+      "title": "Un pays de montagnes",
+      "short": "Le Kirghizistan est presque entièrement montagneux, entre les chaînes du Tian Shan et du Pamir. Son point culminant, le Jengish Chokusu, « indépendance » en kirghize, atteint 7 439 m à la frontière chinoise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "est un pays enclavé d'Asie centrale",
+          "to": "du Tian Shan et du Pamir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "Le pays est presque entièrement montagneux.",
+          "to": "entièrement montagneux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kirghizistan",
+          "from": "Au sud-est, la chaîne des Tian Shan marque la frontière",
+          "to": "le point culminant du pays."
+        }
+      ]
+    },
+    {
+      "id": "KGZ-6",
+      "topic": "drapeau",
+      "era": "2023",
+      "title": "Le soleil aux 40 rayons",
+      "short": "Sur fond rouge, un soleil jaune à 40 rayons, pour les 40 tribus kirghizes. En son centre, le tündük, le sommet de la charpente de la yourte. En 2023, le dessin est retouché : trop d'habitants le prenaient pour un tournesol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kirghizistan",
+          "from": "Il se compose d'un fond rouge avec un soleil jaune",
+          "to": "la traditionnelle yourte kirghize."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kirghizistan",
+          "from": "Originellement adopté le 3 mars 1992",
+          "to": "le 26 décembre 2023."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kirghizistan",
+          "from": "Selon le président du parlement, Nourlanbek Chakiïev",
+          "to": "pour un tournesol »."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KGZ-C1",
+      "topic": "histoire",
+      "era": "1926",
+      "title": "Pichpek, Frounzé, Bichkek",
+      "short": "Au XIXe siècle, le khanat de Kokand construit ici la forteresse de Pichpek. Occupé ensuite par une garnison russe, le site devient une ville qui prend en 1926 le nom de Frounzé, en l'honneur du dirigeant soviétique Mikhaïl Frounzé, avant de devenir Bichkek.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bichkek",
+          "from": "Au XIXe siècle, la forteresse de Pichpek a été construite",
+          "to": "à l'entrée de la vallée du Tchouï."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bichkek",
+          "from": "Le site accueillit une garnison russe",
+          "to": "à partir de 1877"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bichkek",
+          "from": "La ville a porté entre 1926 et 1992 le nom de Frounzé",
+          "to": "Mikhaïl Frounzé."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays de hautes montagnes en Asie centrale, coincé entre le Kazakhstan au nord, la Chine à l'est, le Tadjikistan au sud et l'Ouzbékistan à l'ouest.",
+    "flag": "Un grand soleil jaune sur fond rouge, avec au centre le toit croisé d'une yourte. Rien à voir avec ses voisins.",
+    "capital": "Bichkek, tout au nord, presque à la frontière du Kazakhstan."
+  }
+}

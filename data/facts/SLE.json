@@ -1,0 +1,143 @@
+{
+  "id": "SLE",
+  "facts": [
+    {
+      "id": "SLE-1",
+      "topic": "histoire",
+      "era": "1460",
+      "title": "La « montagne du lion »",
+      "short": "En 1460, l'explorateur portugais Pedro de Sintra baptise Serra Leoa la presqu'île où s'élèvera Freetown. Le nom est devenu « Sierra Leone », un mélange d'espagnol et d'italien qui signifie « montagne du lion ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "En 1460, l'explorateur portugais Pedro de Sintra donne le nom de Serra Leoa (rebaptisée plus tard « Sierra Leone » sans doute par une erreur due à une confusion entre langues latines car Sierra est en espagnol et Leone en italien, littéralement la « montagne du lion ») à la presqu'île où sera plus tard la capitale Freetown."
+        }
+      ]
+    },
+    {
+      "id": "SLE-2",
+      "topic": "histoire",
+      "title": "L'île de Bunce, fort négrier",
+      "short": "Sur le fleuve Sierra Leone, l'île de Bunce a servi de fort pour la traite des esclaves. C'est aujourd'hui un lieu de mémoire, comme l'île de Gorée au Sénégal ou le château d'Elmina au Ghana.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "Des sites comme l'île de Bunce, sur le fleuve Sierra Leone, ont servi de forts négriers"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "L'île de Bunce est un des lieux de mémoire de la traite des esclaves en Afrique, tels l'île de Gorée (Sénégal), le château d'Elmina ou le fort de Cape Coast (Ghana)."
+        }
+      ]
+    },
+    {
+      "id": "SLE-3",
+      "topic": "histoire",
+      "era": "1961",
+      "title": "L'indépendance",
+      "short": "La Sierra Leone devient indépendante le 27 avril 1961, d'abord comme royaume du Commonwealth. Les dirigeants qui suivent tirent de grandes richesses des mines de diamants du nord du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "Le 27 avril 1961, le pays obtient son indépendance comme le dominion de Sierra Leone, un royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "Mais l'exploitation des mines de diamants continue toujours de rapporter beaucoup d'argent aux principaux chefs du régime."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "Mais il abandonne vite cette voie pour exploiter les mines de diamants au nord du pays."
+        }
+      ]
+    },
+    {
+      "id": "SLE-4",
+      "topic": "histoire",
+      "era": "1991-2002",
+      "title": "Une guerre civile de onze ans",
+      "short": "De mars 1991 à janvier 2002, une guerre civile brutale oppose le gouvernement aux rebelles du Front révolutionnaire uni (RUF). Le pays connaît trois coups d'État ; la guerre s'achève après une intervention militaire britannique.",
+      "long": "Freetown a été le théâtre de violents combats de rue pendant ce conflit. Plus tard, en 2014 et 2015, le pays est encore durement frappé par l'épidémie d'Ebola.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "La guerre civile sierra-léonaise se déroule de mars 1991 au 18 janvier 2002."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "Une guerre civile brutale éclate cette année-là, entre le gouvernement et les rebelles du Front révolutionnaire uni (RUF)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "Au cours de la guerre (1991-2002), le pays a connu trois coups d'État et deux périodes de régime militaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "La guerre se termine en 2002 après une intervention militaire britannique menant à la défaite définitive du RUF."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Freetown",
+          "quote": "La ville a été le théâtre de violents combats de rue dans les années 1990, lors de la guerre civile sierra-léonaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "Le pays est touché par l'épidémie d’Ebola en 2014 et 2015, qui fait 4 000 morts"
+        }
+      ]
+    },
+    {
+      "id": "SLE-5",
+      "topic": "drapeau",
+      "era": "1961",
+      "title": "Un drapeau d'espoir de paix",
+      "short": "Le drapeau, officiel depuis le 27 avril 1961, aligne trois bandes : verte pour l'agriculture et les montagnes, blanche pour l'unité et la justice, bleue pour l'espoir de paix que Freetown entend porter au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Sierra_Leone",
+          "quote": "Le drapeau de la Sierra Leone est officiel depuis le 27 avril 1961."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Sierra_Leone",
+          "quote": "C'est un drapeau à trois bandes horizontales : verte, blanche et bleue."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Sierra_Leone",
+          "quote": "Le vert représente l'agriculture, les montagnes et les ressources naturelles ; le bleu, l'espoir de paix qu'entend apporter Freetown au reste du monde ; et le blanc rappelle l'unité et la justice."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SLE-C1",
+      "topic": "histoire",
+      "era": "1792",
+      "title": "La ville libre des anciens esclaves",
+      "short": "Les Britanniques achètent le site en 1787 pour y installer des esclaves affranchis. En 1792, la ville est officiellement fondée par d'anciens esclaves venus de Nouvelle-Écosse, en Amérique du Nord britannique : son nom, Freetown, signifie « la ville libre ».",
+      "long": "Son port occupe l'un des plus grands ports naturels en eau profonde du monde, dans l'estuaire de la rivière Sierra Leone.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Sierra_Leone",
+          "quote": "En 1787, les Britanniques achètent l'emplacement de la future capitale Freetown."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sierra_Leone",
+          "quote": "Les Britanniques qui fondent Freetown en 1787 y installent des esclaves affranchis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Freetown",
+          "quote": "En 1792, la ville est officiellement fondée par d'anciens esclaves de \nNouvelle-Écosse en Amérique du Nord britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Freetown",
+          "quote": "L'économie de la ville tourne largement autour de son port, occupant une partie de l'estuaire de la rivière de Sierra Leone dans l'un des plus grands ports en eau profonde naturel du monde."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique de l'Ouest, entre la Guinée (au nord et à l'est) et le Liberia (au sud-est). Un petit pays arrondi.",
+    "flag": "Trois bandes horizontales : vert, blanc, bleu. Le Gabon a vert, jaune, bleu ; ne pas les confondre.",
+    "capital": "Freetown, la « ville libre », fondée pour d'anciens esclaves. Même idée que Libreville au Gabon et Monrovia au Liberia."
+  }
+}

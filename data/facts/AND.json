@@ -1,0 +1,135 @@
+{
+  "id": "AND",
+  "facts": [
+    {
+      "id": "AND-1",
+      "topic": "histoire",
+      "era": "1278",
+      "title": "Deux princes pour un pays",
+      "short": "Depuis le paréage de 1278, un contrat féodal, l'Andorre a deux coprinces : l'évêque catalan d'Urgell et le comte de Foix. Les droits de ce dernier sont passés au roi de France, puis au chef de l'État français.",
+      "long": "La tradition fait remonter la principauté à 788, sous le règne de Charlemagne. Elle a fait partie de la principauté de Catalogne jusqu'en 1714.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "La principauté, dont la création remonte à 788 sous le règne de Charlemagne, est régie par un système unique, le paréage de 1278 et 1288. Ce contrat de droit féodal concède le trône andorran à deux coprinces, l'évêque catalan d'Urgell et le comte de Foix (dont les droits et devoirs sont passés successivement au roi de Basse-Navarre, puis au roi de France à partir d'Henri IV, et enfin au chef d'État français). L'Andorre devint ainsi une seigneurie au sein de la principauté de Catalogne jusqu'à sa séparation d'avec celle-ci en 1714."
+        }
+      ]
+    },
+    {
+      "id": "AND-2",
+      "topic": "politique",
+      "title": "Le président qui signe deux fois",
+      "short": "Le président de la République française est coprince d'Andorre. Résultat : il vise deux fois la lettre de créance de l'ambassadeur de France en Andorre, une fois comme chef de l'État qui l'envoie, une fois comme cochef de l'État qui le reçoit.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "D'après la constitution, les coprinces, institution issue des paréages et de leur évolution historique, sont, à titre personnel et exclusif, l'évêque d'Urgell et le président de la République française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "Une conséquence de cette disposition est que le président de la République française vise deux fois la lettre de créance de l'ambassadeur français : une fois en tant que chef d'État du pays émetteur et une fois en tant que co-chef d'État du pays destinataire."
+        }
+      ]
+    },
+    {
+      "id": "AND-3",
+      "topic": "culture",
+      "title": "Le seul État de langue catalane",
+      "short": "L'Andorre est le seul État souverain au monde dont la langue officielle est le catalan. Au quotidien, on y parle aussi beaucoup l'espagnol, le portugais et le français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "L'Andorre est le seul État souverain au monde dont la langue officielle est le catalan, selon l'article 2 de la constitution de 1993."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "Hors tourisme, les langues les plus parlées au quotidien sont le catalan (58,3 % des conversations), l'espagnol (37,3 %), le portugais (3,5 %) et le français (2,2 %)."
+        }
+      ]
+    },
+    {
+      "id": "AND-4",
+      "topic": "histoire",
+      "era": "1940-1945",
+      "title": "Une route de l'exil",
+      "short": "Entre 1940 et 1945, plusieurs dizaines de milliers de personnes ont sans doute traversé l'Andorre : militaires polonais, Français voulant rejoindre de Gaulle ou Giraud en Afrique du Nord, aviateurs alliés abattus, Juifs fuyant les persécutions. Passeurs et hôteliers andorrans les ont aidés.",
+      "long": "En 1945, le flux s'inverse : ce sont des nazis et des collaborateurs qui cherchent à gagner l'Espagne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "Plusieurs dizaines de milliers de personnes ont probablement transité par la principauté entre 1940 et 1945 : militaires polonais, Français désireux de rejoindre les forces armées des généraux Giraud et de Gaulle en Afrique du Nord, aviateurs alliés abattus (britanniques, canadiens, américains, polonais, etc.) et, enfin, juifs fuyant les persécutions nazies et du régime de Vichy. En 1945, il s'agira alors de nazis ou de collaborateurs français cherchant refuge en Espagne.\nUn grand nombre de passeurs et d'hôteliers andorrans ont contribué à ces transits"
+        }
+      ]
+    },
+    {
+      "id": "AND-5",
+      "topic": "histoire",
+      "era": "1993",
+      "title": "Une constitution en 1993 seulement",
+      "short": "La première constitution de l'Andorre n'est adoptée que le 14 mars 1993, par référendum. La même année, le pays entre à l'ONU.",
+      "long": "Sortie de son isolement au XXe siècle, l'Andorre a misé sur son cadre naturel et sur une fiscalité avantageuse pour devenir une grande destination touristique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "La première Constitution d'Andorre a été adoptée par référendum le 14 mars 1993."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "Elle est membre des Nations unies depuis 1993"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre",
+          "quote": "L'Andorre est sortie de son isolement au XXe siècle, durant lequel elle a profité de son cadre naturel et a utilisé un système fiscal avantageux pour devenir une grande destination touristique,"
+        }
+      ]
+    },
+    {
+      "id": "AND-6",
+      "topic": "drapeau",
+      "title": "Une mitre, des barres et deux vaches",
+      "short": "L'écu du drapeau réunit les armes des coprinces et des voisins : la mitre et la crosse de l'évêque d'Urgell, les barres du comte de Foix, celles de la Catalogne, et les deux vaches du comte de Béarn.",
+      "long": "Sans écusson, il ressemble beaucoup aux drapeaux de la Roumanie, de la Moldavie et du Tchad. Avant lui, depuis 1806, le drapeau andorran était jaune et rouge, aux couleurs du comté de Foix.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Andorre",
+          "quote": "partie supérieure gauche : mitre et crosse (« dorées sur fond rouge ») de l'évêque d'Urgell, Coprince épiscopal\npartie supérieure droite : 3 barres rouges (« d'or à trois pals de gueules ») du blason du Comte de Foix, premier Coprince français (occitan)\npartie inférieure gauche : les 4 barres aragonaises (« d'or à quatre pals de gueules »), écusson de la principauté de Catalogne\npartie inférieure droite : les 2 vaches du comte de Béarn (« d'or, à deux vaches, accornées, accolées et clarinées d'azur »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Andorre",
+          "quote": "Les drapeaux de la Roumanie, de la Moldavie et du Tchad qui sont également tricolores bleu, jaune et rouge sont proches"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Andorre",
+          "quote": "Le précédent drapeau, en usage depuis 1806, était basé sur celui du comté de Foix et ne comportait que deux bandes verticales, l'une jaune et l'autre rouge."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AND-C1",
+      "topic": "geographie",
+      "title": "La plus haute capitale d'Europe",
+      "short": "Andorre-la-Vieille, au bord de la rivière Valira, est située à 1 023 m d'altitude : c'est la plus haute capitale nationale d'Europe. Son édifice le plus remarquable est la Casa de la Vall, siège du Parlement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre-la-Vieille",
+          "quote": "Elle se situe sur la rivière Valira (ou Gran Valira), peu après la confluence du Valira d'Orient et du Valira del Nord (située dans la paroisse d'Escaldes-Engordany) à 1 023 m d'altitude, ce qui en fait la plus haute capitale nationale d'Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre-la-Vieille",
+          "quote": "Le plus remarquable de ces édifices est la Casa de la Vall (« maison de la Vallée », et non « maisons des Vallées » comme elle est souvent présentée)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Andorre-la-Vieille",
+          "quote": "Casa de la Vall (« maison de la Vallée » : Parlement et palais de Justice)"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule pays perché dans les Pyrénées, entre la France au nord et l'Espagne (la Catalogne) au sud, sans accès à la mer.",
+    "flag": "Bleu, jaune, rouge en bandes verticales, avec un écu au centre de la bande jaune. Sans écu, on dirait la Roumanie ou le Tchad ; la Moldavie a un aigle à la place de l'écu andorran.",
+    "capital": "Andorre-la-Vieille, la capitale la plus haute d'Europe, au fond de la vallée de la Valira."
+  }
+}

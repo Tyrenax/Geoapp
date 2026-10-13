@@ -1,0 +1,135 @@
+{
+  "id": "SUR",
+  "facts": [
+    {
+      "id": "SUR-1",
+      "topic": "histoire",
+      "era": "1667",
+      "title": "Échangé contre New York",
+      "short": "En 1667, au traité de Bréda, les Néerlandais obtiennent le Suriname, pris aux Anglais, et renoncent en échange à la Nouvelle-Néerlande. Sa ville principale, la Nouvelle-Amsterdam, deviendra New York.",
+      "long": "Les Britanniques s'étaient installés à l'embouchure du fleuve Suriname en 1630 et y avaient créé en 1651 une colonie prospère, peuplée de colons et d'esclaves venus de la Barbade.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "En 1630, des Britanniques s’implantent à l’embouchure du fleuve Suriname",
+          "to": "arrivent alors de la Barbade."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "Cette colonie est conquise en 1667 par les Néerlandais",
+          "to": "la Nouvelle-Néerlande en retour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Néerlande",
+          "from": "En 1667, les Néerlandais renoncent à leurs revendications",
+          "to": "la souveraineté sur le Suriname."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Néerlande",
+          "from": "En 1626, Pierre Minuit y fonde sur l'île de Manhattan",
+          "to": "origine de la ville de New York."
+        }
+      ]
+    },
+    {
+      "id": "SUR-2",
+      "topic": "histoire",
+      "era": "1954-1975",
+      "title": "De Guyane néerlandaise à Suriname",
+      "short": "Longtemps appelée Guyane néerlandaise, la colonie devient une région autonome du royaume des Pays-Bas en 1954, puis un pays indépendant en 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "Le Suriname devient une région autonome du royaume des Pays-Bas en 1954",
+          "to": "l'indépendance en 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "La région est colonisée par les Provinces-Unies",
+          "to": "le nom de Guyane néerlandaise."
+        }
+      ]
+    },
+    {
+      "id": "SUR-3",
+      "topic": "histoire",
+      "title": "Un pays aux mille origines",
+      "short": "Après l'esclavage, les colons font venir des travailleurs d'Inde, de Java et de Chine. Aujourd'hui, on y trouve aussi bien des Marrons, descendants d'esclaves évadés, que des Créoles, des Javanais ou des descendants d'Indiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "Les colons font alors venir des travailleurs hindoustanis",
+          "to": "javanais et chinois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "Les Marrons (descendants d'esclaves africains évadés)",
+          "to": "les métis (13,4 %)."
+        }
+      ]
+    },
+    {
+      "id": "SUR-4",
+      "topic": "geographie",
+      "title": "Le plus petit pays d'Amérique du Sud",
+      "short": "Le Suriname est le plus petit pays d'Amérique du Sud. La forêt amazonienne couvre au moins 97 % de son territoire, et plus de 90 % des habitants vivent sur la côte atlantique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "Avec une superficie de 163 270 kilomètres carrés",
+          "to": "le plus petit pays d'Amérique du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "from": "La population se concentre sur environ 3 % du territoire",
+          "to": "qui donne sur l'océan Atlantique."
+        }
+      ]
+    },
+    {
+      "id": "SUR-5",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "Une étoile pour tous les peuples",
+      "short": "Adopté le 25 novembre 1975, jour de l'indépendance, le drapeau porte au centre une étoile jaune qui représente l'unité de tous les groupes ethniques du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Suriname",
+          "from": "Ce drapeau fut adopté le 25 novembre 1975",
+          "to": "tous les groupes ethniques du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Suriname",
+          "from": "L'ancien drapeau était le drapeau officiel",
+          "to": "le 25 novembre 1975."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SUR-C1",
+      "topic": "culture",
+      "era": "2002",
+      "title": "Une cathédrale en bois",
+      "short": "Le centre historique de Paramaribo, inscrit au patrimoine mondial en 2002, mêle architecture européenne et savoir-faire local. Sa cathédrale Saints-Pierre-et-Paul est l'un des plus hauts édifices en bois d'Amérique du Sud ; la grande mosquée n'est pas loin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paramaribo",
+          "from": "Le centre-ville historique a été inscrit au Patrimoine mondial de l'UNESCO en 2002",
+          "to": "un nouveau langage architectural »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paramaribo",
+          "from": "Bâtiments remarquables : La cathédrale Saints-Pierre-et-Paul",
+          "to": "La grande mosquée de Paramaribo"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le pays du milieu des trois petits pays du nord-est de l'Amérique du Sud : entre le Guyana à l'ouest et la Guyane française à l'est, au-dessus du Brésil.",
+    "flag": "Vert, blanc, rouge (large), blanc, vert à l'horizontale, avec une étoile jaune au centre. Aucun voisin n'a ce rouge central étoilé ; le Guyana voisin a une flèche jaune.",
+    "capital": "Paramaribo, « para-mari-beau » : une capitale néerlandaise en bois, au bord du fleuve Suriname."
+  }
+}

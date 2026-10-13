@@ -1,0 +1,177 @@
+{
+  "id": "AUT",
+  "facts": [
+    {
+      "id": "AUT-1",
+      "topic": "histoire",
+      "era": "996",
+      "title": "Le « royaume de l'Est »",
+      "short": "Österreich signifie en vieil allemand « le royaume de l'Est ». Le nom apparaît pour la première fois en 996 sous la forme Ostarrichi ; auparavant, la région était l'Ostmark, la « marche de l'Est » créée par l'empereur Otton Ier.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Österreich signifie en vieil allemand",
+          "to": "par l'empereur germanique Otton Ier."
+        }
+      ]
+    },
+    {
+      "id": "AUT-2",
+      "topic": "histoire",
+      "era": "1278-1806",
+      "title": "Le berceau des Habsbourg",
+      "short": "En 1278, l'Autriche passe à la maison de Habsbourg, qui en fait la force dominante du Saint-Empire et place à sa tête de nombreux empereurs. Vienne en devient la capitale au XVe siècle.",
+      "long": "Par rattachements successifs, les Habsbourg transforment leurs terres en grande puissance européenne, mêlant pays germanophones et non germanophones. Le Saint-Empire disparaît en 1806, dissous par l'empereur autrichien François II.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Grâce au Privilegium Minus et à la maison de Babenberg",
+          "to": "le « double-empereur » autrichien François II/I."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Au XVe siècle, Vienne devient la capitale de l'empire",
+          "to": "terre d'origine de la monarchie de Habsbourg."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "À la fin du Moyen Âge, la maison de Habsbourg",
+          "to": "germanophones et non-germanophones,"
+        }
+      ]
+    },
+    {
+      "id": "AUT-3",
+      "topic": "histoire",
+      "era": "1918",
+      "title": "La fin d'un empire",
+      "short": "Vaincue en 1918, l'Autriche-Hongrie se disloque. Le 12 novembre, le dernier empereur, Charles Ier, part en exil, et les députés germanophones fondent un État, l'« Autriche allemande », première république du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "L'Autriche-Hongrie s'effondre en 1918",
+          "to": "la Première République en 1919."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Après de vaines tentatives de retour à la paix",
+          "to": "et part en exil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Lors de la scission de l'Autriche-Hongrie en 1918",
+          "to": "un État d'Autriche allemande."
+        }
+      ]
+    },
+    {
+      "id": "AUT-4",
+      "topic": "histoire",
+      "era": "1938-1955",
+      "title": "De l'annexion à la neutralité",
+      "short": "En 1938, l'Autriche est annexée par l'Allemagne nazie, jusqu'en 1945. Placée ensuite sous la tutelle des Alliés, elle ne retrouve sa souveraineté qu'avec le traité d'État signé à Vienne le 15 mai 1955, qui lui impose une stricte neutralité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Plus tard, l'Autriche est rattachée à l'Allemagne hitlérienne",
+          "to": "entre 1938 et 1945."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "Après sa libération pendant la Seconde Guerre mondiale",
+          "to": "regagner sa souveraineté en 1955."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "La neutralité autrichienne est une conséquence directe",
+          "to": "signé le 15 mai 1955 à Vienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "En 1955, le pays recouvre sa souveraineté",
+          "to": "une politique de stricte neutralité."
+        }
+      ]
+    },
+    {
+      "id": "AUT-5",
+      "topic": "culture",
+      "era": "1756",
+      "title": "Mozart n'était pas autrichien",
+      "short": "Contrairement à une idée répandue, Mozart n'est pas né autrichien : en 1756, Salzbourg était une principauté du Saint-Empire, qui n'a été rattachée à l'Autriche qu'après sa mort.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Autriche",
+          "from": "En revanche, et contrairement à une idée répandue",
+          "to": "rattachée à l'Autriche."
+        }
+      ]
+    },
+    {
+      "id": "AUT-6",
+      "topic": "drapeau",
+      "era": "1191",
+      "title": "Une tunique tachée de sang",
+      "short": "Selon une vieille légende, le rouge-blanc-rouge vient de la tunique du duc Léopold V, tachée de sang au siège de Saint-Jean-d'Acre en 1191.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Autriche",
+          "from": "Selon une ancienne légende",
+          "to": "Saint-Jean-d'Acre en 1191."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AUT-C1",
+      "topic": "histoire",
+      "title": "Vindobona, la « ville blanche »",
+      "short": "Vienne naît au VIe siècle avant notre ère d'une cité celte, Vindobona, la « ville blanche ». Elle devient ensuite un fort romain gardant la frontière de l'Empire face aux peuples germains.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vienne_(Autriche)",
+          "from": "L'origine de Vienne remonte au VIe siècle",
+          "to": "Vindobona (ville blanche)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vienne_(Autriche)",
+          "from": "Vindobona devient un important fort romain",
+          "to": "situés plus au nord."
+        }
+      ]
+    },
+    {
+      "id": "AUT-C2",
+      "topic": "histoire",
+      "era": "1529-1683",
+      "title": "Deux fois assiégée par les Ottomans",
+      "short": "L'armée ottomane assiège Vienne en 1529, sous Soliman le Magnifique, puis en 1683. La seconde fois, la ville est sauvée par Charles V de Lorraine et les troupes polonaises de Jean III Sobieski.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vienne_(Autriche)",
+          "from": "Elle est rapidement confrontée à la montée en puissance",
+          "to": "lors de la bataille de Vienne."
+        }
+      ]
+    },
+    {
+      "id": "AUT-C3",
+      "topic": "politique",
+      "title": "Une capitale internationale grâce à la neutralité",
+      "short": "Grâce à la neutralité autrichienne, Vienne accueille l'OSCE, l'OPEP et plusieurs agences de l'ONU, dont l'Agence internationale de l'énergie atomique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vienne_(Autriche)",
+          "from": "Vienne est un important centre politique international",
+          "to": "ou l'ONUDI."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays alpin sans accès à la mer, en forme de gigot : large à l'est, autour de Vienne et du Danube, et effilé à l'ouest jusqu'à la Suisse et au Liechtenstein. Il a huit voisins, dont l'Allemagne au nord-ouest et l'Italie au sud.",
+    "flag": "Rouge, blanc, rouge en trois bandes horizontales égales. La Lettonie a la même disposition, mais un rouge plus sombre et une bande blanche plus fine ; le Liban a aussi rouge-blanc-rouge, mais avec un cèdre vert au centre.",
+    "capital": "Vienne, Wien, sur le Danube : la ville des valses et des cafés, tout à l'est du pays, près de la Slovaquie."
+  }
+}

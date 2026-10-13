@@ -1,0 +1,149 @@
+{
+  "id": "BHR",
+  "facts": [
+    {
+      "id": "BHR-1",
+      "topic": "histoire",
+      "era": "IIIe millénaire av. J.-C.",
+      "title": "Dilmun, le jardin des dieux",
+      "short": "Bahreïn pourrait être l'antique Dilmun, une île mentionnée dans toute l'histoire de la Mésopotamie. Les mythes sumériens en font la résidence du dieu Enki, un jardin d'abondance qui rappelle le jardin d'Éden.",
+      "long": "Dilmun était surtout un comptoir : le cuivre venait de Magan (Oman) et d'autres produits de la vallée de l'Indus, puis transitaient par l'île vers les royaumes mésopotamiens. Le Qal'at al-Bahreïn, site de son ancienne capitale, est classé au patrimoine mondial de l'UNESCO.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "L'île de Bahreïn pourrait être la Dilmun antique, un pays insulaire que l'on retrouve mentionné durant toute l'histoire de la Mésopotamie ancienne"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Dilmun est mentionnée dans de nombreux textes mythologiques mésopotamiens, en particulier dans Enki et Ninhursag qui attribue la création de Dilmun au dieu sumérien Enki (qui en fit sa résidence et un Jardin d'Abondance présentant des similitudes avec le paradis terrestre ou le jardin d'Éden où Dieu aurait créé l'Homme)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Dilmun pourvoyait les royaumes mésopotamiens en bois, en pierres précieuses et en cuivre mais ces produits venaient en fait d'autres régions, comme Magan (Oman) pour le cuivre ou Meluhha (la vallée de l'Indus), et ne faisaient que transiter par l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Le Qal'at al-Bahreïn (site de l'ancienne capitale de la civilisation antique de Dilmun) et le patrimoine perlier de Bahreïn ont été classés parmi les sites du patrimoine mondial de l'UNESCO en 2005 et 2012 respectivement."
+        }
+      ]
+    },
+    {
+      "id": "BHR-2",
+      "topic": "histoire",
+      "era": "628-1783",
+      "title": "Des Portugais aux Al Khalifa",
+      "short": "Convertie à l'islam en 628, la région est l'un des premiers pays musulmans. Bahreïn est occupée par les Portugais en 1521, puis conquise par la Perse en 1602. En 1783, la tribu des Bani Utbah s'empare de l'île : la famille Al Khalifa règne depuis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "La région est convertie à l'islam en 628, ce qui en fait l'un des premiers pays musulmans. Après une période de domination par les Arabes, Bahreïn est occupé par les Portugais en 1521, avant d'être conquise par le Chah Abbas Ier de l'Empire perse des Séfévides en 1602. En 1783, la tribu arabe Bani Utbah, venue du centre de la péninsule Arabique, s'empare de l'île et le pays est depuis dirigé par la famille royale Al Khalifa."
+        }
+      ]
+    },
+    {
+      "id": "BHR-3",
+      "topic": "histoire",
+      "era": "1861-1971",
+      "title": "Un protectorat britannique",
+      "short": "En 1861, la Grande-Bretagne intervient militairement pour imposer au cheikh de Bahreïn un traité de paix perpétuelle ; en 1880, un autre traité lui interdit toute relation avec d'autres États sans son accord. Les Britanniques se retirent en 1971 et Bahreïn proclame son indépendance le 15 août.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "La Grande-Bretagne voit dans cet agissement une action contraire à ses intérêts, et elle intervient militairement à Bahreïn pour forcer le cheikh de Bahreïn à signer un traité de paix perpétuelle avec elle, en mai 1861."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Ce traité est complété par un autre en 1880, dans lequel il est indiqué que les cheikhs de Bahreïn (celui présent et ceux à venir) ne peuvent nouer de liens avec d’autres États, sans l’accord de la Grande-Bretagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Mais prétextant des difficultés économiques, ils choisissent finalement de se retirer en 1971. Le 15 août 1971, Bahreïn proclame son indépendance."
+        }
+      ]
+    },
+    {
+      "id": "BHR-4",
+      "topic": "economie",
+      "era": "1932",
+      "title": "Le premier pétrole de la côte arabe",
+      "short": "Le pétrole est découvert à Bahreïn en 1932, une première sur la côte ouest du golfe Persique. Mais le pays est aussi le premier de la région à avoir épuisé ses réserves ; l'Arabie saoudite lui cède les revenus d'un champ pétrolier en mer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Le pétrole a été découvert à Bahreïn en 1932, pour la première fois sur la côte ouest du golfe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "mais est également le premier à avoir asséché ses réserves de pétrole, l’Arabie saoudite lui venant en aide en lui cédant les revenus du champ pétrolier off-shore d'Abou Safa à cheval sur les deux territoires."
+        }
+      ]
+    },
+    {
+      "id": "BHR-5",
+      "topic": "geographie",
+      "title": "Les deux mers",
+      "short": "Bahreïn signifie « les deux mers » en arabe. Ce petit État insulaire du golfe Persique est relié à l'Arabie saoudite par un pont-digue, la chaussée du roi Fahd.",
+      "long": "La récolte des perles a longtemps fait vivre l'île : le patrimoine perlier de Bahreïn est classé par l'UNESCO depuis 2012.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Bahreïn (en arabe : الْبَحْرَيْن, al-baḥrayn , /æl baħræjn/, littéralement « les deux mers »), en forme longue le royaume de Bahreïn (en arabe : مَمْلَكَةُ ٱلْبَحْرَيْن, mamlakat al-baḥrayn ), est un petit État insulaire d'Arabie, situé près de la côte ouest du golfe Persique, au Moyen-Orient. L'île de Bahreïn, qui est reliée à l'Arabie saoudite par la chaussée du roi Fahd vers l'ouest"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bahreïn",
+          "quote": "Le Qal'at al-Bahreïn (site de l'ancienne capitale de la civilisation antique de Dilmun) et le patrimoine perlier de Bahreïn ont été classés parmi les sites du patrimoine mondial de l'UNESCO en 2005 et 2012 respectivement."
+        }
+      ]
+    },
+    {
+      "id": "BHR-6",
+      "topic": "drapeau",
+      "era": "1932-2002",
+      "title": "Cinq pointes pour cinq piliers",
+      "short": "Le blanc du drapeau représente la Grande-Bretagne, le rouge l'islam. La ligne en zigzag apparaît en 1932 avec vingt-huit pointes, réduites à huit en 1972, puis à cinq en 2002, en rappel des cinq piliers de l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Bahreïn",
+          "quote": "Le drapeau est composé des deux couleurs blanc et rouge, la première pour la Grande-Bretagne et la deuxième pour l'Islam."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Bahreïn",
+          "quote": "En 1932, la ligne en zigzag apparut mais elle comportait vingt-huit pointes blanches, réduites à huit en 1972. En 2002, l'émir Isa ibn Salman Al Khalifah adopta une nouvelle constitution et réduisit le nombre de pointes à cinq, rappelant les cinq Piliers de l'Islam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BHR-C1",
+      "topic": "histoire",
+      "era": "1345-1971",
+      "title": "Du port franc au quartier général",
+      "short": "Mentionnée dès 1345 dans les chroniques islamiques, Manama devient un port franc en 1958, puis la capitale de Bahreïn indépendant en 1971. Elle sert aujourd'hui de quartier général à la Cinquième flotte américaine.",
+      "long": "En 2011, pendant le Printemps arabe, des milliers de manifestants occupent la place de la Perle ; le mouvement est réprimé dans le sang.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manama",
+          "quote": "Manama est mentionnée dans les chroniques islamiques au moins dès 1345."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manama",
+          "quote": "En 1958, Manama est déclarée port franc et devient, en 1971, la capitale du royaume de Bahreïn indépendant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manama",
+          "quote": "Depuis les années 1950, l'US Navy y entretient une présence, qui a pris de l'importance pendant les guerres du Golfe, et sert actuellement de quartier général à la Cinquième flotte américaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manama",
+          "quote": "En 2011, dans le contexte du Printemps arabe, plusieurs milliers de manifestants occupent la place de la Perle : le mouvement est réprimé dans le sang."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île du golfe Persique, entre l'Arabie saoudite (à l'ouest, reliée par un pont) et la presqu'île du Qatar (au sud-est).",
+    "flag": "Blanc côté mât, rouge à droite, séparés par une ligne en zigzag à cinq pointes. Le Qatar est bordeaux avec neuf pointes.",
+    "capital": "Manama, au nord-est de l'île."
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "id": "PNG",
+  "facts": [
+    {
+      "id": "PNG-1",
+      "topic": "culture",
+      "title": "Le pays aux 851 langues",
+      "short": "Avec 851 langues connues sur son territoire, la Papouasie-Nouvelle-Guinée est d'une diversité linguistique exceptionnelle. Ses habitants vivent dans des communautés coutumières aussi variées que leurs langues.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Il existe 851 langues connues sur son territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Sa population, estimée à 8 millions de personnes en 2021 par le gouvernement, vit dans des communautés coutumières qui sont aussi diverses que les langues."
+        }
+      ]
+    },
+    {
+      "id": "PNG-2",
+      "topic": "histoire",
+      "era": "XVIe siècle",
+      "title": "Une « nouvelle Guinée » au bout du monde",
+      "short": "Au XVIe siècle, un explorateur espagnol nomme l'île « Nouvelle-Guinée », trouvant que ses habitants ressemblaient à ceux de la Guinée, en Afrique. Le nom « Papua » apparaît, lui, sur des cartes établies au XVIIIe siècle par les Bugis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Nouvelle-Guinée est le nom qu'a donné au XVIe siècle un explorateur espagnol, en raison de la ressemblance qu'il trouve aux habitants avec la population de Guinée équatoriale en Afrique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "L'ethnologue français Christian Pelras, spécialiste du sud de l'île de Célèbes, écrit que des cartes établies au XVIIIe siècle par les Bugis mentionnent le nom de « Papua » pour désigner la Nouvelle-Guinée."
+        }
+      ]
+    },
+    {
+      "id": "PNG-3",
+      "topic": "histoire",
+      "era": "1883-1975",
+      "title": "Trois puissances, puis l'indépendance",
+      "short": "À partir de 1883, le territoire est gouverné par l'Allemagne, le Royaume-Uni, puis l'Australie, qui l'administre pendant près de soixante ans. Le pays obtient pacifiquement son indépendance le 16 septembre 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Après avoir été gouvernée par trois puissances extérieures depuis 1883 (Allemagne, Royaume-Uni puis Australie), la Papouasie-Nouvelle-Guinée a obtenu sa souveraineté en 1975, en tant que royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Cette indépendance fit suite à près de 60 ans d'administration australienne, qui débuta sur l'ensemble du territoire à partir de la Première Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "La Papouasie-Nouvelle-Guinée obtient paisiblement son indépendance, et devient membre du Commonwealth des nations, en 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "créées initialement comme districts lors de l'indépendance du pays le 16 septembre 1975"
+        }
+      ]
+    },
+    {
+      "id": "PNG-4",
+      "topic": "histoire",
+      "era": "1989-2019",
+      "title": "Bougainville, l'île qui veut partir",
+      "short": "De 1989 à 2001, une guérilla sécessionniste sur l'île de Bougainville, autour de la mine de cuivre de Panguna, aurait fait près de 20 000 morts. En novembre 2019, l'île a voté lors d'un référendum sur l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Le pays a vécu des conflits frontaliers avec l'Indonésie et des mouvements sécessionnistes, tel celui de l'île de Bougainville (1989-2001) où la guérilla aurait fait près de 20 000 morts et où, en novembre 2019, un référendum sur l'indépendance a eu lieu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Ce conflit entraîne des affrontements violents dans les années 1980, l'échec de la stratégie de harcèlement judiciaire des propriétaires terriens de l'île (qui abrite la mine de cuivre de Panguna"
+        }
+      ]
+    },
+    {
+      "id": "PNG-5",
+      "topic": "geographie",
+      "title": "La moitié d'une grande île",
+      "short": "Le pays occupe la moitié orientale de l'île de Nouvelle-Guinée, dont l'autre moitié appartient à l'Indonésie, ainsi que de nombreuses îles. C'est le troisième plus grand État insulaire du monde.",
+      "long": "Géologiquement, la Nouvelle-Guinée prolonge la plaque australienne : pendant les glaciations, un pont de terre la reliait à l'Australie, ce qui explique la parenté de leurs oiseaux et mammifères.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "La Nouvelle-Guinée fait partie du continent australien et sa moitié occidentale est sous souveraineté indonésienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "il est le troisième plus grand État insulaire au monde, avec une superficie de 462 840 km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Géologiquement, l'île de Nouvelle-Guinée est une extension de la plaque australienne, connectée au segment australien par un plateau continental peu profond traversant le détroit de Torrès ; ce plateau était exposé dans le passé, en particulier pendant les périodes de glaciation"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Papouasie-Nouvelle-Guinée",
+          "quote": "Par conséquent, de nombreuses espèces d'oiseaux et de mammifères se trouvant en Nouvelle-Guinée ont des liens génétiques très proches de certaines espèces correspondantes en Australie."
+        }
+      ]
+    },
+    {
+      "id": "PNG-6",
+      "topic": "drapeau",
+      "era": "1971",
+      "title": "Un drapeau dessiné par une étudiante de 15 ans",
+      "short": "Le drapeau a été dessiné par Susan Karike Huhume, une étudiante de 15 ans, lauréate d'un concours national. Il est coupé en diagonale : un oiseau de paradis jaune en plein envol sur le rouge, la Croix du Sud en blanc sur le noir.",
+      "long": "Le noir et le rouge sont depuis longtemps les couleurs des tribus papoues. Le blanc de la constellation rappellerait les couleurs de l'Empire allemand, dont la Nouvelle-Guinée fut une colonie jusqu'en 1914.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "quote": "Le dessin final revient à Susan Karike Huhume alors étudiante âgée de 15 ans qui gagna un concours organisé dans tout le pays afin de déterminer le futur drapeau du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "quote": "divisé en diagonale du haut de la hampe au bas du battant, le segment supérieur écarlate (Collies n°305) surimprimé sur jaune moyen (Collies n°537) chargé d'une représentation jaune moyen (Collies n°537) d'un oiseau de paradis en plein envol, le segment inférieur noir (Collies n°309) chargé de cinq étoiles blanches à cinq branches représentant la Croix du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "quote": "Dans la partie noire est représentée la croix du Sud, la constellation la plus connue de l'hémisphère Sud"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "quote": "Les deux couleurs principales (noir et rouge) sont depuis longtemps les couleurs des tribus papoues."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Papouasie-Nouvelle-Guinée",
+          "quote": "La constellation est en blanc afin de rappeler les couleurs (noir-blanc-rouge) de l'empire allemand, dont la Nouvelle-Guinée fut une colonie jusqu'en 1914."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PNG-C1",
+      "topic": "histoire",
+      "era": "1873",
+      "title": "Le port du capitaine Moresby",
+      "short": "Le site est découvert en 1873 par le capitaine anglais John Moresby, qui lui donne son nom ; la ville est fondée dix ans plus tard sur les rives de la mer de Corail.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port_Moresby",
+          "quote": "Elle est située sur les rives de la mer de Corail et comptait 322 246 habitants au recensement de 2013\nLe site est découvert en 1873 par le capitaine anglais John Moresby et la ville est fondée dix ans plus tard."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La moitié est de la grande île de Nouvelle-Guinée, juste au nord de l'Australie ; l'autre moitié de l'île est indonésienne. Des îles comme la Nouvelle-Bretagne et Bougainville s'étendent à l'est.",
+    "flag": "Coupé en diagonale : en bas à gauche, noir avec la Croix du Sud blanche ; en haut à droite, rouge avec un oiseau de paradis doré.",
+    "capital": "Port Moresby, sur la côte sud, face à l'Australie, de l'autre côté du détroit de Torrès."
+  }
+}

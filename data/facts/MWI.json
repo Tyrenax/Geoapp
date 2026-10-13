@@ -1,0 +1,171 @@
+{
+  "id": "MWI",
+  "facts": [
+    {
+      "id": "MWI-1",
+      "topic": "histoire",
+      "title": "Le soleil qui scintille sur le lac",
+      "short": "Le nom « Malawi » viendrait du nom bantou du lac et évoquerait le scintillement du soleil levant sur ses eaux, l'image même qui figure sur le drapeau. Cette origine reste incertaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "L’origine du nom « Malawi » est attribuée, sans certitude, à celui du lac en langue bantoue ; ce nom évoquerait le scintillement du Soleil lorsqu’il se lève sur le lac, représenté sur le drapeau du pays"
+        }
+      ]
+    },
+    {
+      "id": "MWI-2",
+      "topic": "histoire",
+      "era": "XVe-XIXe siècle",
+      "title": "L'empire maravi",
+      "short": "À la fin du XVe siècle arrivent les Amaravi, venus de l'actuel Katanga. Le clan des Phiri, ancêtres des Chewas d'aujourd'hui, fonde l'empire maravi qui s'étend, à son apogée, du lac Malawi jusqu'au Zambèze.",
+      "long": "Son économie repose sur la culture du millet et du sorgho. Au XVIe siècle, des Portugais venus par le port mozambicain de Tete en laissent les premiers témoignages écrits.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Les Amaravi arrivent à la fin du XVe siècle, venus des territoires de l’actuel Katanga dans la République démocratique du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Le clan des Phiri, qui domine le peuple Amaravi et dont descendent les Chewas actuels, fonde alors un royaume (ou plusieurs) qui devient l’Empire maravi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "À son apogée, aux xvie et xviie siècles, il s'étend depuis Nkhotakota au nord, jusqu'au Zambèze et du lac Malawi à la rivière Luangwa, dans l'actuelle Zambie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "L’économie de l’Empire maravi dépend largement de l’agriculture, principalement du millet et du sorgho."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Les Portugais entrent dans les territoires du futur Malawi via le port mozambicain de Tete au XVIe siècle et rapportent les premiers témoignages écrits sur l'empire Maravi."
+        }
+      ]
+    },
+    {
+      "id": "MWI-3",
+      "topic": "histoire",
+      "era": "1859-1907",
+      "title": "Livingstone et le Nyassaland",
+      "short": "En 1859, l'explorateur écossais David Livingstone remonte la rivière Shire jusqu'au lac. Des missionnaires suivent : la ville de Blantyre porte le nom de son village natal. En 1907, le protectorat britannique prend le nom de Nyassaland.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "En 1855, l’explorateur écossais David Livingstone (1813-1873) descend le Zambèze depuis les chutes Victoria jusqu'à Tete."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "David Livingstone (1813-1873), explorateur et missionnaire, remonte la rivière Shire puis parvient au lac en 1859."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Ainsi, en 1876, la mission de Blantyre est fondée, avec pour nom de baptême celui du village natal de Livingstone."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "C'est cependant seulement en juillet 1907 que le protectorat britannique d'Afrique centrale (1891-1907) devient officiellement le protectorat britannique du Nyassaland."
+        }
+      ]
+    },
+    {
+      "id": "MWI-4",
+      "topic": "histoire",
+      "era": "1964-1994",
+      "title": "Hastings Banda, président à vie",
+      "short": "Médecin formé aux États-Unis et en Grande-Bretagne, Hastings Kamuzu Banda mène le pays à l'indépendance en 1964. Au début des années 1970, il devient président à vie d'une dictature à parti unique, jusqu'à sa défaite aux élections de 1994.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Hastings Kamuzu Banda (1898-1997), un médecin formé aux États-Unis, en Grande-Bretagne et au Ghana"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "L'année suivante, le pays est renommé le Malawi et obtient son indépendance, en tant que royaume du Commonwealth, sous le mandat du premier ministre Hastings Kamuzu Banda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Malawi",
+          "quote": "Après l'échec de la fédération de Rhodésie et du Nyassaland, le Nyassaland colonial devient le Malawi en 1964."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "À partir du début des années 1970, Banda dirige le pays en tant que président à vie d'une dictature répressive à parti unique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "En 1993, le multipartisme est instauré et Banda est battu aux élections générales de 1994."
+        }
+      ]
+    },
+    {
+      "id": "MWI-5",
+      "topic": "geographie",
+      "title": "Un pays au bord d'un lac immense",
+      "short": "Sans accès à la mer, le Malawi s'étire le long du lac Malawi, ou Nyassa, le troisième lac d'Afrique par sa superficie. Le lac couvre à lui seul environ un cinquième du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "Sans débouché sur la mer, il est baigné par le lac Malawi, ou Nyassa, troisième lac d’Afrique par sa superficie, qui couvre environ le cinquième de la superficie du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malawi",
+          "quote": "Le territoire du Malawi, d'une superficie de 118 484 km2, s'étire le long du lac Malawi"
+        }
+      ]
+    },
+    {
+      "id": "MWI-6",
+      "topic": "drapeau",
+      "era": "2010-2012",
+      "title": "Le soleil qui s'est levé deux fois",
+      "short": "Le drapeau de 1964 porte un soleil levant rouge, symbole d'espoir et de liberté. En 2010, le président Mutharika le remplace par un soleil blanc entier ; en 2012, la nouvelle présidente Joyce Banda rétablit le drapeau d'origine.",
+      "long": "Le noir représente le peuple africain libéré, le rouge le sang des martyrs, le vert la nature.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Malawi",
+          "quote": "Le 29 juillet 2010, à la suite de la proposition faite par le Parti démocrate-progressiste au gouvernement malawite, le drapeau fut modifié par le président Bingu wa Mutharika."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Malawi",
+          "quote": "Le soleil levant (rouge) de l'ancien drapeau était remplacé par un soleil blanc et complet pour représenter le progrès économique fait par le pays depuis qu'il est devenu indépendant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Malawi",
+          "quote": "Le 28 mai 2012, la nouvelle présidente du Malawi, Joyce Banda, décide le rétablissement du drapeau de 1964."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Malawi",
+          "quote": "Le noir représente le peuple africain libéré et le soleil fut ajouté pour symboliser l'avènement de l'espoir et de la liberté."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Malawi",
+          "quote": "La couleur rouge traduit le sang des martyrs de la liberté africaine, alors que le vert représente la nature."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MWI-C1",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "Un comptoir devenu capitale",
+      "short": "Ancien comptoir commercial reconnu comme ville en 1947, Lilongwe devient la capitale du Malawi en 1975, à la place de Zomba.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lilongwe",
+          "quote": "Comme comptoir commercial, Lilongwe fut officiellement reconnue comme ville en 1947."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lilongwe",
+          "quote": "Lilongwe devint la capitale du Malawi en 1975, remplaçant l'ancienne capitale, Zomba."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays long et étroit en Afrique australe, qui longe la rive ouest du grand lac Malawi : la Tanzanie au nord, la Zambie à l'ouest, et le Mozambique qui l'entoure au sud et à l'est.",
+    "flag": "Noir, rouge, vert en bandes horizontales, avec un soleil levant rouge sur la bande noire du haut. Le Kenya a aussi du noir, du rouge et du vert, mais avec un bouclier.",
+    "capital": "LILONGwe, au centre d'un pays tout en LONGueur."
+  }
+}

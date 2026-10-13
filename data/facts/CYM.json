@@ -1,0 +1,108 @@
+{
+  "id": "CYM",
+  "facts": [
+    {
+      "id": "CYM-1",
+      "topic": "histoire",
+      "era": "1503-1586",
+      "title": "Des îles aux tortues",
+      "short": "Christophe Colomb atteint les îles le 10 mai 1503, lors de son dernier voyage. Les Espagnols les appellent d'abord Las Tortugas, à cause des nombreuses tortues ; c'est Francis Drake, en 1586, qui leur donne leur nom actuel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Caïmans",
+          "quote": "Les îles sont atteintes pour la première fois par Christophe Colomb le 10 mai 1503 au cours de son quatrième et dernier voyage vers le Nouveau Monde. Le premier visiteur britannique attesté est Francis Drake, qui y débarque en 1586 et leur donne leur nom actuel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Caïmans",
+          "quote": "Les Espagnols ont d'abord nommé les îles Las Tortugas en raison de l'importante population de tortues vivant dans les eaux voisines."
+        }
+      ]
+    },
+    {
+      "id": "CYM-2",
+      "topic": "histoire",
+      "era": "1670",
+      "title": "Un refuge de pirates et de déserteurs",
+      "short": "Cédées à l'Angleterre avec la Jamaïque en 1670, les îles restent longtemps presque vides. Sans trace de peuplement indigène, elles servent de refuge à des pirates, des fugitifs de l'Inquisition, des marins perdus et des déserteurs de l'armée de Cromwell.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Caïmans",
+          "quote": "Les îles, ainsi que la Jamaïque voisine, sont cédées à l'Angleterre en 1670 par le traité de Madrid.\nLes îles restent très peu habitées jusqu'au XVIIe siècle. S'il n'existe aucune preuve archéologique d'une présence indigène, elles ont servi de refuge à des gens d'horizons différents tels des pirates, des réfugiés fuyant l'Inquisition espagnole, des marins perdus en mer et des déserteurs de l'armée d'Oliver Cromwell."
+        }
+      ]
+    },
+    {
+      "id": "CYM-3",
+      "topic": "histoire",
+      "era": "1794",
+      "title": "La légende fausse des dix navires",
+      "short": "En 1794, les habitants secourent les équipages de dix navires échoués sur le récif, dont l'un transportait le futur roi Guillaume IV. Selon la légende, George III les aurait remerciés en promettant de ne jamais lever d'impôts. L'histoire est populaire, mais fausse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Caïmans",
+          "quote": "Le 8 février 1794, les Caïmanais portent secours aux équipages de dix navires de commerce qui avaient heurté le récif et s'étaient échoués par une mer agitée. Parmi les navires (dont le HMS Convert), l'un transportait le prince Guillaume, futur Guillaume IV. Selon la légende, le roi George III récompensa les habitants de l'archipel pour avoir sauvé son fils, en leur promettant de ne jamais créer d'impôts. Bien que populaire, cette histoire est fausse."
+        }
+      ]
+    },
+    {
+      "id": "CYM-4",
+      "topic": "economie",
+      "title": "Un paradis fiscal",
+      "short": "Les îles Caïmans sont connues comme un paradis fiscal : leur capitale, George Town, est le cœur d'une importante industrie de la finance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Caïmans",
+          "quote": "Ce territoire est connu pour être un paradis fiscal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/George_Town_(îles_Caïmans)",
+          "quote": "George Town est le cœur de l'industrie de la finance aux îles Caïmans."
+        }
+      ]
+    },
+    {
+      "id": "CYM-5",
+      "topic": "drapeau",
+      "era": "1958",
+      "title": "Une tortue et un ananas",
+      "short": "Les armoiries, reçues en 1958, portent trois étoiles vertes pour les trois îles, un léopard pour le Royaume-Uni et, au sommet, une tortue et un ananas. La tortue rappelle le premier nom espagnol, Las Tortugas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Caïmans",
+          "quote": "Les îles Caïmans obtiennent leurs propres armoiries le 14 mai 1958."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Caïmans",
+          "quote": "Les vagues bleues et blanches symbolisent la mer des Caraïbes, le léopard jaune sur fond rouge renvoi au Royaume-Uni, les trois étoiles vertes aux îles de Grand Cayman, Little Cayman et Cayman Brac."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Caïmans",
+          "quote": "L'écu est surmonté d'un cimier où se retrouvent, sur une corde, une tortue et un ananas. La tortue rappelle le nom espagnol original des îles (Las Tortugas, « Les Tortues »), les nombreuses tortues qui y vivent encore et son histoire maritime."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CYM-C1",
+      "topic": "economie",
+      "title": "La capitale de la finance",
+      "short": "George Town concentre l'industrie financière du territoire, attirée par une législation fiscale très particulière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/George_Town_(îles_Caïmans)",
+          "quote": "George Town est le cœur de l'industrie de la finance aux îles Caïmans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/George_Town_(îles_Caïmans)",
+          "quote": "Grâce à la législation fiscale spécifique du territoire, on compte plus de 600 banques dans la cité"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Trois petites îles plates au sud de Cuba et au nord-ouest de la Jamaïque, dans l'ouest de la mer des Caraïbes.",
+    "flag": "Un drapeau bleu à Union Jack avec, à droite, un écu (vagues, trois étoiles vertes, léopard) surmonté d'une tortue. Les îles Turques-et-Caïques ont aussi un fond bleu, mais un écu jaune avec un coquillage et un cactus.",
+    "capital": "George Town, comme le roi George : la ville des banques sur Grand Cayman."
+  }
+}

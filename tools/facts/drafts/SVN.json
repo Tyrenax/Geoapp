@@ -1,0 +1,150 @@
+{
+  "id": "SVN",
+  "facts": [
+    {
+      "id": "SVN-1",
+      "topic": "culture",
+      "title": "600 kg de lettres égarées",
+      "short": "La Slovénie et la Slovaquie sont si souvent confondues qu'en 2004, 600 kg de courrier mal adressé ont dû être réexpédiés vers la Slovénie. Les employés des deux ambassades se retrouvent chaque mois pour échanger les lettres mal dirigées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "La Slovénie et la Slovaquie sont souvent confondues",
+          "to": "pour échanger le courrier mal dirigé"
+        }
+      ]
+    },
+    {
+      "id": "SVN-2",
+      "topic": "histoire",
+      "era": "XIVe siècle-1918",
+      "title": "Six siècles sous les Habsbourg",
+      "short": "Du XIVe siècle à 1918, les Slovènes vivent sous la domination des Habsbourg, sans véritable statut juridique, mais avec une représentation à Vienne. Le 1er décembre 1918, ils rejoignent le royaume des Serbes, Croates et Slovènes, futur royaume de Yougoslavie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Le territoire de l'actuelle Slovénie commence à partir du IXe siècle",
+          "to": "une représentation à Vienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Le pays rejoint le royaume de Serbie",
+          "to": "royaume de Yougoslavie en 1929."
+        }
+      ]
+    },
+    {
+      "id": "SVN-3",
+      "topic": "histoire",
+      "era": "1990-1991",
+      "title": "Une guerre de dix jours",
+      "short": "Le 23 décembre 1990, près de 89 % des votants approuvent l'indépendance par référendum. Proclamée le 25 juin 1991, elle déclenche une guerre qui ne dure qu'une dizaine de jours : la Slovénie est la première république à quitter la Yougoslavie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Le 23 décembre 1990, un référendum sur l'indépendance",
+          "to": "le 25 juin 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "La guerre s'étend sur une dizaine de jours",
+          "to": "le 7 juillet 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "En 1991, après l'introduction du multipartisme",
+          "to": "un État souverain indépendant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "La république de Slovénie entre dans l'Union européenne",
+          "to": "le premier ancien pays communiste à intégrer la zone euro."
+        }
+      ],
+      "long": "Membre de l'Union européenne et de l'OTAN depuis 2004, la Slovénie devient en 2007 le premier ancien pays communiste à adopter l'euro."
+    },
+    {
+      "id": "SVN-4",
+      "topic": "histoire",
+      "era": "746",
+      "title": "La Carinthie, berceau médiéval",
+      "short": "Après les Celtes et les Illyriens, soumis par Rome au Ier siècle, la Carinthie émerge vers le VIe siècle sur les actuelles Carinthies autrichienne et slovène. En 746, elle s'affranchit de la Bavière.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Celtes et Illyriens constituent les premiers habitants",
+          "to": "par rapport à la Bavière (746)."
+        }
+      ]
+    },
+    {
+      "id": "SVN-5",
+      "topic": "geographie",
+      "title": "Forêts profondes et grottes",
+      "short": "Troisième pays le plus boisé d'Europe, la Slovénie est couverte à 58 % de forêts. Ses nombreuses grottes, comme celles de Postojna et de Škocjan, abritent le protée, une salamandre devenue l'un des symboles du pays.",
+      "long": "Son relief montagneux lui vaut parfois le surnom de « Suisse des Balkans ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Troisième pays forestier d’Europe",
+          "to": "pour la production de bois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "Le protée, une espèce de salamandre",
+          "to": "dans les grottes de Škocjan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Slovénie",
+          "from": "La Slovénie est parfois surnommée la Suisse des Balkans",
+          "to": "en raison de son relief montagneux."
+        }
+      ]
+    },
+    {
+      "id": "SVN-6",
+      "topic": "drapeau",
+      "title": "Le mont Triglav et trois étoiles",
+      "short": "L'écu du drapeau montre en blanc les trois sommets du mont Triglav ; sous la montagne, deux lignes ondulées évoquent la mer et les rivières. Les trois étoiles d'or reprennent les armes des comtes de Celje, qui dominèrent le pays à partir de 1130 environ.",
+      "long": "Sans son écu, le drapeau serait identique à celui de la Russie, aux proportions près, et il ressemble beaucoup à celui de la Slovaquie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovénie",
+          "from": "Celui-ci représente, en blanc, les trois sommets",
+          "to": "à partir de 1130 environ."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Slovénie",
+          "from": "Sans son écu, le drapeau de la Slovénie est identique",
+          "to": "dans une position différente aussi."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SVN-C1",
+      "topic": "culture",
+      "title": "Le dragon tué par Jason",
+      "short": "Selon une légende, Jason et ses Argonautes, en remontant le Danube, auraient trouvé un grand lac près de l'actuelle Ljubljana, où Jason terrassa un monstre : le dragon qui figure aujourd'hui sur le blason et le drapeau de la ville.",
+      "long": "Plusieurs dragons ailés ornent le pont des Dragons, construit entre 1900 et 1901.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ljubljana",
+          "from": "Selon la célèbre légende grecque, le héros Jason",
+          "to": "sur le blason et le drapeau de la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ljubljana",
+          "from": "Plusieurs dragons ailés ornent le pont des Dragons",
+          "to": "construit entre 1900 et 1901,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays alpin au nord de l'Adriatique, avec une courte façade maritime coincée entre l'Italie et la Croatie. L'Autriche est au nord, la Hongrie au nord-est et la Croatie au sud.",
+    "flag": "Blanc, bleu, rouge en bandes horizontales, avec en haut à gauche un écu montrant une montagne blanche à trois sommets et trois étoiles d'or. Sans écu, ce serait la Russie ; la Slovaquie a les mêmes couleurs, mais une double croix sur trois collines.",
+    "capital": "Ljubljana, la ville du dragon, perché sur son pont et sur son blason."
+  }
+}

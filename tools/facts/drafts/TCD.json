@@ -1,0 +1,189 @@
+{
+  "id": "TCD",
+  "facts": [
+    {
+      "id": "TCD-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Toumaï, un très lointain ancêtre ?",
+      "short": "En 2001, on découvre au Tchad un crâne de primate fossile surnommé Toumaï. Certains paléoanthropologues y voient l'une des premières espèces de la lignée humaine.",
+      "long": "Ce fossile a conduit à définir une espèce nouvelle, Sahelanthropus tchadensis. Son statut d'ancêtre de l'homme reste débattu.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "« Toumaï » est le surnom donné à un crâne de primate fossile",
+          "to": "découvert en 2001 au Tchad."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "Il a conduit à la définition d'une nouvelle espèce",
+          "to": "l'une des premières espèces de la lignée humaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "« Toumaï est-il vraiment le plus vieil ancêtre de l'homme ?",
+          "to": "le plus vieil ancêtre de l'homme ?"
+        }
+      ]
+    },
+    {
+      "id": "TCD-2",
+      "topic": "histoire",
+      "era": "IXe-XIXe siècle",
+      "title": "Le Kanem-Bornou, empire du commerce transsaharien",
+      "short": "Cité dès le IXe siècle, l'empire du Kanem s'enrichit du commerce transsaharien et s'étend jusqu'au Fezzan, dans l'actuelle Libye. Chassés par des attaques, ses rois fondent en 1395 le royaume du Bornou, sur la rive ouest du lac Tchad.",
+      "long": "Au XVIe siècle, le Bornou reconquiert le Kanem et l'ensemble prend le nom de Kanem-Bornou. Avec les royaumes du Ouaddaï et du Baguirmi, il domine la région pendant des siècles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "L'empire du Kanem est cité à partir du IXe siècle",
+          "to": "un important centre métallurgique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "Pour échapper à ces attaques extérieures",
+          "to": "le royaume de Bornou en 1395."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "Le Bornou reconquiert le Kanem",
+          "to": "au XVIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "Il a été par la suite le siège de trois grands royaumes sahéliens",
+          "to": "le Baguirmi et le Ouaddaï."
+        }
+      ]
+    },
+    {
+      "id": "TCD-3",
+      "topic": "histoire",
+      "era": "1900",
+      "title": "Rabah et la bataille de Kousséri",
+      "short": "À la fin du XIXe siècle, Rabah, un chef de guerre venu du Darfour, se taille un royaume et ravage la région. Il est vaincu le 22 avril 1900 à Kousséri par les troupes françaises ; les deux chefs, Rabah et le commandant Lamy, meurent au combat.",
+      "long": "Trois colonnes françaises, venues d'Afrique du Nord et du Congo français, s'étaient rejointes près du lac Tchad pour l'affronter. La France soumet ensuite le Ouaddaï en 1911.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "À la fin du XIXe siècle, Rabah, un chef de guerre venu du Darfour",
+          "to": "ravage le Bornou et le Baguirmi"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "La décisive bataille de Kousséri met aux prises le 22 avril 1900",
+          "to": "tous deux morts durant le combat."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "La domination française ne devient effective qu'à partir de 1897",
+          "to": "puis soumettent le Ouaddaï en 1911."
+        }
+      ]
+    },
+    {
+      "id": "TCD-4",
+      "topic": "histoire",
+      "era": "1973-1994",
+      "title": "La bande d'Aozou, disputée avec la Libye",
+      "short": "En 1973, la Libye annexe la bande d'Aozou, au nord du Tchad. Il faut une longue guerre, puis une contre-offensive tchadienne en 1987, pour que la Libye se retire ; Aozou n'est rendue au Tchad qu'en 1994.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "1973 : la Libye annexe la bande d'Aozou",
+          "to": "(1978-1987)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Tchad",
+          "from": "En 1987, une contre-offensive des forces tchadiennes",
+          "to": "restituée au Tchad qu'en 1994."
+        }
+      ]
+    },
+    {
+      "id": "TCD-5",
+      "topic": "geographie",
+      "title": "Du lac au volcan du Tibesti",
+      "short": "Le pays doit son nom au lac Tchad. Au nord, dans le massif volcanique du Tibesti près de la frontière libyenne, se dresse son point culminant : l'Emi Koussi, un volcan éteint de 3 415 m.",
+      "long": "Avec 1 284 000 km², le Tchad est le cinquième pays le plus vaste d'Afrique. Le Sahara tchadien forme un large bassin bordé à l'est par le plateau de l'Ennedi et au nord par le Tibesti.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "Le lac Tchad, qui donne son nom au pays",
+          "to": "faisant partie du massif du Tibesti."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "D'une superficie de 1 284 000 km2",
+          "to": "le vingt-et-unième pays le plus grand du monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tchad",
+          "from": "Le Sahara tchadien est en fait un large bassin",
+          "to": "par les montagnes du Tibesti."
+        }
+      ]
+    },
+    {
+      "id": "TCD-6",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Le jumeau de la Roumanie",
+      "short": "Bleu, or et rouge en bandes verticales, le drapeau tchadien ressemble presque trait pour trait à celui de la Roumanie : seules les teintes de bleu et de jaune diffèrent légèrement.",
+      "long": "En 1959, une commission avait d'abord proposé un tricolore vert-or-rouge. Mais la fédération du Mali utilisait déjà ces couleurs : on a remplacé le vert par du bleu. Le bleu évoque le ciel, le jaune le soleil, le rouge l'unité de la nation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tchad",
+          "from": "Le drapeau du Tchad est un drapeau tricolore vertical",
+          "to": "de la république du Tchad."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tchad",
+          "from": "Le drapeau est semblable au drapeau de la Roumanie",
+          "to": "légèrement différentes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tchad",
+          "from": "Après la proclamation de la république du Tchad",
+          "to": "un drapeau tricolore vert-or-rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tchad",
+          "from": "Cet arrangement étant déjà utilisé par la fédération du Mali",
+          "to": "adoptée le 6 novembre 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tchad",
+          "from": "La signification associée au drapeau finalement adoptée",
+          "to": "l'unité de la nation."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TCD-C1",
+      "topic": "histoire",
+      "era": "1900-1973",
+      "title": "De Fort-Lamy à « l'endroit où l'on se repose »",
+      "short": "La ville est fondée le 29 mai 1900 sous le nom de Fort-Lamy, en souvenir du commandant tué à Kousséri quelques jours plus tôt. En 1973, le président Tombalbaye la rebaptise N'Djaména, d'après un village voisin dont le nom signifie « le lieu où l'on se repose ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/N'Djaména",
+          "from": "N'Djaména a été fondée par l'explorateur",
+          "to": "quelques jours plus tôt."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/N'Djaména",
+          "from": "Le 6 novembre 1973, pendant sa campagne d'Authenticité",
+          "to": "« le lieu où l'on se repose »)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand pays sans accès à la mer au cœur de l'Afrique : sous la Libye, à l'ouest du Soudan, au-dessus de la Centrafrique. Le lac Tchad marque son coin sud-ouest, là où se touchent le Niger, le Nigeria et le Cameroun.",
+    "flag": "Bleu, jaune, rouge en bandes verticales, le bleu côté mât : c'est aussi le schéma de la Roumanie, dont le bleu est un peu plus clair. Andorre reprend ces couleurs avec un blason au centre ; la Moldavie aussi, avec un aigle.",
+    "capital": "N'Djaména, « le lieu où l'on se repose » : la grande étape au bord des fleuves Chari et Logone, tout près du Cameroun."
+  }
+}

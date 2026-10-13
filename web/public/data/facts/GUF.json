@@ -1,0 +1,124 @@
+{
+  "id": "GUF",
+  "facts": [
+    {
+      "id": "GUF-1",
+      "topic": "histoire",
+      "era": "1604",
+      "title": "La « France équinoxiale »",
+      "short": "En 1604, la colonie de Guyane prend le nom de « France équinoxiale ». La présence française n'y devient vraiment durable qu'au milieu du XVIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "En 1604, la colonie de Guyane prend le nom de France équinoxiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "Les premières installations françaises commencent en 1503, mais la présence française ne devient réellement durable qu'à partir de 1643"
+        }
+      ]
+    },
+    {
+      "id": "GUF-2",
+      "topic": "histoire",
+      "era": "1797-1946",
+      "title": "La terre du bagne",
+      "short": "Pour se débarrasser d'opposants politiques et de délinquants, le Second Empire crée des bagnes en Guyane. Des condamnés y sont envoyés jusqu'en 1946, année où la Guyane devient un département français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "Pour pallier le manque de main-d'œuvre mais surtout pour débarrasser la métropole d'opposants politiques républicains et de délinquants de droit commun, le Second Empire crée des bagnes en Guyane."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "Ils accueillent des transportés, des déportés puis également des relégués jusqu'en 1946."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "Elle abandonne définitivement son statut de colonie et redevient un département français en 1946."
+        }
+      ]
+    },
+    {
+      "id": "GUF-3",
+      "topic": "histoire",
+      "era": "1965",
+      "title": "La base spatiale de l'Europe",
+      "short": "À partir de 1965, le général de Gaulle fait installer le Centre spatial guyanais, sur un territoire proche de l'équateur, avec une large ouverture sur l'océan. Il est exploité par le CNES, Arianespace et l'Agence spatiale européenne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "De Gaulle, devenu président, décide d'y établir le Centre spatial guyanais à partir de 1965."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "La position du département est privilégiée, proche de l'équateur avec une large ouverture sur l'océan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "Il est aujourd'hui exploité par le Centre national d'études spatiales (CNES), Arianespace et l'Agence spatiale européenne (ESA)."
+        }
+      ]
+    },
+    {
+      "id": "GUF-4",
+      "topic": "geographie",
+      "title": "Le Brésil, premier voisin de la France",
+      "short": "Avec 730 km de frontière commune avec la Guyane, le Brésil est le pays qui partage la plus longue frontière terrestre avec la France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "La Guyane est frontalière du Brésil sur 730 km, faisant du Brésil le pays ayant la plus longue frontière terrestre avec la France"
+        }
+      ]
+    },
+    {
+      "id": "GUF-5",
+      "topic": "geographie",
+      "title": "97 % de forêt",
+      "short": "La forêt équatoriale couvre 97 % de la Guyane, la deuxième plus vaste région de France après la Nouvelle-Aquitaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "C'est également le département le plus boisé, 97 % du territoire étant couvert d'une forêt équatoriale qui reste parmi les plus riches et les moins écologiquement fragmentées du monde, la forêt guyanaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyane",
+          "quote": "S'étendant sur 86 504 km2, c'est la deuxième plus vaste région de France se classant après la Nouvelle-Aquitaine."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GUF-C1",
+      "topic": "histoire",
+      "era": "1643",
+      "title": "Le fort acheté au chef Cépérou",
+      "short": "L'histoire de Cayenne commence le 27 novembre 1643 : Charles Poncet de Brétigny achète une butte au chef amérindien galibi Cépérou et y bâtit un fort qui porte son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cayenne",
+          "quote": "L'histoire de la ville de Cayenne commence le 27 novembre 1643, avec la Compagnie de Rouen menée par Charles Poncet de Brétigny (lieutenant-général du roi Louis XIII). Avec 300 hommes, il accoste dans l'anse d'Armire (aujourd'hui Rémire-Montjoly). Après deux jours de marche, il arrive sur une petite butte de la plaine littorale marécageuse, où vit une tribu d'Amérindiens Galibi. Il en fait l'acquisition auprès de leur chef, Cépérou et il y bâtit le fort Cépérou."
+        }
+      ]
+    },
+    {
+      "id": "GUF-C2",
+      "topic": "histoire",
+      "title": "Un nom de réchaud de marin",
+      "short": "Au XVIIe siècle, la « caïenne » était le réchaud sur lequel les marins cuisinaient. Par extension, le mot a désigné un lieu de repos à terre, puis les dépôts de vivres des ports, d'où le nom de la ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Cayenne",
+          "quote": "L’origine réelle  du nom de la ville doit  se chercher dans les termes de marine du XVIIe siècle : la caïenne était un réchaud sur lequel se faisait la cuisine pendant les voyages en bateau. Lors des escales, elle était descendue à terre. Dans l’argot des marins, caïenne a bientôt signifié un lieu où l’on pouvait se reposer des rigueurs de la mer. Par extension, les dépôts de vivre dans les ports se sont appelés caïennes, puis cayennes."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit territoire français au nord-est de l'Amérique du Sud, entre le Suriname à l'ouest et le Brésil au sud et à l'est.",
+    "flag": "Officiellement, la Guyane utilise le drapeau français : bleu, blanc, rouge.",
+    "capital": "Cayenne, la « caïenne » des marins : un abri où se reposer de la mer après la traversée."
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "id": "LTU",
+  "facts": [
+    {
+      "id": "LTU-1",
+      "topic": "histoire",
+      "era": "1009-XIIIe siècle",
+      "title": "Un royaume né contre les chevaliers",
+      "short": "Le nom de la Lituanie apparaît pour la première fois en 1009, dans les Annales de Quedlinbourg. Au milieu du XIIIe siècle, Mindaugas unifie les tribus lituaniennes pour repousser les chevaliers Teutoniques et Porte-Glaive.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "En 1009, le nom de la Lituanie est mentionné pour la première fois dans une description de la mission de St Bruno dans les Annales de Quedlinbourg."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "L'histoire du royaume de Lituanie commence par l'unification des tribus lituaniennes par Mindaugas, au milieu du XIIIe siècle, en vue de lutter avec succès contre les chevaliers Teutoniques et les chevaliers Porte-Glaive."
+        }
+      ]
+    },
+    {
+      "id": "LTU-2",
+      "topic": "histoire",
+      "era": "1386-1569",
+      "title": "Un grand-duché jusqu'à la mer Noire",
+      "short": "Le grand-duché de Lituanie s'étend jusqu'à la mer Noire, atteinte en 1412. En 1386, le grand-duc Jogaila (Jagellon) épouse la reine de Pologne Hedwige : l'union de la Pologne et de la Lituanie devient l'une des plus grandes puissances d'Europe.",
+      "long": "L'union aboutit en 1569 à la république des Deux Nations. Elle entraîne aussi les élites lituaniennes vers la langue polonaise et la foi catholique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "Après le déclin de la Rus' de Kiev, le grand-duché de Lituanie dispute aux Mongols l'hégémonie sur les pays russes et étend fortement ses frontières vers l'est et le sud, dans tout le bassin du Dniepr, jusqu'à la mer Noire atteinte en 1412."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "En 1386, le grand-duc de Lituanie, Jogaila (Jagellon), se marie avec la souveraine de Pologne Hedwige, ce qui crée l'union de Pologne-Lituanie qui aboutira en 1569 à la création de la république des Deux Nations. Cette union conduit les élites politiques lituanienne, biélorusse et ukrainienne à adhérer à la culture, à la langue polonaise, ainsi qu'à la foi catholique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "Au cours de l'histoire, l'union de Pologne-Lituanie forme l'une des plus grandes puissances européennes."
+        }
+      ]
+    },
+    {
+      "id": "LTU-3",
+      "topic": "histoire",
+      "era": "1918-1940",
+      "title": "Une capitale « temporaire »",
+      "short": "La Lituanie déclare son indépendance le 16 février 1918. Mais elle perd Vilnius en 1920, ce qui l'oppose durablement à la Pologne : de 1918 à 1940, la capitale est Kaunas, qu'on surnomme toujours la « capitale temporaire ».",
+      "long": "Ce conflit sur Vilnius est si profond que la Lituanie et la Pologne n'ont pas de relations diplomatiques de 1920 à 1938.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "La république de Lituanie déclare son indépendance le 16 février 1918,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "La Lituanie s’empare en 1923 du protectorat français de Memel, qui devient Klaipėda, après avoir perdu Vilnius en 1920. Vilnius comportait une forte population polonaise, et le maréchal polonais Józef Piłsudski, héros de l'indépendance polonaise de 1918, était né dans son ressort. À cause du désaccord sur Vilnius, la Lituanie et la Pologne n'entretinrent pas de relations diplomatiques entre 1920 et 1938."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "C'est donc Kaunas qui fut la capitale de la Lituanie de 1918 à 1940 ; Kaunas était alors appelée « capitale temporaire » (Laikinoji sostinė), ce qui est resté son surnom."
+        }
+      ]
+    },
+    {
+      "id": "LTU-4",
+      "topic": "histoire",
+      "era": "1990",
+      "title": "La première à quitter l'URSS",
+      "short": "Le 11 mars 1990, la Lituanie devient la première république soviétique à déclarer son indépendance, près de deux ans avant la disparition de l'URSS. Elle en paie le prix par de graves bouleversements économiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "La Lituanie est la première république soviétique à déclarer son indépendance, le 11 mars 1990, deux années avant la disparition de l'URSS."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lituanie",
+          "quote": "Première république soviétique à avoir cherché à s'affranchir des liens avec l'URSS, la Lituanie a particulièrement souffert des bouleversements économiques consécutifs à la proclamation de son indépendance et à l'effondrement du bloc de l'Est."
+        }
+      ]
+    },
+    {
+      "id": "LTU-5",
+      "topic": "drapeau",
+      "era": "1918",
+      "title": "Un drapeau qu'on jugea trop sombre",
+      "short": "Le premier projet de drapeau, rouge et vert, parut trop sombre aux délégués. On y ajouta une étroite bande jaune pour le soleil levant. Aujourd'hui, le jaune figure les champs dorés, le vert la campagne et le rouge le sang versé pour le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lituanie",
+          "quote": "Toutefois, ce dessin ne plut pas aux délégués, qui le trouvèrent trop sombre. Tadas Daugirdas suggéra alors d'ajouter une étroite bande jaune (pour symboliser le soleil levant) entre le rouge (les nuages illuminés par l'aube) et le vert (les champs et forêts)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lituanie",
+          "quote": "Le jaune du drapeau symbolise les champs dorés du pays, le vert, sa campagne verdoyante, et le rouge, tout le sang versé pour le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Lituanie",
+          "quote": "Avant cela, ce drapeau avait été utilisé, avec des couleurs plus claires, de 1918 à 1940, de la première indépendance du pays à son annexion par l'Union soviétique."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LTU-C1",
+      "topic": "histoire",
+      "era": "1323",
+      "title": "Le rêve du loup de fer",
+      "short": "Selon la légende, le grand-prince Gediminas rêva d'un loup caparaçonné de fer qui hurlait comme cent loups. Son grand-prêtre lui expliqua qu'il devait bâtir là une ville : Vilnius est mentionnée comme capitale en 1323.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vilnius",
+          "quote": "Vilnius a été fondée sous le règne de Gediminas, grand-prince depuis 1316."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vilnius",
+          "quote": "D'après la légende, il se reposait au cours d'une chasse sur une colline au confluent des rivières Neris et Vilnia. Là, il rêva d'un loup caparaçonné de fer, qui hurlait aussi fort qu'une centaine de loups. Il lui décocha un javelot qui rebondit sur l'animal. Inquiet, il demanda à Lizdeika, son grand-prêtre encore païen, d'interpréter ce présage. « Ce que les dieux ont décidé pour le souverain et pour l'État lituanien peut arriver : le loup de fer se trouve sur une colline sur laquelle seront érigées une forteresse et une ville — la capitale de la Lituanie et la résidence des souverains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vilnius",
+          "quote": "Une première mention dans les actes historiques parle de Vilnius comme capitale de la Lituanie en 1323."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus au sud des trois pays baltes, au bord de la Baltique : la Lettonie au nord, la Biélorussie à l'est et au sud-est, la Pologne et l'enclave russe de Kaliningrad au sud-ouest.",
+    "flag": "Jaune, vert, rouge en bandes horizontales, le jaune en haut. La Bolivie a les mêmes couleurs dans l'ordre rouge, jaune, vert ; le Ghana aussi, avec une étoile noire au centre.",
+    "capital": "Vilnius, la ville du loup de fer rêvé par Gediminas, au confluent de la Neris et de la Vilnia."
+  }
+}

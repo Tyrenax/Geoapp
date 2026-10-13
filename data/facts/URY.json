@@ -1,0 +1,112 @@
+{
+  "id": "URY",
+  "facts": [
+    {
+      "id": "URY-1",
+      "topic": "histoire",
+      "title": "Le pays des Charrúas",
+      "short": "Avant l'arrivée des Européens, le territoire était peuplé de Guaranis et de Charrúas ; ces derniers formaient le groupe le plus nombreux et le mieux organisé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Le pays était, avant les Européens, peuplé par des Guaranis et des Charrúas ; ces derniers étaient le groupement le plus nombreux et le plus organisé."
+        }
+      ]
+    },
+    {
+      "id": "URY-2",
+      "topic": "histoire",
+      "era": "1825-1828",
+      "title": "Les Trente-Trois Orientaux",
+      "short": "L'Uruguay était la Cisplatine, la province la plus au sud de l'empire du Brésil. Le 19 avril 1825, trente-trois patriotes menés par Juan Antonio Lavalleja débarquent et lancent la guerre d'indépendance, qui s'achève en 1828.",
+      "long": "La région s'appelait alors la Banda Oriental, la « région orientale » du fleuve Uruguay : c'est pourquoi le pays se nomme officiellement la république orientale de l'Uruguay. La guerre se termine le 28 août 1828 par le traité de Montevideo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "L'Uruguay est né de la sécession de la Cisplatine, province la plus méridionale de l'empire du Brésil, et de l'échec de sa réincorporation aux Provinces-Unies du Río de la Plata."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Mais le 19 avril 1825, le groupe nationaliste Trente-trois Orientaux (les Treinta y Tres Orientales en espagnol) conduit par Juan Antonio Lavalleja débarqua sur la plage de La Agraciada et commença la guerre d'indépendance contre le Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Cette guerre se termina le 28 août 1828 par le Traité de Montevideo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Le début du XIXe siècle vit l'émergence de mouvements indépendantistes un peu partout en Amérique du Sud, y compris en Uruguay (désigné alors sous le nom de Banda Oriental, c'est-à-dire « Région orientale »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "L'Uruguay (/y.ʁy.ɡwɛ/), en forme longue la république orientale de l'Uruguay (en espagnol : Uruguay /u.ɾu.ˈɣwai/  et República Oriental del Uruguay), est un pays du Cône Sud de l'Amérique du Sud, situé au sud du Brésil et au nord-est de l'Argentine, dont il est séparé par le fleuve Uruguay qui lui a donné son nom."
+        }
+      ]
+    },
+    {
+      "id": "URY-3",
+      "topic": "histoire",
+      "era": "1930",
+      "title": "Le premier champion du monde de football",
+      "short": "En 1930, l'Uruguay organise la toute première Coupe du monde de football… et la gagne. Il la remporte de nouveau en 1950.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Le pays a organisé et remporté la première Coupe du monde en 1930."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "Il a également gagné la Coupe du monde 1950."
+        }
+      ]
+    },
+    {
+      "id": "URY-4",
+      "topic": "politique",
+      "title": "Une laïcité à la française",
+      "short": "L'Uruguay est un État laïc : son régime de séparation des Églises et de l'État s'inspire directement du modèle français.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Uruguay",
+          "quote": "L'Uruguay est un État laïc, dont le régime de séparation des Églises et de l'État est inspiré du cas français."
+        }
+      ]
+    },
+    {
+      "id": "URY-5",
+      "topic": "drapeau",
+      "title": "Neuf bandes et un soleil",
+      "short": "Le drapeau compte neuf bandes, alternativement blanches et bleues, et un soleil doré dans un carré blanc en haut à gauche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Uruguay",
+          "quote": "Le drapeau est constitué de 9 bandes alternativement blanches et bleues, avec un soleil couleur or qui occupe le cadre en haut à gauche."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "URY-C1",
+      "topic": "histoire",
+      "era": "1726",
+      "title": "Un rempart espagnol face aux Portugais",
+      "short": "Les Espagnols fondent Montevideo en 1726 pour barrer la route aux Portugais, installés tout près, à Colonia del Sacramento. Son nom viendrait du portugais « Monte vide eu », « je vois une montagne », ou d'un relevé espagnol du « sixième mont d'est en ouest ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montevideo",
+          "quote": "La ville a été fondée en 1726 par les Espagnols (Bruno Mauricio de Zabala) dans le but d’empêcher les incursions des Portugais, qui avaient fondé Colonia del Sacramento au siècle précédent, dans ce qui était considéré comme des possessions espagnoles, attribuées à l'Espagne par le Traité de Tordesillas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Montevideo",
+          "quote": "Deux étymologies existent pour le nom Montevideo : selon la première, il proviendrait du portugais « Monte vide eu », qui signifie « Je vois une montagne ». Selon la seconde, les colons espagnols auraient baptisé le lieu « Monte VI De Este a Oeste » (soit « Le sixième mont d'est en ouest ») au cours de relevés topographiques."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le petit pays coincé entre le Brésil au nord et l'Argentine à l'ouest, sur la rive nord de l'estuaire du Río de la Plata, face à Buenos Aires.",
+    "flag": "Neuf bandes blanches et bleues avec un soleil à visage en haut à gauche. L'Argentine a le même soleil, mais au centre de trois bandes ; la Grèce a aussi neuf bandes bleues et blanches, avec une croix à la place du soleil.",
+    "capital": "Montevideo, « je vois une montagne » : imagine un marin qui crie en apercevant la colline au-dessus de la baie."
+  }
+}

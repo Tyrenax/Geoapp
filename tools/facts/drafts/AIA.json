@@ -1,0 +1,124 @@
+{
+  "id": "AIA",
+  "facts": [
+    {
+      "id": "AIA-1",
+      "topic": "histoire",
+      "title": "Une île en forme d'anguille",
+      "short": "L'île principale doit son nom à sa forme allongée, comme une anguille. Ses premiers habitants arawaks l'appelaient Malliouhana et y cultivaient le manioc, le coton, le maïs et la patate douce.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "C'est aussi le nom de l'île principale",
+          "to": "qui doit son nom à sa forme allongée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Anguilla (ou Malliouhana de son nom arawak)",
+          "to": "de la mer des Caraïbes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Les Arawaks cultivaient le manioc",
+          "to": "la patate douce."
+        }
+      ]
+    },
+    {
+      "id": "AIA-2",
+      "topic": "histoire",
+      "era": "1650",
+      "title": "Un repaire de pirates",
+      "short": "Quand les Anglais colonisent Anguilla en 1650, l'île est surtout peuplée de pirates et de boucaniers, qui en ont fait leur repaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Anguilla est colonisée par les Anglais en 1650",
+          "to": "en font un repaire."
+        }
+      ]
+    },
+    {
+      "id": "AIA-3",
+      "topic": "histoire",
+      "era": "1882-1952",
+      "title": "L'île oubliée",
+      "short": "De 1882 à 1967, Anguilla est rattachée à la colonie de Saint-Christophe-et-Niévès, qui la néglige : son nom n'apparaît même pas sur les timbres jusqu'en 1952.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "De 1882 à 1967, Anguilla est une partie de la colonie",
+          "to": "jusqu'en 1952."
+        }
+      ]
+    },
+    {
+      "id": "AIA-4",
+      "topic": "histoire",
+      "era": "1967",
+      "title": "La révolte de 1967",
+      "short": "Le 30 mai 1967, les Anguillais chassent la police de Saint-Christophe. Le 11 juillet, ils votent la sécession par 1 813 voix contre 5. Leur indépendance n'est pas reconnue, mais l'île finit par devenir un territoire britannique distinct.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Le 30 mai, les Anguillais se soulèvent",
+          "to": "de l'État associé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Le 11 juillet 1967, un référendum sur la sécession",
+          "to": "n'est pas reconnue par le Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Anguilla (ou Malliouhana de son nom arawak) est un territoire britannique d'outre-mer",
+          "to": "de la Caraïbe orientale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Anguilla",
+          "from": "Le 1er avril 1982, Anguilla se dote d'une constitution",
+          "to": "un territoire britannique distinct."
+        }
+      ]
+    },
+    {
+      "id": "AIA-5",
+      "topic": "drapeau",
+      "era": "1967",
+      "title": "Les trois dauphins",
+      "short": "Le blason d'Anguilla montre trois dauphins orange en cercle. Ils sont nés le 29 septembre 1967, sur le drapeau que l'île hisse en tentant de faire sécession.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Anguilla",
+          "from": "Dans le coin droit est figuré le blason du pays",
+          "to": "avec une bande bleue au bas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Anguilla",
+          "from": "Le 29 septembre 1967, un nouveau drapeau flotte sur Anguilla",
+          "to": "avec Saint-Christophe-et-Niévès."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AIA-C1",
+      "topic": "geographie",
+      "title": "Une capitale de village",
+      "short": "The Valley, la capitale, ne comptait que 1 067 habitants au recensement de 2011.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/The_Valley_(Anguilla)",
+          "from": "Sa population selon le recensement de 2011",
+          "to": "1 067 habitants."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La petite île longue et plate tout au nord des petites Antilles, juste au nord de Saint-Martin.",
+    "flag": "Un drapeau bleu de la marine britannique (Union Jack en haut à gauche) avec, à droite, un écu blanc à trois dauphins orange. Les îles Vierges britanniques et Montserrat ont le même fond, mais d'autres blasons.",
+    "capital": "The Valley, « la vallée » : une capitale qui porte un nom de lieu-dit, à la mesure d'une île de quelques milliers d'habitants."
+  }
+}

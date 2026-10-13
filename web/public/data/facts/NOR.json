@@ -1,0 +1,156 @@
+{
+  "id": "NOR",
+  "facts": [
+    {
+      "id": "NOR-1",
+      "topic": "histoire",
+      "title": "Le « chemin du Nord »",
+      "short": "Pour beaucoup d'étymologistes, le nom de la Norvège vient de l'expression « chemin du Nord ». D'autres le rapprochent d'un mot same qui signifie « le long de la côte » ou « le long de la mer ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Beaucoup d'étymologistes pensent que le nom du pays vient de l'expression « chemin du Nord » dans plusieurs langues scandinaves."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Les formes en nynorsk et en vieux norrois sont similaires à un mot same signifiant « le long de la côte » ou « le long de la mer », écrit « nuorrek » en same contemporain."
+        }
+      ]
+    },
+    {
+      "id": "NOR-2",
+      "topic": "histoire",
+      "era": "1814",
+      "title": "Le 17 mai 1814 à Eidsvoll",
+      "short": "En 1814, les vainqueurs de Napoléon attribuent la Norvège à la Suède. En réaction, une assemblée réunie à Eidsvoll proclame l'indépendance, adopte une constitution, la deuxième plus ancienne encore en vigueur en Europe après celle de Saint-Marin, et désigne un roi le 17 mai 1814.",
+      "long": "L'indépendance ne dure pas : la Norvège entre en union personnelle avec la Suède, une union qui suscite un mécontentement croissant tout au long du XIXe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "En raison de l'alliance contractée par le royaume dano-norvégien avec Napoléon Ier, les puissances coalisées victorieuses attribuent la Norvège continentale à la Suède en 1814.\nEn réaction, une Convention nationale se réunit à Eidsvoll, dans l'Akershus : elle déclare l’indépendance du royaume de Norvège et adopte une constitution (c'est la seconde constitution écrite la plus ancienne encore en vigueur en Europe après celle de Saint-Marin), avant de désigner comme roi le prince danois Christian-Frédéric VIII de Danemark, le 17 mai 1814"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "L'union personnelle Suède-Norvège, malgré plusieurs concessions, entraîne un mécontentement croissant des Norvégiens au cours du XIXe siècle."
+        }
+      ]
+    },
+    {
+      "id": "NOR-3",
+      "topic": "histoire",
+      "era": "1905",
+      "title": "Une séparation sans effusion de sang",
+      "short": "Le 7 juin 1905, l'union avec la Suède est dissoute sans effusion de sang. Après un référendum en faveur de la monarchie, la Norvège offre sa couronne à un prince danois, qui devient le roi Haakon VII.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "L'union personnelle Suède-Norvège, malgré plusieurs concessions, entraîne un mécontentement croissant des Norvégiens au cours du XIXe siècle. Elle est dissoute sans effusion de sang le 7 juin 1905. À la suite d'un référendum confirmant la nature monarchique du nouveau régime, le gouvernement offre la couronne à un prince danois, qui est élu par le Parlement sous le nom de Haakon VII."
+        }
+      ]
+    },
+    {
+      "id": "NOR-4",
+      "topic": "economie",
+      "title": "Riche de son pétrole, hors de l'Union",
+      "short": "La découverte de grandes réserves de pétrole et de gaz au large de ses côtes a fait la richesse de la Norvège. Forte de cette manne, elle a refusé deux fois par référendum d'entrer dans l'Union européenne, en 1972 et en 1994.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Le progrès économique s'explique en partie par la découverte et le développement de grandes réserves de pétrole et de gaz naturel sur sa côte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Riche de son pétrole et de son gaz naturel, la Norvège a refusé à deux reprises par référendum de rejoindre l’Union européenne, en 1972 et en 1994."
+        }
+      ]
+    },
+    {
+      "id": "NOR-5",
+      "topic": "geographie",
+      "title": "Le pays des fjords",
+      "short": "La côte norvégienne dépasse 2 500 km sur le continent, mais 83 000 km en comptant les îles. Elle est découpée de plusieurs centaines de fjords, creusés par les glaciers, et semée d'environ 50 000 îles.",
+      "long": "Le plus long fjord est le Sognefjord. Le royaume compte aussi l'archipel arctique du Svalbard, l'île Jan Mayen et, à l'autre bout du monde, l'île Bouvet dans l'Atlantique Sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Les côtes norvégiennes, d’une longueur de plus de 2 500 km (continent uniquement) ou 83 000 km (littoral des îles de l'archipel inclus), sont ponctuées de fjords et d’une multitude de petites îles (environ 50 000 au total)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "La caractéristique la plus connue de sa géographie est le fjord : la Norvège en compte plusieurs centaines sur sa côte, creusés par les glaciers au cours de la période glaciaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Le plus long fjord est le Sognefjord."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Norvège",
+          "quote": "Le pays compte deux territoires insulaires arctiques : l'archipel de Svalbard, partagé entre la mer du Groenland, l'océan Arctique, la mer de Barents et la mer de Norvège, et l'île Jan Mayen, située à la limite occidentale de la mer de Norvège. Par ailleurs, il possède une dépendance externe dans l'hémisphère sud, l'île Bouvet dans l'Atlantique sud."
+        }
+      ]
+    },
+    {
+      "id": "NOR-6",
+      "topic": "drapeau",
+      "era": "1821",
+      "title": "Le drapeau qui en contient d'autres",
+      "short": "Proposé par le député Frederik Meltzer et officialisé en 1821, le drapeau marie la croix scandinave et le bleu de la Suède aux couleurs de la France et des États-Unis, symboles de liberté à l'époque.",
+      "long": "Ses lignes sont telles qu'on peut y retrouver les motifs d'autres drapeaux nationaux, ceux de la France, des Pays-Bas, de la Pologne ou de la Finlande, par exemple.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Norvège",
+          "quote": "Parallèlement, un drapeau distinctement norvégien fut proposé par Frederik Meltzer, membre du Parlement norvégien (Storting), et officialisé en 1821."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Norvège",
+          "quote": "La croix bleue, enfin, peut être interprétée comme une référence au bleu du drapeau suédois, tout en créant une association de couleurs rappelant les drapeaux français et américain, symboles de liberté à l'époque."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Norvège",
+          "quote": "Le drapeau norvégien est construit de telle sorte et avec de telles couleurs qu'en y dessinant des lignes arbitraires, il est possible d'y retrouver le motif d'autres drapeaux nationaux (France, Thaïlande, Pays-Bas, Indonésie, Pologne, Monaco, Finlande...)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NOR-C1",
+      "topic": "histoire",
+      "era": "1624-1925",
+      "title": "Trois siècles sous le nom de Christiania",
+      "short": "Détruite par un incendie en 1624, Oslo est reconstruite plus loin par le roi danois Christian IV, qui la rebaptise Christiania. Elle ne reprend le nom d'Oslo que le 1er janvier 1925.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oslo",
+          "quote": "Oslo, détruite par un incendie en 1624 (no), est reconstruite par le roi danois Christian IV de l'autre côté de l'anse de Bjørvika, près de la citadelle d'Akershus. En l'honneur du roi, la ville est rebaptisée Christiania, orthographié Kristiania selon les anciennes normes dano-norvégiennes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oslo",
+          "quote": "Elle ne retrouvera son ancien nom que par décision de la commune le 1er janvier 1925."
+        }
+      ]
+    },
+    {
+      "id": "NOR-C2",
+      "topic": "histoire",
+      "era": "1814",
+      "title": "Capitale d'un pays enfin souverain",
+      "short": "En 1814, après la constitution d'Eidsvoll, Christiania devient le siège du gouvernement et du Parlement. Depuis 1905, elle est le siège d'un État indépendant.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oslo",
+          "quote": "En 1814, après les épisodes mouvementés et hauts en couleur de la constitution d'Eidsvoll, Christiania devient le siège du gouvernement et du Parlement du royaume de Norvège."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oslo",
+          "quote": "siège administratif de l'État indépendant depuis 1905"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La longue bande découpée de fjords qui borde la Scandinavie à l'ouest, de la mer du Nord jusqu'au-delà du cercle polaire. La Suède est à l'est ; tout au nord, la Norvège touche aussi la Finlande et la Russie.",
+    "flag": "Une croix scandinave bleue bordée de blanc sur fond rouge. L'Islande inverse les couleurs (croix rouge bordée de blanc sur fond bleu) ; les îles Féroé ont une croix rouge bordée de bleu sur fond blanc.",
+    "capital": "Oslo, au fond de l'Oslofjord, s'est appelée Christiania pendant trois siècles, en l'honneur du roi Christian IV."
+  }
+}

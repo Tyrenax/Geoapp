@@ -1,0 +1,145 @@
+{
+  "id": "SOM",
+  "facts": [
+    {
+      "id": "SOM-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "La côte de l'encens et de la myrrhe",
+      "short": "Dans l'Antiquité, la côte somalienne était le plus important centre de commerce de la myrrhe et de l'encens, connu des Grecs, des Romains et des Indiens. Elle est l'une des localisations envisagées du mystérieux pays de Pount des pharaons.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "La côte était connue par les Romains, les Grecs et les Indiens puisque ce fut le plus important centre commercial pour la myrrhe et l'encens ainsi que dans une moindre importance pour l'ébène et l'or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Somalie",
+          "quote": "Le territoire de la Somalie et les côtes somaliennes sont l'une des localisations envisagées pour le pays de Pount, un pays avec lequel l'Égypte pharaonique entretenait des relations commerciales."
+        }
+      ]
+    },
+    {
+      "id": "SOM-2",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "Les sultanats de la côte",
+      "short": "Des commerçants arabes s'installent sur la côte et l'islam s'implante définitivement à partir du XIIIe siècle, avec la naissance des sultanats. Au XVIe siècle, les Portugais tentent en vain de s'y installer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Les commerçants arabes s'installent sur la côte et les Somalis adoptent l'islam, qui s'implante définitivement à partir du XIIIe siècle : c'est le début du sultanat."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Au XVIe siècle, le Portugal s'intéresse à la côte somalienne, sans parvenir à s'y installer."
+        }
+      ]
+    },
+    {
+      "id": "SOM-3",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "Deux Somalies réunies",
+      "short": "Le pays est partagé entre l'Italie au sud et le Royaume-Uni au nord. En 1960, les deux colonies s'unissent pour former la République somalie indépendante.",
+      "long": "La conquête puis l'administration italiennes, à partir de 1908, ont été particulièrement sanglantes. En 1940, l'Italie envahit même la Somalie britannique, avec quelque 40 000 hommes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Le pays est par la suite divisé par le Royaume-Uni et l'Italie, qui le partitionnent en deux colonies : la Somalie italienne au sud et la Somalie britannique au nord."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Après la Seconde Guerre mondiale, les deux colonies sont unifiées pour former la République somalie indépendante en 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "La conquête militaire, entreprise à partir de 1908, est sanglante, tout comme l'administration italienne par la suite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Le 3 août 1940 (ou le 4 selon d'autres sources), environ 40 000 Italiens envahissent la Somalie britannique"
+        }
+      ]
+    },
+    {
+      "id": "SOM-4",
+      "topic": "histoire",
+      "era": "1969-1991",
+      "title": "De la dictature à l'effondrement de l'État",
+      "short": "En 1969, le général Siad Barre prend le pouvoir par un coup d'État et impose une dictature. Son régime s'effondre en 1991 ; la Somalie s'enfonce alors dans une longue guerre civile, sans autorité centrale durable.",
+      "long": "La même année, le Somaliland, l'ancienne colonie britannique du nord, proclame unilatéralement son indépendance, que la communauté internationale ne reconnaît pas. En 1993, l'intervention internationale tourne au fiasco lors de la bataille de Mogadiscio.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "En 1969, Mohamed Siad Barre prend le pouvoir lors d'un coup d'État et impose une dictature communiste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Son régime est renversé en 1991 par la révolution somalienne, qui voit aussi l'indépendance unilatéralement déclarée du Somaliland dans la zone de l'ancienne colonie britannique, bien qu'elle ne soit toujours pas reconnue par la communauté internationale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Au cours des décennies suivantes, la Somalie est qualifiée d'État en déliquescence en raison du manque prolongé d'une autorité gouvernementale centrale permanente, de la continuation de la guerre civile"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Somalie",
+          "quote": "Celle-ci est un fiasco, symbolisé par la bataille de Mogadiscio en octobre 1993"
+        }
+      ]
+    },
+    {
+      "id": "SOM-5",
+      "topic": "drapeau",
+      "era": "1954",
+      "title": "Une étoile pour cinq territoires",
+      "short": "Adopté en 1954, le drapeau devait ressembler à celui de l'ONU, qui a accompagné l'indépendance. Les cinq branches de son étoile représentent les cinq territoires peuplés de Somalis, dont Djibouti, l'Ogaden éthiopien et le nord du Kenya.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Somalie",
+          "quote": "Il est adopté le 12 octobre 1954."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Somalie",
+          "quote": "le drapeau devait ressembler au drapeau de l'ONU qui a aidé la Somalie à gagner son indépendance de l'Italie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Somalie",
+          "quote": "Les cinq branches de l'étoile symbolisent les cinq zones où vivent les Somalis : la Somalie britannique, la Somalie italienne, la Somalie française (Djibouti), l'Ogaden (Éthiopie) et le Nord du Kenya."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SOM-C1",
+      "topic": "histoire",
+      "era": "1331",
+      "title": "La cité que visita Ibn Battuta",
+      "short": "Attestée dès le Xe siècle, Mogadiscio est visitée en 1331 par le voyageur Ibn Battuta. Il décrit une ville immense, avec des tours de six étages, de grands palais et de grandes mosquées, gouvernée par un sultan vêtu de soie.",
+      "long": "Ses marchands exportaient leurs textiles jusqu'en Égypte, à Jérusalem et dans toute la Méditerranée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mogadiscio",
+          "quote": "L'existence de Mogadiscio est attestée dès le Xe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mogadiscio",
+          "quote": "Ibn Battuta qui visite la ville en 1331, la décrit comme une ville immense avec des tours de six étages, de grands palais et de grandes mosquées."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mogadiscio",
+          "quote": "La cité était alors gouvernée par un sultan somali habillé des plus belles soies"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mogadiscio",
+          "quote": "De riches marchands y commercent et elle est renommée pour la qualité du textile qu'elle exporte jusqu'en Égypte, à Jérusalem et dans toute la Méditerranée."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe de la Corne de l'Afrique, en forme de « 7 » : une très longue côte sur le golfe d'Aden au nord et l'océan Indien à l'est, avec l'Éthiopie, Djibouti et le Kenya à l'intérieur des terres.",
+    "flag": "Une seule étoile blanche au centre d'un fond bleu ciel. Le Viêt Nam a une étoile jaune sur rouge ; le drapeau de l'ONU, qui l'a inspiré, est du même bleu.",
+    "capital": "Mogadiscio, sur la côte de l'océan Indien, la grande cité marchande décrite par Ibn Battuta."
+  }
+}

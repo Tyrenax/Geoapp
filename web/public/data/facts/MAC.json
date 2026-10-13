@@ -1,0 +1,102 @@
+{
+  "id": "MAC",
+  "facts": [
+    {
+      "id": "MAC-1",
+      "topic": "histoire",
+      "era": "1557",
+      "title": "Les Portugais s'installent",
+      "short": "En 1557, les autorités chinoises autorisent les Portugais à s'établir à Macao de façon permanente, contre le paiement d'une « rente foncière » au trésor impérial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "En 1557, les autorités chinoises accordent finalement l'autorisation aux Portugais de s'y établir de façon permanente, en échange du paiement d'une « rente foncière » faite au trésor impérial (près de 500 taels d'argent)"
+        }
+      ]
+    },
+    {
+      "id": "MAC-2",
+      "topic": "histoire",
+      "title": "La baie de la déesse A-Má",
+      "short": "Quand les marins portugais demandent le nom du lieu, les habitants répondent « A-Ma Kong », la baie d'A-Má, du nom d'un temple dédié à cette déesse. Le mot devient Amacao, puis Macao.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "Le nom portugais, Macau, provient de l'approximation phonétique de la réponse donnée par les habitants quand les marins portugais demandèrent comment s'appelait ce lieu : « A-Ma Kong » (baie d'A-Má en cantonais), nom qui doit son existence au temple en l'honneur de la déesse A-Má qui s'y trouvait. A-Ma Kong est devenu Amacao, dont la première mention est faite en 1555 par l'écrivain et explorateur portugais Fernão Mendes Pinto, Macao et, en portugais, Macau."
+        }
+      ]
+    },
+    {
+      "id": "MAC-3",
+      "topic": "histoire",
+      "era": "1887-1999",
+      "title": "Du traité de 1887 à la rétrocession",
+      "short": "En 1887, un traité reconnaît au Portugal l'occupation perpétuelle de Macao. La république populaire de Chine le juge inégal et donc invalide. Le territoire redevient chinois le 20 décembre 1999, comme région administrative spéciale, sous le principe « un pays, deux systèmes ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "En 1887, le Portugal organise avec le faible gouvernement chinois de l'époque le Traité d'amitié et de commerce sino-portugais, qui reconnaît et légitime l'occupation perpétuelle de Macao et de ses dépendances par le Portugal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "1949 marque la fondation de la république populaire de Chine (RPC) à caractère communiste et anticolonialiste. La nouvelle République liste le Traité de l'amitié et du commerce sino-portugais parmi les nombreux traités inégaux imposés par les puissances européennes à la Chine et déclarés invalides en conséquence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "Depuis le 20 décembre 1999, la « région administrative spéciale de Macao de la république populaire de Chine » (RASM) est régie selon les principes du gouvernement central de la république populaire de Chine, soit « un pays, deux systèmes »"
+        }
+      ]
+    },
+    {
+      "id": "MAC-4",
+      "topic": "economie",
+      "title": "Le Las Vegas de l'Orient",
+      "short": "Avec ses nombreux casinos, qui lui procurent les trois quarts de ses revenus, Macao est surnommée le Las Vegas de l'Orient. Le chiffre d'affaires de ses casinos est quatre fois plus élevé qu'à Las Vegas.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "Grâce à son grand nombre de casinos dont elle tire les trois quarts de ses revenus grâce aux énormes mises placées sur les tables de baccara des salons VIP, Macao est appelé le Las Vegas de l'Orient."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "Le chiffre d'affaires des casinos y est notamment quatre fois plus élevé qu'à Las Vegas,"
+        }
+      ]
+    },
+    {
+      "id": "MAC-5",
+      "topic": "geographie",
+      "title": "Deux îles soudées par la mer",
+      "short": "Macao, c'est une péninsule et deux anciennes îles, Taipa et Coloane, reliées depuis 1997 par des terres gagnées sur la mer : Cotai, nom formé de leurs premières syllabes. Les grands casinos du Cotai Strip y ont été construits à partir de 2005.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "La région administrative spéciale de Macao se compose de la péninsule de Macao et de deux anciennes îles, Taipa et Coloane, qui ne forment plus qu'une masse terrestre depuis 1997 quand elles furent reliées par des terres gagnées sur la mer (l'isthme de Cotai),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Macao",
+          "quote": "C'est sur ces terrains appelés Cotai, contraction des premières syllabes de Coloane et Taipa, que furent construits les casinos du Cotai Strip à partir de 2005."
+        }
+      ]
+    },
+    {
+      "id": "MAC-6",
+      "topic": "drapeau",
+      "era": "1999",
+      "title": "Un lotus sur un pont",
+      "short": "Le drapeau de Macao est vert, avec un lotus blanc au-dessus d'un pont et de l'eau, sous une arche de cinq étoiles jaunes : celles du drapeau chinois. Il remplace les drapeaux portugais le 19 novembre 1999.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Macao",
+          "quote": "Le drapeau de Macao est vert frappé d'un lotus blanc flottant au-dessus d'un pont et surmonté d'une arche formée de cinq étoiles jaunes (celle du centre étant légèrement plus grosse). Ces cinq étoiles sont celles figurant sur le drapeau de la république populaire de Chine (RPC). La plus grosse représente le Parti communiste chinois (PCC) et les quatre plus petites gravitant autour sont les différentes classes de la société réunies autour du PCC : ouvriers, paysans, soldats et intellectuels.\nIl a été créé par un professeur d'art, Xiao Hong, et a été choisi parmi plus de mille propositions. Il est approuvé en 1993. Le 19 novembre 1999 les anciens drapeaux portugais sont remplacés par ce nouveau drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Un minuscule territoire sur la côte sud de la Chine, à l'ouest de l'embouchure de la rivière des Perles, en face de Hong Kong.",
+    "flag": "Vert, avec une fleur de lotus blanche et cinq étoiles jaunes en arc. Hong Kong, sa voisine, a un fond rouge avec une fleur de bauhinia.",
+    "capital": "Macao est une région de la Chine : elle n'a pas de capitale propre."
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": "GMB",
+  "facts": [
+    {
+      "id": "GMB-1",
+      "topic": "geographie",
+      "title": "Un pays dessiné par un fleuve",
+      "short": "La Gambie est une longue bande de terre sinueuse qui suit le fleuve Gambie sur plus de 320 km. Hormis sa façade atlantique, elle est entièrement entourée par le Sénégal. C'est le plus petit pays d'Afrique continentale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Longue bande de terre sinueuse",
+          "to": "au nord, au sud et à l'est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Sa superficie est de 11 300 km2",
+          "to": "la plus petite superficie)"
+        }
+      ]
+    },
+    {
+      "id": "GMB-2",
+      "topic": "histoire",
+      "era": "1446-1455",
+      "title": "Le fleuve de l'or et des esclaves",
+      "short": "Le Portugais Nuno Tristão atteint l'embouchure du fleuve Gambie en 1446. Henri le Navigateur, persuadé que le fleuve regorge d'or, s'obstine ; dès 1455, les Portugais y installent des comptoirs de traite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "C'est Nuno Tristão qui fut le premier européen",
+          "to": "en 1446."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "Henri le Navigateur était cependant trop obstiné",
+          "to": "pour abandonner."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "En 1455, les Portugais installent des comptoirs",
+          "to": "la traite des Noirs."
+        }
+      ]
+    },
+    {
+      "id": "GMB-3",
+      "topic": "histoire",
+      "era": "1651-1661",
+      "title": "Une colonie de la lointaine Courlande",
+      "short": "De 1651 à 1661, une île du fleuve Gambie appartient au duché de Courlande, vassal de la république polono-lituanienne des Deux Nations. Les Anglais la prennent en 1661 et la rebaptisent île James.",
+      "long": "Le nom honore le futur roi d'Angleterre Jacques II, alors directeur de la compagnie. Le fort James y sert pendant des siècles d'escale pour la traite des esclaves.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "De 1651 à 1661, une partie de la Gambie",
+          "to": "son duché de Courlande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "Il occupe James Island, toujours officiellement courlande",
+          "to": "futur roi d’Angleterre Jacques II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Le Fort James sert de base commerciale",
+          "to": "(Gorée, îles de Loos…)."
+        }
+      ]
+    },
+    {
+      "id": "GMB-4",
+      "topic": "histoire",
+      "era": "1965-1970",
+      "title": "Un royaume avant d'être une république",
+      "short": "La Gambie devient indépendante le 18 février 1965, d'abord comme royaume du Commonwealth. Un premier référendum échoue ; un second fait d'elle une république le 24 avril 1970, avec Dawda Jawara pour président.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "La Gambie acquiert son indépendance le 18 février 1965",
+          "to": "en qualité de royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Un référendum sur le passage à une république",
+          "to": "dans les premières années de son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Le 24 avril 1970, à la suite d'un second référendum",
+          "to": "au sein du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "En 1970, la république est proclamée",
+          "to": "en devient le premier président."
+        }
+      ]
+    },
+    {
+      "id": "GMB-5",
+      "topic": "histoire",
+      "era": "1982-1989",
+      "title": "La Sénégambie, une union éphémère",
+      "short": "De 1982 à 1989, la Gambie et le Sénégal forment une confédération, la Sénégambie. L'idée était ancienne : au XIXe siècle, le Français Faidherbe rêvait déjà d'une « belle Sénégambie compacte ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "La Gambie est unie au Sénégal de 1982 à 1989",
+          "to": "la Confédération de Sénégambie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Gambie",
+          "from": "La France souhaite acquérir la Gambie",
+          "to": "« une belle Sénégambie compacte »."
+        }
+      ]
+    },
+    {
+      "id": "GMB-6",
+      "topic": "drapeau",
+      "era": "1965",
+      "title": "Le fleuve au milieu du drapeau",
+      "short": "Rouge, bleu et vert, séparés par deux fines bandes blanches : la bande bleue centrale représente le fleuve Gambie qui traverse le pays, entre le rouge du soleil et de la savane et le vert des forêts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Gambie",
+          "from": "Il consiste en trois bandes horizontales",
+          "to": "séparées par des lignes blanches."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Gambie",
+          "from": "Le rouge en haut, symbolisant le soleil",
+          "to": "représentant l'union et la paix."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GMB-C1",
+      "topic": "histoire",
+      "era": "1973",
+      "title": "De Bathurst à Banjul",
+      "short": "Bâtie sur une île à l'embouchure du fleuve Gambie, la capitale s'appelait Bathurst jusqu'au 24 avril 1973. Son nom actuel viendrait de Bandjougou, un réfugié venu du Manding selon la tradition.",
+      "long": "En 1943, le président américain Franklin Roosevelt fit escale à Bathurst avant la conférence de Casablanca : la première visite d'un président américain en exercice en Afrique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Banjul",
+          "from": "La ville de Banjul est située sur l'île Sainte-Marie",
+          "to": "dans l'océan Atlantique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Banjul",
+          "from": "Du XIXe siècle jusqu'au 24 avril 1973",
+          "to": "sous le nom de Bathurst."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Banjul",
+          "from": "Une histoire traditionnelle raconte que Bandjougou",
+          "to": "en « Bandjoulou »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gambie",
+          "from": "Fait anecdotique, le président américain Franklin Delano Roosevelt",
+          "to": "sur le continent africain."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le doigt glissé dans le Sénégal : une bande étroite de part et d'autre du fleuve Gambie, qui s'enfonce de la côte atlantique vers l'intérieur, au sud de Dakar.",
+    "flag": "Rouge, bleu, vert en bandes horizontales, le bleu séparé des deux autres par de fins liserés blancs. Le bleu au milieu, c'est le fleuve qui coupe le pays en deux.",
+    "capital": "Banjul est sur une île à l'embouchure du fleuve Gambie : la capitale garde la porte du pays."
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "id": "COK",
+  "facts": [
+    {
+      "id": "COK-1",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "Un point de départ vers la Nouvelle-Zélande",
+      "short": "Selon la tradition orale, les îles Cook sont peuplées à partir du VIIIe ou du IXe siècle par des vagues venues des Samoa et de Polynésie orientale. Elles furent l'une des bases de départ des migrations polynésiennes vers la Nouvelle-Zélande.",
+      "long": "La traversée de la pirogue Takitumu, partie de Rarotonga vers la fin du XIIIe siècle pour l'île du Nord, est confirmée à la fois par la tradition orale et par l'archéologie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Selon la tradition orale, les Îles Cook auraient été peuplées",
+          "to": "des îles Marquises et des îles Australes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Les Îles Cook furent également l'une des bases de départ",
+          "to": "par la tradition orale et l'archéologie."
+        }
+      ]
+    },
+    {
+      "id": "COK-2",
+      "topic": "histoire",
+      "era": "1773-1888",
+      "title": "Le nom d'un capitaine, donné par un autre",
+      "short": "James Cook visite plusieurs îles entre 1773 et 1777. Mais c'est le navigateur Krusenstern qui emploie le premier le nom d'« îles Cook », en 1804, pour le groupe du sud ; l'archipel entier ne le prend officiellement qu'avec le protectorat britannique de 1888.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Au cours de sa deuxième circumnavigation, James Cook visita",
+          "to": "Mangaia et Atiu (mars 1777)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "En 1804, le nom d'Îles Cook fut employé pour la première fois",
+          "to": "le nom d'îles Hervey."
+        }
+      ]
+    },
+    {
+      "id": "COK-3",
+      "topic": "histoire",
+      "era": "1843-1900",
+      "title": "La colonie d'une colonie",
+      "short": "Craignant les Français, installés à Tahiti en 1842, les chefs demandent dès 1843 la protection britannique, accordée seulement en 1888. Le 7 octobre 1900, les îles sont annexées par la Nouvelle-Zélande, alors que la plupart des insulaires refusaient de devenir la « colonie d'une colonie ».",
+      "long": "Les maladies apportées par les Européens avaient auparavant décimé la population maorie de Rarotonga, tombée en quelques années d'environ 7 000 à 2 000 habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "En 1843, alors que les Français venaient de prendre le contrôle",
+          "to": "en instaurant un protectorat."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Ne souhaitant pas devenir la « colonie d'une colonie »",
+          "to": "annexées le 7 octobre 1900 par la Nouvelle-Zélande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Les Européens amenèrent également des maladies",
+          "to": "à environ 2 000."
+        }
+      ]
+    },
+    {
+      "id": "COK-4",
+      "topic": "politique",
+      "era": "1965",
+      "title": "Un État en libre association",
+      "short": "Depuis le 4 août 1965, les îles Cook sont un État autonome en libre association avec la Nouvelle-Zélande, qui gère leur défense et leurs affaires étrangères. Leurs habitants sont automatiquement citoyens néo-zélandais.",
+      "long": "En juin 2025, la Nouvelle-Zélande a suspendu son aide financière après la signature d'un accord de partenariat entre les îles Cook et la Chine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Les Îles Cook bénéficient depuis la constitution du 4 août 1965",
+          "to": "ayant le statut d'État associé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Bien que les Îles Cook soient un État indépendant depuis 1965",
+          "to": "gérées par la Nouvelle-Zélande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "Ce statut particulier leur permet ainsi de recevoir une aide financière",
+          "to": "automatiquement citoyens néo-zélandais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Cook",
+          "from": "En juin 2025, Le gouvernement néo-zélandais suspend",
+          "to": "signé avec la Chine en 2025."
+        }
+      ]
+    },
+    {
+      "id": "COK-5",
+      "topic": "drapeau",
+      "era": "1973-1979",
+      "title": "Quinze étoiles, trois drapeaux",
+      "short": "Le drapeau bleu porte l'Union Jack et un cercle de quinze étoiles : une par île. C'est le troisième drapeau du pays : en 1974, le Premier ministre Albert Henry avait imposé un drapeau vert et or, aux couleurs de son parti ; son successeur Tom Davis, arrivé au pouvoir en 1978, l'a remplacé l'année suivante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cook",
+          "from": "C'est une enseigne bleue contenant le drapeau de l'Union",
+          "to": "quinze étoiles dans un anneau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cook",
+          "from": "Les étoiles représentent les quinze îles",
+          "to": "Rarotonga et Mangaia)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cook",
+          "from": "Le nouveau drapeau a été hissé pour la première fois le 24 janvier 1974.",
+          "to": "le 24 janvier 1974."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cook",
+          "from": "C'est le gouvernement de Albert Henry",
+          "to": "décalant simplement les étoiles vers la droite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Cook",
+          "from": "Lorsque le Parti démocrate arriva au pouvoir en 1978",
+          "to": "depuis son indépendance en 1965."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "COK-C1",
+      "topic": "culture",
+      "title": "Les deux passes",
+      "short": "Avarua signifie « les deux passes » en maori : la ville fait face aux deux principales passes du récif de Rarotonga, ce qui lui a permis de se développer plus vite que le reste de l'île. Elle regroupe près de la moitié de la population du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Avarua",
+          "from": "Faisant face aux deux principales passes récifales de l'île",
+          "to": "se développer plus rapidement que le reste de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Avarua",
+          "from": "Elle regroupe près de la moitié de la population cookienne.",
+          "to": "de la population cookienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Avarua",
+          "from": "Avarua se situe au nord de Rarotonga",
+          "to": "la plus grande île du pays."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux groupes d'îles éparpillés au cœur du Pacifique Sud, entre les Samoa et la Polynésie française, à l'est de Niue.",
+    "flag": "Bleu avec l'Union Jack et un grand cercle de quinze étoiles blanches à droite.",
+    "capital": "Avarua, « les deux passes », sur la côte nord de Rarotonga."
+  }
+}

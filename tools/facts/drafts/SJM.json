@@ -1,0 +1,135 @@
+{
+  "id": "SJM",
+  "facts": [
+    {
+      "id": "SJM-1",
+      "topic": "histoire",
+      "era": "1596",
+      "title": "Découvert par Barentsz",
+      "short": "Qui a découvert le Svalbard fait débat : des trappeurs russes y seraient peut-être venus dès le XIIIe siècle. La première découverte incontestable est celle du navigateur néerlandais Willem Barentsz, en 1596.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Il y a polémique quant à savoir qui a découvert le Svalbard.",
+          "to": "qui a découvert le Svalbard."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "D'autres avancent que des trappeurs russes",
+          "to": "dès le XIIIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Dans tous les cas, la première découverte incontestable",
+          "to": "Willem Barentsz en 1596."
+        }
+      ]
+    },
+    {
+      "id": "SJM-2",
+      "topic": "histoire",
+      "era": "1920",
+      "title": "Norvégien, mais ouvert à tous",
+      "short": "Le traité du Spitzberg, le 9 février 1920, reconnaît la souveraineté de la Norvège sur l'archipel, déclaré zone démilitarisée. Mais les citoyens de divers pays ont le droit d'en exploiter les ressources « sur un pied d'égalité absolu ».",
+      "long": "La Norvège en prend l'administration en 1925 et rebaptise l'archipel Svalbard, en réservant le nom de Spitzberg à l'île principale. Les étrangers peuvent y vivre et y travailler sans visa ni permis de travail.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Par le traité concernant le Spitzberg du 9 février 1920",
+          "to": "« zone démilitarisée »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Cependant, selon les termes de ce traité",
+          "to": "« sur un pied d'égalité absolu »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "La Norvège récupéra en 1925 l'administration du Spitzberg",
+          "to": "Spitzberg occidental (Vestspitsbergen)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Ces îles bénéficient d'un statut particulier",
+          "to": "sans visa ou permis de travail."
+        }
+      ]
+    },
+    {
+      "id": "SJM-3",
+      "topic": "histoire",
+      "title": "Des villages russes en terre norvégienne",
+      "short": "Le Svalbard compte des installations russes, comme Barentsburg. Il fut même un temps où les Russes y étaient bien plus nombreux que les Norvégiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Les hameaux du Svalbard, tous sur Spitzberg",
+          "to": "Barentsburg, en russe Баренцбург : installation russe ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Il fut un temps où la population russe du Spitzberg",
+          "to": "ce n'est plus le cas désormais."
+        }
+      ]
+    },
+    {
+      "id": "SJM-4",
+      "topic": "culture",
+      "era": "2008",
+      "title": "Le coffre-fort des graines du monde",
+      "short": "Depuis février 2008, la Réserve mondiale de semences du Svalbard conserve à −18 °C des semences de toutes les cultures vivrières de la planète, pour protéger l'agriculture contre les catastrophes et le changement climatique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Un important dépôt de semences",
+          "to": "d'origine naturelle ou humaine."
+        }
+      ]
+    },
+    {
+      "id": "SJM-5",
+      "topic": "geographie",
+      "title": "Ours polaires et volcan arctique",
+      "short": "Au Svalbard vivent l'ours polaire, le renard polaire et une petite variété de renne. Quant à Jan Mayen, c'est le sommet d'un volcan, le Beerenberg, qui culmine à 2 277 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "from": "Quatre espèces de mammifères terrestres",
+          "to": "le campagnol d'Ondrias."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Jan_Mayen",
+          "from": "L'île est le sommet émergé d'un volcan",
+          "to": "à 2 277 mètres d'altitude."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SJM-C1",
+      "topic": "histoire",
+      "era": "1906",
+      "title": "La ville d'un Américain",
+      "short": "Longyearbyen doit son nom à l'homme d'affaires américain John Munro Longyear, qui la fonde en 1906 pour exploiter le charbon. Elle peut être considérée comme la ville la plus septentrionale de la Terre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Longyearbyen",
+          "from": "La ville tire son nom de John Munro Longyear",
+          "to": "pour exploiter le charbon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Longyearbyen",
+          "from": "Longyearbyen est une des localités les plus nordiques",
+          "to": "pour constituer une ville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Tout au nord de l'Europe, dans l'océan Arctique : l'archipel du Svalbard, à mi-chemin entre la Norvège et le pôle Nord ; l'île Jan Mayen est seule, plus au sud-ouest, entre l'Islande et la Norvège.",
+    "flag": "Ces territoires norvégiens n'ont pas de drapeau propre : on y utilise le drapeau de la Norvège, une croix bleue bordée de blanc sur fond rouge.",
+    "capital": "Longyearbyen, « la ville de Longyear », l'une des villes les plus au nord du monde."
+  }
+}

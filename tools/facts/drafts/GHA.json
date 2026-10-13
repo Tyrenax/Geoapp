@@ -1,0 +1,204 @@
+{
+  "id": "GHA",
+  "facts": [
+    {
+      "id": "GHA-1",
+      "topic": "histoire",
+      "era": "1471-1482",
+      "title": "La Côte-de-l'Or et le fort d'Elmina",
+      "short": "Les Portugais débarquent sur cette côte en 1471 et l'appellent bientôt la Côte-de-l'Or, pour ses très nombreuses mines. En 1482, ils construisent à Elmina la forteresse de Saint-Georges-de-la-Mine pour protéger leur commerce.",
+      "long": "La côte attire ensuite d'autres Européens, Néerlandais et Suédois notamment, qui y bâtissent forts et comptoirs. Les Britanniques finissent par absorber tous ces établissements dans leur colonie de la Gold Coast.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "En 1471, les Portugais débarquent sur la côte du futur Ghana",
+          "to": "(Côte-de-l’Or)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Le nom colonial de Côte-de-l'Or vient des très nombreuses mines d'or",
+          "to": "par l'ethnie ashanti"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Pour protéger ce commerce de l'or des marchands interlopes",
+          "to": "(Elmina)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Côte de l'Or Compagnie portugaise des Indes orientales 1612-1672",
+          "to": "Compagnie suédoise d'Afrique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "La Côte-de-l'Or britannique (1821-1957) résulte de l'absorption",
+          "to": "des autres puissances coloniales"
+        }
+      ]
+    },
+    {
+      "id": "GHA-2",
+      "topic": "histoire",
+      "era": "1701",
+      "title": "L'Empire ashanti et le tabouret d'or",
+      "short": "En 1701, la confédération ashanti l'emporte à Feyiase et devient la grande puissance de la région, avec Kumasi pour capitale. Son objet le plus sacré est le « tabouret d'or », le trône royal où résident, selon la croyance, les esprits des ancêtres.",
+      "long": "Le tabouret est toujours soigneusement gardé à Kumasi, au palais de l'Asantehene, le roi des Ashantis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "À la suite de la bataille de Feyiase en 1701",
+          "to": "l'établissement de l'hégémonie ashantie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Les gouvernements Ashanti fonctionnent d'abord comme un réseau lâche",
+          "to": "avec comme capitale Kumasi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Le symbole le plus sacré des gens de Ashanti",
+          "to": "selon les croyances animistes locales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Il est soigneusement gardé à Kumasi",
+          "to": "siège du palais de l’Asantehene."
+        }
+      ]
+    },
+    {
+      "id": "GHA-3",
+      "topic": "histoire",
+      "era": "1957",
+      "title": "Le pionnier des indépendances africaines",
+      "short": "Le 6 mars 1957, sous la conduite de Kwame Nkrumah, la Gold Coast devient indépendante : la première colonie à obtenir son indépendance après le Soudan.",
+      "long": "Panafricaniste, Nkrumah devient président en 1960. Sa politique lui vaut l'hostilité des pays occidentaux ; la CIA écrit qu'il « faisait plus pour saper nos intérêts qu'aucun autre noir africain ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Nkrumah, fort de son succès, obligea alors le Royaume-Uni",
+          "to": "le 6 mars 1957."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "La Côte-de-l'Or devint ainsi la première colonie",
+          "to": "après le Soudan (1956)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "L'un des principaux hommes politiques du Ghana fut le panafricaniste",
+          "to": "(1909-1972)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "En 1960, Nkrumah devient naturellement",
+          "to": "premier président du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Ces initiatives valent à Nkrumah l'hostilité",
+          "to": "qu'aucun autre noir africain."
+        }
+      ]
+    },
+    {
+      "id": "GHA-4",
+      "topic": "histoire",
+      "era": "1957",
+      "title": "Un nom emprunté à un empire lointain",
+      "short": "Le jour de l'indépendance, Nkrumah abandonne le nom colonial de Côte-de-l'Or pour celui de Ghana, en hommage à l'empire médiéval du Ghana. Pourtant, cet empire n'avait aucun lien géographique ou historique direct avec le pays.",
+      "long": "L'empire du Ghana, décrit au XIe siècle par le géographe andalou al-Bakri, devait lui-même son nom au titre de son empereur, le « ghana ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Le jour même de l’indépendance, Nkrumah décida",
+          "to": "en référence à l'empire du Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "Le Ghana moderne n'a pas de liens géographiques",
+          "to": "avec l'empire du Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Cet Empire a lui-même été désigné en Europe et en Arabie",
+          "to": "le titre de son empereur, le Ghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Al-Bakri (1014-1094), compilateur andalou",
+          "to": "décrit le royaume"
+        }
+      ]
+    },
+    {
+      "id": "GHA-5",
+      "topic": "geographie",
+      "title": "Là où se rejoignent les Volta",
+      "short": "La Volta Noire, la Volta Blanche et d'autres rivières se rejoignent au Ghana pour former le lac Volta.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ghana",
+          "from": "La Volta Noire, la Volta Blanche ainsi que les rivières",
+          "to": "pour former le lac Volta."
+        }
+      ]
+    },
+    {
+      "id": "GHA-6",
+      "topic": "drapeau",
+      "era": "1957",
+      "title": "L'étoile noire de Marcus Garvey",
+      "short": "Dessiné en 1957 par Theodosia Okoh, le drapeau porte une étoile noire sur des bandes rouge, jaune et verte. Cette étoile rend hommage au militant panafricain Marcus Garvey et à sa compagnie maritime, la Black Star Line.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "from": "Le drapeau national du Ghana est élaboré en remplacement",
+          "to": "adopté dès l'indépendance du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "from": "Au centre de la bande jaune, se trouve une étoile noire",
+          "to": "à cinq branches."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Ghana",
+          "from": "L'étoile noire est un hommage au militant panafricain",
+          "to": "la Black Star Line"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GHA-C1",
+      "topic": "histoire",
+      "era": "1677-1874",
+      "title": "Du royaume ga à la capitale coloniale",
+      "short": "En 1677, Accra devient la capitale d'un royaume côtier ga. En 1874, elle remplace Cape Coast comme capitale de la colonie britannique de la Côte-de-l'Or.",
+      "long": "Dans les années 1850, le fils de James Bannerman, un métis nommé lieutenant-gouverneur de la colonie, fonde le premier journal africain du pays : l'Accra Herald.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Accra",
+          "from": "En 1677, Accra devient la capitale d'un royaume côtier Ga.",
+          "to": "royaume côtier Ga."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Accra",
+          "from": "En 1874, Accra remplace Cape Coast",
+          "to": "colonie britannique de Côte-de-l'Or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Ghana",
+          "from": "Dans les années 1850, un métis né de père écossais",
+          "to": "l'Accra Herald."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte du golfe de Guinée, entre la Côte d'Ivoire à l'ouest et le Togo à l'est, avec le Burkina Faso au nord. Le grand lac Volta occupe son centre-est.",
+    "flag": "Rouge, jaune, vert en bandes horizontales, avec une étoile noire au milieu. La Bolivie a les mêmes couleurs sans étoile ; la Guinée et le Mali les mettent en bandes verticales.",
+    "capital": "Accra, sur la côte : « Accra, accrochée à l'Atlantique »."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "NPL",
+  "facts": [
+    {
+      "id": "NPL-1",
+      "topic": "histoire",
+      "title": "Le pays natal du Bouddha",
+      "short": "Siddhartha Gautama, le futur Bouddha, est né à Lumbini, dans le Teraï népalais. Ses dates exactes restent incertaines.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Népal",
+          "quote": "Enfin, Siddhartha Gautama (peut-être 623-543 ou 563-483), est né à Lumbini (Teraï), de la tribu Shakya, futur \"Bouddha\"."
+        }
+      ]
+    },
+    {
+      "id": "NPL-2",
+      "topic": "histoire",
+      "era": "1768",
+      "title": "L'unification par le roi de Gorkha",
+      "short": "Le Népal moderne naît en 1768, quand Prithivî Nârâyan Shâh, chef de la petite principauté de Gorkha, unifie plusieurs États des contreforts de l'Himalaya. Sa dynastie, les Shah, règne jusqu'en 2008.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "Le Népal moderne est fondé dans la deuxième moitié du XVIIIe siècle lorsque Prithivî Nârâyan Shâh, le chef de la petite principauté de Gorkha, unifie un certain nombre d'États indépendants des contreforts de l'Himalaya en 1768."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Katmandou",
+          "quote": "installe la dynastie Shah (1768-2008) et unifie le royaume du Népal."
+        }
+      ]
+    },
+    {
+      "id": "NPL-3",
+      "topic": "histoire",
+      "era": "2001-2008",
+      "title": "Du massacre royal à la république",
+      "short": "En 2001, le roi Birendra, la reine et leurs enfants sont abattus au cours d'un dîner. Affaiblie, contestée par la rue et par une rébellion maoïste, la monarchie est abolie le 28 mai 2008 : le Népal devient une république démocratique fédérale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "C'est dans ce contexte qu'en 2001, le roi Birendra, la reine Aiswarya, le prince héritier Dipendra et les autres enfants du couple royal sont abattus au cours d'un dîner."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "En 2006, face à la pression de la rue et à l'avancée des maoïstes qui chassent les forces gouvernementales des régions rurales,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "L'élection d'une Assemblée constituante le 10 avril 2008 voit alors la victoire des maoïstes ; sa séance inaugurale le 28 mai suivant confirme l'abolition de la monarchie et son remplacement par une république démocratique fédérale."
+        }
+      ]
+    },
+    {
+      "id": "NPL-4",
+      "topic": "geographie",
+      "title": "Le toit du monde",
+      "short": "Le Népal possède huit des dix plus hautes montagnes du monde, dont l'Everest, à la frontière du Tibet. Son altitude varie de 60 m dans le Teraï à 8 849 m au sommet de l'Everest.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "Il possède huit montagnes parmi les dix plus hautes du monde, dont, à l'est l'Everest (Sagarmatha en népalais) qui marque la frontière avec une partie de la région tibétaine de Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "L'altitude varie de 60 mètres dans le Téraï à 8 849 mètres au sommet du Chomolungma (Everest)."
+        }
+      ]
+    },
+    {
+      "id": "NPL-5",
+      "topic": "histoire",
+      "era": "2015",
+      "title": "Le séisme de 2015",
+      "short": "Le 25 avril 2015, un séisme de magnitude 7,8 frappe le Népal, suivi d'un second le 12 mai. Le bilan officiel des deux séismes est de 8 702 morts. Le pays est exposé aux tremblements de terre, car la plaque indienne s'enfonce sous la plaque eurasiatique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "Le Népal est une région soumise à des séismes fréquents en raison de la subduction de la plaque indienne sous la plaque eurasiatique, à l'origine de l'élévation de l'orogène Himalaya."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Népal",
+          "quote": "Le 25 avril 2015, un séisme de magnitude 7,8 a causé la mort de plus de 8 000 personnes et plus de 16 000 blessés. Le 12 mai 2015, un autre séisme de magnitude 7,3 frappe le Nord du Népal et se fait ressentir jusqu'à New Delhi, en Inde. Le 3 juin 2015, le gouvernement népalais publie un bilan de 8 702 morts et 22 493 blessés pour les deux séismes."
+        }
+      ]
+    },
+    {
+      "id": "NPL-6",
+      "topic": "drapeau",
+      "era": "1962",
+      "title": "Le seul drapeau non rectangulaire",
+      "short": "Deux triangles superposés, l'Himalaya, portant la lune et le soleil : c'est le seul drapeau national qui ne soit ni rectangulaire ni carré, et il est plus haut que large. Son rouge cramoisi est celui du rhododendron, la fleur nationale.",
+      "long": "Avant sa modernisation, en 1962, la lune et le soleil y avaient un visage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Népal",
+          "quote": "Il est le seul parmi les drapeaux nationaux qui ne soit pas rectangulaireou de sa variante carré (Suisse) et à être plus haut que large."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Népal",
+          "quote": "Le rouge cramoisi est la couleur nationale du pays. Il représente la bravoure des Népalais ainsi que le rhododendron, la fleur nationale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Népal",
+          "quote": "Les deux triangles représentent l'Himalaya ainsi que le bouddhisme et l'hindouisme."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Népal",
+          "quote": "Précédemment, la Lune et le Soleil étaient représentés avec un visage ; la modernisation du drapeau a été effectuée en 1962."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NPL-C1",
+      "topic": "culture",
+      "era": "1596",
+      "title": "La ville d'un temple en bois",
+      "short": "Katmandou tire son nom du Kaasthamandap, un temple de Durbar Square construit en 1596 entièrement en bois : kaasth signifie « bois » en sanskrit. La légende veut que tout ce bois provienne d'un seul arbre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Katmandou",
+          "quote": "La ville de Katmandou est nommée ainsi d'après un édifice situé à Durbar Square appelé Kaasthamandap d'après le sanskrit Kaasth (काष्ठ), « bois » et Mandap (मंडप/मण्डप), « refuge abrité ». Cet unique temple connu aussi sous le nom de Maru Satal (quartier Maru), a été construit en 1596 par le futur roi Lakshmi Narasimha Malla (en) (r. 1619-1641, dynastie Malla). L'édifice entier ne contient ni clou en fer, ni aucun support. Il est entièrement construit en bois. La légende veut que le bois utilisé pour sa construction ne provienne que d'un seul arbre."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une bande de montagnes coincée entre l'Inde au sud et la Chine (le Tibet) au nord, sur le versant sud de l'Himalaya.",
+    "flag": "Le seul drapeau qui n'est pas rectangulaire : deux triangles rouges empilés, bordés de bleu, avec une lune et un soleil blancs.",
+    "capital": "Katmandou, dans une vallée au centre du pays, entourée de montagnes."
+  }
+}

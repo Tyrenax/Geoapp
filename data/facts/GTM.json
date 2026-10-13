@@ -1,0 +1,108 @@
+{
+  "id": "GTM",
+  "facts": [
+    {
+      "id": "GTM-1",
+      "topic": "histoire",
+      "title": "Le pays des Mayas",
+      "short": "La civilisation maya apparaît environ 1 000 ans avant notre ère et s'étend sur presque tout le Guatemala actuel, où elle bâtit de nombreuses villes, dont Tikal.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "La civilisation maya est apparue environ 1 000 ans avant l'ère chrétienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "Elle s'est développée dans presque tout le Guatemala actuel, où elle a construit de nombreuses villes, dont Tikal."
+        }
+      ]
+    },
+    {
+      "id": "GTM-2",
+      "topic": "histoire",
+      "era": "1523",
+      "title": "La conquête brutale d'Alvarado",
+      "short": "À partir de 1523, le conquistador Pedro de Alvarado détruit les cités et soumet brutalement les royaumes mayas des Hautes-Terres, en profitant de leurs rivalités. Le dernier royaume maya, protégé par la jungle du Petén, résiste bien plus longtemps.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "Les troupes espagnoles menées par Pedro de Alvarado détruisirent et soumirent brutalement ces États entre 1523 et 1524, grâce à leur supériorité technologique et aux antagonismes entre royaumes mayas des Hautes-Terres du Guatemala ; protégé par son relatif isolement dans la jungle du Petén, le dernier État maya, le royaume itzá de Tayasal, ne succomba aux Espagnols"
+        }
+      ]
+    },
+    {
+      "id": "GTM-3",
+      "topic": "histoire",
+      "era": "1954",
+      "title": "La réforme agraire balayée",
+      "short": "En juin 1954, le président Jacobo Árbenz Guzmán lance une réforme agraire qui oblige la United Fruit Company à céder une partie de ses terres en friche. Quelques semaines plus tard, la CIA le fait renverser : la réforme est abrogée et le pays bascule dans la dictature, puis dans la guerre civile.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "En juin 1954, son successeur Jacobo Árbenz Guzmán instaure une taxe sur les exportations, et décide une réforme agraire (le Décret 900) qui oblige entre autres la United Fruit Company à céder une partie importante de ses terres en friche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "Fin juin 1954, la CIA décide ainsi de renverser Árbenz Guzmán et installe à sa place une junte militaire, dirigée par le général Carlos Castillo Armas."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "La réforme agraire est abrogée et l'United Fruit récupère non seulement les terres, dont elle avait été expropriée, mais également des dizaines de milliers d'hectares de terres en friche, qui avaient été distribués aux paysans.\nLe président Guzmán démissionne le 27 juin 1954 et se réfugie à l'ambassade du Mexique. Le Guatemala tombe dans une dictature avec une répression féroce et s'enfonce dans la guerre civile pour 25 ans."
+        }
+      ]
+    },
+    {
+      "id": "GTM-4",
+      "topic": "histoire",
+      "title": "Le « lieu rempli d'arbres »",
+      "short": "Le nom Guatemala viendrait du nahuatl Cuauhtēmallān, « lieu rempli d'arbres », peut-être aussi « pays des Quichés ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "Son nom viendrait du nahuatl Cuauhtēmallān, qui peut se traduire par « lieu rempli d'arbres » et signifie peut-être « pays des Quichés »."
+        }
+      ]
+    },
+    {
+      "id": "GTM-5",
+      "topic": "drapeau",
+      "era": "1871",
+      "title": "Le quetzal, oiseau et monnaie",
+      "short": "Au centre du drapeau, adopté en 1871, un quetzal se pose sur la date de l'indépendance, le 15 septembre 1821. Les Mayas utilisaient ses longues plumes comme objets de luxe, et l'oiseau a donné son nom à la monnaie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Guatemala",
+          "quote": "Adopté en 1871, il est composé de trois bandes verticales, bleu ciel et blanche (milieu)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Guatemala",
+          "quote": "Un parchemin est surimprimé portant la mention Libertad 15 de SEPTIEMBRE de 1821 lui-même surmonté d'un quetzal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala",
+          "quote": "Sa monnaie nationale est le quetzal, faisant référence à l'oiseau sacré, dont les Mayas utilisaient les longues plumes de la queue comme objets de luxe."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GTM-C1",
+      "topic": "histoire",
+      "era": "1776",
+      "title": "Une capitale née d'un séisme",
+      "short": "Un tremblement de terre ayant détruit en grande partie l'ancienne capitale, Antigua Guatemala, le siège de la capitainerie générale est transféré en 1776 à Guatemala, la ville actuelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guatemala_(ville)",
+          "quote": "Elle prit de l'importance lorsqu'elle accueillit le siège de la capitainerie générale du Guatemala en 1776, à la suite d'un tremblement de terre ayant en grande partie détruit l'ancienne capitale, Antigua Guatemala."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Juste sous le Mexique, au nord-ouest de l'Amérique centrale : le Belize à l'est, le Honduras et le Salvador au sud-est, une côte sur le Pacifique et une petite ouverture sur les Caraïbes.",
+    "flag": "Bleu ciel, blanc, bleu ciel en bandes verticales, avec le quetzal et deux fusils croisés au centre. Le Nicaragua, le Honduras et le Salvador ont aussi du bleu et du blanc, mais en bandes horizontales.",
+    "capital": "La capitale porte le même nom que le pays : Guatemala, souvent appelée « Guatemala Ciudad »."
+  }
+}

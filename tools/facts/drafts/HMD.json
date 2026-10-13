@@ -1,0 +1,65 @@
+{
+  "id": "HMD",
+  "facts": [
+    {
+      "id": "HMD-1", "topic": "histoire", "era": "1853-1854",
+      "title": "Découvertes par des chasseurs de phoques",
+      "short": "L'île Heard porte le nom du capitaine américain John Heard, un chasseur de phoques qui l'observe le 25 novembre 1853 entre Boston et Melbourne. Quelques semaines plus tard, le 4 janvier 1854, le capitaine William McDonald découvre les îles voisines.",
+      "long": "Le Britannique Peter Kemp l'avait sans doute déjà aperçue en novembre 1833, en route des Kerguelen vers l'Antarctique.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "Le capitaine John Heard, un chasseur de phoques américain", "to": "découvre les îles McDonald le 4 janvier 1854."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "La première personne à avoir aperçu de façon probable l'île Heard", "to": "depuis les îles Kerguelen vers l'Antarctique."}
+      ]
+    },
+    {
+      "id": "HMD-2", "topic": "histoire", "era": "1855-1880",
+      "title": "Les années de l'huile de phoque",
+      "short": "De 1855 à 1880, des chasseurs de phoques américains passent parfois plus d'un an sur l'île Heard dans des conditions effroyables, jusqu'à 200 à la fois. Quand ils l'abandonnent, les phoques sont décimés : plus de 100 000 barils d'huile ont été produits.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "Entre 1855 et 1880, un certain nombre de chasseurs de phoques américains", "to": "plus de 100 000 barils d'huile de phoque sont produits."}
+      ]
+    },
+    {
+      "id": "HMD-3", "topic": "histoire", "era": "1947-1997",
+      "title": "Un patrimoine mondial sans habitants",
+      "short": "Les îles reviennent à l'Australie en 1947 et ne reçoivent depuis que des équipes scientifiques. Inhabitées, sans port ni activité économique, elles sont inscrites au patrimoine mondial de l'UNESCO en 1997.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "Les îles reviennent à l'Australie en 1947.", "to": "patrimoine mondial de l'UNESCO en 1997."},
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "Le territoire ne possède aucun port et aucune activité économique", "to": "aucune activité économique"}
+      ]
+    },
+    {
+      "id": "HMD-4", "topic": "geographie",
+      "title": "Les seuls volcans actifs d'Australie",
+      "short": "L'île Heard est dominée par le Big Ben, un volcan couronné par le Mawson Peak, qui crache régulièrement de la vapeur et parfois de la lave. Ce sont les seuls volcans actifs du territoire australien ; les glaciers recouvrent environ 70 % de l'île.",
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands", "from": "Heard Island is dominated by Big Ben", "to": "the volcanic cone Mawson Peak."},
+        {"url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands", "from": "The island is volcanically active", "to": "occasionally releasing flows of lava."},
+        {"url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands", "from": "The islands are considered one of the most isolated places on Earth", "to": "the only active volcanoes in Australian territory."},
+        {"url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands", "from": "About 70 percent of the island is covered by year-round glaciers", "to": "covered by year-round glaciers"}
+      ]
+    },
+    {
+      "id": "HMD-5", "topic": "geographie",
+      "title": "Le royaume des gorfous",
+      "short": "Plus d'un million de couples de gorfous macaroni se reproduisent sur l'île Heard, soit environ 20 % de la population mondiale de ces manchots.",
+      "sources": [
+        {"url": "https://en.wikipedia.org/wiki/Heard_Island_and_McDonald_Islands", "from": "With more than one million breeding pairs", "to": "20 percent of the world's macaroni penguins."}
+      ]
+    },
+    {
+      "id": "HMD-6", "topic": "economie", "era": "2025",
+      "title": "Des droits de douane pour les manchots",
+      "short": "Le 3 avril 2025, les États-Unis imposent des droits de douane de 10 % sur les biens venant de ces îles, pourtant sans habitants ni activité économique. La mesure fait le tour du monde et rend soudain célèbres les îles et leurs occupants… animaux.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Îles_Heard-et-MacDonald", "from": "Le 3 avril 2025, le président des États-Unis", "to": "à leurs occupants animaux."}
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Des îles perdues dans le sud de l'océan Indien, à mi-chemin entre Madagascar et l'Antarctique, juste au sud-est des Kerguelen françaises.",
+    "flag": "Pas de drapeau propre : c'est celui de l'Australie qui flotte ici.",
+    "capital": "Pas de capitale : les îles sont inhabitées et administrées depuis Hobart, en Tasmanie."
+  }
+}

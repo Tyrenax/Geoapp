@@ -1,0 +1,141 @@
+{
+  "id": "TKM",
+  "facts": [
+    {
+      "id": "TKM-1",
+      "topic": "histoire",
+      "title": "Merv, l'oasis géante",
+      "short": "L'histoire du Turkménistan remonte à plusieurs millénaires, comme le montre le site de Gonur-depe. Merv, l'une des plus anciennes villes-oasis d'Asie centrale, fut autrefois l'une des plus grandes villes du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "L'histoire du Turkménistan s'étend sur plusieurs millénaires, comme l'atteste le site archéologique de Gonur-depe, dans le désert du Karakoum."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Merv est l'une des plus anciennes villes-oasis d'Asie centrale et était autrefois l'une des plus grandes villes au monde."
+        }
+      ]
+    },
+    {
+      "id": "TKM-2",
+      "topic": "histoire",
+      "era": "1991",
+      "title": "Indépendant en 1991",
+      "short": "Le Turkménistan proclame son indépendance le 27 octobre 1991, pendant la dislocation de l'URSS. L'ancien chef du parti communiste local, Saparmyrat Nyýazow, en devient le président.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Il a déclaré son indépendance pendant la dislocation de l'URSS en 1991."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Le 27 octobre 1991 a lieu la proclamation d'indépendance du Turkménistan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Saparmyrat Nyýazow, ancien partisan des putschistes contre Mikhaïl Gorbatchev, était le premier secrétaire du parti communiste de la république socialiste soviétique du Turkménistan entre 1985 et 1991, puis président du Turkménistan, élu en 1992 à 99,5 % des suffrages exprimés, jusqu'à sa mort en décembre 2006."
+        }
+      ]
+    },
+    {
+      "id": "TKM-3",
+      "topic": "politique",
+      "era": "1991-2006",
+      "title": "Le « chef des Turkmènes »",
+      "short": "Nyýazow, dit Türkmenbaşy, « chef des Turkmènes », instaure un culte de la personnalité extrême : le mois de janvier prend son nom, et son livre, le Ruhnama, occupe près d'un tiers du temps scolaire. Il faut même le connaître pour passer le permis de conduire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Depuis son indépendance en 1991, il est dirigé par un régime totalitaire ayant recours au culte de la personnalité : d'abord par le président à vie Saparmyrat Nyýazow (également connu sous le nom de Türkmenbaşy, soit « chef des Turkmènes ») jusqu'à sa mort en 2006 ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Les noms des mois de l'année sont changés, par exemple le mois de janvier prend pour nom Turkmenbachi, certains mots de la langue turkmène sont également modifiés dans le même sens, comme le mot pain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Le Ruhnama, livre prétendument de Nyýazow, publié en 2001, devient un élément essentiel du système éducatif national, représentant presque un tiers du temps de la scolarité et sa connaissance est nécessaire pour le passage d'examens, tels que le permis de conduire."
+        }
+      ]
+    },
+    {
+      "id": "TKM-4",
+      "topic": "histoire",
+      "era": "2010",
+      "title": "La statue qui suivait le soleil",
+      "short": "À Achgabat, une statue dorée de Nyýazow, haute de 12 m, tournait sur elle-même au sommet de l'Arche de la Neutralité pour faire toujours face au soleil. Son successeur fait démonter l'arche en 2010.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Une statue de Nyýazow d'une hauteur de 12 m, dorée à l'or fin, juchée sur une arche de 75 m de hauteur, l'Arche de la Neutralité, tourne sur elle-même dans la capitale Achgabat de manière que son visage soit toujours tourné vers le soleil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "En janvier 2010, le nouveau président Berdimuhamedow annonce le démontage imminent de l'Arche de la Neutralité, lequel est effectué durant le mois de mai 2010."
+        }
+      ]
+    },
+    {
+      "id": "TKM-5",
+      "topic": "geographie",
+      "title": "Désert et gaz",
+      "short": "Le désert du Karakoum couvre 80 % du pays, avec des étés jusqu'à 50 °C. Sous le sol, le Turkménistan possède les cinquièmes plus grandes réserves de gaz naturel du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "La caractéristique géographique la plus significative du Turkménistan est le désert du Karakoum qui couvre 80 % de la superficie du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Les étés sont très chauds (jusqu'à 50 °C dans le désert du Karakoum)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Turkménistan",
+          "quote": "Le Turkménistan possède les cinquièmes plus grandes réserves mondiales de gaz naturel."
+        }
+      ]
+    },
+    {
+      "id": "TKM-6",
+      "topic": "drapeau",
+      "era": "1997",
+      "title": "Les motifs des tapis",
+      "short": "Sur fond vert, une bande rouge porte cinq médaillons de tapis, pour les cinq principales tribus du pays, au-dessus de deux rameaux d'olivier, symboles de neutralité. En haut, un croissant et cinq étoiles blancs.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Turkménistan",
+          "quote": "Il est frappé d'une bande rouge verticale sur laquelle sont figurés cinq médaillons de tapis, correspondant aux cinq principales tribus du pays, et des branches d'olivier symboles de neutralité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Turkménistan",
+          "quote": "En haut du drapeau, à côté de la bande rouge, figurent un croissant de lune montante blanc et cinq étoiles, blanches également."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TKM-C1",
+      "topic": "culture",
+      "era": "2013",
+      "title": "La ville de marbre blanc",
+      "short": "Frappée par un très violent séisme en 1948, Achgabat est entrée en 2013 dans le Livre Guinness des records pour la plus grande concentration au monde de bâtiments en marbre blanc.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Achgabat",
+          "quote": "À partir de là, la ville connut une croissance et une industrialisation rapides, interrompue par le très violent séisme du 6 octobre 1948."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Achgabat",
+          "quote": "En 2013, la ville a été incluse dans le Livre Guinness des records comme la plus grande concentration au monde de bâtiments en marbre blanc."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Asie centrale, entre la mer Caspienne à l'ouest et l'Ouzbékistan au nord-est, au nord de l'Iran et de l'Afghanistan.",
+    "flag": "Vert avec une bande rouge verticale ornée de motifs de tapis côté hampe, et un croissant avec cinq étoiles. Les motifs de tapis le rendent unique.",
+    "capital": "Achgabat, tout au sud, près de la frontière iranienne, au pied des montagnes."
+  }
+}

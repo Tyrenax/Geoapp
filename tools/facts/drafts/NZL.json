@@ -1,0 +1,181 @@
+{
+  "id": "NZL",
+  "facts": [
+    {
+      "id": "NZL-1",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "L'une des dernières terres peuplées",
+      "short": "La Nouvelle-Zélande est l'un des territoires les plus tardivement peuplés au monde : des Polynésiens venus de l'est du Pacifique s'y installent vers le XIIIe siècle et forment le peuple maori.",
+      "long": "Avant l'arrivée des humains, l'archipel ne comptait que deux espèces de mammifères terrestres, des chauves-souris, et aucun prédateur. Des oiseaux incapables de voler, comme le moa, y prospéraient ; il en reste le kiwi, le kakapo ou le takahé, aujourd'hui menacés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "La Nouvelle-Zélande est l'un des territoires les plus tardivement peuplés",
+          "to": "îles australes de Polynésie française)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "vers le XIIIe siècle : les Māoris s'installent",
+          "to": "sur l'archipel néo-zélandais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Les îles ont d'abord été peuplées entre 1280 et 1350 environ",
+          "to": "une identité maorie distincte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "la faune de l’archipel de la Nouvelle-Zélande ne comptait que deux espèces",
+          "to": "aucun mammifère prédateur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Les forêts furent autrefois habitées par diverses espèces de mégafaune",
+          "to": "comme le moa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Aujourd'hui plusieurs autres oiseaux, dont le kiwi",
+          "to": "sont en danger d'extinction."
+        }
+      ]
+    },
+    {
+      "id": "NZL-2",
+      "topic": "histoire",
+      "era": "1642",
+      "title": "Une « nouvelle Zélande » néerlandaise",
+      "short": "En 1642, le Néerlandais Abel Tasman est le premier Européen à explorer une partie de l'archipel. Les cartographes néerlandais le baptisent Nova Zeelandia, en l'honneur de la province de Zélande ; James Cook en fera New Zealand.",
+      "long": "En maori, le pays s'appelle Aotearoa. Ce nom, qui désignait autrefois l'île du Nord, est souvent traduit par « pays du long nuage blanc ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "En 1642, l'explorateur néerlandais Abel Tasman",
+          "to": "une partie de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Le nom de Nouvelle-Zélande (« nouvelle terre des mers »)",
+          "to": "de la province néerlandaise de Zélande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "L'explorateur anglais James Cook anglicisera le nom",
+          "to": "en français Nouvelle-Zélande."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Jusqu'au début du XXe siècle, l'île du Nord était également appelée Aotearoa",
+          "to": "« pays du long nuage blanc »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "La Nouvelle-Zélande (en anglais : New Zealand ; en maori : Aotearoa)",
+          "to": "en maori : Aotearoa)"
+        }
+      ]
+    },
+    {
+      "id": "NZL-3",
+      "topic": "histoire",
+      "era": "1840",
+      "title": "Le traité de Waitangi",
+      "short": "Le 6 février 1840, des représentants britanniques et des chefs maoris signent le traité de Waitangi, qui proclame la souveraineté britannique sur l'ensemble des îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Des représentants du Royaume-Uni et des chefs maoris signent le traité de Waitangi",
+          "to": "sur l'ensemble des îles."
+        }
+      ]
+    },
+    {
+      "id": "NZL-4",
+      "topic": "histoire",
+      "era": "1893",
+      "title": "Le premier pays où les femmes ont voté",
+      "short": "En 1893, la Nouvelle-Zélande devient le premier pays au monde à accorder le droit de vote aux femmes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "1893 : la Nouvelle-Zélande est le premier pays au monde",
+          "to": "le droit de vote des femmes."
+        }
+      ]
+    },
+    {
+      "id": "NZL-5",
+      "topic": "geographie",
+      "title": "Les paysages du Seigneur des anneaux",
+      "short": "L'île du Sud est traversée par les Alpes du Sud, qui culminent à l'Aoraki/Mont Cook (3 724 m). Ces paysages spectaculaires ont servi de décor aux films du Seigneur des anneaux, qui ont dopé le tourisme.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "L'île du Sud (South Island) est la plus grande",
+          "to": "3 724 mètres d'altitude."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Zélande",
+          "from": "Les paysages tourmentés et étranges de la Nouvelle-Zélande",
+          "to": "réalisés par Peter Jackson"
+        }
+      ]
+    },
+    {
+      "id": "NZL-6",
+      "topic": "drapeau",
+      "era": "1902",
+      "title": "Quatre étoiles de la Croix du Sud",
+      "short": "Officiel depuis 1902, le drapeau associe l'Union Jack à quatre étoiles rouges bordées de blanc : la constellation de la Croix du Sud, symbole de l'hémisphère sud. Sur les cinq étoiles de la constellation, seules quatre y figurent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Nouvelle-Zélande",
+          "from": "Le drapeau de la Nouvelle-Zélande existe sous sa forme actuelle depuis 1869",
+          "to": "le 24 mars 1902."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Nouvelle-Zélande",
+          "from": "L’utilisation de l’Union Jack symbolise le lien avec le Royaume-Uni",
+          "to": "liserées de blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Nouvelle-Zélande",
+          "from": "Elles représentent la constellation de la Croix du Sud",
+          "to": "l’appartenance de la Nouvelle-Zélande à l’hémisphère sud."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NZL-C1",
+      "topic": "histoire",
+      "era": "1865",
+      "title": "La capitale la plus australe du monde",
+      "short": "Wellington est capitale depuis 1865, ce qui en fait la capitale la plus au sud du monde. Elle doit son nom au duc de Wellington, le vainqueur de Waterloo. Ce n'est pourtant que la troisième ville du pays, après Auckland et Christchurch.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wellington",
+          "from": "Cette situation en fait la capitale la plus australe au monde",
+          "to": "l'obtention de son statut."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wellington",
+          "from": "Wellington est nommée en l'honneur du militaire anglais Arthur Wellesley",
+          "to": "à la bataille de Waterloo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Wellington",
+          "from": "Avec 216 200 habitants estimé en 2023",
+          "to": "après Auckland et Christchurch."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux grandes îles (du Nord et du Sud) au sud-ouest du Pacifique, à environ 2 000 km au sud-est de l'Australie, de l'autre côté de la mer de Tasman.",
+    "flag": "Bleu foncé avec l'Union Jack et quatre étoiles rouges bordées de blanc. L'Australie a cinq étoiles blanches plus une grande étoile sous l'Union Jack.",
+    "capital": "Piège : ce n'est pas Auckland, la plus grande ville, mais Wellington, la capitale la plus au sud du monde, nommée d'après le vainqueur de Waterloo."
+  }
+}

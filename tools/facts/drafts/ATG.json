@@ -1,0 +1,104 @@
+{
+  "id": "ATG",
+  "facts": [
+    {
+      "id": "ATG-1",
+      "topic": "histoire",
+      "era": "1493",
+      "title": "Des Ciboneys à Colomb",
+      "short": "Les Ciboneys vivaient sur ces îles dès 2400 avant notre ère, suivis des Arawaks et des Kalinagos. Christophe Colomb y aborde en 1493, lors de son deuxième voyage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "from": "Les Ciboneys habitaient les îles d'Antigua-et-Barbuda",
+          "to": "lors de son second voyage."
+        }
+      ]
+    },
+    {
+      "id": "ATG-2",
+      "topic": "histoire",
+      "era": "1674",
+      "title": "Codrington, le planteur qui a donné son nom à un village",
+      "short": "En 1674, Christopher Codrington fonde la première grande plantation de canne à sucre d'Antigua, cultivée par des esclaves amenés d'Afrique de l'Ouest. Le seul village de Barbuda porte encore son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "from": "En 1674, Christopher Codrington fonda",
+          "to": "de la côte ouest de l'Afrique."
+        }
+      ]
+    },
+    {
+      "id": "ATG-3",
+      "topic": "histoire",
+      "title": "Le port de l'amiral Nelson",
+      "short": "Au XVIIIe siècle, English Harbour, sur la côte sud d'Antigua, abrite une grande partie de la flotte britannique, un temps commandée par l'amiral Nelson. Son chantier naval est inscrit au patrimoine mondial depuis 2016.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "from": "Au XVIIIe siècle, English Harbour, sur la côte sud d'Antigua",
+          "to": "de l'amiral Nelson."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "from": "Le « Nelson's Dockyard », chantier naval historique d'English Harbour",
+          "to": "le 17 janvier 2016"
+        }
+      ]
+    },
+    {
+      "id": "ATG-4",
+      "topic": "geographie",
+      "title": "Deux îles et un rocher",
+      "short": "Le pays compte deux îles principales, Antigua et Barbuda, à laquelle s'ajoute Redonda, un simple rocher inhabité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Antigua-et-Barbuda",
+          "from": "Les îles de Barbuda (moins de 2 000 habitants)",
+          "to": "le statut de dépendance."
+        }
+      ]
+    },
+    {
+      "id": "ATG-5",
+      "topic": "drapeau",
+      "era": "1967-1981",
+      "title": "Un V pour « la victoire enfin »",
+      "short": "Le drapeau, adopté dès 1967 quand les îles étaient encore une colonie, forme un grand V : « Victory at last », la victoire enfin. Son rouge évoque la force des ancêtres esclaves. Le pays devient indépendant le 1er novembre 1981.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Antigua-et-Barbuda",
+          "from": "Le drapeau d'Antigua-et-Barbuda est utilisé depuis le 27 février 1967",
+          "to": "le 1er novembre 1981."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_d'Antigua-et-Barbuda",
+          "from": "Le drapeau rectangulaire présente un fond rouge",
+          "to": "(La victoire enfin !)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ATG-C1",
+      "topic": "histoire",
+      "era": "1632",
+      "title": "Centre de la colonie depuis 1632",
+      "short": "Saint John's est le centre administratif d'Antigua depuis la colonisation, en 1632. De 1696 à 1960, elle est aussi la capitale des îles Sous-le-Vent britanniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint_John's",
+          "from": "Saint John’s est restée le centre administratif",
+          "to": "de 1696 à 1960."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Dans les petites Antilles, au nord de la Guadeloupe : Antigua, avec la plate Barbuda au nord.",
+    "flag": "Un V rouge qui encadre un triangle noir, bleu et blanc, avec un soleil jaune levant. Aucun autre drapeau n'a ce soleil au-dessus d'un V.",
+    "capital": "Saint John's, la ville de saint Jean : comme Terre-Neuve au Canada, dont la capitale porte le même nom."
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "id": "MYT",
+  "facts": [
+    {
+      "id": "MYT-1",
+      "topic": "histoire",
+      "era": "1841",
+      "title": "Une île vendue par son sultan",
+      "short": "Le 25 avril 1841, sous Louis-Philippe, le dernier sultan de Mayotte, Andriantsoly, menacé par les royaumes voisins, vend son île au royaume de France en échange de sa protection.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Le 25 avril 1841, sous le règne de Louis-Philippe Ier, le dernier sultan de Mayotte Andriantsoly, menacé par les royaumes voisins, vend son île au royaume de France en échange de sa protection."
+        }
+      ]
+    },
+    {
+      "id": "MYT-2",
+      "topic": "histoire",
+      "era": "1974-1976",
+      "title": "L'île qui a voté pour rester française",
+      "short": "En 1974, lors de la consultation sur l'indépendance des Comores, les Mahorais ne votent qu'à 36,78 % pour l'indépendance. Une seconde consultation en 1976 confirme leur choix de rester français, au contraire des trois autres îles.",
+      "long": "L'ONU a tenté de déclarer nul ce référendum, estimant qu'il ne respectait pas le principe de l'intangibilité des frontières coloniales, et les Comores revendiquent toujours l'île. Le mécontentement des Mahorais datait de 1958, quand l'administration de l'archipel avait quitté Mayotte pour Moroni.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "En 1974, la France organise sur l'ensemble de l'archipel des Comores une Consultation pour que les populations de l'archipel décident d'une éventuelle indépendance, mais, les Mahorais ne votant qu'à 36,78 % pour l'indépendance"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Une seconde consultation est organisée par la France uniquement à Mayotte en 1976, qui confirme largement ce choix de la population de demeurer française, au contraire des trois îles qui formeront la République des Comores."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "L'ONU tente de déclarer nul ce référendum car il ne respecte pas l'uti possidetis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "quote": "Cette scission des Comores a été dénoncée par l'Assemblée générale des Nations unies jusque dans les années 1990 et l'État comorien revendique toujours son autorité sur Mayotte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Toutefois, à partir de 1958, l'administration du territoire quitte Mayotte pour Moroni (en Grande Comore), ce qui provoque le mécontentement des Mahorais, qui réclament la départementalisation."
+        }
+      ]
+    },
+    {
+      "id": "MYT-3",
+      "topic": "histoire",
+      "era": "2011",
+      "title": "Un département depuis 2011",
+      "short": "Après un référendum en 2009, Mayotte devient en 2011 un département et région d'outre-mer, avec le code 976. C'est de loin le plus petit des départements d'outre-mer : la Martinique est trois fois plus grande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "À la suite du référendum de 2009, Mayotte devient département et région d'outre-mer (DROM) à assemblée délibérante unique : le conseil départemental exerce également les compétences d'un conseil régional en 2011."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Son code départemental officiel est « 976 »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "L'ensemble des terres émergées de Mayotte couvre une superficie d'environ 380 km2, ce qui en fait de loin le plus petit département d'outre-mer français, derrière la Martinique, déjà trois fois plus grande avec 1 128 km2."
+        }
+      ]
+    },
+    {
+      "id": "MYT-4",
+      "topic": "geographie",
+      "title": "L'un des plus grands lagons du monde",
+      "short": "Mayotte est entourée d'un récif corallien de 160 km qui enferme un lagon de 1 100 km², l'un des plus grands et des plus profonds au monde. Vue du ciel, l'île a une forme qui lui vaut le surnom d'« île-hippocampe ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Ce récif corallien de 160 km de long entoure un lagon de 1 100 km2, un des plus grands et des plus profonds au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Du fait de sa forme vue du ciel, elle est parfois aussi surnommée « l'île-hippocampe »"
+        }
+      ]
+    },
+    {
+      "id": "MYT-5",
+      "topic": "culture",
+      "title": "L'île aux parfums",
+      "short": "On surnomme Mayotte « l'île aux parfums » pour ses cultures d'ylang-ylang. Ses armoiries portent deux fleurs d'ylang-ylang, deux hippocampes et la devise « Ra Hachiri », « Nous sommes vigilants ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Armoiries_de_Mayotte",
+          "quote": "Mayotte est en effet surnommée « l'île aux parfums » en raison de ses cultures d'ylang-ylang"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Armoiries_de_Mayotte",
+          "quote": "Les deux étoiles d'or sont des fleurs d'ylang-ylang, évoquant la prospérité agricole de l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Armoiries_de_Mayotte",
+          "quote": "L'écu est accompagné d'ornements extérieurs :\n\nil est supporté par deux hippocampes d'argent se faisant face, de profil ;\nil est posé sur un listel d'argent contenant la devise de l'île écrite en lettres de sable : « Ra Hachiri » (« Nous sommes vigilants »)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MYT-C1",
+      "topic": "politique",
+      "era": "2023",
+      "title": "Un chef-lieu qui a changé d'île",
+      "short": "Depuis le 27 août 2023, le chef-lieu de Mayotte est Mamoudzou, sur Grande-Terre, la ville la plus peuplée de l'île. Il se trouvait auparavant à Dzaoudzi, sur Petite-Terre.",
+      "long": "L'origine du nom « Mamoudzou » reste mystérieuse : il pourrait venir du swahili ou du malgache.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mamoudzou",
+          "quote": "Depuis le 27 août 2023, elle est le chef-lieu de Mayotte et accueille le siège du conseil départemental ainsi que la préfecture."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mayotte",
+          "quote": "Depuis août 2023, le chef-lieu du territoire est Mamoudzou, sur Grande-Terre, qui est aussi la ville la plus peuplée de Mayotte (c'était auparavant Dzaoudzi, situé en Petite-Terre)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mamoudzou",
+          "quote": "L'étymologie du nom « Mamoudzou » reste mystérieuse (comme celle de « Dzaoudzi ») ; elle pourrait être d'origine swahilie ou malgache, mais aucune racine évidente ne s'y dessine."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La plus à l'est des îles de l'archipel des Comores, dans le canal du Mozambique, entre l'Afrique et le nord de Madagascar.",
+    "flag": "Mayotte, département français, utilise officiellement le drapeau de la France.",
+    "capital": "Mamoudzou, sur Grande-Terre ; le chef-lieu était autrefois Dzaoudzi, sur la petite île voisine."
+  }
+}

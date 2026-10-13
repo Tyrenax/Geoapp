@@ -1,0 +1,204 @@
+{
+  "id": "NCL",
+  "facts": [
+    {
+      "id": "NCL-1",
+      "topic": "histoire",
+      "era": "Il y a 3 000 ans",
+      "title": "La poterie Lapita",
+      "short": "Les premiers habitants arrivent il y a environ 3 000 ans, comme en témoignent des fragments de poterie Lapita. C'est d'ailleurs en Nouvelle-Calédonie, à Koné, que furent découverts les premiers vestiges de cette civilisation. Les Kanaks, peuple autochtone, sont des Austronésiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Les Kanaks, peuple autochtone de Nouvelle-Calédonie",
+          "to": "font partie des populations austronésiennes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Comme l'attestent des fragments de poterie Lapita retrouvés",
+          "to": "les premiers vestiges de la civilisation Lapita."
+        }
+      ]
+    },
+    {
+      "id": "NCL-2",
+      "topic": "histoire",
+      "era": "1774",
+      "title": "Une côte qui rappelait l'Écosse",
+      "short": "Le 4 septembre 1774, l'expédition de James Cook aperçoit la Grande Terre. Cook la baptise New Caledonia : ses côtes lui rappellent l'Écosse, dont son père est originaire, et Caledonia est l'ancien nom latin de l'Écosse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le 4 septembre 1774, l'enseigne de vaisseau James Colnett",
+          "to": "correspondant à l'Écosse britannique)."
+        }
+      ]
+    },
+    {
+      "id": "NCL-3",
+      "topic": "histoire",
+      "era": "1853-1897",
+      "title": "La terre du bagne",
+      "short": "La France, qui cherche une terre pour y fonder une colonie pénitentiaire, proclame la Nouvelle-Calédonie colonie française le 24 septembre 1853. Le premier convoi de bagnards arrive en 1864 ; après la Commune de Paris, de nombreux communards y sont déportés, ainsi que plus de 2 000 condamnés d'Afrique du Nord.",
+      "long": "En 1877, les bagnards représentent les deux tiers des Européens de la colonie. Les convois s'arrêtent en 1897.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "La France de Napoléon III cherche une terre nouvelle",
+          "to": "par le contre-amiral Febvrier-Despointes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le premier convoi pénitentiaire arrive le 5 janvier 1864",
+          "to": "à bord de l'Iphigénie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "En plus de ces transportés, après la Commune de Paris",
+          "to": "envoyés dans les bagnes de Nouvelle-Calédonie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le nombre de pénaux présents en Nouvelle-Calédonie est monté",
+          "to": "ils sont encore 8 230."
+        }
+      ]
+    },
+    {
+      "id": "NCL-4",
+      "topic": "histoire",
+      "era": "1984-1998",
+      "title": "Des « événements » à la poignée de main",
+      "short": "De 1984 à 1988, les affrontements entre partisans et opposants de l'indépendance font environ 90 morts ; la violence culmine avec la prise d'otages d'Ouvéa. La poignée de main entre le loyaliste Jacques Lafleur et l'indépendantiste Jean-Marie Tjibaou mène aux accords de Matignon de 1988, puis à l'accord de Nouméa en 1998.",
+      "long": "Le 4 mai 1989, Jean-Marie Tjibaou est assassiné par un militant kanak radicalisé. Le centre culturel qui porte son nom a été conçu par l'architecte Renzo Piano.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Les années 1980 voient les tensions entre opposants et partisans",
+          "to": "la prise d'otages d'Ouvéa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Cet épisode pousse les deux camps et leurs dirigeants à négocier.",
+          "to": "le 26 juin 1988"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le 4 mai 1989, le leader indépendantiste kanak",
+          "to": "pour une population à l'époque de 160 000 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Les accords de 1988 sont complétés par l'accord de Nouméa du 5 mai 1998",
+          "to": "du 5 mai 1998"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "qui va essentiellement gérer le Centre culturel Tjibaou",
+          "to": "réalisé par l'architecte Renzo Piano"
+        }
+      ]
+    },
+    {
+      "id": "NCL-5",
+      "topic": "politique",
+      "era": "2018-2021",
+      "title": "Trois référendums",
+      "short": "Comme le prévoyait l'accord de Nouméa, trois référendums sur l'indépendance ont eu lieu. Le « non » l'emporte en 2018 (56,4 %) et en 2020 (53,26 %). En 2021, une partie des indépendantistes appelle à ne pas voter : moins de 44 % des électeurs se déplacent, et le « non » recueille 96 %.",
+      "long": "En mai 2024, des émeutes éclatent autour d'un projet de réforme du corps électoral et font 14 morts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le scrutin se tient le 4 novembre 2018",
+          "to": "reste ainsi au sein de la République française."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le référendum de 2020 sur l'indépendance",
+          "to": "à 53,26 %."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le gouvernement français fixe au 12 décembre 2021",
+          "to": "96 % de non à l'indépendance et 3,5 % de oui."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "En mai 2024, des émeutes ont lieu dans un contexte de débat",
+          "to": "faisant 14 morts dont 2 gendarmes."
+        }
+      ]
+    },
+    {
+      "id": "NCL-6",
+      "topic": "geographie",
+      "era": "2008",
+      "title": "L'un des plus grands lagons du monde",
+      "short": "Le lagon néo-calédonien couvre 24 000 km², ce qui en fait l'un des plus grands du monde. Il est ceinturé par une barrière de corail de 1 600 km ; une grande partie est inscrite au patrimoine mondial de l'UNESCO depuis 2008.",
+      "long": "Le sous-sol est riche en nickel, « l'or vert » : le boom du nickel a fait de l'archipel le troisième producteur mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le lagon néo-calédonien a une surface totale de 24 000 km2",
+          "to": "l'un des plus grands lagons du monde"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Il est ceinturé par une barrière de corail d'une longueur de 1 600 km",
+          "to": "d'une longueur de 1 600 km"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Le 7 juillet 2008, une grande partie des lagons",
+          "to": "au patrimoine mondial de l'UNESCO."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "En parallèle, le Territoire connaît une croissance économique rapide",
+          "to": "le troisième producteur mondial."
+        }
+      ]
+    },
+    {
+      "id": "NCL-7",
+      "topic": "drapeau",
+      "era": "1984",
+      "title": "Un drapeau qui fait débat",
+      "short": "Le drapeau français reste le drapeau national de l'archipel. Les indépendantistes ont leur propre drapeau depuis 1984 et utilisent souvent le nom de Kanaky ; ces symboles sont généralement rejetés par les non-indépendantistes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Calédonie",
+          "from": "Elle dispose de signes identitaires qui lui sont propres",
+          "to": "vivant dans l'archipel)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NCL-C1",
+      "topic": "histoire",
+      "era": "1854-1866",
+      "title": "De Port-de-France à Nouméa",
+      "short": "La capitale est fondée en 1854 sous le nom de Port-de-France, pour servir de centre administratif et militaire à la colonisation. Elle prend le nom de Nouméa, d'origine kanak mais à l'étymologie incertaine, le 2 juin 1866.",
+      "long": "L'île Nou, en face de la ville, était l'un des sites du bagne ; reliée par des remblais et un pont, elle est devenue la presqu'île de Nouville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouméa",
+          "from": "Créée en 1854 sous le nom de Port-de-France",
+          "to": "le 2 juin 1866."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouméa",
+          "from": "L'ancienne île Nou, autrefois un des sites du bagne",
+          "to": "la période dite du « boom du nickel »."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une longue île en forme de cigare dans la mer de Corail, à l'est de l'Australie, au sud-ouest du Vanuatu.",
+    "flag": "Officiellement le drapeau français. Le drapeau kanak, montré ici, flotte souvent à ses côtés : bandes bleue, rouge et verte, avec un disque jaune portant une flèche faîtière noire côté hampe.",
+    "capital": "Nouméa, au sud-ouest de la Grande Terre, l'ancienne Port-de-France."
+  }
+}

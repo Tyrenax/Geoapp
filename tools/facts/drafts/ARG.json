@@ -1,0 +1,187 @@
+{
+  "id": "ARG",
+  "facts": [
+    {
+      "id": "ARG-1",
+      "topic": "histoire",
+      "title": "Le pays de l'argent",
+      "short": "Argentine vient du latin argentum, « argent ». Les premiers Européens croyaient la région riche en métaux précieux, d'après les récits des habitants : d'où aussi le nom du Río de la Plata, le « fleuve d'argent ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Le mot « Argentine » provient du latin argentum",
+          "to": "(plata et prata en espagnol)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Cette croyance était fondée sur les récits des populations locales",
+          "to": "littéralement « fleuve d'argent »."
+        }
+      ]
+    },
+    {
+      "id": "ARG-2",
+      "topic": "histoire",
+      "era": "1816",
+      "title": "L'indépendance déclarée à Tucumán",
+      "short": "Le 9 juillet 1816, le Congrès de Tucumán déclare l'indépendance vis-à-vis de l'Espagne. Le pays s'appelle alors les Provinces unies du Río de la Plata.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Le 9 juillet 1816, le Congrès de Tucumán",
+          "to": "ne plus dépendre de l'Espagne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "En 1816, lors de la déclaration d'indépendance",
+          "to": "Provincias Unidas del Río de la Plata."
+        }
+      ]
+    },
+    {
+      "id": "ARG-3",
+      "topic": "histoire",
+      "title": "Une population quadruplée par l'immigration",
+      "short": "Le pays attire en masse des immigrants européens, surtout espagnols et italiens. Avec la baisse de la mortalité, la population quadruple et la richesse produite est multipliée par quinze.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Dans le même temps, le pays favorise l'immigration venue d'Europe",
+          "to": "d'Espagne et d'Italie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Grâce à l'immigration européenne et à la baisse de la mortalité",
+          "to": "multipliée par 15."
+        }
+      ]
+    },
+    {
+      "id": "ARG-4",
+      "topic": "histoire",
+      "era": "1982",
+      "title": "La guerre des Malouines fait tomber la junte",
+      "short": "En 1982, la dictature militaire tente de reprendre les îles Malouines, administrées par le Royaume-Uni depuis 1832 et revendiquées par l'Argentine. La défaite entraîne la chute du régime.",
+      "long": "Le général Galtieri espérait redorer l'image d'une junte affaiblie par l'échec de sa politique économique. Après la guerre, les responsables de la dictature sont traduits en justice pour crimes contre l'humanité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Pour tenter de se recrédibiliser, le général Leopoldo Galtieri",
+          "to": "revendiquées par l'Argentine sans interruption"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "L'échec des politiques économiques menées jusqu'en 1981",
+          "to": "la junte être fragilisée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Argentine",
+          "from": "La dernière en date de ces dictatures s’effondra en 1982",
+          "to": "crimes contre l’humanité."
+        }
+      ]
+    },
+    {
+      "id": "ARG-5",
+      "topic": "drapeau",
+      "era": "1812",
+      "title": "Le soleil inca du drapeau",
+      "short": "Le général Manuel Belgrano crée le drapeau bleu ciel et blanc le 27 février 1812, à Rosario. Le « soleil de Mai », ajouté en 1818, rappelle Inti, le dieu solaire des Incas.",
+      "long": "Belgrano avait d'abord fait porter à ses troupes une cocarde bleue et blanche. Il renonce au rouge, expliquera-t-il, pour éviter toute confusion avec les armées royalistes, ennemies de l'indépendance. Le drapeau devient officiel le 25 juillet 1816, deux semaines après l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Argentine",
+          "from": "Il a été créé le 27 février 1812 par le général Manuel Belgrano",
+          "to": "couleurs de la cocarde argentine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Argentine",
+          "from": "En son centre est placé un soleil doré",
+          "to": "le Dieu Inca solaire Inti."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Le drapeau est rendu officiel, deux semaines après l'indépendance",
+          "to": "le soleil dit Sol de Mayo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Argentine",
+          "from": "En 1812, les troupes aux ordres de Manuel Belgrano",
+          "to": "à deux couleurs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Argentine",
+          "from": "Le même Belgrano a exprimé dans un rapport officiel",
+          "to": "adversaires de l'indépendance."
+        }
+      ]
+    },
+    {
+      "id": "ARG-6",
+      "topic": "geographie",
+      "title": "Le toit des Amériques",
+      "short": "L'Aconcagua, dans les Andes argentines, culmine à 6 959 m : c'est le point le plus haut de l'Amérique du Sud. Le pays revendique aussi une part de l'Antarctique de 965 597 km².",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Elle comprend le point culminant de l'Amérique du Sud",
+          "to": "6 959 m d'altitude."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Argentine",
+          "from": "Le pays revendique 965 597 km2 de territoires en Antarctique",
+          "to": "(Antarctique argentin)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ARG-C1",
+      "topic": "histoire",
+      "era": "1536-1580",
+      "title": "Une ville fondée deux fois, sous le signe du bon vent",
+      "short": "Pedro de Mendoza fonde un premier établissement en 1536 et le baptise « Notre-Dame-Sainte-Marie-du-Bon-Vent ». Juan de Garay refonde la ville en 1580 ; le nom s'est réduit à Buenos Aires, les « bons vents ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Buenos_Aires",
+          "from": "Pedro de Mendoza, qui est à la recherche d'or",
+          "to": "« Nuestra Señora Santa Maria del Buen Ayre »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Buenos_Aires",
+          "from": "Mais le 11 juin 1580, le colonisateur Juan de Garay",
+          "to": "« la Très Sainte Trinité et Port de Sainte-Marie-du-Bon-Vent »)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Buenos_Aires",
+          "from": "« Nuestra Señora Santa María del Buen Ayre » signifie",
+          "to": "Bons Vents)."
+        }
+      ]
+    },
+    {
+      "id": "ARG-C2",
+      "topic": "culture",
+      "title": "La capitale mondiale des théâtres",
+      "short": "Aucune grande ville au monde ne compte autant de théâtres et d'opéras que Buenos Aires, devant Paris, Berlin, New York ou Londres. C'est aussi la ville natale du pape François.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Buenos_Aires",
+          "from": "Buenos Aires est la mégapole comptant le plus de théâtres",
+          "to": "ou encore Londres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Buenos_Aires",
+          "from": "Buenos Aires est la ville natale de Jorge Mario Bergoglio",
+          "to": "le 13 mars 2013 à Rome"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le long pays qui file vers le pôle Sud le long des Andes, à l'est du Chili, jusqu'à la Terre de Feu. Au nord-est, l'estuaire du Río de la Plata le sépare de l'Uruguay.",
+    "flag": "Trois bandes horizontales bleu ciel, blanc, bleu ciel, avec un soleil doré à visage au centre. L'Uruguay a aussi un soleil, mais en haut à gauche et avec neuf bandes ; le Nicaragua et le Honduras ont du bleu et du blanc, sans soleil.",
+    "capital": "Buenos Aires veut dire « bons vents » : un nom de marins, raccourci de « Notre-Dame-du-Bon-Vent », le nom que lui avait donné son fondateur."
+  }
+}

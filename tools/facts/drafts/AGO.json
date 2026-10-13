@@ -1,0 +1,188 @@
+{
+  "id": "AGO",
+  "facts": [
+    {
+      "id": "AGO-1",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "Un pays nommé d'après le titre d'un roi",
+      "short": "« Angola » vient de ngola, le titre que portait dès le XIVe siècle le souverain du royaume Ndongo. Les Portugais, alors alliés du Ngola, ont donné son nom au pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Angola",
+          "from": "Le nom Angola vient du portugais Angola",
+          "to": "souverain du royaume Ndongo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Angola",
+          "from": "Les colons portugais, alliés du Ngola",
+          "to": "en son honneur."
+        }
+      ]
+    },
+    {
+      "id": "AGO-2",
+      "topic": "histoire",
+      "era": "1482",
+      "title": "Diogo Cão à l'embouchure du Congo",
+      "short": "Vers 1482, le navigateur portugais Diogo Cão atteint l'embouchure du fleuve Congo. Les échanges avec le royaume Kongo, d'abord égalitaires, tournent à la mainmise portugaise.",
+      "long": "Au début, on échange de l'ivoire contre des armes à feu. Puis les Portugais veulent les mines d'or, et surtout des esclaves pour leurs colonies du Brésil : ils recourent à la force, et le territoire devient un immense terrain de chasse aux esclaves.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Vers 1482, l'explorateur portugais Diogo Cão",
+          "to": "à l'embouchure du fleuve Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Les relations entre Portugais et Kongos d'abord égalitaires",
+          "to": "vont par la suite recourir à la force."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Le pays devient un vaste territoire de chasse aux esclaves",
+          "to": "du Brésil et de Cuba."
+        }
+      ]
+    },
+    {
+      "id": "AGO-3",
+      "topic": "histoire",
+      "era": "XVIe-XIXe siècle",
+      "title": "Le lien forgé avec le Brésil par la traite",
+      "short": "Du XVIe au XIXe siècle, quatre millions d'Africains partis d'Angola auraient survécu à la traversée pour devenir esclaves au Brésil.",
+      "long": "Ce commerce a lié durablement les deux rives de l'Atlantique : l'Angola fournissait les esclaves des plantations et des mines brésiliennes, et le Brésil envoyait en retour ses trafiquants, ses fonctionnaires et même sa variété de portugais. Luanda abrite aujourd'hui un musée national de l'esclavage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "On estime que, du XVIe au XIXe siècle",
+          "to": "des esclaves au Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Durant tout le régime esclavagiste",
+          "to": "la variété de cette langue parlée au Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "Luanda abrite les plus importants du pays",
+          "to": "le musée national de l'esclavage de Luanda"
+        }
+      ]
+    },
+    {
+      "id": "AGO-4",
+      "topic": "histoire",
+      "era": "1657",
+      "title": "Njinga, reine du Ndongo et du Matamba",
+      "short": "Au XVIIe siècle, la reine Njinga (1582-1663) propose même une alliance au gouverneur hollandais de Luanda. Elle finit par signer la paix avec le Portugal en 1657, en se reconnaissant vassale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "En 1657, Mwene Nzinga Mbandi",
+          "to": "où elle se reconnait vassale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "Le nouveau gouverneur hollandais de Luanda, Pieter Moortamer",
+          "to": "ni lire ni écrire."
+        }
+      ]
+    },
+    {
+      "id": "AGO-5",
+      "topic": "histoire",
+      "era": "1975-2002",
+      "title": "Une indépendance au bruit des combats",
+      "short": "Le 11 novembre 1975, Agostinho Neto proclame l'indépendance alors qu'on se bat à quelques kilomètres de Luanda. Une guerre civile éclate aussitôt et ne s'achève qu'avec la mort du chef rebelle Jonas Savimbi, en 2002.",
+      "long": "La guerre oppose le MPLA au pouvoir, soutenu par Cuba, à l'UNITA et au FNLA, appuyés notamment par l'Afrique du Sud et le Zaïre : un conflit de la guerre froide. Savimbi est abattu le 22 février 2002 lors d'un assaut de l'armée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Le 11 novembre 1975, jour convenu pour l'indépendance",
+          "to": "à quelques kilomètres de Luanda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Angola",
+          "from": "Une guerre civile éclate immédiatement après",
+          "to": "(UNITA)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Angola",
+          "from": "Les forces de l'UNITA",
+          "to": "soutenu par Cuba."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Angola",
+          "from": "Le 22 février 2002, Jonas Savimbi",
+          "to": "l’armée gouvernementale."
+        }
+      ]
+    },
+    {
+      "id": "AGO-6",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "Une roue dentée et une machette",
+      "short": "Rouge en haut, noir en bas, le drapeau porte une demi-roue dentée, une machette et une étoile jaunes : les ouvriers, les paysans et la solidarité internationale.",
+      "long": "Le rouge rappelle le sang versé pendant la colonisation, la lutte pour l'indépendance et la défense du pays ; le noir représente le continent africain.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Angola",
+          "from": "Le drapeau de l'Angola est composé de deux bandes",
+          "to": "croisé par une machette."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Angola",
+          "from": "Le rouge représente le sang versé",
+          "to": "le progrès."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "AGO-C1",
+      "topic": "histoire",
+      "era": "1575",
+      "title": "São Paulo de Luanda, fondée par un navigateur",
+      "short": "Luanda est fondée en 1575 par le navigateur portugais Paulo Dias de Novais, sous le nom de São Paulo da Assunção de Luanda. Il cherchait alors les mines d'argent de Cambambe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "La ville est fondée en 1575",
+          "to": "São Paulo da Assunção de Luanda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "Paulo Dias de Novais est alors à la recherche",
+          "to": "Cambambe"
+        }
+      ]
+    },
+    {
+      "id": "AGO-C2",
+      "topic": "histoire",
+      "era": "1641-1648",
+      "title": "Sept ans sous pavillon hollandais",
+      "short": "De 1641 à 1648, Luanda passe sous le contrôle de la Compagnie néerlandaise des Indes occidentales. Les Portugais, surpris, avaient quitté la ville la veille du débarquement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "La ville ne fut le centre administratif",
+          "to": "Compagnie néerlandaise des Indes occidentales)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Luanda",
+          "from": "Le gouverneur et la garnison portugaise sont tellement surpris",
+          "to": "se réfugier à Bembem."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique australe, sous la RD Congo et au-dessus de la Namibie, avec la Zambie à l'est. Ne pas oublier sa petite enclave de Cabinda, isolée plus au nord, entre les deux Congo.",
+    "flag": "Deux bandes horizontales, rouge en haut et noir en bas, avec au centre un emblème jaune : demi-roue dentée, machette et étoile. Aucun autre drapeau ne combine ce rouge et noir avec une roue dentée.",
+    "capital": "Luanda cache le « an » d'Angola en son milieu : Lu-AN-da. C'est le grand port atlantique fondé par les Portugais, d'où partait la route vers le Brésil."
+  }
+}

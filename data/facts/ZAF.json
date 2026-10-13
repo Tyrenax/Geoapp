@@ -1,0 +1,180 @@
+{
+  "id": "ZAF",
+  "facts": [
+    {
+      "id": "ZAF-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Les grottes des australopithèques",
+      "short": "Dans les grottes de Sterkfontein, Swartkrans, Kromdraai et Makapansgat, de nombreux fossiles montrent que des australopithèques vivaient sur les hauts plateaux sud-africains il y a environ 2,5 millions d'années.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "De nombreux fossiles, trouvés dans les grottes de Sterkfontein, Swartkrans, Kromdraai et Makapansgat, indiquent que des australopithécinés vivaient sur le plateau du Highveld il y a environ 2,5 millions d'années."
+        }
+      ]
+    },
+    {
+      "id": "ZAF-2",
+      "topic": "histoire",
+      "era": "1652",
+      "title": "Une station de ravitaillement au Cap",
+      "short": "Le 6 avril 1652, Jan van Riebeeck débarque avec 80 hommes pour la Compagnie néerlandaise des Indes orientales et fonde au Cap une station de ravitaillement. C'est le début de l'implantation européenne durable.",
+      "long": "Dix-neuf hommes ne survivent pas au premier hiver. Les colons qui s'installent ensuite pour cultiver la terre commencent à être appelés Boers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "Le 6 avril 1652, Jan van Riebeeck, venu à bord d'une flottille composée du Drommedaris, du Reijer et du Goede Hoop, débarque ses 80 hommes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "L'implantation définitive d'Européens en Afrique du Sud date de 1652 avec l'établissement, pour le compte de la Compagnie hollandaise des Indes orientales, d'une station de ravitaillement au Cap"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "Dix-neuf d'entre eux ne passent pas le premier hiver."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "Il entreprend de développer l'agriculture en concédant des terres aux Burghers, que l'on commence à appeler Boers"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-3",
+      "topic": "histoire",
+      "era": "1835-1902",
+      "title": "Le Grand Trek et les guerres des Boers",
+      "short": "En 1835, pour échapper à l'administration britannique, les Boers quittent la colonie du Cap vers l'intérieur : c'est le Grand Trek. Ils fondent le Transvaal et l'État libre d'Orange, que les Britanniques annexent après la seconde guerre des Boers (1899-1902).",
+      "long": "Le Grand Trek est marqué par des combats, comme la bataille de Blood River contre les Zoulous en 1838. La course aux mines d'or a joué un rôle dans la guerre de 1899.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "En 1835, les Boers quittent la colonie du Cap pour les territoires intérieurs de l'Afrique du Sud afin d'échapper à l'administration britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "C'est le Grand Trek, parsemé de tragédies et de batailles (bataille de Blood River contre les Zoulous en 1838)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "Deux républiques boers indépendantes sont finalement fondées et reconnues par le Royaume-Uni : la république sud-africaine du Transvaal (1852) et l'État libre d'Orange (1854)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "Motivée en partie par ces mines d'or, la seconde guerre des Boers (1899-1902) et l'annexion du Transvaal et de l'État libre d'Orange consacre la domination britannique sur la majeure partie de l'Afrique australe"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-4",
+      "topic": "histoire",
+      "era": "1948-1994",
+      "title": "L'apartheid",
+      "short": "En 1948, le Parti national gagne les élections en promettant la ségrégation raciale. Le Premier ministre Daniel Malan met en place l'apartheid, la séparation systématique des populations selon leur couleur, qui durera jusqu'en 1994.",
+      "long": "En 1964, Nelson Mandela, l'un des chefs de la branche armée de l'ANC, est condamné à la prison à perpétuité. Il ne sera libéré qu'en février 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "En 1948, le Parti national remporte les élections générales en ayant préconisé durant sa campagne électorale un système de ségrégation raciale entre Noirs et Blancs"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "Le nouveau Premier ministre, Daniel François Malan, met en place la politique d'apartheid"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "== Période 1948-1994 : ère de l'apartheid =="
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "En 1964, Nelson Mandela, l'un des chefs de Umkhonto we Sizwe est condamné à perpétuité pour terrorisme"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "La libération de Nelson Mandela, en février 1990"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-5",
+      "topic": "histoire",
+      "era": "1994",
+      "title": "Mandela et la « nation arc-en-ciel »",
+      "short": "En 1994, les premières élections multiraciales au suffrage universel portent Nelson Mandela à la présidence : il est le premier président noir du pays. Sa présidence devient le symbole de la réconciliation.",
+      "long": "L'archevêque Desmond Tutu invente l'expression « nation arc-en-ciel » pour désigner la diversité de la société sud-africaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "Le XXe siècle est marqué par le système législatif séparatiste et ségrégationniste de l'apartheid puis par l'élection de Nelson Mandela, premier président noir d'Afrique du Sud, à la suite des premières élections nationales multiraciales au suffrage universel organisées dans le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "quote": "La présidence de Nelson Mandela se met en place dans un esprit de réconciliation, dont le premier président noir du pays devient le symbole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "Le drapeau actuel est en vigueur depuis le 27 avril 1994, date des premières élections nationales non raciales"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "Elle est souvent appelée « nation arc-en-ciel », notion inventée par l'archevêque anglican et militant des droits de l'homme sud-africain Desmond Tutu pour désigner la diversité de la nation sud-africaine"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-6",
+      "topic": "drapeau",
+      "era": "1994",
+      "title": "Des routes qui convergent",
+      "short": "Adopté le 27 avril 1994, jour des premières élections non raciales, le drapeau reprend les couleurs des différentes administrations et des grands groupes politiques du pays. Son motif en Y symbolise « la convergence des divers éléments de la société sud-africaine qui font la route ensemble ».",
+      "long": "Il remplace le drapeau orange-blanc-bleu de 1928, jugé trop lié à l'histoire de la seule communauté blanche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "Le drapeau actuel est en vigueur depuis le 27 avril 1994, date des premières élections nationales non raciales"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "Le nouveau drapeau se veut le reflet des principaux éléments de l'histoire sud-africaine en reprenant notamment toutes les couleurs utilisées par les différentes administrations sud-africaines et par les principaux groupes ethno-politiques du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "Le motif central symbolise « la convergence des divers éléments de la société sud-africaine qui font la route ensemble et à l'unisson »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "En vigueur depuis le 27 avril 1994, cet emblème a remplacé le drapeau orange-blanc-bleu adopté en 1928."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "quote": "Image d'un État-nation reconstitué (le drapeau précédent adopté en 1928 étant trop lié à l'histoire de la seule communauté blanche du pays)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ZAF-C1",
+      "topic": "politique",
+      "title": "Un pays, trois capitales",
+      "short": "L'Afrique du Sud a trois capitales officielles : Pretoria, capitale administrative, Le Cap, capitale législative, et Bloemfontein, capitale judiciaire.",
+      "long": "Pretoria tient son nom d'Andries Pretorius, un chef boer : c'est son fils, Marthinus Wessel Pretorius, qui a fondé la ville et l'a baptisée en hommage à son père.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "quote": "Traditionnellement, l'on a reconnu historiquement trois capitales officielles à l'Afrique du Sud, l'une, administrative, à Pretoria, l'autre, législative, au Cap et enfin une troisième, judiciaire, à Bloemfontein."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pretoria",
+          "quote": "Le nom de la ville de Pretoria a été choisi par son fondateur, Marthinus Wessel Pretorius, en hommage à son père, Andries Pretorius"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe sud du continent, entre l'Atlantique et l'océan Indien. Au nord : la Namibie, le Botswana, le Zimbabwe et le Mozambique. Elle entoure complètement le Lesotho et presque l'Eswatini.",
+    "flag": "Un Y couché vert bordé de blanc et de jaune, qui part du côté mât sur un triangle noir, entre une bande rouge en haut et une bande bleue en bas. Six couleurs : aucun autre drapeau ne lui ressemble.",
+    "capital": "Trois réponses ! Pretoria (gouvernement), Le Cap (Parlement), Bloemfontein (justice). Moyen mnémotechnique : « P-C-B », Président, Chambre, Balance."
+  }
+}

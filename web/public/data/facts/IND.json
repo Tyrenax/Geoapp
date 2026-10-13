@@ -1,0 +1,144 @@
+{
+  "id": "IND",
+  "facts": [
+    {
+      "id": "IND-1",
+      "topic": "histoire",
+      "era": "2500-1900 av. J.-C.",
+      "title": "La civilisation de l'Indus",
+      "short": "Entre 2500 et 1900 av. J.-C., la civilisation de la vallée de l'Indus, première culture urbaine d'Asie du Sud, s'épanouit dans l'actuel Pakistan et l'ouest de l'Inde, autour de villes comme Mohenjo-daro et Harappa.",
+      "long": "Le nom même de l'Inde vient de ce fleuve : il remonte, par le grec et le vieux perse, au sanskrit sindhu, « rivière », qui désigne en particulier l'Indus.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Ceux-ci se développent pour former la civilisation de la vallée de l'Indus, la première culture urbaine de l'Asie du Sud qui existe entre 2500 et 1900 av. J.-C. au Pakistan et dans l'ouest de l'Inde. Centrée autour de villes comme Mohenjo-daro, Harappa, Dholavira, et Kalibangan,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Ce nom latin dérive du grec hellénistique Ἰνδία/India, à partir du grec ancien Ἰνδός/Indos et du vieux perse hindoush (qui désigne une province orientale de l'empire achéménide) et finalement de son apparenté, le sanskrit sindhu « rivière », qui désigne en particulier le fleuve Indus"
+        }
+      ]
+    },
+    {
+      "id": "IND-2",
+      "topic": "histoire",
+      "era": "IIIe siècle av. J.-C.",
+      "title": "Ashoka, l'empereur qui renonce à la guerre",
+      "short": "Au IIIe siècle av. J.-C., le royaume de Magadha devient l'Empire maurya. Son roi le plus célèbre, Ashoka, renonce au militarisme et propage le dharma bouddhique. Sa roue figure aujourd'hui au centre du drapeau indien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Politiquement, au cours du IIIe siècle av. J.-C., le royaume de Magadha annexe ou réduit d'autres États pour devenir l'Empire maurya."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Les rois maurya sont connus pour la construction de leur empire et pour leur gestion de la vie publique, notamment Ashoka qui renonce au militarisme et propage le dharma bouddhique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Inde",
+          "quote": "Au centre de la bande blanche se trouve le chakra d'Ashoka, une roue bleue comportant vingt-quatre rayons."
+        }
+      ]
+    },
+    {
+      "id": "IND-3",
+      "topic": "histoire",
+      "era": "1857-1858",
+      "title": "De la Compagnie à la Couronne",
+      "short": "Au XVIIIe siècle, la Compagnie britannique des Indes orientales prend pied sur les côtes indiennes. Le mécontentement qu'elle suscite aboutit à la rébellion de 1857 ; une fois celle-ci matée, en 1858, la Compagnie est dissoute et l'Inde passe sous l'administration directe de la Couronne britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Au début du XVIIIe siècle, les clivages entre la domination commerciale et la domination politique disparaissent, et des compagnies de commerce européennes, notamment la Compagnie britannique des Indes orientales, établissent des comptoirs sur les côtes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Cependant, le mécontentement envers la Compagnie grandit pendant cette période et aboutit à la Rébellion indienne de 1857. Nourrie par divers ressentiments, notamment par les réformes sociales des Britanniques, de dures taxes foncières et les traitements sommaires des propriétaires et des princes, la rébellion traverse de nombreuses régions du nord et du centre de l'Inde et menace la domination de la Compagnie. Matée en 1858, la rébellion conduit à la dissolution de la Compagnie et à l'administration directe de l'Inde par la couronne britannique."
+        }
+      ]
+    },
+    {
+      "id": "IND-4",
+      "topic": "histoire",
+      "era": "1947",
+      "title": "Indépendance et partition",
+      "short": "Après une lutte marquée par la résistance non violente de Gandhi, l'Inde devient indépendante le 15 août 1947. Mais le pays subit une partition sanglante : le sous-continent est divisé entre l'Inde et le Pakistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "L'Inde devient indépendante en 1947 après une lutte marquée par la résistance non-violente de Mohandas Karamchand Gandhi et de plusieurs autres personnages."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "Le mouvement pour l'Indépendance aboutit le 15 août 1947. Mais le pays subit une partition sanglante et le sous-continent est divisé en deux États : l'Inde et le Pakistan."
+        }
+      ]
+    },
+    {
+      "id": "IND-5",
+      "topic": "culture",
+      "title": "Bollywood",
+      "short": "L'industrie du cinéma indien est la plus prolifique du monde. Son fleuron, Bollywood, tire son nom de Bombay (l'ancien nom de Mumbai) et de Hollywood, et tourne surtout des films commerciaux en hindi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Inde",
+          "quote": "L'industrie cinématographique indienne est la plus prolifique du monde. Son fleuron est constitué par la production de Bollywood (mot-valise composé à partir de Bombay, l'ancien nom de Mumbai, et de Hollywood), dont les studios sont situés dans la capitale du Maharashtra, et qui réalisent principalement des films commerciaux en hindi."
+        }
+      ]
+    },
+    {
+      "id": "IND-6",
+      "topic": "drapeau",
+      "era": "1947",
+      "title": "Safran, blanc, vert et une roue",
+      "short": "Trois bandes égales, safran, blanche et verte, avec au centre le chakra d'Ashoka, une roue bleue à vingt-quatre rayons. Le drapeau est adopté le 22 juillet 1947, quelques jours avant l'indépendance.",
+      "long": "Une version antérieure, voulue par Gandhi, portait à la place un charkha, le rouet, symbole de la régénération économique de l'Inde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Inde",
+          "quote": "Il se compose de trois bandes horizontales de largeur égale : safran au-dessus, blanc au milieu et vert pour celle du bas. Au centre de la bande blanche se trouve le chakra d'Ashoka, une roue bleue comportant vingt-quatre rayons."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Inde",
+          "quote": "Le drapeau a été adopté sous cette forme durant une réunion de l'Assemblée constituante le 22 juillet 1947, quelques jours avant l'indépendance de l'Inde déclarée le 15 août 1947."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Inde",
+          "quote": "Le drapeau conçu par Pingali Venkayya est adopté, composé de trois bandes horizontales safran, blanche et verte avec un charkha au centre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Inde",
+          "quote": "Cet humble rouet était en effet devenu le symbole de la régénération économique de l'Inde souhaité par Gandhi."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IND-C1",
+      "topic": "histoire",
+      "era": "1911-1931",
+      "title": "Une capitale construite par les Britanniques",
+      "short": "New Delhi est une ville nouvelle : les Britanniques veulent déplacer la capitale de leur empire des Indes depuis Calcutta, jugée trop excentrée. Annoncée en 1911 par George V, conçue par Edwin Lutyens et Herbert Baker, elle est inaugurée en 1931.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/New_Delhi",
+          "quote": "C'est une ville nouvelle créée au début du XXe siècle par la volonté des Britanniques de déplacer la capitale du Raj britannique, alors à Calcutta, vers une position plus centrale et symbolique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/New_Delhi",
+          "quote": "Au début des années 1900, la proposition est faite de transférer l'administration de l'Empire britannique des Indes de Calcutta, jugée trop excentrée,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/New_Delhi",
+          "quote": "Sa construction a été annoncée le 22 mars 1911 par George V lors du durbar. La ville est construite par les architectes Edwin Lutyens et Herbert Baker et inaugurée le 13 février 1931 par le vice-roi lord Irwin."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le grand triangle qui s'avance dans l'océan Indien, au sud de l'Himalaya, entre la mer d'Arabie à l'ouest et le golfe du Bengale à l'est. Le Pakistan est à l'ouest, la Chine et le Népal au nord, le Bangladesh à l'est.",
+    "flag": "Safran, blanc, vert à l'horizontale, avec une roue bleue au centre. Le Niger a les mêmes bandes, mais avec un simple disque orange à la place de la roue.",
+    "capital": "New Delhi, dans le nord du pays, collée à la vieille ville de Delhi."
+  }
+}

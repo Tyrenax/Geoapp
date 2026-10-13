@@ -1,0 +1,182 @@
+{
+  "id": "ITA",
+  "facts": [
+    {
+      "id": "ITA-1",
+      "topic": "histoire",
+      "era": "Ve siècle av. J.-C.",
+      "title": "« Italia », d'abord le bout de la botte",
+      "short": "Au Ve siècle av. J.-C., « Italia » ne désigne qu'une partie du Sud, l'actuelle Calabre, habitée par les Italoi. Il faut attendre l'empereur Auguste pour que le nom couvre toute la péninsule jusqu'aux Alpes.",
+      "long": "L'origine du mot reste débattue. Une version grecque le rapproche d'un mot signifiant « bétail » : les Italoi auraient tiré leur nom de leur richesse, leurs troupeaux. Le mythe préfère Italos, un roi si juste que son peuple aurait donné son nom à ses terres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Au Ve siècle av. J.-C. le nom « Italia » désigne à l'origine une partie seulement de ce qui est maintenant l'Italie du Sud. Selon Antiochos de Syracuse, c'est la partie du sud de la péninsule (Bruttium), l'actuelle région italienne de la Calabre habitée par les Italoi (et plus précisément l'isthme de Catanzaro)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "C'est sous le règne de l'Empereur Auguste (Ier siècle av. J.-C.) que le terme a été étendu officiellement pour couvrir la péninsule jusqu'aux Alpes,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Une autre version grecque emploie les termes Ouitalia et Ouitalios, en les rapprochant du grec ancien : υίταλος : « bétail ». Il est possible que les ítalos aient pris le nom de leur richesse, le bétail,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Selon la mythologie grecque, le nom Italia est issu d'Italos, fils de Telegonos et de Pénélope, roi des Œnôtres ou Œnotriens, royaume correspondant à une partie de la Calabre et de la Basilicate, allant jusqu'à Tarente au sud : « Italos devint un législateur si apprécié pour sa justice et sa manière de gouverner, que son peuple appela ses territoires du nom d'Italie en son honneur, en sa mémoire »."
+        }
+      ]
+    },
+    {
+      "id": "ITA-2",
+      "topic": "histoire",
+      "era": "1861",
+      "title": "Un royaume unifié en 1861 seulement",
+      "short": "L'Italie unifiée n'existe que depuis le 17 mars 1861, proclamée par le royaume de Sardaigne après l'expédition des Mille dans le Sud. Turin, puis Florence en sont les premières capitales : Rome et Venise manquent encore.",
+      "long": "L'unité n'est complète qu'en 1870, avec la prise de Rome. Cette unification tardive explique en partie pourquoi tant de langues régionales et de variantes locales ont survécu à côté de l'italien.\n\nL'unité a eu un prix : pour obtenir l'accord de la France, Cavour doit lui céder la Savoie et Nice. Giuseppe Garibaldi, né à Nice, proteste vivement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "À la suite de l'expédition des Mille au sud et la descente subséquente des Piémontais du nord, le royaume de Sardaigne réussit à unifier une grande partie de la péninsule (à l'exclusion de Rome et de Venise) et à provoquer la proclamation du royaume d'Italie le 17 mars 1861, ayant comme capitale Turin, puis Florence à partir de 1865."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "La réalisation de l'unité nationale seulement en 1870, à l'issue du Risorgimento avec la prise de Rome, a contribué, en partie, à la persistance de plusieurs langues régionales ainsi que de différentes variantes locales, donnant ainsi vie à un phénomène de diglossie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Cavour arrache l'accord de la France mais doit lui sacrifier la Savoie et Nice. La cession de Nice soulève de vives protestations, en particulier de Giuseppe Garibaldi, né dans la ville."
+        }
+      ]
+    },
+    {
+      "id": "ITA-3",
+      "topic": "histoire",
+      "era": "1922-1946",
+      "title": "Le pays qui a inventé le fascisme",
+      "short": "Le fascisme est né en Italie, qui le subit sous forme de dictature de 1922 à 1943 avant qu'il ne se répande en Europe. Le 2 juin 1946, un référendum abolit la monarchie : la République est proclamée et la famille royale part en exil.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Existant en tant qu'État unitaire depuis 1861 à la suite du Risorgimento (Renaissance ou Résurrection) mené par le royaume de Sardaigne, l'Italie a connu sous le régime fasciste une dictature de 1922 à 1943, issue d'un mouvement politique né en Italie et qui s'est ensuite diffusé en Europe ; elle est une république parlementaire depuis l'abolition par référendum de la monarchie italienne en 1946."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Le 2 juin 1946, un référendum met fin à la monarchie : la République italienne est proclamée et la famille royale est exilée."
+        }
+      ]
+    },
+    {
+      "id": "ITA-4",
+      "topic": "histoire",
+      "era": "XIVe-XVIe siècle",
+      "title": "Le berceau de la Renaissance",
+      "short": "Du XIVe au XVIe siècle, la Renaissance s'épanouit en Italie, à Florence, à Sienne et à Venise. Des financiers et des artistes italiens vont s'installer jusqu'en France.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "Du XIVe au XVIe siècle, c'est la Renaissance italienne qui culmine au XVe siècle à partir d'anciennes racines culturelles, restées vives en Toscane (Italie centrale), en particulier à Florence et Sienne, mais aussi à Venise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "La Renaissance italienne est aussi marquée par l'installation en France de financiers et d'artistes."
+        }
+      ]
+    },
+    {
+      "id": "ITA-5",
+      "topic": "culture",
+      "title": "La langue la plus proche du latin",
+      "short": "De toutes les langues modernes, l'italien est la plus proche du latin : 90 % de ses mots en dérivent directement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Italie",
+          "quote": "L'italien fait partie de la famille des langues romanes et est la langue moderne la plus proche du latin, 90% des mots la composant en dérivant directement."
+        }
+      ]
+    },
+    {
+      "id": "ITA-6",
+      "topic": "drapeau",
+      "era": "1797",
+      "title": "Un tricolore né dans le sillage de Bonaparte",
+      "short": "Le vert-blanc-rouge est adopté le 7 janvier 1797 à Reggio d'Émilie par la République cispadane, l'une des républiques nées du passage des armées de Bonaparte. Les drapeaux de ces républiques imitaient tous le modèle français.",
+      "long": "Napoléon aurait choisi lui-même ces couleurs, lui qui préférait le vert au bleu. À l'école, les enfants italiens apprennent une autre lecture : le vert des collines des Apennins, le blanc de la neige des Alpes, le rouge du sang des martyrs des guerres d'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Italie",
+          "quote": "Le drapeau actuel fut d'abord adopté par la République cispadane à Reggio d'Émilie le 7 janvier 1797 quand le parlement de la République, réuni dans la Sala del tricolore, sur proposition du député Giuseppe Compagnoni,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Italie",
+          "quote": "En 1796, l'Italie est traversée par les armées victorieuses de Napoléon Bonaparte et les nombreuses républiques qui naissent, d'inspiration française, sur les cendres de l'Ancien Régime, adoptèrent presque toutes des drapeaux caractérisés par trois bandes d'égales dimensions, avec des couleurs variées, mais clairement inspirés du modèle français de 1790."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Italie",
+          "quote": "Il est possible que Napoléon ait lui-même choisi ce tricolore (il préférait le vert au bleu)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Italie",
+          "quote": "Il existe en outre une autre signification symbolique que l'on apprend aux enfants dans les écoles : le vert pour les collines des Monts Apennins, le blanc pour la neige des Alpes et le rouge pour le sang des martyrs des trois guerres d'Indépendance du XIXe siècle."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ITA-C1",
+      "topic": "histoire",
+      "era": "753 av. J.-C.",
+      "title": "Fondée par Romulus, selon la légende",
+      "short": "Selon la tradition, Rome aurait été fondée le 21 avril 753 av. J.-C. par Romulus, qui tua son jumeau Rémus et donna son nom à la ville.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "Selon la légende, Rome aurait été fondée le 21 avril 753 av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "Le nom de la ville est dû selon la tradition à la légende des jumeaux Romulus et Rémus, où le premier tua le second, obtenant ainsi le droit de donner son nom à la ville qu'il construisait."
+        }
+      ]
+    },
+    {
+      "id": "ITA-C2",
+      "topic": "histoire",
+      "era": "1870",
+      "title": "Capitale de l'Italie depuis 1870",
+      "short": "Rome n'entre dans le royaume d'Italie qu'en 1870 et en devient alors la capitale. Elle compte 210 000 habitants, moins que Naples, Milan et Gênes, et passe à 500 000 au début du XXe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "Après l'annexion de Rome au royaume d'Italie en 1870 et son choix comme capitale du pays, la ville connut un développement spectaculaire : les 210 000 habitants qu'elle comptait à cette date (quatrième place après Naples, Milan et Gênes) étaient passés à 500 000 au début du XXe siècle."
+        }
+      ]
+    },
+    {
+      "id": "ITA-C3",
+      "topic": "geographie",
+      "title": "La Ville éternelle et son État enclavé",
+      "short": "Bâtie sur sept collines au bord du Tibre, Rome est la « Ville éternelle », un surnom dû au poète Tibulle. Elle a la particularité de contenir un autre État : la cité du Vatican, dont le pape est le souverain.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "La Ville aux Sept Collines ; désignant traditionnellement les principales collines sur lesquelles est édifiée la Rome antique ;\n\nLa Ville éternelle (en latin : Urbs Aeterna ; en italien : La Città Eterna) donnée par le poète romain Tibullus"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "Bâtie sur sept collines, son centre se situe près de l'embouchure du Tibre"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rome",
+          "quote": "Elle présente en outre la particularité de contenir un État enclavé dans son territoire : la cité-État du Vatican (Stato della Città del Vaticano), dont le pape est le souverain."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La « botte » plongée dans la Méditerranée, talon vers l'est et pointe face à la Sicile, qu'elle semble pousser du pied. Au nord, les Alpes la séparent de la France, de la Suisse, de l'Autriche et de la Slovénie ; la Sardaigne est à l'ouest, juste au sud de la Corse.",
+    "flag": "Vert, blanc, rouge en bandes verticales, le vert au mât. Le Mexique a les mêmes couleurs, mais un aigle au centre et des proportions plus allongées. L'Irlande remplace le rouge par l'orange, et la Hongrie aligne rouge, blanc, vert en bandes horizontales.",
+    "capital": "Roma, la ville de Romulus : la légende dit qu'il lui a donné son nom. Et « tous les chemins mènent à Rome », la ville aux sept collines."
+  }
+}

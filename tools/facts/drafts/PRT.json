@@ -1,0 +1,206 @@
+{
+  "id": "PRT",
+  "facts": [
+    {
+      "id": "PRT-1",
+      "topic": "histoire",
+      "era": "1143",
+      "title": "Un pays né d'un port",
+      "short": "Le pays doit son nom au comté de Portucale, nommé d'après un bourg voisin de Porto. Le 5 octobre 1143, le traité de Zamora reconnaît son indépendance : c'est l'un des plus anciens États-nations d'Europe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Son nom, « Portucale », ou « Terra portucalensis »",
+          "to": "« Portucale »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Indépendant de facto depuis la fin des années 1120",
+          "to": "le 5 octobre 1143."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Fondé en 1143, c'est le plus vieil État-nation d'Europe",
+          "to": "dans le monde."
+        }
+      ]
+    },
+    {
+      "id": "PRT-2",
+      "topic": "histoire",
+      "era": "1297",
+      "title": "La plus vieille frontière du monde",
+      "short": "La frontière entre le Portugal et l'Espagne, la « Raia », est fixée par le traité d'Alcañices le 12 septembre 1297. C'est la plus ancienne frontière terrestre toujours en vigueur.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "La frontière définitive entre le Portugal et la Castille",
+          "to": "toujours en vigueur à ce jour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "La Raia, frontière entre le Portugal continental et la Castille",
+          "to": "(fondue dans l'Espagne actuelle),"
+        }
+      ]
+    },
+    {
+      "id": "PRT-3",
+      "topic": "histoire",
+      "era": "1488-1498",
+      "title": "La route maritime des Indes",
+      "short": "Parti de Lisbonne le 8 juillet 1497, Vasco de Gama atteint les Indes le 20 mai 1498. Il ouvre aux Portugais le commerce des épices, jusque-là contrôlé par les Vénitiens.",
+      "long": "Dix ans plus tôt, le 6 janvier 1488, une tempête avait emporté un navigateur portugais au-delà du « cap des Tempêtes », que le roi rebaptisa cap de Bonne-Espérance.\n\nPour se partager le monde, Espagnols et Portugais signent le 7 juin 1494 le traité de Tordesillas, qui trace une ligne de partage à 370 lieues.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Parti de Lisbonne le 8 juillet 1497",
+          "to": "contrôlé jusque-là par les Vénitiens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Emporté par une tempête, le 6 janvier 1488",
+          "to": "par le roi pour cette occasion."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Jean II exige un autre accord",
+          "to": "à 370 lieues."
+        }
+      ]
+    },
+    {
+      "id": "PRT-4",
+      "topic": "histoire",
+      "era": "1974",
+      "title": "La révolution des Œillets",
+      "short": "Le 25 avril 1974, un coup d'État militaire met fin à plus de quarante ans de dictature, celle de l'Estado Novo de Salazar : c'est la révolution des Œillets. Dans la foulée, le Portugal accorde l'indépendance à toutes ses colonies.",
+      "long": "Pendant la dictature, près d'un million et demi de Portugais avaient quitté le pays pour fuir la pauvreté des campagnes et les guerres coloniales. Le Cap-Vert et la Guinée-Bissau sont les premières colonies à s'émanciper, le 10 septembre 1974.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Puis, pendant plus de quarante ans, le pays est soumis",
+          "to": "restaure la démocratie dans le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Le 25 avril 1974, un coup d'État militaire renverse",
+          "to": "dirigé par Marcelo Caetano depuis 1968"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Entre-temps, en 1974 et 1975, avec le changement de régime",
+          "to": "Cap-Vert et Guinée-Bissau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Durant la dictature de 1926 à 1974, près d'un million et demi",
+          "to": "les guerres coloniales."
+        }
+      ]
+    },
+    {
+      "id": "PRT-5",
+      "topic": "drapeau",
+      "era": "1910-1911",
+      "title": "Le vert de l'espoir et le globe des navigateurs",
+      "short": "Adopté en 1911 après la chute de la monarchie, le drapeau remplace l'ancien bleu et blanc. Le vert représente l'espoir, le rouge le sang versé par le peuple, et la sphère armillaire rappelle les grands navigateurs portugais.",
+      "long": "Sur le blason, cinq écus bleus évoquent, selon la tradition, la victoire d'Afonso Henriques sur cinq rois maures à la bataille d'Ourique, en 1139. Les sept châteaux d'or de la bordure rouge complètent les armes du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Portugal",
+          "from": "Le drapeau actuel est le drapeau républicain",
+          "to": "l'ancien drapeau bleu et blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Portugal",
+          "from": "Le comité responsable de sa création explique",
+          "to": "Le rouge pour le sang du peuple versé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Portugal",
+          "from": "La sphère armillaire représente le globe terrestre",
+          "to": "des grands explorateurs portugais)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Portugal",
+          "from": "Les cinq écus bleus sur l'écu blanc",
+          "to": "Afonso Henriques est proclamé roi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Portugal",
+          "from": "Centrées sur la ligne de séparation",
+          "to": "chargée de sept châteaux d'or."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PRT-C1",
+      "topic": "histoire",
+      "title": "Olisipo, le port des Phéniciens",
+      "short": "Considérée comme la deuxième plus ancienne capitale d'Europe après Athènes, Lisbonne s'appelait Olisipo. Selon une hypothèse, ce nom viendrait du phénicien Allis Ubbo, « baie agréable », en raison de son port sur l'estuaire du Tage.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lisbonne",
+          "from": "Lisbonne est l’une des plus anciennes cités du monde",
+          "to": "après Athènes,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lisbonne",
+          "from": "D'après Samuel Bochart, le nom antique de Lisbonne",
+          "to": "dans l'estuaire du Tage."
+        }
+      ]
+    },
+    {
+      "id": "PRT-C2",
+      "topic": "histoire",
+      "era": "1147-1255",
+      "title": "Capitale à la place de Coimbra",
+      "short": "En 1147, des chevaliers français, anglais, allemands et portugais menés par Alphonse Ier prennent Lisbonne aux musulmans. En 1255, elle remplace Coimbra comme capitale, grâce à sa position centrale dans le royaume.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lisbonne",
+          "from": "En 1147, pendant la Reconquista, un groupe de chevaliers",
+          "to": "assiègent et prennent Lisbonne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lisbonne",
+          "from": "Elle devient la capitale du Portugal en 1255",
+          "to": "sur le territoire portugais."
+        }
+      ]
+    },
+    {
+      "id": "PRT-C3",
+      "topic": "histoire",
+      "era": "1755",
+      "title": "Le séisme du 1er novembre 1755",
+      "short": "Le 1er novembre 1755, un tremblement de terre de magnitude 8,75, suivi d'un raz-de-marée et d'incendies, détruit en grande partie Lisbonne. La ville est reconstruite dans un style nouveau, le style pombalin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Le 1er novembre 1755, un tremblement de terre",
+          "to": "scènes de paniques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "Le tremblement de terre de Lisbonne de 1755, suivi d'un raz-de-marée",
+          "to": "détruisit en grande partie la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Portugal",
+          "from": "et le style pombalin, mélange de baroque tardif",
+          "to": "tremblement de terre de Lisbonne en 1755."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le bord ouest de la péninsule Ibérique, face à l'Atlantique : un rectangle étroit adossé à l'Espagne, son seul voisin. Lisbonne est la capitale la plus à l'ouest de l'Europe continentale ; au large, les archipels de Madère et des Açores sont portugais.",
+    "flag": "Deux bandes verticales inégales : un vert étroit côté mât, un rouge plus large, et à cheval sur la séparation une sphère armillaire dorée portant le blason. Le vert plus étroit que le rouge est la marque du Portugal.",
+    "capital": "Lisboa, « la baie agréable » des Phéniciens, au bord de l'estuaire du Tage."
+  }
+}

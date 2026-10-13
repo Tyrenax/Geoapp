@@ -1,0 +1,211 @@
+{
+  "id": "COM",
+  "facts": [
+    {
+      "id": "COM-1",
+      "topic": "histoire",
+      "title": "Les « îles de la Lune »",
+      "short": "On rattache souvent le nom « Comores » au mot arabe qamar, la lune : en français, l'archipel est surnommé les « îles de la Lune ». Les Portugais y abordent en 1505.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "On lit souvent que le nom « Comores » dériverait",
+          "to": "surnommées en français « îles de la Lune »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "Durant cette période, au cours de l'exploration systématique",
+          "to": "en 1505."
+        }
+      ]
+    },
+    {
+      "id": "COM-2",
+      "topic": "histoire",
+      "era": "vers 1470",
+      "title": "Les sultanats venus de Perse",
+      "short": "Vers 1470, des lignées princières dites shirazi, originaires de Perse par la côte swahilie, fondent des sultanats dans les villes côtières fortifiées des îles. Ils seront reconnus jusqu'au début du XIXe siècle.",
+      "long": "Les Comores sont la frontière sud du monde swahili. Leur population a une ascendance africaine, austronésienne et moyen-orientale : les navigateurs qui ont peuplé Madagascar sont sans doute passés par l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Vers 1470, des sultanats shirazi",
+          "to": "jusqu'au début du XIXe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "Ces lignées princières chiraziennes, les Qabilas",
+          "to": "s'établissant dans les villes côtières fortifiées"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "L'archipel des Comores constitue la frontière sud de l'aire culturelle swahilie",
+          "to": "le Zanguebar"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "Des études génétiques fondées sur des marqueurs uniparentaux",
+          "to": "africaine, austronésienne insulaire et moyen-orientale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "On suppose que les Austronésiens",
+          "to": "entre le VIIe et le XIIe siècle"
+        }
+      ]
+    },
+    {
+      "id": "COM-3",
+      "topic": "histoire",
+      "era": "1841",
+      "title": "Mayotte vendue à la France",
+      "short": "En 1841, le sultan Andriantsoly, qui ne peut plus protéger son île dépeuplée par les guerres, vend Mayotte à la France contre une rente à vie. La France étendra ensuite sa colonie aux autres îles à partir de 1892.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Le 25 avril 1841, le sultan Andriantsoly",
+          "to": "aux frais de la France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Colonie française à partir de 1892",
+          "to": "le 6 juillet 1975."
+        }
+      ]
+    },
+    {
+      "id": "COM-4",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "Une indépendance, mais sans Mayotte",
+      "short": "Au référendum, l'archipel vote à plus de 90 % pour l'indépendance, mais Mayotte choisit de rester française. Les Comores proclament leur indépendance le 6 juillet 1975 et revendiquent toujours l'île.",
+      "long": "La France fait voter une loi permettant d'adopter la constitution île par île, ce qui laisse Mayotte rester française. L'ONU, par une résolution de 1975, a soutenu la position comorienne, et la Constitution des Comores compte toujours Mayotte parmi les îles du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "Si le suffrage obtient dans son ensemble plus de 90 %",
+          "to": "35 % contre le maintien)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Face au refus français de reconnaitre l'île de Mayotte",
+          "to": "le 6 juillet 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "La France prend acte mais, le 3 juillet 1975",
+          "to": "de pouvoir rester française"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "L'État comorien considère que l'île de Mayotte",
+          "to": "du 12 novembre 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "La Constitution comorienne identifie l'union des Comores",
+          "to": "de rester française"
+        }
+      ]
+    },
+    {
+      "id": "COM-5",
+      "topic": "histoire",
+      "era": "1975-1989",
+      "title": "Bob Denard, le « vice-roi des Comores »",
+      "short": "Le mercenaire français Bob Denard intervient à plusieurs reprises dans les coups d'État des Comores. Il réinstalle Ahmed Abdallah Abderamane au pouvoir et devient, pendant dix ans, son premier conseiller.",
+      "long": "Surnommé le « vice-roi des Comores », il était parfois considéré comme le véritable homme fort du régime. Sa mission pour réinstaller Abdallah avait été commanditée par les services de renseignement français, le SDECE.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Le mercenaire français Bob Denard, avec l'aval de Paris",
+          "to": "sur son île d'Anjouan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "De nouveau missionné par les services de renseignement français",
+          "to": "depuis son exil dans la métropole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Pendant les dix années qui suivent, Bob Denard",
+          "to": "le véritable homme fort du régime."
+        }
+      ]
+    },
+    {
+      "id": "COM-6",
+      "topic": "economie",
+      "title": "Le premier producteur d'ylang-ylang",
+      "short": "Les Comores sont le premier producteur mondial d'ylang-ylang, une fleur prisée des parfumeurs. L'archipel exporte aussi de la vanille et des clous de girofle.",
+      "long": "La distillation de l'ylang-ylang consomme beaucoup de bois, ce qui menace les forêts : pour limiter les coupes, le pétrole lampant est subventionné. La Grande Comore abrite aussi un volcan actif, le Karthala.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Les îles exportent néanmoins de la vanille",
+          "to": "et des girofliers."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "Plus précisément, afin de minimiser l'abattage des arbres",
+          "to": "de l'ylang-ylang pour le parfum."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "La Grande Comore compte un volcan",
+          "to": "le Karthala."
+        }
+      ]
+    },
+    {
+      "id": "COM-7",
+      "topic": "drapeau",
+      "era": "2001",
+      "title": "Quatre îles, quatre bandes, quatre étoiles",
+      "short": "Les quatre bandes et les quatre étoiles du drapeau représentent les quatre îles : jaune pour Mohéli, rouge pour Anjouan, bleu pour la Grande Comore… et blanc pour Mayotte, que les Comores revendiquent.",
+      "long": "Le triangle vert et le croissant blanc sont des symboles de l'islam, religion dominante de l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Comores",
+          "from": "Les quatre étoiles et les quatre bandes symbolisent",
+          "to": "revendiqué par les Comores."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Comores",
+          "from": "Le vert et le croissant blanc sont eux des symboles",
+          "to": "depuis la colonisation arabe."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "COM-C1",
+      "topic": "histoire",
+      "title": "Une capitale venue de Mayotte",
+      "short": "Pendant la colonisation, Dzaoudzi, à Mayotte, est choisie comme capitale du territoire, ce qui alimente la rivalité entre cette île et les trois autres. La capitale est ensuite transférée à Moroni, sur la Grande Comore, la plus grande des îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'archipel_des_Comores",
+          "from": "Dzaoudzi (à Mayotte) est choisie comme capitale",
+          "to": "et les trois autres."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "À la suite des dommages causés aux infrastructures de transport",
+          "to": "vers la Grande comore en 1962."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Comores_(pays)",
+          "from": "La capitale, Moroni, se situe sur la plus grande des îles",
+          "to": "la Grande Comore."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit archipel volcanique dans le canal du Mozambique, à mi-chemin entre la côte du Mozambique et la pointe nord de Madagascar.",
+    "flag": "Quatre bandes horizontales jaune, blanche, rouge et bleue, avec à gauche un triangle vert portant un croissant blanc et quatre étoiles blanches. Une étoile et une bande par île.",
+    "capital": "Moroni est sur la Grande Comore, la plus grande île : « la grande île garde la capitale »."
+  }
+}

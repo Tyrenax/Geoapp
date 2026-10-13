@@ -1,0 +1,141 @@
+{
+  "id": "GUY",
+  "facts": [
+    {
+      "id": "GUY-1",
+      "topic": "histoire",
+      "title": "La « terre des nombreuses eaux »",
+      "short": "Guyana vient d'un mot arawak qui signifie « terre de nombreuses eaux », à cause des innombrables fleuves, criques et chutes de la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Il est dérivé de guiana, mot arawak",
+          "to": "en référence aux nombreux cours d'eau de la région."
+        }
+      ]
+    },
+    {
+      "id": "GUY-2",
+      "topic": "histoire",
+      "era": "1615-1814",
+      "title": "D'abord néerlandaise, puis britannique",
+      "short": "Aperçue par Christophe Colomb en 1498, la côte est colonisée à partir de 1615 par les Néerlandais, qui y fondent trois colonies. Les Britanniques en prennent le contrôle à la fin du XVIIIe siècle, et les Pays-Bas la leur cèdent en 1814.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Bien que le Guyana ait été aperçu pour la première fois par Christophe Colomb",
+          "to": "Démérara en 1752."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Le commandement est assumé par les Britanniques",
+          "to": "le territoire en 1814."
+        }
+      ]
+    },
+    {
+      "id": "GUY-3",
+      "topic": "histoire",
+      "era": "1966",
+      "title": "Le seul pays anglophone d'Amérique du Sud",
+      "short": "La Guyane britannique devient indépendante en 1966 sous le nom de Guyana. C'est le seul État d'Amérique du Sud dont la langue officielle est l'anglais, et le seul du continent membre du Commonwealth.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "La Guyane britannique accède finalement à l'indépendance en 1966",
+          "to": "sous le nom de Guyana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Seul État du Commonwealth en Amérique du Sud",
+          "to": "la langue officielle est l'anglais."
+        }
+      ]
+    },
+    {
+      "id": "GUY-4",
+      "topic": "politique",
+      "title": "Les deux tiers du pays revendiqués par le Venezuela",
+      "short": "Le Venezuela revendique l'Essequibo, toute la zone à l'ouest du fleuve du même nom, depuis sa propre indépendance. Cette région représente 62 % du territoire du Guyana mais seulement 17 % de sa population.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Le Guyana est confronté à deux revendications territoriales",
+          "to": "le fleuve Essequibo à l'est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Guyana",
+          "from": "Cette revendication est ancienne",
+          "to": "seulement 17 % de sa population."
+        }
+      ]
+    },
+    {
+      "id": "GUY-5",
+      "topic": "drapeau",
+      "title": "La « pointe de flèche dorée »",
+      "short": "Le drapeau, surnommé la « pointe de flèche dorée », a été dessiné par Whitney Smith, le fondateur de la vexillologie, la science des drapeaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Guyana",
+          "from": "Surnommé la pointe de flèche dorée",
+          "to": "en tant que domaine d'étude."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GUY-C1",
+      "topic": "histoire",
+      "era": "1781-1812",
+      "title": "Trois noms en trente ans",
+      "short": "Fondée par les Britanniques en 1781, la ville est rebaptisée Stabroek par les Néerlandais en 1784, puis Georgetown en 1812, en l'honneur du roi George III.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "En 1781, lors de la conquête de la colonie par l'Empire britannique",
+          "to": "pour fonder une ville"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "Quand le pouvoir repasse aux mains des Néerlandais en 1784",
+          "to": "Compagnie néerlandaise des Indes occidentales."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "Dès le 29 avril 1812, la capitale est renommée Georgetown",
+          "to": "du roi George III."
+        }
+      ]
+    },
+    {
+      "id": "GUY-C2",
+      "topic": "geographie",
+      "title": "Une capitale sous le niveau de la mer",
+      "short": "À marée haute, le sol de Georgetown se trouve un mètre sous le niveau de la mer : une digue protège la ville de l'océan, et beaucoup de ses bâtiments coloniaux sont en bois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "L'altitude du terrain est d'un mètre",
+          "to": "à marée haute."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "La digue de Georgetown protège",
+          "to": "la ville de l'océan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Georgetown_(Guyana)",
+          "from": "Georgetown possède de nombreux boulevards et bâtiments en bois",
+          "to": "de l'époque coloniale."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le premier des trois petits pays du nord-est de l'Amérique du Sud : Guyana, puis Suriname, puis Guyane française, d'ouest en est, retiens « G-S-G ». Le Guyana touche le Venezuela.",
+    "flag": "Vert, avec une pointe de flèche jaune bordée de blanc et un triangle rouge bordé de noir, côté mât. L'Érythrée a aussi un grand triangle rouge, mais avec une couronne d'olivier dorée.",
+    "capital": "Georgetown, la ville du roi George : un nom bien anglais pour le seul pays anglophone d'Amérique du Sud."
+  }
+}

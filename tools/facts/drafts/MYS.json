@@ -1,0 +1,139 @@
+{
+  "id": "MYS",
+  "facts": [
+    {
+      "id": "MYS-1",
+      "topic": "histoire",
+      "era": "1511",
+      "title": "La prise de Malacca",
+      "short": "En 1511, le vice-roi portugais Afonso de Albuquerque s'empare de la ville de Malacca : c'est la première présence européenne en Malaisie. En 1641, les Hollandais prennent à leur tour Malacca aux Portugais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "L'année 1511 marque la première présence européenne",
+          "to": "Afonso de Albuquerque,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "En 1641, les Hollandais de la VOC",
+          "to": "prennent à leur tour Malacca aux Portugais."
+        }
+      ]
+    },
+    {
+      "id": "MYS-2",
+      "topic": "histoire",
+      "era": "1957-1963",
+      "title": "La naissance de la « Malaysia »",
+      "short": "La fédération de Malaisie, sur la péninsule, devient indépendante en 1957. En 1963, les anciens territoires britanniques du nord de Bornéo, Sabah et Sarawak, la rejoignent : le nouvel ensemble est baptisé d'un mot inventé, « Malaysia ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "La Malaisie actuelle résulte de l'entrée en 1963",
+          "to": "devenue indépendante en 1957."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "Lorsque les territoires britanniques de Bornéo",
+          "to": "du néologisme de « Malaysia »."
+        }
+      ]
+    },
+    {
+      "id": "MYS-3",
+      "topic": "histoire",
+      "era": "1965",
+      "title": "Le départ de Singapour",
+      "short": "Le 9 août 1965, Singapour se retire de la fédération. Chinois et Malais, alors aussi nombreux les uns que les autres, ne s'entendaient pas sur le partage du pouvoir : la séparation crée un Singapour à majorité chinoise et une Malaisie à majorité malaise et musulmane.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "Le retrait de Singapour de la fédération de Malaisie",
+          "to": "le retrait de Singapour, en 1965."
+        }
+      ]
+    },
+    {
+      "id": "MYS-4",
+      "topic": "politique",
+      "title": "Un roi élu pour cinq ans",
+      "short": "Le chef de l'État malaisien n'est pas un monarque héréditaire : c'est un sultan, le « souverain suprême », élu pour cinq ans. Il doit appartenir à l'une des neuf familles royales à la tête des sultanats du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "Dans le pouvoir exécutif malais, le chef de l'État",
+          "to": "à la tête des sultanats."
+        }
+      ]
+    },
+    {
+      "id": "MYS-5",
+      "topic": "geographie",
+      "title": "Un pays en deux morceaux",
+      "short": "La Malaisie est en deux parties : la Malaisie péninsulaire, sur la péninsule Malaise, et la Malaisie orientale, au nord de l'île de Bornéo, avec les États de Sabah et de Sarawak.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "La Malaisie (en malaisien : Malaysia) est un État",
+          "to": "(nord de Bornéo)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malaisie",
+          "from": "La Malaisie orientale est composée des territoires",
+          "to": "au nord de Bornéo."
+        }
+      ]
+    },
+    {
+      "id": "MYS-6",
+      "topic": "drapeau",
+      "era": "1965",
+      "title": "Quatorze bandes, quatorze branches",
+      "short": "Quatorze bandes rouges et blanches, et dans le coin bleu, un croissant et une étoile à 14 branches : une pour chaque État de la fédération d'origine. Singapour parti, la quatorzième bande a été attribuée aux territoires fédéraux.",
+      "long": "Sa dernière bande, blanche, et ses astres le distinguent du drapeau des États-Unis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Malaisie",
+          "from": "Il comprenait initialement quatorze bandes",
+          "to": "Labuan et Putrajaya)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Malaisie",
+          "from": "Ainsi la bande inférieure est blanche",
+          "to": "devienne une nation indépendante."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MYS-C1",
+      "topic": "histoire",
+      "era": "1857",
+      "title": "Le confluent vaseux",
+      "short": "Kuala Lumpur signifie « confluent vaseux » en malais. Arrachée à la jungle dans les années 1850, la ville doit sa naissance et sa fortune à l'étain. Depuis 1999, le gouvernement siège à Putrajaya, la capitale administrative.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kuala_Lumpur",
+          "from": "Son nom, signifiant en malais « confluent vaseux »",
+          "to": "l'un de ses affluents, le Gombak."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kuala_Lumpur",
+          "from": "Arrachée à la jungle dans les années 1850",
+          "to": "découverts au XIXe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kuala_Lumpur",
+          "from": "mais le gouvernement a été transféré à Putrajaya",
+          "to": "du pays en 1999."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En deux morceaux en Asie du Sud-Est : le bout de la péninsule malaise, au sud de la Thaïlande, et le nord de l'île de Bornéo, de l'autre côté de la mer de Chine méridionale.",
+    "flag": "Des bandes rouges et blanches et un coin bleu, comme les États-Unis, mais avec un croissant et une étoile jaunes à la place des étoiles blanches.",
+    "capital": "Kuala Lumpur, dans l’ouest de la péninsule, la ville des tours Petronas."
+  }
+}

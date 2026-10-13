@@ -1,0 +1,172 @@
+{
+  "id": "TUN",
+  "facts": [
+    {
+      "id": "TUN-1",
+      "topic": "histoire",
+      "era": "814 av. J.-C.",
+      "title": "Carthage, la cité de la reine Didon",
+      "short": "En 814 av. J.-C., des colons phéniciens venus de Tyr fondent Carthage. Selon la légende, la cité est créée par la reine Élyssa, que les Romains appellent Didon, sœur du roi de Tyr.",
+      "long": "Carthage devient le centre de la civilisation punique en Méditerranée occidentale. À la veille des guerres puniques, ses terres produisent plus que celles de Rome et de tous ses alliés réunis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "En 814 av.",
+          "to": "fondent la ville de Carthage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Tunisie",
+          "from": "D'après la légende, c'est la reine Élyssa",
+          "to": "qui est à l'origine de la cité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "notamment à Carthage (centre de la civilisation punique en Occident)",
+          "to": "(centre de la civilisation punique en Occident)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Le cœur carthaginois qu'est la Tunisie, à la veille des guerres puniques",
+          "to": "de Rome et de ses alliés réunis"
+        }
+      ]
+    },
+    {
+      "id": "TUN-2",
+      "topic": "histoire",
+      "era": "146 av. J.-C.",
+      "title": "Le pays qui a donné son nom à l'Afrique",
+      "short": "Les trois guerres puniques contre Rome, qui faillirent voir tomber Rome elle-même, s'achèvent par la destruction de Carthage en 146 av. J.-C. Les Romains appellent alors la région « Africa » : ce nom finira par désigner tout le continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "La lutte entre Rome et Carthage prend de l'ampleur",
+          "to": "la destruction de Carthage, en 146 av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "La partie nord du territoire de l'actuelle Tunisie est appelé Africa",
+          "to": "à partir des XVIe et XVIIe siècles."
+        }
+      ]
+    },
+    {
+      "id": "TUN-3",
+      "topic": "histoire",
+      "era": "670",
+      "title": "Kairouan, la ville sainte",
+      "short": "En 670, le conquérant arabe Oqba Ibn Nafi fonde Kairouan, qui devient la base de la conquête du Maghreb. Avec sa grande mosquée, la ville devient un centre intellectuel de haute renommée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "La troisième expédition, menée en 670 par Oqba Ibn Nafi al-Fihri",
+          "to": "contre le Nord et l'Ouest"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "La Tunisie devient un foyer culturel important",
+          "to": "un centre intellectuel de haute renommée."
+        }
+      ]
+    },
+    {
+      "id": "TUN-4",
+      "topic": "histoire",
+      "era": "1881-1956",
+      "title": "Du traité du Bardo à Bourguiba",
+      "short": "Le 12 mai 1881, menacé d'être destitué, Sadok Bey signe le traité du Bardo : la Tunisie devient un protectorat français. L'avocat Habib Bourguiba mène la lutte pour l'indépendance, obtenue le 20 mars 1956 ; il devient le premier président de la République en 1957.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Le 12 mai 1881, le protectorat est officialisé",
+          "to": "au palais de Ksar Saïd."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Après avoir fustigé le régime du protectorat",
+          "to": "l'avocat Habib Bourguiba fonde en 1932"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "À l'indépendance, le 20 mars 1956",
+          "to": "de la dynastie des Husseinites."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Mais, le 25 juillet 1957, la république est proclamée",
+          "to": "premier président de la République tunisienne."
+        }
+      ]
+    },
+    {
+      "id": "TUN-5",
+      "topic": "histoire",
+      "era": "2010-2011",
+      "title": "La révolution de 2011",
+      "short": "Le 17 décembre 2010, l'immolation d'un jeune vendeur ambulant, Mohamed Bouazizi, à Sidi Bouzid, déclenche une révolte. Le 14 janvier 2011, le président Ben Ali est chassé par une révolution populaire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Le 17 décembre 2010, un climat insurrectionnel éclate",
+          "to": "dans la région de Sidi Bouzid"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Ben Ali est chassé le 14 janvier 2011",
+          "to": "se réfugie en Arabie saoudite"
+        }
+      ]
+    },
+    {
+      "id": "TUN-6",
+      "topic": "drapeau",
+      "era": "1827",
+      "title": "Un drapeau du XIXe siècle",
+      "short": "Rouge avec un disque blanc portant un croissant et une étoile rouges, le drapeau tunisien remonte à Hussein II Bey, qui en décide la création le 20 octobre 1827 ; il est en usage dès 1831.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tunisie",
+          "from": "Il est majoritairement rouge et comporte",
+          "to": "formant tous deux le symbole islamique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Tunisie",
+          "from": "Le 20 octobre 1827, Hussein II Bey décide de sa création",
+          "to": "effective en 1831."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TUN-C1",
+      "topic": "histoire",
+      "era": "1159",
+      "title": "La bourgade devenue capitale",
+      "short": "Longtemps dans l'ombre de Carthage, de Kairouan puis de Mahdia, Tunis est désignée capitale le 20 septembre 1159 par les Almohades. Elle a donné son nom au pays : Tunis + le suffixe latin -ie.",
+      "long": "Son cœur historique, la médina, est inscrit au patrimoine mondial de l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunis",
+          "from": "Bourgade modeste placée dans l'ombre de Carthage",
+          "to": "sous l'impulsion des Almohades"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunisie",
+          "from": "Le nom actuel de la « Tunisie », en français",
+          "to": "suivi du suffixe latin -ie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tunis",
+          "from": "Son cœur historique est la médina",
+          "to": "patrimoine mondial de l'Unesco."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le plus petit pays du Maghreb, à l'est de l'Algérie et à l'ouest de la Libye, avec une longue côte méditerranéenne, juste en face de la Sicile.",
+    "flag": "Rouge avec un disque blanc au centre, portant un croissant et une étoile rouges. La Turquie a aussi un croissant et une étoile sur fond rouge, mais blancs et sans disque.",
+    "capital": "Tunis a donné son nom à la Tunisie : retire « -ie » et tu as la capitale."
+  }
+}

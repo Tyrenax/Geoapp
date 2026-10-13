@@ -1,0 +1,182 @@
+{
+  "id": "CAN",
+  "facts": [
+    {
+      "id": "CAN-1",
+      "topic": "histoire",
+      "era": "1534",
+      "title": "« Kanata », le mot qui voulait dire village",
+      "short": "Canada vient de l'iroquois « kanata », qui signifie « village ». En 1534, les habitants de la région de Québec emploient ce mot pour guider Jacques Cartier jusqu'au village de Stadaconé ; le navigateur l'étend ensuite à tout le pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Le nom du Canada provient du mot iroquois « kanata », le « k » se prononçant comme un « g » et le « t » comme un « d » (soit « ganada », ce qui signifie « village », « établissement » ou « terre »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "En 1534, les habitants indigènes de l'actuelle ville et région de Québec utilisèrent ce mot pour guider le navigateur breton Jacques Cartier jusqu'au village de Stadaconé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Cartier utilisa par la suite le mot « Canada » non seulement pour désigner ce village, mais également pour l'ensemble des terres de Donnacona, chef de Stadaconé."
+        }
+      ]
+    },
+    {
+      "id": "CAN-2",
+      "topic": "histoire",
+      "era": "vers 1000",
+      "title": "Des Vikings à Terre-Neuve vers l'an 1000",
+      "short": "Vers l'an 1000, des Vikings bâtissent un village à L'Anse aux Meadows, sur l'île de Terre-Neuve. Ils ne parviennent pas à s'y maintenir.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Canada",
+          "quote": "Vers l'an 1000, les Vikings établissent un village à L'Anse aux Meadows mais ne peuvent s'y maintenir : colonies vikings en Amérique, Vinland (Terre-Neuve), Markland (Labrador)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Canada",
+          "quote": "Les vestiges du village qu'il érige peuvent être retrouvés à L'Anse aux Meadows sur l'île de Terre-Neuve"
+        }
+      ]
+    },
+    {
+      "id": "CAN-3",
+      "topic": "histoire",
+      "era": "1608-1763",
+      "title": "La Nouvelle-France, de Champlain à la conquête",
+      "short": "En 1608, Samuel de Champlain fonde Québec, « là où le fleuve se rétrécit » en algonquien, et en fait la capitale de la Nouvelle-France. Après la guerre de Sept Ans, la colonie passe aux Britanniques.",
+      "long": "Les Français explorent la région depuis 1534 et s'installent sur les rives du Saint-Laurent à partir de 1608. Leur colonie, la Nouvelle-France, dure jusqu'en 1763 : vainqueur de la guerre de Sept Ans, la Grande-Bretagne prend alors l'Acadie, le Canada et la partie orientale de la Louisiane.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Canada",
+          "quote": "Mandaté par Pierre Dugua de Mons, Samuel de Champlain fonde Québec en 1608, nom qui signifie selon l'appellation algonquienne « là où le fleuve se rétrécit » et il en fait la capitale de la Nouvelle-France aussi dite le « Canada"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Canada",
+          "quote": "Les Français ont commencé à explorer à partir de 1534 et ont commencé à coloniser les rives du Saint-Laurent en 1608, sur un territoire qu'ils ont nommé la Nouvelle-France (1534-1763)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Canada",
+          "quote": "Pendant trois ans, la Nouvelle-France est dominée par un régime militaire anglais, puis à la suite de la victoire britannique à la guerre de Sept Ans, la Grande-Bretagne s'approprie définitivement l'Acadie, le Canada et la partie orientale de la Louisiane"
+        }
+      ]
+    },
+    {
+      "id": "CAN-4",
+      "topic": "histoire",
+      "era": "1867-1982",
+      "title": "Un pays né d'une union de trois colonies",
+      "short": "Le 1er juillet 1867, trois colonies britanniques s'unissent pour former le Dominion du Canada. Il faut attendre le 17 avril 1982 pour que le pays rapatrie sa Constitution et rompe ses derniers liens juridiques avec le Parlement britannique.",
+      "long": "Entre les deux, le dominion gagne peu à peu en souveraineté, notamment avec le statut de Westminster de 1931. Le Québec, lui, n'a jamais signé la loi de 1982, contrairement aux autres provinces.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "L'Amérique du Nord britannique commence à s'unifier le 1er juillet 1867 par le biais de la Confédération, avec l'union de trois colonies donnant naissance au Dominion du Canada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Au fil du temps, le dominion s'étend et obtient de plus en plus de souveraineté vis-à-vis du Royaume-Uni, grâce notamment au Statut de Westminster de 1931, puis à la Loi de 1982 sur le Canada, qui rompt les derniers liens de dépendance juridique du pays vis-à-vis du Parlement du Royaume-Uni"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Le Canada rapatrie tout de même sa Constitution le 17 avril 1982, grâce à la Loi de 1982 sur le Canada, sous proclamation de la reine Élisabeth II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Contrairement aux autres provinces, le Québec n'a pas signé la Loi de 1982."
+        }
+      ]
+    },
+    {
+      "id": "CAN-5",
+      "topic": "drapeau",
+      "era": "1965",
+      "title": "La feuille d'érable, fille de la crise de Suez",
+      "short": "Pendant la crise de Suez, en 1956, l'Égypte refuse des casques bleus canadiens : leur drapeau porte l'Union Flag britannique. Le Premier ministre Lester Pearson veut alors un drapeau sans ambiguïté, l'Unifolié, adopté en 1965.",
+      "long": "Le nouveau drapeau est hissé pour la première fois le 15 février 1965, date fêtée depuis comme le « jour du drapeau ». Sa feuille d'érable rouge stylisée compte onze pointes. C'est le premier drapeau national officiellement adopté par le Canada.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "Le drapeau du Canada, surnommé l’Unifolié (ou The Maple Leaf Flag en anglais, littéralement « le drapeau à la feuille d'érable ») est le drapeau national et le pavillon national du Canada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "Le premier ministre Lester Pearson avait été un négociateur important durant la crise du canal de Suez de 1956 et avait reçu le prix Nobel de la paix pour ses efforts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "Durant la crise, Pearson avait été gêné par le fait que le gouvernement égyptien ait refusé l'entrée des casques bleus canadiens en raison du fait que le drapeau canadien de l'époque — le Red Ensign — contenait le même symbole (l'Union Flag) utilisé comme drapeau par le Royaume-Uni"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "L'objectif de Pearson était de créer un drapeau canadien distinctif et sans ambiguïté."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "Adopté en 1965, il est le premier drapeau national officiellement adopté au Canada pour remplacer l’Union Flag."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "Le drapeau fait sa première apparition le 15 février 1965 et cette date est aujourd'hui célébrée comme le « jour du drapeau »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Canada",
+          "quote": "C'est un drapeau rouge portant dans un carré blanc une feuille rouge d'érable stylisée à onze pointes."
+        }
+      ]
+    },
+    {
+      "id": "CAN-6",
+      "topic": "geographie",
+      "title": "Le village le plus au nord du monde",
+      "short": "Deuxième plus grand pays du monde après la Russie, le Canada abrite aussi l'établissement le plus septentrional de la planète : Alert, une base militaire à 834 km du pôle Nord.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "Couvrant une superficie de 9,98 millions de kilomètres carrés, il est le deuxième plus grand pays du monde en superficie, derrière la Russie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Canada",
+          "quote": "L'établissement le plus nordique du Canada, et du monde, se situe à Alert (Nunavut), base des Forces armées canadiennes, au sommet de l'île d'Ellesmere (latitude 82,5ºN à 834 kilomètres — 450 milles marins — du Pôle Nord)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CAN-C1",
+      "topic": "histoire",
+      "era": "1857",
+      "title": "Choisie par la reine pour départager quatre villes",
+      "short": "Montréal, Toronto, Québec et Kingston voulaient toutes être capitale. Le 31 décembre 1857, la reine Victoria tranche en choisissant Ottawa.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ottawa",
+          "quote": "Le 31 décembre 1857, Ottawa fut choisie comme capitale de la province du Canada-Uni par la reine Victoria, dans le but de résoudre un conflit opposant Montréal, Toronto, Québec et Kingston, toutes souhaitant devenir capitale de la colonie."
+        }
+      ]
+    },
+    {
+      "id": "CAN-C2",
+      "topic": "histoire",
+      "era": "1826",
+      "title": "De Bytown à Ottawa",
+      "short": "Fondée en 1826 sous le nom de Bytown, la ville prend en 1855 le nom d'Ottawa, celui de la nation des Outaouais qui vivait dans la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ottawa",
+          "quote": "Fondée en 1826 sous le nom de Bytown et incorporée sous le nom d'Ottawa en 1855, la ville est choisie comme capitale de la province du Canada en 1857."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ottawa",
+          "quote": "La région d'Ottawa fut pendant longtemps un établissement de la nation des Outaouais (Ottawa en anglais ; Odawa en algonquin), d'où son nom actuel."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le géant qui couvre tout le nord de l'Amérique du Nord, au-dessus des États-Unis. Un seul voisin terrestre, les États-Unis (au sud, et à l'ouest avec l'Alaska), et des côtes sur trois océans : Atlantique, Pacifique et Arctique.",
+    "flag": "Rouge, blanc, rouge en bandes verticales, avec une grande feuille d'érable rouge au centre du carré blanc. Le Pérou a lui aussi rouge-blanc-rouge vertical, mais sans feuille d'érable.",
+    "capital": "Ottawa porte le nom des Outaouais, le peuple qui vivait là, et se trouve sur la rivière qui sépare l'Ontario anglophone du Québec francophone : une capitale à cheval sur les deux Canadas."
+  }
+}

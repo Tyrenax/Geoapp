@@ -1,0 +1,161 @@
+{
+  "id": "BLR",
+  "facts": [
+    {
+      "id": "BLR-1",
+      "topic": "histoire",
+      "title": "La « Ruthénie blanche »",
+      "short": "Le nom du pays adapte le latin Russia alba, la « Ruthénie blanche ». Pourquoi blanche ? Peut-être parce que cette partie de la Rus' était « franche », c'est-à-dire exemptée de tribut ; ou, au contraire, parce que des Tatars désignaient ainsi la partie qui leur payait tribut.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Le nom du pays est une adaptation slave de la forme latine Russia alba, mentionnée en russe à partir de la fin du XVe siècle comme белая русь (bielaïa rous’) et en polonais à la fin du XVIe siècle comme Ruś biała (« Ruthénie blanche », sous la plume de Maciej Stryjkowski)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "L'ajout de бела- (biéla-) « blanche » à la Русь (Rous’) (ou Ruthénie) pourrait provenir des Tatars baltiques pour désigner la partie de la Rous' qui leur payait tribut, ou bien, au contraire, de l'adjectif белая (bélaïa) signifiant « franche » c'est-à-dire exemptée de tribut."
+        }
+      ]
+    },
+    {
+      "id": "BLR-2",
+      "topic": "histoire",
+      "era": "Xe siècle-1991",
+      "title": "Toujours au sein d'un grand voisin",
+      "short": "Au Xe siècle, la principauté de Polotsk règne sur l'actuelle Biélorussie. Son territoire passe ensuite au grand-duché de Lituanie, à la république des Deux Nations, à l'Empire russe puis à l'URSS. Il ne devient indépendant qu'en décembre 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Au Xe siècle, la principauté de Polotsk gouvernait l'actuel territoire de la Biélorussie : c'était un État peuplé par des Slaves de l'Est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Son territoire fut autrefois inclus dans de grandes puissances : la Rus' de Kiev, le grand-duché de Lituanie, la république des Deux Nations, l'Empire russe puis l'Union des républiques socialistes soviétiques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Elle devint indépendante lors de la dislocation de l'URSS, en décembre 1991."
+        }
+      ]
+    },
+    {
+      "id": "BLR-3",
+      "topic": "histoire",
+      "era": "1941-1945",
+      "title": "Un quart de la population perdu",
+      "short": "Envahie par l'Allemagne nazie le 22 juin 1941, la Biélorussie perd un quart de sa population pendant la Seconde Guerre mondiale, et un million de personnes sont déplacées.",
+      "long": "Ce n'est pas la première saignée : la guerre contre la Russie de 1654-1667 avait déjà emporté la moitié de la population, et la grande guerre du Nord un tiers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Le 22 juin 1941, la Biélorussie est envahie par l'Allemagne nazie :"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Le pays a connu cinq crises démographiques majeures au cours de son histoire :\n\n1563-1566 : épidémie de peste ;\n1654-1667 : guerre entre la Russie et le grand-duché de Lituanie (la moitié de la population disparaît) ;\n1700-1721 : grande guerre du Nord contre la Suède (un tiers de la population est tué) ;\n1914-1917 : Première Guerre mondiale (1,2 million de morts) ;\n1941-1945 : Seconde Guerre mondiale (un quart de la population succombe, un million de personnes sont déplacées)."
+        }
+      ]
+    },
+    {
+      "id": "BLR-4",
+      "topic": "histoire",
+      "era": "1986",
+      "title": "Frappée par Tchernobyl",
+      "short": "Le 26 avril 1986, la catastrophe nucléaire de Tchernobyl, en Ukraine, frappe de plein fouet la Biélorussie voisine. Une partie de la Polésie, dans le sud, reste contaminée par les radiations.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Le 26 avril 1986, la Biélorussie est touchée par la catastrophe nucléaire de Tchernobyl."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Dans le Sud du pays se trouve la région historique de Polésie, dont la partie orientale, difficile d'accès, surtout pour les étrangers, reste contaminée par les radiations de l'explosion en 1986 de la centrale nucléaire de Tchernobyl, de même que le nord de l'Ukraine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ukraine",
+          "quote": "Le pays a été marqué par la catastrophe de Tchernobyl, même si les retombées ont essentiellement concerné la Biélorussie."
+        }
+      ]
+    },
+    {
+      "id": "BLR-5",
+      "topic": "geographie",
+      "title": "Forêts primaires et marais",
+      "short": "Pays plat, la Biélorussie est couverte à 40 % de forêts, dont une forêt primaire où vivent des espèces disparues du reste de l'Europe. Elle possède aussi l'une des plus vastes régions marécageuses d'Europe, le marais du Pripiat.",
+      "long": "Son animal emblématique est le bison.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Le pays, vaste plaine au climat continental, est couvert à 40 % de forêts, dont une forêt primaire abritant des espèces animales disparues du reste de l'Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Ce pays plat possède une des plus vastes régions marécageuses d'Europe (le marais du Pripiat)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Biélorussie",
+          "quote": "Zubr (« Le Bison », d'après l'animal emblématique de Biélorussie)"
+        }
+      ]
+    },
+    {
+      "id": "BLR-6",
+      "topic": "drapeau",
+      "era": "1995",
+      "title": "Deux drapeaux pour un pays",
+      "short": "À sa création, la République populaire biélorusse adopte un drapeau blanc-rouge-blanc, qui renvoie à l'âge d'or du grand-duché de Lituanie. Après l'élection d'Alexandre Loukachenko en 1994, un référendum le remplace en 1995 par le drapeau actuel, inspiré des emblèmes soviétiques, sans la faucille ni le marteau.",
+      "long": "Le drapeau actuel dérive de celui de 1951, avec sa bande verte et, à gauche, le motif d'un routchnik traditionnel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Biélorussie",
+          "quote": "À sa création, la République populaire biélorusse choisit d'adopter un tricolore horizontal blanc-rouge-blanc qui, selon l'universitaire Anna Zadora, « se réfère à la période de grand-duché de Lituanie, considéré par les nationalistes comme siècle d'or »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Biélorussie",
+          "quote": "Après l'élection d'Alexandre Loukachenko, nostalgique de l'époque soviétique, à la présidence biélorusse en 1994, le drapeau blanc-rouge-blanc est abandonné par référendum en 1995 pour le drapeau actuel, inspiré des anciens emblèmes soviétiques, mais sans faucille ni marteau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Biélorussie",
+          "quote": "La variante adoptée en 1951, qui inclut une bande horizontale verte et une représentation du routchnik traditionnel à gauche du drapeau, est à l'origine du drapeau actuel."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BLR-C1",
+      "topic": "histoire",
+      "era": "1067",
+      "title": "Une ville citée dès 1067",
+      "short": "Minsk, sous le nom de Mien'sk', est mentionnée pour la première fois en 1067, dans la Première Chronique russe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Minsk",
+          "quote": "Une ville, Mien'sk' (Мѣнескъ), est mentionnée pour la première fois en 1067 dans la Première Chronique Russe."
+        }
+      ]
+    },
+    {
+      "id": "BLR-C2",
+      "topic": "histoire",
+      "era": "1944",
+      "title": "Détruite à 90 %",
+      "short": "Quand l'Armée rouge reprend Minsk, le 3 juillet 1944, la ville est détruite à 90 % et ne compte plus que 50 000 habitants. Elle est entièrement reconstruite dans le style stalinien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Minsk",
+          "quote": "Minsk fut libérée par les troupes soviétiques le 3 juillet 1944 durant l'opération Bagration."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Minsk",
+          "quote": "L'Armée rouge ne prit la ville qu'après un combat féroce, à l'issue duquel la ville était détruite à 90 pour cent et la population réduite à 50 000 habitants.\nAprès la guerre, les ruines de Minsk furent effacées et la ville fut entièrement reconstruite dans le style architectural stalinien."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays plat et boisé, sans accès à la mer, entre la Pologne à l'ouest et la Russie à l'est ; la Lituanie et la Lettonie au nord, l'Ukraine au sud.",
+    "flag": "Une large bande rouge sur une bande verte plus étroite, et le long du mât une bande de broderie rouge sur blanc. Le Turkménistan a aussi une bande de motifs le long du mât, mais sur fond vert, avec un croissant.",
+    "capital": "Minsk, rasée à 90 % en 1944 puis rebâtie en style stalinien, au centre du pays."
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "id": "RWA",
+  "facts": [
+    {
+      "id": "RWA-1",
+      "topic": "histoire",
+      "title": "Un royaume au pays des mille collines",
+      "short": "Surnommé le « pays des mille collines », le Rwanda fut longtemps un royaume dirigé par des rois tutsis, les mwami. À partir du milieu du XVIIIe siècle, le royaume du clan Nyiginya domine la région.",
+      "long": "Au XIXe siècle, le roi Rwabugiri étend le royaume vers l'ouest et le nord, et ses réformes administratives creusent un fossé entre Hutus et Tutsis. Le pays passe ensuite à l'Allemagne, puis à la Belgique, au sein du Ruanda-Urundi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "surnommé le « pays des mille collines »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "Un des clans, dirigé par un lignage tutsi, dominait la région et son mwami était considéré comme le roi du Rwanda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Rwanda",
+          "quote": "Gouverné par le clan Tutsi Nyiginya, le royaume du Rwanda devient le royaume dominant à partir du milieu du XVIIIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Rwanda",
+          "quote": "Rwabugiri étend le royaume à l'ouest et au nord, et lance des réformes administratives qui créent un fossé entre les populations hutu et tutsi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "Après la défaite de l'Allemagne à l'issue de la Première Guerre mondiale, le territoire fait partie de la colonie belge du Ruanda-Urundi en 1923."
+        }
+      ]
+    },
+    {
+      "id": "RWA-2",
+      "topic": "histoire",
+      "era": "1962",
+      "title": "Révolution et indépendance",
+      "short": "La révolution rwandaise renverse la monarchie et porte au pouvoir un gouvernement républicain dominé par les Hutus. Le pays devient indépendant le 1er juillet 1962, avec Grégoire Kayibanda pour président.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "La révolution rwandaise mène à la chute de la monarchie, la création d'un gouvernement républicain dominé par des Hutu, et l'indépendance du pays en 1962 sous le président Grégoire Kayibanda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "L'ONU fixe au 1er juillet 1962 la date d'indépendance du Rwanda."
+        }
+      ]
+    },
+    {
+      "id": "RWA-3",
+      "topic": "histoire",
+      "era": "1994",
+      "title": "Le génocide des Tutsis",
+      "short": "Le 6 avril 1994, l'avion du président Habyarimana est abattu au-dessus de Kigali. Aussitôt commence le génocide des Tutsis, qui fait des centaines de milliers de victimes, Tutsis et Hutus modérés, jusqu'en juillet 1994.",
+      "long": "Planifié par le gouvernement intérimaire et exécuté notamment par les milices Interahamwe, il est attisé par une propagande comme celle de la Radio des Mille Collines. Il prend fin avec la victoire militaire du Front patriotique rwandais (FPR).",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Rwanda",
+          "quote": "Le 6 avril 1994, l'avion du président Habyarimana est abattu alors qu'il s'apprêtait à atterrir à Kigali."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kigali",
+          "quote": "Cela est le catalyseur du génocide des Tutsi, au cours duquel 500 000 à 800 000 Tutsi et Hutu politiquement modérés sont tués dans des attaques bien planifiées sur ordre du gouvernement intérimaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Rwanda",
+          "quote": "Le génocide, dirigé par ce gouvernement, dure jusqu'au 4 juillet 1994."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "La Radio des mille collines et le journal Kangura notamment ont été des outils de propagande déterminants dans la conduite du génocide."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "Après l'assassinat de Habyarimana en avril 1994, le pays connaît le génocide des Tutsis qui se termine en juillet 1994 par une victoire militaire du Front patriotique rwandais (FPR)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "crée en 1992 la Coalition pour la défense de la République (CDR), les milices Interahamwe"
+        }
+      ]
+    },
+    {
+      "id": "RWA-4",
+      "topic": "politique",
+      "era": "2008",
+      "title": "Le premier parlement à majorité féminine",
+      "short": "En 2008, le Parlement rwandais est devenu le premier au monde à compter une majorité de femmes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "Le Parlement du Rwanda est devenu, en 2008, le premier du monde à afficher une majorité de femmes"
+        }
+      ]
+    },
+    {
+      "id": "RWA-5",
+      "topic": "geographie",
+      "title": "Volcans et gorilles de montagne",
+      "short": "Au nord, une chaîne de volcans de 3 500 à 4 500 m abrite des gorilles de montagne. Leur nombre est remonté de 250 en 1980 à 1 063, dont la plupart vivent au Rwanda.",
+      "long": "Le dernier samedi de chaque mois, les habitants participent à l'umuganda, une journée obligatoire de travaux communautaires.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "Appelé le « Pays des mille collines », le Rwanda est bordé au nord par une chaîne de volcans élevés (3 500 à 4 500 mètres)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "En 1980, il n'y avait que 250 gorilles de montagne, aujourd'hui il y en a 1 063, dont 80 % au Rwanda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Rwanda",
+          "quote": "journée de travaux communautaires d'intérêt général, obligatoire, organisée tous les derniers samedis du mois"
+        }
+      ]
+    },
+    {
+      "id": "RWA-6",
+      "topic": "drapeau",
+      "era": "2001",
+      "title": "Un soleil pour un nouveau départ",
+      "short": "En 2001, le Rwanda remplace son drapeau rouge-jaune-vert marqué d'un R, utilisé depuis l'indépendance, par un drapeau bleu, jaune et vert portant un soleil doré en haut à droite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Rwanda",
+          "quote": "Adopté le 25 octobre 2001, il est composé de trois bandes horizontales de couleurs bleu, jaune et verte, avec un soleil dans le coin haut droit."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Rwanda",
+          "quote": "Un drapeau tricolore à trois bandes verticales d'égales dimensions et de couleur rouge, jaune et verte, avec la lettre R majuscule au centre de la bande jaune, était auparavant utilisé de l'indépendance du pays en 1961 jusqu'en 2001."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "RWA-C1",
+      "topic": "histoire",
+      "era": "1907",
+      "title": "Le poste d'un explorateur allemand",
+      "short": "Kigali est fondée en 1907 par l'explorateur allemand Richard Kandt, premier résident du Rwanda. Il choisit la colline de Nyarugenge pour sa position centrale, sa vue et sa sécurité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kigali",
+          "quote": "Kigali est fondée en 1907 centre administratif pendant la colonisation allemande par l'administrateur et explorateur allemand Richard Kandt premier résident du Rwanda qui a établi la ville comme siège."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kigali",
+          "quote": "Il choisit d'établir son quartier général à Kigali en raison de son emplacement central dans le pays, et aussi parce que le site sur la colline de Nyarugenge offrait une bonne vue et assurait la sécurité."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays de collines au cœur des Grands Lacs, juste au-dessus du Burundi : l'Ouganda au nord, la Tanzanie à l'est, la RD Congo et le lac Kivu à l'ouest.",
+    "flag": "Bleu sur la moitié supérieure avec un soleil doré à droite, puis une bande jaune et une bande verte. Le Kazakhstan a aussi un soleil doré, mais sur fond entièrement bleu ciel.",
+    "capital": "Kigali, au centre géographique du pays : son fondateur l'avait choisie précisément pour cette position centrale."
+  }
+}

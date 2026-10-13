@@ -1,0 +1,205 @@
+{
+  "id": "ZAF",
+  "facts": [
+    {
+      "id": "ZAF-1",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Les grottes des australopithèques",
+      "short": "Dans les grottes de Sterkfontein, Swartkrans, Kromdraai et Makapansgat, de nombreux fossiles montrent que des australopithèques vivaient sur les hauts plateaux sud-africains il y a environ 2,5 millions d'années.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "De nombreux fossiles, trouvés dans les grottes de Sterkfontein",
+          "to": "il y a environ 2,5 millions d'années."
+        }
+      ]
+    },
+    {
+      "id": "ZAF-2",
+      "topic": "histoire",
+      "era": "1652",
+      "title": "Une station de ravitaillement au Cap",
+      "short": "Le 6 avril 1652, Jan van Riebeeck débarque avec 80 hommes pour la Compagnie néerlandaise des Indes orientales et fonde au Cap une station de ravitaillement. C'est le début de l'implantation européenne durable.",
+      "long": "Dix-neuf hommes ne survivent pas au premier hiver. Les colons qui s'installent ensuite pour cultiver la terre commencent à être appelés Boers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "Le 6 avril 1652, Jan van Riebeeck",
+          "to": "débarque ses 80 hommes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "L'implantation définitive d'Européens en Afrique du Sud date de 1652",
+          "to": "une station de ravitaillement au Cap"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "Dix-neuf d'entre eux ne passent pas le premier hiver.",
+          "to": "le premier hiver."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "Il entreprend de développer l'agriculture en concédant des terres aux Burghers",
+          "to": "que l'on commence à appeler Boers"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-3",
+      "topic": "histoire",
+      "era": "1835-1902",
+      "title": "Le Grand Trek et les guerres des Boers",
+      "short": "En 1835, pour échapper à l'administration britannique, les Boers quittent la colonie du Cap vers l'intérieur : c'est le Grand Trek. Ils fondent le Transvaal et l'État libre d'Orange, que les Britanniques annexent après la seconde guerre des Boers (1899-1902).",
+      "long": "Le Grand Trek est marqué par des combats, comme la bataille de Blood River contre les Zoulous en 1838. La course aux mines d'or a joué un rôle dans la guerre de 1899.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "En 1835, les Boers quittent la colonie du Cap",
+          "to": "échapper à l'administration britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "C'est le Grand Trek, parsemé de tragédies et de batailles",
+          "to": "contre les Zoulous en 1838)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "Deux républiques boers indépendantes sont finalement fondées",
+          "to": "l'État libre d'Orange (1854)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "Motivée en partie par ces mines d'or",
+          "to": "sur la majeure partie de l'Afrique australe"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-4",
+      "topic": "histoire",
+      "era": "1948-1994",
+      "title": "L'apartheid",
+      "short": "En 1948, le Parti national gagne les élections en promettant la ségrégation raciale. Le Premier ministre Daniel Malan met en place l'apartheid, la séparation systématique des populations selon leur couleur, qui durera jusqu'en 1994.",
+      "long": "En 1964, Nelson Mandela, l'un des chefs de la branche armée de l'ANC, est condamné à la prison à perpétuité. Il ne sera libéré qu'en février 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "En 1948, le Parti national remporte les élections générales",
+          "to": "entre Noirs et Blancs"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "Le nouveau Premier ministre, Daniel François Malan",
+          "to": "la politique d'apartheid"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "== Période 1948-1994 : ère de l'apartheid ==",
+          "to": "ère de l'apartheid =="
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "En 1964, Nelson Mandela, l'un des chefs de Umkhonto we Sizwe",
+          "to": "condamné à perpétuité pour terrorisme"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "La libération de Nelson Mandela, en février 1990",
+          "to": "en février 1990"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-5",
+      "topic": "histoire",
+      "era": "1994",
+      "title": "Mandela et la « nation arc-en-ciel »",
+      "short": "En 1994, les premières élections multiraciales au suffrage universel portent Nelson Mandela à la présidence : il est le premier président noir du pays. Sa présidence devient le symbole de la réconciliation.",
+      "long": "L'archevêque Desmond Tutu invente l'expression « nation arc-en-ciel » pour désigner la diversité de la société sud-africaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "Le XXe siècle est marqué par le système législatif séparatiste",
+          "to": "organisées dans le pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Afrique_du_Sud",
+          "from": "La présidence de Nelson Mandela se met en place",
+          "to": "devient le symbole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "Le drapeau actuel est en vigueur depuis le 27 avril 1994",
+          "to": "premières élections nationales non raciales"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "Elle est souvent appelée « nation arc-en-ciel »",
+          "to": "la diversité de la nation sud-africaine"
+        }
+      ]
+    },
+    {
+      "id": "ZAF-6",
+      "topic": "drapeau",
+      "era": "1994",
+      "title": "Des routes qui convergent",
+      "short": "Adopté le 27 avril 1994, jour des premières élections non raciales, le drapeau reprend les couleurs des différentes administrations et des grands groupes politiques du pays. Son motif en Y symbolise « la convergence des divers éléments de la société sud-africaine qui font la route ensemble ».",
+      "long": "Il remplace le drapeau orange-blanc-bleu de 1928, jugé trop lié à l'histoire de la seule communauté blanche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "Le drapeau actuel est en vigueur depuis le 27 avril 1994",
+          "to": "premières élections nationales non raciales"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "Le nouveau drapeau se veut le reflet",
+          "to": "groupes ethno-politiques du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "Le motif central symbolise",
+          "to": "ensemble et à l'unisson »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "En vigueur depuis le 27 avril 1994, cet emblème a remplacé",
+          "to": "adopté en 1928."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Afrique_du_Sud",
+          "from": "Image d'un État-nation reconstitué",
+          "to": "de la seule communauté blanche du pays)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ZAF-C1",
+      "topic": "politique",
+      "title": "Un pays, trois capitales",
+      "short": "L'Afrique du Sud a trois capitales officielles : Pretoria, capitale administrative, Le Cap, capitale législative, et Bloemfontein, capitale judiciaire.",
+      "long": "Pretoria tient son nom d'Andries Pretorius, un chef boer : c'est son fils, Marthinus Wessel Pretorius, qui a fondé la ville et l'a baptisée en hommage à son père.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Afrique_du_Sud",
+          "from": "Traditionnellement, l'on a reconnu historiquement trois capitales officielles",
+          "to": "judiciaire, à Bloemfontein."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pretoria",
+          "from": "Le nom de la ville de Pretoria a été choisi par son fondateur",
+          "to": "Andries Pretorius"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe sud du continent, entre l'Atlantique et l'océan Indien. Au nord : la Namibie, le Botswana, le Zimbabwe et le Mozambique. Elle entoure complètement le Lesotho et presque l'Eswatini.",
+    "flag": "Un Y couché vert bordé de blanc et de jaune, qui part du côté mât sur un triangle noir, entre une bande rouge en haut et une bande bleue en bas. Six couleurs : aucun autre drapeau ne lui ressemble.",
+    "capital": "Trois réponses ! Pretoria (gouvernement), Le Cap (Parlement), Bloemfontein (justice). Moyen mnémotechnique : « P-C-B », Président, Chambre, Balance."
+  }
+}

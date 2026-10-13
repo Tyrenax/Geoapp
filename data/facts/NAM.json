@@ -1,0 +1,157 @@
+{
+  "id": "NAM",
+  "facts": [
+    {
+      "id": "NAM-1",
+      "topic": "geographie",
+      "title": "Le pays du plus vieux désert du monde",
+      "short": "La Namibie doit son nom au désert du Namib, qui longe toute sa côte atlantique et passe pour le plus vieux désert du monde. Sur la côte, plus de 180 jours de brouillard épais par an naissent de la rencontre avec le courant froid de Benguela.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Largement désertique, le pays doit son nom au désert du Namib, qui recouvre sa côte atlantique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Son territoire est compris entre l'Angola au Nord, le fleuve Orange et l'Afrique du Sud au Sud, la côte atlantique à l'Ouest, le Botswana à l'Est, avec, d'Ouest en Est, le désert du Namib (le plus vieux désert du monde)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Sur la côte, du fait de la collision de l'air froid du courant de Benguela avec l'air chaud des cellules de Hadley, une brume épaisse apparaît souvent, entre mai et octobre (plus de 180 jours de brouillard épais par an)"
+        }
+      ]
+    },
+    {
+      "id": "NAM-2",
+      "topic": "histoire",
+      "era": "Préhistoire",
+      "title": "Le plus ancien art rupestre d'Afrique",
+      "short": "On trouve en Namibie les plus anciennes traces d'art rupestre du continent africain. Les Bushmen sont considérés comme les plus anciens habitants du pays, même si d'autres découvertes attestent la présence de populations antérieures.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Namibie",
+          "quote": "C'est dans cette actuelle Namibie que l'on trouve également les traces les plus anciennes d'art rupestre du continent africain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Namibie",
+          "quote": "De ce fait, les bushmen/bochimans sont considérés comme les plus anciens habitants de l'Afrique du Sud-Ouest bien que d'autres découvertes d'art pariétal attestent de la présence de populations antérieures non encore déterminées."
+        }
+      ]
+    },
+    {
+      "id": "NAM-3",
+      "topic": "histoire",
+      "era": "1904-1908",
+      "title": "Le génocide des Héréros et des Namas",
+      "short": "Colonisé par l'Allemagne à partir de 1884, le Sud-Ouest africain allemand est le théâtre d'un génocide. En 1904, les Héréros se soulèvent ; l'armée du général von Trotha les massacre, ainsi que des milliers de Namas, jusqu'en 1908.",
+      "long": "Quelque 10 000 Namas ont été tués. La présence allemande a durablement marqué le pays : l'allemand y était encore une langue officielle jusqu'en 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Le territoire du pays est colonisé par l'Allemagne en 1884 et devient alors le Sud-Ouest africain allemand."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Entre 1904 et 1908, un génocide est commis contre les peuples héréro et nama."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "En 1904, des autochtones héréros se soulèvent et sont massacrés par les Allemands sous le commandement du général Lothar von Trotha"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Quelque 10 000 Namas ont également été tués."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Namibie",
+          "quote": "La conquête allemande du territoire namibien à partir de 1885 a profondément marqué le futur État, dont l'allemand était encore une des langues officielles jusqu'en 1990."
+        }
+      ]
+    },
+    {
+      "id": "NAM-4",
+      "topic": "histoire",
+      "era": "1915-1990",
+      "title": "Sous la tutelle de l'Afrique du Sud",
+      "short": "Pendant la Première Guerre mondiale, le territoire passe sous mandat de l'Afrique du Sud, qui y impose l'apartheid. La SWAPO mène la lutte pour l'indépendance, obtenue le 21 mars 1990.",
+      "long": "En 1973, l'Assemblée générale de l'ONU reconnaît la SWAPO comme le « représentant unique et authentique du peuple namibien ». La Namibie est l'un des plus jeunes pays d'Afrique : seuls l'Érythrée et le Soudan du Sud sont plus récents.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Pendant la Première Guerre mondiale, le territoire devient le Sud-Ouest africain, un territoire sous mandat de l'Afrique du Sud, sous laquelle l'apartheid est imposé à la fin des années 1940."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Le 21 mars 1990, la Namibie devient indépendante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Namibie",
+          "quote": "Le 12 septembre 1973, dans sa résolution no 3111, l'Assemblée générale des Nations unies reconnaît à la SWAPO le titre de « représentant unique et authentique du peuple namibien »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Namibie",
+          "quote": "La Namibie est le troisième pays le plus jeune d'Afrique après l'indépendance de l'Érythrée en 1993 et du Soudan du Sud en 2011, la Namibie est indépendante depuis 1990."
+        }
+      ]
+    },
+    {
+      "id": "NAM-5",
+      "topic": "drapeau",
+      "era": "1990",
+      "title": "Les couleurs de la SWAPO et un soleil d'or",
+      "short": "Le drapeau reprend les couleurs bleu, rouge et vert de la SWAPO, le mouvement de libération. Le soleil doré représente la vie et l'énergie, le bleu le ciel et l'océan, le vert la végétation, le rouge le peuple.",
+      "long": "Il a remplacé le drapeau orange, blanc et bleu de l'Afrique du Sud, utilisé de fait dans le pays depuis 1928.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Namibie",
+          "quote": "Le drapeau de la Namibie reprend les couleurs bleues, rouges et vertes de la SWAPO, le plus important mouvement de lutte pour l'indépendance de la Namibie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Namibie",
+          "quote": "Le rouge représente la ressource la plus importante de la Namibie, son peuple."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Namibie",
+          "quote": "Le vert symbolise la végétation et les ressources agricoles.\nLe bleu représente le ciel clair de la Namibie et l'océan Atlantique, les précieuses ressources en eau et la pluie du pays et le soleil jaune doré représente la vie et l'énergie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Namibie",
+          "quote": "Il a remplacé le drapeau sud-africain tricolore orange, blanc et bleu qui était le drapeau officiel de fait du sud-ouest africain depuis 1928."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "NAM-C1",
+      "topic": "histoire",
+      "era": "vers 1844",
+      "title": "Le « coin du vent » aux sources chaudes",
+      "short": "Windhoek, « coin du vent » en afrikaans, est fondée dans les années 1840 par Jonker Afrikaner, chef des Oorlams. Les premiers éleveurs appelaient ce lieu Aigams, d'après ses sources d'eau chaude.",
+      "long": "Perchée à 1 700 m d'altitude au centre du pays, la ville a porté au moins sept noms au cours de son histoire. Pour les Héréros, c'était Otjomuise, le « lieu des vapeurs ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Windhoek",
+          "quote": "Fondée vers 1844 par Jonker Afrikaner, Windhoek signifie « coin du vent » en afrikaans."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Windhoek",
+          "quote": "Jonker Afrikaner, chef des Oorlams, fuyant la colonisation de la région du Cap, fonde la ville de Winterhoek dans les années 1840."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Windhoek",
+          "quote": "Le site où est situé Windhoek a connu au moins sept appellations différentes au cours de sa jeune histoire :\n\nAigams pour les premiers peuples pastoraux, en référence aux sources d'eaux chaudes qui y sont situées,\nOtjomuise (lieu de vapeurs) pour les Hereros"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Windhoek",
+          "quote": "Située dans le centre de la Namibie à 1 700 m d'altitude, elle est la plus grande ville du pays et son centre politique"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte atlantique de l'Afrique australe, au-dessus de l'Afrique du Sud, sous l'Angola, avec le Botswana à l'est. Remarque la longue « queue » de Caprivi qui part vers l'est au nord-est du pays.",
+    "flag": "Une large diagonale rouge bordée de blanc, avec un triangle bleu en haut à gauche portant un soleil doré, et un triangle vert en bas à droite. La Tanzanie a aussi une diagonale, mais noire bordée de jaune, sans soleil.",
+    "capital": "Windhoek, le « coin du vent » : un nom afrikaans perché au centre du pays."
+  }
+}

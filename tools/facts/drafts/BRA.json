@@ -1,0 +1,180 @@
+{
+  "id": "BRA",
+  "facts": [
+    {
+      "id": "BRA-1",
+      "topic": "histoire",
+      "era": "1494-1500",
+      "title": "Un pays partagé avant d'être découvert",
+      "short": "En 1494, le traité de Tordesillas partage les terres nouvelles entre l'Espagne et le Portugal. En 1500, le Portugais Pedro Álvares Cabral atteint la côte brésilienne, la croit une île et la baptise « Ilha de Vera Cruz ».",
+      "long": "Le traité, signé sous l'égide du pape Alexandre VI, donne à l'Espagne les terres situées à plus de 370 lieues à l'ouest du Cap-Vert, et au Portugal toutes les autres.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "Selon le traité de Tordesillas, signé en 1494",
+          "to": "étaient attribuées au Portugal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "En 1500, le navigateur portugais Pedro Álvares Cabral découvre le Brésil",
+          "to": "« Ilha de Vera Cruz »."
+        }
+      ]
+    },
+    {
+      "id": "BRA-2",
+      "topic": "histoire",
+      "era": "1808",
+      "title": "Quand Rio devint la capitale de l'empire portugais",
+      "short": "En 1808, la famille royale portugaise fuit l'invasion napoléonienne et s'installe au Brésil. Rio de Janeiro devient alors la capitale de tout l'empire portugais.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+          "from": "En 1808, fuyant l'invasion napoléonienne",
+          "to": "le 7 mars 1808."
+        }
+      ]
+    },
+    {
+      "id": "BRA-3",
+      "topic": "histoire",
+      "era": "1822",
+      "title": "Un empire en Amérique",
+      "short": "Le 7 septembre 1822, au bord de l'Ipiranga, près de São Paulo, Dom Pedro proclame l'indépendance. Le Brésil ne devient pas une république, mais un empire, proclamé le 12 octobre 1822.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+          "from": "Le 7 septembre 1822, sur les rives de l'Ipiranga",
+          "to": "la rupture définitive avec le Portugal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "Le 12 octobre 1822, l'Empire du Brésil",
+          "to": "officiellement proclamé."
+        }
+      ]
+    },
+    {
+      "id": "BRA-4",
+      "topic": "histoire",
+      "era": "1888",
+      "title": "La « loi d'Or » contre l'esclavage",
+      "short": "Le 13 mai 1888, la princesse Isabelle, fille de l'empereur Pierre II, signe la « loi d'Or » qui abolit définitivement l'esclavage. La monarchie tombe un an plus tard.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+          "from": "L'abolition complète de l'esclavage survient le 13 mai 1888",
+          "to": "l'esclavage au Brésil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Brésil",
+          "from": "Ce dernier fut aboli en 1888",
+          "to": "la chute de la monarchie."
+        }
+      ]
+    },
+    {
+      "id": "BRA-5",
+      "topic": "drapeau",
+      "era": "1889",
+      "title": "Le ciel de Rio un soir de 1889",
+      "short": "Le disque bleu du drapeau reproduit le ciel étoilé de Rio de Janeiro le 15 novembre 1889, jour où la république est proclamée. Sa devise, « Ordem e Progresso » (ordre et progrès), vient du philosophe français Auguste Comte.",
+      "long": "Ce disque a pris la place qu'occupait le blason de l'empire au centre du losange. Le tout premier drapeau républicain, lui, imitait celui des États-Unis, en vert et jaune, avec vingt étoiles sur un carré noir.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "Au centre du losange, où trônait le blason de l'empire du Brésil",
+          "to": "qui installa la république."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Brésil",
+          "from": "Ce disque est traversé par une bande blanche incurvée",
+          "to": "par Auguste Comte en 1848."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Brésil",
+          "from": "Le premier drapeau de la República Velha",
+          "to": "sur un carré noir."
+        }
+      ]
+    },
+    {
+      "id": "BRA-6",
+      "topic": "geographie",
+      "title": "Un pays-continent et la plus vieille poterie d'Amérique",
+      "short": "Cinquième pays du monde par la superficie, le Brésil est couvert au nord par la forêt amazonienne. C'est dans le bassin de l'Amazone qu'on a trouvé la plus ancienne poterie de l'hémisphère occidental, vieille de 8 000 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "Désigné comme pays-continent, le Brésil est le cinquième",
+          "to": "les États-Unis et la Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "Le Nord est en grande partie couvert",
+          "to": "par la forêt amazonienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brésil",
+          "from": "La plus ancienne poterie jamais découverte",
+          "to": "il y a 8 000 ans"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BRA-C1",
+      "topic": "histoire",
+      "era": "1956-1960",
+      "title": "Une capitale sortie de terre en quatre ans",
+      "short": "Pour rééquilibrer un pays tourné vers ses côtes, le président Kubitschek lance en 1956 la construction de Brasília, en plein intérieur. La ville est inaugurée le 21 avril 1960 et remplace Rio, capitale depuis 1763.",
+      "long": "Kubitschek promettait aux Brésiliens « 50 ans de progrès en 5 ans ». Le chantier avance à un rythme effréné, au prix de journées de travail qui atteignent dix-huit heures et de conditions très dures pour les ouvriers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brasilia",
+          "from": "La construction de cette ville nouvelle, à un rythme soutenu",
+          "to": "le 21 avril 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Brésil",
+          "from": "Le bleu représente le ciel bleu de Rio de Janeiro",
+          "to": "entre 1763 et 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brasilia",
+          "from": "Juscelino Kubitschek assure aux Brésiliens",
+          "to": "« 50 ans de progrès en 5 ans »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brasilia",
+          "from": "Avec des journées de travail atteignant dix-huit heures",
+          "to": "conditions de travail déplorables"
+        }
+      ]
+    },
+    {
+      "id": "BRA-C2",
+      "topic": "culture",
+      "title": "Une ville en forme d'avion",
+      "short": "Vu du ciel, le plan de Brasília dessiné par Lúcio Costa a la forme d'un avion, posé au bord d'un lac artificiel. Les grands bâtiments, de la cathédrale au Congrès, sont l'œuvre d'Oscar Niemeyer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brasilia",
+          "from": "L'urbaniste Lúcio Costa est l'auteur du plan pilote",
+          "to": "le lac Paranoá."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brasilia",
+          "from": "Les bâtiments principaux ont été conçus par l'architecte Oscar Niemeyer",
+          "to": "le palais de la présidence."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le géant de l'Amérique du Sud : il en occupe presque la moitié et touche tous les pays du continent sauf le Chili et l'Équateur. Sa pointe est s'avance dans l'Atlantique vers l'Afrique.",
+    "flag": "Un losange jaune sur fond vert, et au centre un globe bleu étoilé barré d'une bande blanche avec la devise. Aucun autre drapeau national n'a ce losange jaune sur vert.",
+    "capital": "Brasília, c'est « le Brésil » en ville : une capitale neuve qui porte le nom du pays, à ne pas confondre avec Rio (l'ancienne capitale) ni São Paulo (la plus grande ville)."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "ATF",
+  "facts": [
+    {
+      "id": "ATF-1",
+      "topic": "histoire",
+      "era": "1772",
+      "title": "La « France australe » de Kerguelen",
+      "short": "En 1772, le navigateur Yves Joseph de Kerguelen de Trémarec découvre les îles qui portent aujourd'hui son nom. Il en prend possession au nom du roi et les baptise « France australe ».",
+      "long": "La même année, Marc Joseph Marion du Fresne découvre l'archipel Crozet. Les îles Saint-Paul et Amsterdam avaient été aperçues dès 1522 par Juan Sebastián Elcano, de l'expédition de Magellan ; elles ne deviennent définitivement françaises qu'en 1892.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "les îles Kerguelen, découvert en 1772 par Yves Joseph de Kerguelen de Trémarec qui en prend possession au nom du royaume de France et le baptise France australe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "l'archipel Crozet, découvert en 1772, par Marc Joseph Marion du Fresne qui en fait alors une possession du royaume de France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "les îles Saint-Paul et Amsterdam sont découvertes en 1522, par Juan Sebastián Elcano alors membre de l'expédition de Fernand de Magellan. La seconde est appelée Nieuw-Amsterdam, nom également donné par les colons néerlandais à l'actuel quartier de Manhattan à New-York. Elles passent définitivement sous souveraineté française en 1892."
+        }
+      ]
+    },
+    {
+      "id": "ATF-2",
+      "topic": "histoire",
+      "era": "1955",
+      "title": "Cinq districts aux quatre coins de l'océan",
+      "short": "Créées par une loi du 6 août 1955, les TAAF réunissent cinq districts très différents : Kerguelen, Crozet, Saint-Paul-et-Amsterdam, la terre Adélie en Antarctique, et depuis 2007 les îles Éparses, autour de Madagascar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "Les Terres australes et antarctiques françaises, abrégées par l'acronyme TAAF, sont un territoire d'outre-mer français et constituent une collectivité sui generis située en outre-mer créée par une loi du 6 août 1955."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "Ce territoire est actuellement composé de cinq districts : les trois districts historiques des terres australes françaises (îles Kerguelen, archipel Crozet, îles Saint-Paul et Amsterdam) découverts et rattachés à la France aux XVIIIe et XIXe siècles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "La terre Adélie correspond à la portion du continent Antarctique revendiquée par la France."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "Les îles Éparses de l'océan Indien sont des îles tropicales situées autour de Madagascar. Ce district a été ajouté aux TAAF en 2007."
+        }
+      ]
+    },
+    {
+      "id": "ATF-3",
+      "topic": "geographie",
+      "title": "Un territoire sans habitants permanents",
+      "short": "Hormis quelques brèves tentatives de colonisation, aucune partie des TAAF n'a jamais eu de population permanente. Seuls des scientifiques, des militaires et du personnel logistique s'y relaient.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "En dehors de quelques brèves tentatives de colonisation, aucune portion du territoire n'a eu de population permanente, ni indigène, ni civile française, mais une présence humaine continue (logistique, scientifique ou militaire) y est assurée grâce à du personnel relevé régulièrement."
+        }
+      ]
+    },
+    {
+      "id": "ATF-4",
+      "topic": "histoire",
+      "era": "1959",
+      "title": "La terre Adélie et le traité de l'Antarctique",
+      "short": "En terre Adélie, la souveraineté française s'exerce dans le cadre du traité sur l'Antarctique de 1959, qui gèle toutes les revendications territoriales et garantit la liberté de la recherche scientifique sur le continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Terres_australes_et_antarctiques_françaises",
+          "quote": "La souveraineté française s'exerce sur ce district dans le contexte du traité sur l'Antarctique signé à Washington en 1959 qui établit un « gel » des prétentions territoriales et affirme la liberté de la recherche scientifique sur tout le continent."
+        }
+      ]
+    },
+    {
+      "id": "ATF-5",
+      "topic": "drapeau",
+      "era": "2007",
+      "title": "TAAF en lettres entremêlées",
+      "short": "Le drapeau des TAAF est bleu, avec le drapeau français en haut à gauche et, en bas à droite, les lettres T, A, A, F entremêlées au-dessus de cinq étoiles, qui représentent probablement les cinq districts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Terres_australes_et_antarctiques_françaises",
+          "quote": "Le drapeau des Terres australes et antarctiques françaises est bleu avec dans son coin supérieur gauche le drapeau français et dans le quart inférieur droit écrites en blanc les quatre lettres majuscules T, A, A, F entremêlées, entourées de cinq étoiles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Terres_australes_et_antarctiques_françaises",
+          "quote": "Le décret ne précise pas non plus le pourquoi des cinq étoiles, mais elles représentent probablement les cinq districts des Terres australes et antarctiques françaises (TAAF)"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ATF-C1",
+      "topic": "histoire",
+      "era": "1950",
+      "title": "Port-aux-Français, une base au bout du monde",
+      "short": "Le chef-lieu des TAAF est une base scientifique des Kerguelen, créée en 1950 avec des laboratoires, des installations techniques et un petit hôpital. Le navire Marion Dufresne la ravitaille depuis La Réunion, à 3 490 km, en une dizaine de jours.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-aux-Français",
+          "quote": "Elle a été créée en 1950 avec l'édification de laboratoires scientifiques, des installations techniques et logistiques, ainsi qu'un petit hôpital."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-aux-Français",
+          "quote": "La base est desservie par des rotations du navire Marion Dufresne depuis l'île de La Réunion, distante de 3 490 kilomètres ; le trajet dure une dizaine de jours"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Des îles perdues dans le sud de l'océan Indien, à mi-chemin entre l'Afrique et l'Australie (Kerguelen, Crozet, Amsterdam), plus des îlots autour de Madagascar et un morceau de l'Antarctique.",
+    "flag": "Un drapeau bleu avec le drapeau français dans le coin et le monogramme TAAF blanc avec cinq étoiles. Les îles Wallis-et-Futuna ont aussi un drapeau français dans le coin, mais sur fond rouge.",
+    "capital": "Port-aux-Français, aux Kerguelen : moins une ville qu'une base scientifique."
+  }
+}

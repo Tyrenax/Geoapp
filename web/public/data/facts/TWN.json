@@ -1,0 +1,151 @@
+{
+  "id": "TWN",
+  "facts": [
+    {
+      "id": "TWN-1",
+      "topic": "histoire",
+      "era": "1542",
+      "title": "Ilha formosa, la belle île",
+      "short": "En 1542, une expédition portugaise aperçoit l'île pour la première fois. Selon la légende, les marins s'exclament « Ilha formosa ! », « La belle île ! » : d'où son ancien nom de Formose.",
+      "long": "Bien avant cela, les Austronésiens étaient arrivés sur l'île il y a 6 000 ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "En 1542, une expédition portugaise en route vers le Japon (sans doute de Fernão Mendes Pinto) aperçut pour la première fois l'île, à 180 km des côtes chinoises. Face aux falaises luxuriantes qui transperçaient l'azur, les marins ne purent que s'exclamer : « Ilha formosa! », « La belle île ! ». Une légende qui explique l'origine du nom qu'on donna à cette terre à l'époque : Formose."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Les Austronésiens arrivent à Taïwan il y a 6 000 ans par vagues successives depuis les plaines côtières de la Chine du Sud ;"
+        }
+      ]
+    },
+    {
+      "id": "TWN-2",
+      "topic": "histoire",
+      "era": "1895-1945",
+      "title": "Cinquante ans sous le Japon",
+      "short": "Battue par le Japon, la Chine lui cède Taïwan par le traité de Shimonoseki, en 1895. L'île fait partie de l'empire colonial japonais pendant 50 ans, jusqu'en 1945.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "En 1895, à la suite de la défaite face à l'empire du Japon dans la première guerre sino-japonaise, la Chine signe le traité de Shimonoseki, par lequel elle cède Taïwan ainsi que les îles Pescadores (îles Penghu) au Japon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Taïwan fera ainsi partie pendant 50 ans de l’empire colonial japonais qui y pratique une politique d'assimilation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Les troupes du Parti nationaliste chinois (Kuomintang) de Tchang Kaï-chek arrivent à Taïwan en 1945, dès le retrait des troupes japonaises,"
+        }
+      ]
+    },
+    {
+      "id": "TWN-3",
+      "topic": "histoire",
+      "era": "1949",
+      "title": "Le repli de Tchang Kaï-chek",
+      "short": "En décembre 1949, battu par les communistes de Mao Zedong, Tchang Kaï-chek se replie à Taïwan avec près de deux millions de continentaux. Le gouvernement de la république de Chine s'y installe ; l'île vit ensuite des décennies de dictature du Kuomintang.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Après sa défaite face au Parti communiste chinois de Mao Zedong, Tchang Kaï-chek se replie à Taïwan en décembre 1949, avec près de deux millions de continentaux qui fuient le nouveau régime."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Taïwan vivra alors pendant plusieurs décennies sous une dictature dirigée par le Kuomintang, avec l'appui des États-Unis,"
+        }
+      ]
+    },
+    {
+      "id": "TWN-4",
+      "topic": "politique",
+      "era": "1971",
+      "title": "Deux Chines, un siège",
+      "short": "La république de Chine et la république populaire de Chine revendiquent chacune la souveraineté sur toute la Chine. En 1971, l'ONU donne le siège de la Chine à la république populaire. À la fin des années 1980, Taïwan devient une démocratie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "De droit, la république de Chine, selon les dispositions de sa constitution d'avant 1949, et la république populaire de Chine revendiquent chacune la pleine et légitime souveraineté sur la totalité du territoire chinois et considèrent Taïwan comme une province chinoise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "La république de Chine a représenté seule la Chine à l'ONU jusqu'en 1971, date à laquelle elle a été remplacée par la république populaire de Chine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Le mouvement démocratique de la fin des années 1980 a fait passer Taïwan d'une dictature à parti unique (le Kuomintang) à un État démocratique."
+        }
+      ]
+    },
+    {
+      "id": "TWN-5",
+      "topic": "economie",
+      "title": "L'île des puces électroniques",
+      "short": "Taïwan a bâti une puissante industrie des semi-conducteurs, avec notamment TSMC : à elle seule, elle représente 15 % du PIB dans les années 2020.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "C'est ainsi qu'une puissante industrie de semi-conducteurs a été créée, sa part dans l'économie représentant à elle-seule 15 % du PIB dans les années 2020."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Les secteurs importants comprennent : la biotechnologie, la nanotechnologie, les semi-conducteurs (TSMC),"
+        }
+      ]
+    },
+    {
+      "id": "TWN-6",
+      "topic": "drapeau",
+      "era": "1928",
+      "title": "Ciel bleu, soleil blanc, terre rouge",
+      "short": "Rouge avec un canton bleu marine portant un soleil blanc à douze rayons, le drapeau est appelé « Ciel bleu, Soleil blanc et Terre entièrement rouge ». Utilisé par le Kuomintang dès 1917, il devient le drapeau officiel de la république de Chine en 1928, sur le continent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_de_Chine",
+          "quote": "est rouge avec un canton de couleur bleu marine sur lequel est dessiné un soleil blanc avec douze rayons triangulaires."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_de_Chine",
+          "quote": "En chinois, le drapeau est communément appelé Ciel bleu, Soleil blanc et Terre entièrement rouge"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_de_Chine",
+          "quote": "Il est utilisé la première fois en Chine continentale par le Kuomintang (KMT), le parti nationaliste chinois, en 1917 et devient le drapeau officiel de la république de Chine en 1928."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TWN-C1",
+      "topic": "histoire",
+      "era": "1949",
+      "title": "Une capitale « provisoire »",
+      "short": "Le 7 décembre 1949, Tchang Kaï-chek fait de Taipei, la « ville du Nord de Taïwan », la capitale de la république de Chine, d'abord vue comme provisoire en attendant le retour à Nankin. Son gratte-ciel Taipei 101 fut le plus haut du monde de 2004 à 2009.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taipei",
+          "quote": "Le 7 décembre 1949, le gouvernement du Kuomintang, dirigé par Tchang Kaï-chek fait de Taipei la capitale de la république de Chine après avoir été contraint à abandonner la Chine continentale par les communistes lors de la Guerre civile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taïwan",
+          "quote": "Taipei n'étant considérée que comme capitale administrative provisoire en attendant le retour à Nankin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taipei",
+          "quote": "Taipei 101, construit en 2004, est le plus haut édifice du monde jusqu'en 2009, dépassé par la Burj Khalifa."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Taipei",
+          "quote": "« ville du Nord de Taïwan » ; en taïwanais : Tâi-pak) est la capitale de facto de Taïwan."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une grande île au large de la côte sud-est de la Chine, entre le Japon au nord-est et les Philippines au sud.",
+    "flag": "Rouge avec, dans le coin supérieur, un rectangle bleu portant un soleil blanc à douze rayons.",
+    "capital": "Taipei, à la pointe nord de l'île."
+  }
+}

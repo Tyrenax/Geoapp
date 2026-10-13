@@ -1,0 +1,121 @@
+{
+  "id": "SJM",
+  "facts": [
+    {
+      "id": "SJM-1",
+      "topic": "histoire",
+      "era": "1596",
+      "title": "Découvert par Barentsz",
+      "short": "Qui a découvert le Svalbard fait débat : des trappeurs russes y seraient peut-être venus dès le XIIIe siècle. La première découverte incontestable est celle du navigateur néerlandais Willem Barentsz, en 1596.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Il y a polémique quant à savoir qui a découvert le Svalbard."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "D'autres avancent que des trappeurs russes auraient pu aborder le Spitzberg dès le XIIIe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Dans tous les cas, la première découverte incontestable de l'archipel fut réalisée par le navigateur néerlandais Willem Barentsz en 1596."
+        }
+      ]
+    },
+    {
+      "id": "SJM-2",
+      "topic": "histoire",
+      "era": "1920",
+      "title": "Norvégien, mais ouvert à tous",
+      "short": "Le traité du Spitzberg, le 9 février 1920, reconnaît la souveraineté de la Norvège sur l'archipel, déclaré zone démilitarisée. Mais les citoyens de divers pays ont le droit d'en exploiter les ressources « sur un pied d'égalité absolu ».",
+      "long": "La Norvège en prend l'administration en 1925 et rebaptise l'archipel Svalbard, en réservant le nom de Spitzberg à l'île principale. Les étrangers peuvent y vivre et y travailler sans visa ni permis de travail.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Par le traité concernant le Spitzberg du 9 février 1920, la souveraineté norvégienne sur l'archipel a été reconnue et les îles constituent un territoire déclaré « zone démilitarisée »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Cependant, selon les termes de ce traité, les citoyens de divers pays ont le droit d'exploiter les ressources naturelles « sur un pied d'égalité absolu »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "La Norvège récupéra en 1925 l'administration du Spitzberg, qu'elle décida de rebaptiser Svalbard, pour ne réserver le nom de Spitzberg qu'à l'île principale, jusque-là appelée Spitzberg occidental (Vestspitsbergen)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Ces îles bénéficient d'un statut particulier qui leur permet d'accueillir des étrangers sans visa ou permis de travail."
+        }
+      ]
+    },
+    {
+      "id": "SJM-3",
+      "topic": "histoire",
+      "title": "Des villages russes en terre norvégienne",
+      "short": "Le Svalbard compte des installations russes, comme Barentsburg. Il fut même un temps où les Russes y étaient bien plus nombreux que les Norvégiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Les hameaux du Svalbard, tous sur Spitzberg à l'exception de celui sur l'île aux Ours, sont :\n\nBarentsburg, en russe Баренцбург : installation russe ;"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Il fut un temps où la population russe du Spitzberg dépassait considérablement la population norvégienne, mais ce n'est plus le cas désormais."
+        }
+      ]
+    },
+    {
+      "id": "SJM-4",
+      "topic": "culture",
+      "era": "2008",
+      "title": "Le coffre-fort des graines du monde",
+      "short": "Depuis février 2008, la Réserve mondiale de semences du Svalbard conserve à −18 °C des semences de toutes les cultures vivrières de la planète, pour protéger l'agriculture contre les catastrophes et le changement climatique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Un important dépôt de semences, la Réserve mondiale de semences du Svalbard (en norvégien : Svalbard globale frøhvelv), est opérationnel depuis février 2008.\nÀ la fois présentée comme une forteresse pouvant résister aux cataclysmes naturels et humains et une arche de Noé, cette banque de graines, propriété du gouvernement norvégien, est cofinancée par la fondation Rockefeller, la fondation Syngenta et divers organismes privés. Elle doit conserver (à −18 °C) des semences d'arbres et de toutes les cultures vivrières de la planète, et permettre ainsi à l’agriculture et à la sylviculture de mieux résister aux défis imposés par les changements climatiques et les catastrophes d'origine naturelle ou humaine."
+        }
+      ]
+    },
+    {
+      "id": "SJM-5",
+      "topic": "geographie",
+      "title": "Ours polaires et volcan arctique",
+      "short": "Au Svalbard vivent l'ours polaire, le renard polaire et une petite variété de renne. Quant à Jan Mayen, c'est le sommet d'un volcan, le Beerenberg, qui culmine à 2 277 m.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Svalbard",
+          "quote": "Quatre espèces de mammifères terrestres sont présents dans l'archipel : le renard polaire, le renne du Spitzberg (variété de petite taille et au pelage très épais), l'ours polaire et le campagnol d'Ondrias."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Jan_Mayen",
+          "quote": "L'île est le sommet émergé d'un volcan formé par un point chaud et culminant au Beerenberg à 2 277 mètres d'altitude."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SJM-C1",
+      "topic": "histoire",
+      "era": "1906",
+      "title": "La ville d'un Américain",
+      "short": "Longyearbyen doit son nom à l'homme d'affaires américain John Munro Longyear, qui la fonde en 1906 pour exploiter le charbon. Elle peut être considérée comme la ville la plus septentrionale de la Terre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Longyearbyen",
+          "quote": "La ville tire son nom de John Munro Longyear (1850-1922), homme d'affaires américain qui créa la ville en 1906 pour exploiter le charbon."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Longyearbyen",
+          "quote": "Longyearbyen est une des localités les plus nordiques du monde et peut être considérée comme la ville la plus septentrionale de la Terre si l'on admet qu'elle regroupe une population assez importante pour constituer une ville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Tout au nord de l'Europe, dans l'océan Arctique : l'archipel du Svalbard, à mi-chemin entre la Norvège et le pôle Nord ; l'île Jan Mayen est seule, plus au sud-ouest, entre l'Islande et la Norvège.",
+    "flag": "Ces territoires norvégiens n'ont pas de drapeau propre : on y utilise le drapeau de la Norvège, une croix bleue bordée de blanc sur fond rouge.",
+    "capital": "Longyearbyen, « la ville de Longyear », l'une des villes les plus au nord du monde."
+  }
+}

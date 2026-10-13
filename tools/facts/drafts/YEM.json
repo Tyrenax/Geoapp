@@ -1,0 +1,166 @@
+{
+  "id": "YEM",
+  "facts": [
+    {
+      "id": "YEM-1",
+      "topic": "histoire",
+      "era": "XIIe-VIIe siècle av. J.-C.",
+      "title": "Le royaume de Saba",
+      "short": "À partir du XIIe siècle av. J.-C. naissent des royaumes sudarabiques, dont le plus puissant est Saba, cité dans la Bible et le Coran. Vers 700 av. J.-C., les Sabéens bâtissent le grand barrage de Marib, considéré comme une merveille d'ingénierie du monde antique.",
+      "long": "À son apogée, Saba étend sa souveraineté sur une grande partie de l'Arabie du Sud et jusqu'au nord de l'Éthiopie et de l'Érythrée actuelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "À partir du XIIe siècle av. J.-C., les principaux royaumes sudarabiques",
+          "to": "l'un des plus beaux exemples d'architecture de la péninsule Arabique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "À son apogée, sous le règne de Karib'il Watar",
+          "to": "de l'Éthiopie et de l'Érythrée actuelles."
+        }
+      ]
+    },
+    {
+      "id": "YEM-2",
+      "topic": "histoire",
+      "era": "IVe-VIe siècle",
+      "title": "Un royaume juif en Arabie",
+      "short": "Sous le roi Abîkarib As'ad (380-440), le royaume de Himyar fait du judaïsme sa religion officielle. Au VIe siècle, une lutte religieuse oppose juifs et chrétiens, jusqu'à l'invasion du pays par le royaume d'Aksoum, en 525.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Durant le règne d'Abîkarib As'ad (380-440 de notre ère)",
+          "to": "à la suite de la conversion d'Abîkarib As'ad."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Une lutte religieuse se développe entre chrétiens et juifs",
+          "to": "sous couvert d'une guerre civile."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Mais l'Empire est impuissant à contrer la grande invasion du pays en 525",
+          "to": "par le royaume d'Aksoum."
+        }
+      ]
+    },
+    {
+      "id": "YEM-3",
+      "topic": "culture",
+      "title": "L'Arabie heureuse",
+      "short": "En arabe, Yémen signifie « la droite » : les anciens Sémites s'orientaient face au soleil levant, le sud était donc à leur droite. Le mot est aussi rapproché d'un terme signifiant « prospérité », d'où l'ancien surnom d'« Arabie heureuse » : le Yémen est l'une des zones les plus irriguées de la péninsule.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "En arabe, Yemen signifie « la droite ».",
+          "to": "signifiant « la gauche »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Le terme arabe « al-yiumna » qui signifie « prospérité »",
+          "to": "l'une des zones les plus irriguées de la péninsule arabique."
+        }
+      ]
+    },
+    {
+      "id": "YEM-4",
+      "topic": "histoire",
+      "era": "1839-1990",
+      "title": "Deux Yémen réunis",
+      "short": "Les Britanniques occupent Aden en 1839 pour contrôler la route des Indes ; au nord, les Ottomans occupent le pays de 1873 à 1918. Le nord devient une république en 1962, le sud un État indépendant pro-soviétique en 1967. Les deux Yémen se réunissent le 22 mai 1990.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Au sud, les Britanniques occupent Aden en 1839",
+          "to": "l'occupant jusqu'en 1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "La monarchie (imamat), qui portait le nom de royaume mutawakkilite du Yémen",
+          "to": "d'orientation pro-soviétique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Le 22 mai 1990, le Yémen du Nord et le Yémen du Sud",
+          "to": "la république du Yémen actuelle."
+        }
+      ]
+    },
+    {
+      "id": "YEM-5",
+      "topic": "histoire",
+      "era": "2014-2017",
+      "title": "La guerre et la famine",
+      "short": "En 2014-2015, les rebelles houthis, venus du nord, s'emparent du palais présidentiel et poussent le président Hadi à fuir, d'abord à Aden puis en Arabie saoudite. À partir de mars 2015, une coalition menée par l'Arabie saoudite bombarde les rebelles. Fin 2017, l'ONU estime que plus de huit millions de Yéménites sont au bord de la famine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Débordé en septembre 2014 par le mouvement chiite houthiste",
+          "to": "se réfugie en Arabie saoudite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "À partir de mars 2015, une coalition de plusieurs pays arabes sunnites",
+          "to": "contre les positions rebelles houthis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "En décembre 2017, l'ONU indique que plus de huit millions de personnes",
+          "to": "en raison du blocus des ports."
+        }
+      ]
+    },
+    {
+      "id": "YEM-6",
+      "topic": "drapeau",
+      "era": "1990",
+      "title": "Le drapeau de la réunification",
+      "short": "Adopté en mai 1990, à la réunification, le drapeau reprend les couleurs panarabes. Officiellement, le rouge symbolise le sang des martyrs et l'unité, le blanc un avenir radieux, et le noir les heures sombres du passé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Yémen",
+          "from": "Il est adopté en mai 1990",
+          "to": "les heures sombres du passé."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "YEM-C1",
+      "topic": "culture",
+      "era": "1986",
+      "title": "Une vieille ville en péril",
+      "short": "Héritière de l'architecture des Sabéens, la vieille ville de Sanaa est inscrite au patrimoine mondial de l'UNESCO depuis 1986. En 2015, en pleine guerre, elle est placée sur la liste du patrimoine en péril.",
+      "long": "En 2015, le président Hadi, chassé de Sanaa par les Houthis, se réfugie à Aden, le grand port du sud.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sanaa",
+          "from": "Sanaa est un chef-d'œuvre artistique et architectural ancien",
+          "to": "au patrimoine mondial de l'UNESCO en 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Sanaa",
+          "from": "Le 2 juillet 2015, la vieille ville est inscrite",
+          "to": "patrimoine mondial en péril."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Il se réfugie en février à Aden, port stratégique du sud du pays",
+          "to": "port stratégique du sud du pays"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Yémen",
+          "from": "Débordé en septembre 2014 par le mouvement chiite houthiste",
+          "to": "se réfugie en Arabie saoudite."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "La pointe sud-ouest de la péninsule Arabique, au sud de l'Arabie saoudite, face à Djibouti et à la Corne de l'Afrique.",
+    "flag": "Trois bandes rouge, blanc, noir, sans aucun emblème. L'Égypte ajoute un aigle doré, l'Irak une inscription verte.",
+    "capital": "Sanaa, dans les montagnes de l'ouest ; Aden, le grand port du sud, est aussi acceptée."
+  }
+}

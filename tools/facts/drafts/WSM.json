@@ -1,0 +1,86 @@
+{
+  "id": "WSM",
+  "facts": [
+    {
+      "id": "WSM-1", "topic": "histoire", "era": "1000 av. J.-C.",
+      "title": "Au berceau de la Polynésie",
+      "short": "Des Austronésiens de culture Lapita s'installent aux Samoa vers l'an 1000 av. J.-C. Les îles font partie d'Hawaiki, la terre que les Polynésiens considèrent comme leur foyer originel.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Les Samoa sont occupées aux alentours de l'an 1000 av. J.-C.", "to": "une dimension mythique."}
+      ]
+    },
+    {
+      "id": "WSM-2", "topic": "histoire", "era": "Moyen Âge-1768",
+      "title": "Des Tonga aux îles du Navigateur",
+      "short": "Conquises par les Tonga, les Samoa deviennent une province de l'empire Tu’i Tonga, jusqu'à ce que les Samoans se révoltent avec succès. Le Néerlandais Jacob Roggeveen est le premier Européen à aborder l'archipel en 1722 ; en 1768, Bougainville le nomme « îles du Navigateur ».",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Elles sont conquises par les Tonga", "to": "leur indépendance de l'empire."},
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Le Hollandais Jacob Roggeveen", "to": "en 1768."}
+      ]
+    },
+    {
+      "id": "WSM-3", "topic": "histoire", "era": "1899-1962",
+      "title": "La première colonie d'Océanie libérée",
+      "short": "En 1899, l'archipel est partagé : l'ouest revient à l'Allemagne, l'est aux États-Unis. La Nouvelle-Zélande s'empare de la partie allemande en 1914. Après la campagne pacifique du mouvement Mau, les Samoa occidentales deviennent le 1er janvier 1962 la première colonie d'Océanie à retrouver son indépendance.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "En 1899, les Samoa sont divisées en deux parties", "to": "persiste encore aujourd'hui."},
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "En 1914, la Nouvelle-Zélande prend le contrôle", "to": "fait campagne pour l'indépendance."},
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Après une quinzaine d'années de troubles indépendantistes", "to": "à retrouver l'indépendance."}
+      ]
+    },
+    {
+      "id": "WSM-4", "topic": "politique", "era": "1997",
+      "title": "Plus « occidentales »",
+      "short": "Jusqu'en 1997, le pays s'appelait Samoa-Occidentales. En retirant le mot « occidentales » de son nom, il affirme sa volonté de représenter tout l'archipel, y compris les Samoa américaines voisines.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Le 4 juillet 1997, les Samoa-Occidentales changent de nom", "to": "celui de Samoa."},
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Le retrait de i Sisifo", "to": "les Samoa américaines voisines."}
+      ]
+    },
+    {
+      "id": "WSM-5", "topic": "geographie", "era": "2011",
+      "title": "Le jour qui n'a pas existé",
+      "short": "Pour s'aligner sur l'Australie et la Nouvelle-Zélande, ses principaux partenaires commerciaux, les Samoa ont changé de fuseau horaire en 2011. Les Samoans se sont couchés le 29 décembre au soir et réveillés le 31 : pour eux, le 30 décembre 2011 n'a jamais existé.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Samoa", "from": "Le 30 décembre 2011, les pendules samoanes", "to": "n'existe donc pas."}
+      ]
+    },
+    {
+      "id": "WSM-6", "topic": "drapeau", "era": "1949",
+      "title": "La Croix du Sud sur fond rouge",
+      "short": "Adopté en 1949, le drapeau porte dans son coin supérieur gauche la constellation de la Croix du Sud. Le bleu symbolise la liberté, le rouge le courage.",
+      "long": "Au XIXe siècle, le royaume de Samoa avait un drapeau presque identique à celui de l'Empire ottoman : un croissant de lune et une étoile blancs sur fond rouge.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa", "from": "Le drapeau des Samoa a été adopté le 24 février 1949.", "to": "le 24 février 1949."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa", "from": "Ce drapeau comporte dans son coin supérieur gauche", "to": "représente le courage."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_des_Samoa", "from": "Au XIXe siècle, le Royaume de Samoa", "to": "sur fond rouge."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "WSM-C1", "topic": "histoire", "era": "1889",
+      "title": "Le naufrage de sept navires de guerre",
+      "short": "Le 15 mars 1889, sept navires militaires allemands, britanniques et américains refusent de quitter la baie d'Apia à l'approche d'un cyclone. Seul le croiseur britannique HMS Calliope parvient à s'échapper ; près de 200 marins périssent et six navires sont perdus.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Apia", "from": "Sa baie est le théâtre d'une catastrophe navale le 15 mars 1889", "to": "six navires sont perdus."}
+      ]
+    },
+    {
+      "id": "WSM-C2", "topic": "culture",
+      "title": "La tombe de Stevenson",
+      "short": "L'écrivain Robert Louis Stevenson a passé les quatre dernières années de sa vie à Apia. Il est enterré sur le mont Vaea, qui domine la ville ; sa maison, Vailima, est aujourd'hui un musée.",
+      "long": "Né d'un petit village dont elle porte le nom, Apia n'est devenue la capitale officielle du pays qu'en 1959.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Apia", "from": "L'écrivain Robert Louis Stevenson", "to": "un musée en son honneur."},
+        {"url": "https://fr.wikipedia.org/wiki/Apia", "from": "Apia trouve son origine dans un petit village", "to": "d'où la ville actuelle tire son nom."},
+        {"url": "https://fr.wikipedia.org/wiki/Apia", "from": "Fondée officiellement dans les années 1850", "to": "en 1959."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux grandes îles, Upolu et Savai'i, au cœur de la Polynésie, au nord-est des Fidji et juste à l'ouest des Samoa américaines.",
+    "flag": "Rouge avec un canton bleu portant cinq étoiles blanches (la Croix du Sud). Taïwan a aussi un canton bleu sur rouge, mais avec un soleil blanc.",
+    "capital": "Apia, sur la côte nord d'Upolu, où repose Robert Louis Stevenson."
+  }
+}

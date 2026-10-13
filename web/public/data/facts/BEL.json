@@ -1,0 +1,238 @@
+{
+  "id": "BEL",
+  "facts": [
+    {
+      "id": "BEL-1",
+      "topic": "histoire",
+      "era": "57 av. J.-C.",
+      "title": "Un nom tiré de la Guerre des Gaules",
+      "short": "Le nom « Belgique » apparaît pour la première fois sous la plume de Jules César, qui conquiert la région vers 57 av. J.-C. Il divise la Gaule en trois : les Gaulois proprement dits, les Aquitains et les Belges.",
+      "long": "Le nom est resté pour la province romaine de Gallia Belgica, qui s'étendait entre la Seine et le Rhin. Il ne devient vraiment celui d'un pays qu'en 1830 : « Belgique » devient alors un nom, et « belge » l'adjectif.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "La première mention du terme Belgica figure dans les Commentaires sur la guerre des Gaules, qui relatent la conquête du territoire par Jules César."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "suivie de la conquête romaine, autour de 57 avant notre ère, marque le début de l’entrée de la Belgique dans l’histoire lorsque Jules César la désigne sous le nom de Belgica, composante du nord de la Gaule."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Il distingue dans la Gaule trois parties : les Gaulois proprement dits, les Aquitains et les Belges."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Conquise par Jules César sur les Celtes, la Gallia Belgica réunit les territoires compris entre la Seine et le Rhin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "En 1830, le mot Belgique devient un substantif et le mot belge le remplace comme qualificatif."
+        }
+      ]
+    },
+    {
+      "id": "BEL-2",
+      "topic": "histoire",
+      "era": "1830-1831",
+      "title": "Une révolution partie de l'opéra",
+      "short": "Le 25 août 1830, à Bruxelles, une représentation de l'opéra La Muette de Portici tourne à l'émeute : c'est le début de la révolution qui sépare la Belgique des Pays-Bas. Le 4 juin 1831, le prince allemand Léopold de Saxe-Cobourg-Gotha devient le premier roi des Belges.",
+      "long": "Les Belges rejetaient la domination économique et linguistique de la dynastie de La Haye. Après des combats dans tout le pays, les grandes puissances contraignent le roi de Hollande à renoncer, et le nouveau royaume devient une monarchie constitutionnelle. Son premier roi était l'oncle de la reine Victoria.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Belgique",
+          "quote": "La révolution belge finit par éclater le 25 août 1830 lors de la représentation de La Muette de Portici, donnée au théâtre de la Monnaie de Bruxelles à l’occasion du 59e anniversaire du roi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "La révolution belge, qui éclate à Bruxelles en 1830, met fin à l’amalgame avec les Pays-Bas, les Belges rejetant définitivement la prédominance économique et linguistique imposée par la dynastie de La Haye."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Après des combats qui embrasent tout le pays et l’intervention des grandes puissances qui contraignent le roi de Hollande à renoncer à ses prétentions, la partie méridionale du royaume des Pays-Bas devient, en 1831, une monarchie constitutionnelle sous le nom de « royaume de Belgique »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Finalement, le 4 juin 1831, c'est le prince allemand Léopold de Saxe-Cobourg-Gotha, oncle de la reine Victoria, qui devient Léopold Ier, premier roi des Belges."
+        }
+      ]
+    },
+    {
+      "id": "BEL-3",
+      "topic": "economie",
+      "era": "XIXe siècle",
+      "title": "Une pionnière de la révolution industrielle",
+      "short": "Au XIXe siècle, la Belgique se lance très tôt dans la révolution industrielle, grâce à son charbon et à son acier. Elle reste pendant près d'un siècle la deuxième puissance industrielle du monde.",
+      "long": "Dans les cinq ans qui suivent l'indépendance, la Société générale de Belgique investit dans une quarantaine d'entreprises, dont quinze aciéries et sept grandes mines de charbon.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Au XIXe siècle, la Belgique indépendante participa activement à la révolution industrielle en ayant été notamment la deuxième puissance industrielle du monde pendant près d'un siècle"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Au cours des cinq années suivant la révolution belge, la Société générale de Belgique investit dans une quarantaine d'entreprises belges, dont quinze aciéries et sept grandes mines de charbon,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "L’histoire de la Belgique indépendante est marquée par une industrialisation précoce,"
+        }
+      ]
+    },
+    {
+      "id": "BEL-4",
+      "topic": "politique",
+      "era": "1970-1993",
+      "title": "Trois langues, six entités",
+      "short": "La Belgique a trois langues officielles : le néerlandais, le français et l'allemand. Les tensions entre Flamands et Wallons l'ont transformée, entre 1970 et 1993, d'un État unitaire en un État fédéral.",
+      "long": "Le pays compte désormais six entités fédérées : trois communautés (flamande, française et germanophone) et trois régions (flamande, wallonne et Bruxelles-Capitale). Particularité rare : le pouvoir fédéral n'a aucune préséance sur elles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Les trois langues officielles sont le néerlandais, le français et l’allemand."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Ce conflit a mené à plusieurs réformes de grande envergure, dont la transition d’un État unitaire à un État fédéral entre 1970 et 1993."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "À partir de 1970, le pays s’oriente progressivement vers le fédéralisme, ce qui aboutit à la création de six entités fédérées : trois communautés (flamande, française et germanophone) et trois régions (flamande, wallonne et de Bruxelles-Capitale)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Le fédéralisme belge, qui contient des traits de confédéralisme, est bâti sur le concept d’équipollence des normes, c’est-à-dire que le niveau de pouvoir fédéral n'a aucune préséance par rapport aux entités fédérées."
+        }
+      ]
+    },
+    {
+      "id": "BEL-5",
+      "topic": "histoire",
+      "era": "1885-1908",
+      "title": "Le Congo, propriété d'un roi",
+      "short": "En 1885, le roi Léopold II reçoit le Congo à titre privé. Pour en tirer le caoutchouc et l'ivoire, son État exploite brutalement la population : femmes et enfants pris en otage, récalcitrants abattus, mains coupées. La Belgique reprend la colonie en 1908.",
+      "long": "Les agents touchaient des primes d'autant plus fortes que le caoutchouc revenait moins cher, ce qui poussait aux exactions. Exposée aux attaques des autres nations, en particulier du Royaume-Uni, et criblée de dettes, la gestion privée du roi devient intenable : il lègue le Congo à l'État belge.",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/Belgium",
+          "quote": "The Berlin Conference of 1885 ceded control of the Congo Free State to King Leopold II as his private possession."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/État_indépendant_du_Congo",
+          "quote": "Les richesses abondantes (caoutchouc, ivoire, mines, etc.) du Congo incitent la couronne et les compagnies concessionnaires à entreprendre l'exploitation brutale de sa population."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/État_indépendant_du_Congo",
+          "quote": "Au bout d'un certain temps, les populations finirent par ne plus obéir à leurs notables, et c'est alors que l'on créa des camps où les femmes et les enfants furent pris en otage ; les hommes pouvaient libérer les membres de leur famille contre de l'ivoire ou du caoutchouc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/État_indépendant_du_Congo",
+          "quote": "Le caoutchouc est récolté par la force ; les soldats conduisent les gens dans la jungle ; s'ils ne veulent pas, ils sont abattus, leurs mains sont coupées et portées comme trophée au commissaire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/État_indépendant_du_Congo",
+          "quote": "Vandervelde révéla à la Chambre le système de primes, inventé par le roi Léopold II, qui fut à l'origine des exactions, des meurtres et des divers abus commis par l'État Indépendant du Congo"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/État_indépendant_du_Congo",
+          "quote": "Avec la montée de la concurrence avec les autres nations pour le marché du caoutchouc, la gestion privée de Léopold II devenait vulnérable aux attaques des autres nations, en particulier du Royaume-Uni."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Belgique",
+          "quote": "Par l'initiative de son deuxième roi, Léopold II, qui a reçu l'État indépendant du Congo à titre privé après la conférence de Berlin en 1884-1885 afin d'éviter un conflit ouvert entre les grandes puissances, la Belgique devient un empire colonial en 1908 après que le roi a légué l'administration de son domaine à l'État belge pour faire face à ses dettes"
+        }
+      ]
+    },
+    {
+      "id": "BEL-6",
+      "topic": "drapeau",
+      "era": "1830-1831",
+      "title": "Les couleurs du duché de Brabant",
+      "short": "Le noir, le jaune et le rouge sont les couleurs de l'ancien duché de Brabant. Le drapeau adopté le 30 septembre 1830 avait des bandes horizontales, rouge en haut ; elles deviennent verticales en 1831.",
+      "long": "Ces couleurs avaient déjà servi lors de la révolution brabançonne de 1787. Au début de l'insurrection de 1830, on arborait plutôt le drapeau tricolore français, symbole révolutionnaire par excellence.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Belgique",
+          "quote": "À Bruxelles et dans d’autres villes de la province du Brabant-Méridional, on exhibe les couleurs de l'ancien duché de Brabant, rouges jaunes et noires, déjà utilisées lors de la révolution brabançonne de 1787"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Belgique",
+          "quote": "Il est officiellement adopté le 30 septembre 1830 par un arrêté du Gouvernement provisoire de Belgique, avec une disposition horizontale des couleurs : le rouge en haut, le jaune au milieu et le noir en bas. La disposition verticale est actée par un arrêté du 23 janvier 1831 et inscrite dans l’article 193 de la Constitution belge le 7 février 1831."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Belgique",
+          "quote": "Parmi les premiers drapeaux arborés dans les provinces belges en août 1830, on retrouve à bon nombre d'endroits le drapeau tricolore français, symbole révolutionnaire par excellence,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "BEL-C1",
+      "topic": "histoire",
+      "title": "« L'habitation des marais »",
+      "short": "Pour la plupart des spécialistes, Bruxelles vient de l'ancien néerlandais Broekzele, « l'habitation » ou « le château des marais », un sens confirmé par la topographie du site.",
+      "long": "Le nom est attesté dès 966 sous la forme Bruocsella. La ville a fêté son millénaire officiel en 1979, en prenant pour référence l'installation, en 979, du duc Charles de Basse-Lotharingie sur une île de la Senne, un épisode que bien des historiens mettent en doute.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "Geert van Istendael pense que le toponyme initial a été formé plus précisément dans la langue thioise, ou ancien néerlandais, c'est-à-dire d'un type initial Broeksel ou Broekzele signifiant en ancien néerlandais « habitation, château » (sel / zele) « des marais » (broek)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "La plupart des spécialistes s'accordent donc pour voir dans Bruxelles « une habitation des marais » ou « un château des marais », sens conforté par la topographie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "Il existe 79 attestations connues du nom de la localité, sous diverses formes, jusqu'en 1219, dont : Bruocsella en 966"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "Bruxelles, dont l'histoire mouvementée participe à celle de l'Europe occidentale, a fêté son millénaire officiel en 1979."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "En 979, Charles de Basse-Lotharingie vint installer le siège de son duché dans cette île de la Senne. Cela a servi de référence pour la date de naissance de Bruxelles, même si la construction du castrum et la présence de Charles de France à Bruxelles est mise en doute par de nombreux historiens universitaires"
+        }
+      ]
+    },
+    {
+      "id": "BEL-C2",
+      "topic": "politique",
+      "title": "La capitale de l'Europe, officieusement",
+      "short": "Bruxelles accueille la plupart des institutions de l'Union européenne ainsi que le siège de l'OTAN. Elle est considérée de fait comme la capitale politique de l'Union, même si celle-ci n'a officiellement pas de capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "La plupart des institutions de l'Union européenne (UE), ainsi que de nombreuses organisations internationales, dont l'OTAN, ont leur siège en Région de Bruxelles-Capitale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "Bruxelles, siège de la plupart des institutions de l'Union européenne, est considérée de facto comme la capitale politique des 27."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "Le statut de « capitale de l'Europe » (partagé, et même parfois contesté par Luxembourg et surtout Strasbourg qui, outre le siège du Parlement européen, accueille aussi celui du Conseil de l'Europe) reste cependant officieux, l'UE n'ayant pas officiellement de capitale,"
+        }
+      ]
+    },
+    {
+      "id": "BEL-C3",
+      "topic": "culture",
+      "era": "1958",
+      "title": "L'Atomium, souvenir d'une Expo",
+      "short": "Construit pour l'Exposition universelle de 1958, l'Atomium est devenu l'emblème de Bruxelles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bruxelles",
+          "quote": "En 1958, l'Exposition universelle dote la ville d'un monument original devenu emblématique de Bruxelles, l'Atomium,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays coincé entre la France au sud, les Pays-Bas au nord, l'Allemagne et le Luxembourg à l'est, avec une courte côte sur la mer du Nord. Bruxelles est à peu près au centre.",
+    "flag": "Noir, jaune, rouge en bandes verticales, le noir au mât. L'Allemagne a presque les mêmes couleurs, mais en bandes horizontales (noir, rouge, or) ; le Tchad et la Roumanie ont du bleu à la place du noir.",
+    "capital": "Bruxelles, c'est Broekzele, « l'habitation des marais » : une capitale bâtie les pieds dans l'eau de la Senne."
+  }
+}

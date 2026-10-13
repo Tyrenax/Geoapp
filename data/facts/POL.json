@@ -1,0 +1,184 @@
+{
+  "id": "POL",
+  "facts": [
+    {
+      "id": "POL-1",
+      "topic": "histoire",
+      "era": "966",
+      "title": "Un pays né d'un baptême",
+      "short": "Beaucoup d'historiens datent la naissance de la Pologne de 966, quand Mieszko Ier, duc des Polanes, convertit son pays au christianisme. Son fils Boleslas Ier le Vaillant devient le premier roi de Pologne en 1025.",
+      "long": "Mieszko Ier fonde la dynastie des Piast, qui règne sur la Pologne jusqu'en 1370. Son palais se trouvait sur une île de la Warta, dans l'actuelle ville de Poznań.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "L'histoire de la Pologne commence véritablement au Xe siècle, sous le règne de Mieszko Ier, duc des Polanes (de la dynastie Piast), qui convertit la Pologne naissante au christianisme en 966, puis, par le couronnement de son fils Boleslas Ier le Vaillant, le premier roi de Pologne, sacré en 1025."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "De nombreux historiens situent la formation de la Pologne en 966, par Mieszko Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Son premier souverain est Mieszko Ier, fondateur de la dynastie Piast qui règne sur la Pologne de 966 à 1370."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "le premier souverain de la Pologne qui soit documenté, le duc Mieszko Ier de Pologne, avait son palais situé sur une île du fleuve Warta, aujourd'hui intégrée à la ville de Poznań."
+        }
+      ]
+    },
+    {
+      "id": "POL-2",
+      "topic": "histoire",
+      "era": "1772-1918",
+      "title": "Rayée de la carte pendant plus d'un siècle",
+      "short": "Entre 1772 et 1795, la Prusse, la Russie et l'Autriche se partagent la Pologne en trois fois, jusqu'à la rayer de la carte. Elle ne retrouve son indépendance qu'en novembre 1918.",
+      "long": "Le deuxième partage répondait à la Constitution du 3 mai 1791, jugée trop dangereuse par les voisins. La révolte qui suit, menée par Tadeusz Kościuszko, un héros de la guerre d'indépendance américaine, sert de prétexte au troisième partage. Tout au long du XIXe siècle, les insurrections se succèdent, en 1830, 1848 et 1863.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Celle-ci est dissoute entre 1772 et 1795 lorsque le territoire de la Pologne est partagé entre la Prusse, l'Empire russe et l'Autriche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Ce sursaut mène en 1791 à la proclamation de la Constitution polonaise du 3 mai 1791, nettement moins « révolutionnaire » que celle de la France, mais, néanmoins perçue comme trop dangereuse pour ses voisins, d'où le deuxième partage, qui provoque une révolte menée par un héros de la guerre d'indépendance américaine, Tadeusz Kościuszko. Cette révolte sert de prétexte au troisième partage, quand le royaume de Pologne est rayé de la carte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "La Pologne ne recouvre son indépendance qu'en novembre 1918 et fonde alors une Deuxième République, dont l'indépendance est reconnue par le petit traité de Versailles en juin 1919."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Cette période est marquée par une succession de révoltes et d'insurrections nationales, notamment :\n\nl'insurrection de novembre 1830-1831 ;\nl'insurrection de Grande-Pologne (1848) ;\nl'insurrection de Janvier en 1863."
+        }
+      ]
+    },
+    {
+      "id": "POL-3",
+      "topic": "histoire",
+      "era": "1939-1945",
+      "title": "Le pays où commence la Seconde Guerre mondiale",
+      "short": "Le 1er septembre 1939, l'Allemagne envahit la Pologne : c'est le début de la Seconde Guerre mondiale. Le 17 septembre, l'URSS attaque à son tour, en vertu du pacte germano-soviétique. La guerre coûte la vie à près de six millions de Polonais.",
+      "long": "Occupé par l'Allemagne, le territoire polonais devient le lieu de l'essentiel de la Shoah. Le gouvernement en exil s'installe d'abord en France, à Angers et au château de Pignerolle, qui devient en novembre 1939 la capitale politique provisoire de la Pologne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Le 1er septembre 1939, à la suite de la signature du Pacte germano-soviétique, son invasion par le Troisième Reich est l'événement déclencheur de la Seconde Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Conformément aux accords secrets du Pacte germano-soviétique signé le 23 août 1939, soit une semaine avant le début de l'invasion allemande, l'URSS envahit à son tour la Pologne, à partir du 17 septembre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "La Pologne ne recouvre que brièvement son indépendance, de 1918 à 1939, puis est à nouveau envahie par l'Allemagne nazie et l'URSS qui se partagent le pays, précipitant l'Europe dans la Seconde Guerre mondiale et provoquant la mort de près de six millions de Polonais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "En 1941, l'Allemagne repousse son ancien allié soviétique jusqu'à Moscou et occupe seule jusqu'en 1944 l'ensemble du territoire polonais, qui est asservi et devient notamment, de même que l'ouest de l'Union soviétique, le lieu de meurtres de masse commis par les nazis, dont l'essentiel de la Shoah."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Le président de la République et les divers ministères polonais s'installent au château de Pignerolle (au sud-est d'Angers) ainsi qu'à Angers même, ce dès novembre 1939, qui devient de fait la capitale politique de la Pologne, à titre temporaire."
+        }
+      ]
+    },
+    {
+      "id": "POL-4",
+      "topic": "geographie",
+      "era": "1945",
+      "title": "Un pays déplacé vers l'ouest",
+      "short": "À la fin de la Seconde Guerre mondiale, la Pologne est littéralement déplacée de 300 km vers l'ouest en moyenne : elle cède ses territoires orientaux à l'URSS et reçoit en échange la Silésie, la Poméranie orientale et le sud de la Prusse-Orientale, pris à l'Allemagne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "À la fin du second conflit mondial, la Pologne, pourtant pays allié, perd 75 711 km2 par rapport à son étendue de 1939 et est déplacée de 300 km en moyenne vers l'ouest, laissant ses territoires orientaux (notamment la Polésie et la Galicie orientale) à l'URSS, mais recevant en échange le sud de la Prusse-Orientale, la Poméranie orientale et la Silésie prises au Troisième"
+        }
+      ]
+    },
+    {
+      "id": "POL-5",
+      "topic": "histoire",
+      "era": "1980-1989",
+      "title": "Solidarność, le syndicat qui a fait tomber le régime",
+      "short": "En 1980 naît Solidarność (« Solidarité »), un syndicat indépendant dirigé par Lech Wałęsa. Interdit puis toléré, il obtient des élections partiellement libres en juin 1989, qu'il remporte largement.",
+      "long": "La IIIe République est proclamée le 1er janvier 1990, et Lech Wałęsa est élu président la même année.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "En 1980 naît le syndicat indépendant Solidarność (« Solidarité »), dirigé par Lech Wałęsa , d'abord interdit, puis reconnu à contre-cœur par les autorités."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Incapable de réinstaurer une « normalité socialiste », le pouvoir est contraint de tenir des « Tables rondes », réunions entre le gouvernement et le syndicat Solidarność (de fait reconnu comme un interlocuteur incontournable), qui permettent la tenue d’élections législatives partiellement libres ; celles-ci ont lieu en juin 1989 et consacrent une large victoire aux membres de Solidarność"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Pologne",
+          "quote": "Le 1er janvier 1990, la IIIe République est proclamée ; des élections présidentielles ont lieu au cours de cette même année, celles-ci sont largement remportées par Lech Wałęsa,"
+        }
+      ]
+    },
+    {
+      "id": "POL-6",
+      "topic": "drapeau",
+      "era": "1831",
+      "title": "L'aigle blanc au-dessus du rouge",
+      "short": "Le drapeau polonais est blanc en haut, rouge en bas, deux couleurs adoptées officiellement en 1831. Le blanc, couleur de l'aigle blanc des armoiries, doit toujours être placé au-dessus du rouge, couleur du fond du blason.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Pologne",
+          "quote": "Elles furent officiellement adoptées en 1831. Le drapeau fut pour sa part adopté officiellement en 1919. Depuis 2004, il est fêté le 2 mai.\nLes drapeaux de l'Indonésie et de Monaco sont construits de la même façon, à ceci près que la bande rouge est au-dessus de la blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Pologne",
+          "quote": "Dans le cas des couleurs nationales, le blanc, couleur de l'Aigle Blanc, doit toujours être placé dans une meilleure position que le rouge, couleur du champ des armoiries polonaises. Ainsi pour un alignement horizontal, la bande blanche doit être placée au-dessus de la rouge."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "POL-C1",
+      "topic": "histoire",
+      "era": "1596",
+      "title": "Capitale à mi-chemin",
+      "short": "En 1596, le roi Sigismond Vasa déplace la cour de Cracovie à Varsovie. Elle était idéalement placée à mi-chemin entre Cracovie et Vilnius, les capitales des deux nations unies de Pologne et de Lituanie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Varsovie",
+          "quote": "La couronne polonaise y fut transférée en 1596, quand le roi Sigismond Vasa déplaça la cour de Cracovie à Varsovie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Varsovie",
+          "quote": "Grâce à sa situation médiane entre les capitales de ces deux nations (Cracovie pour la Pologne et Vilnius pour la Lituanie), Varsovie devint la capitale de la république unifiée."
+        }
+      ]
+    },
+    {
+      "id": "POL-C2",
+      "topic": "histoire",
+      "era": "1945-1980",
+      "title": "Une vieille ville reconstruite pierre à pierre",
+      "short": "En janvier 1945, Varsovie est détruite à 85 % et vidée de ses habitants. Sa vieille ville est reconstruite à l'identique, un travail immense qui lui vaut d'être inscrite au patrimoine mondial de l'Unesco en 1980.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Varsovie",
+          "quote": "Les troupes de l'Armée rouge finirent par « libérer » Varsovie le 17 janvier 1945 : le premier front biélorusse et une unité de combat polonaise pro-soviétique prirent possession d'une ville détruite à 85 pour cent et totalement désertée — les 350 000 survivants avaient fui ou avaient été déportés en Allemagne —"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Varsovie",
+          "quote": "Si la Vieille ville fut entièrement reconstruite à l'identique, tout comme de nombreux édifices publics, palais, hôtels particuliers et églises, également restaurés ou reconstruits sous leur forme originelle,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Varsovie",
+          "quote": "L'immense travail de restauration de la Vieille ville de Varsovie lui valut d'être inscrite au patrimoine mondial de l'Unesco en 1980."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une grande plaine au centre-est de l'Europe, au bord de la Baltique, entre l'Allemagne à l'ouest et la Biélorussie et l'Ukraine à l'est. Au sud, les montagnes la séparent de la Tchéquie et de la Slovaquie. La Vistule la traverse du sud au nord, par Cracovie et Varsovie.",
+    "flag": "Blanc en haut, rouge en bas. Monaco et l'Indonésie ont les mêmes couleurs dans l'autre sens (rouge en haut). Blanc sur rouge avec un disque bicolore, c'est le Groenland.",
+    "capital": "Varsovie, Warszawa, sur la Vistule : capitale depuis que Sigismond Vasa y a installé la cour en 1596, à mi-chemin entre Cracovie et Vilnius."
+  }
+}

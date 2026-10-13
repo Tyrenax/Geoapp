@@ -1,0 +1,158 @@
+{
+  "id": "MNG",
+  "facts": [
+    {
+      "id": "MNG-1",
+      "topic": "histoire",
+      "era": "XIIIe siècle",
+      "title": "Gengis Khan",
+      "short": "Au XIIIe siècle, un chef nommé Temüjin unifie les tribus mongoles, prend le nom de Gengis Khan et fonde un empire, une œuvre que poursuivent ses successeurs, dont Khubilai. La Mongolie est alors le centre de l'Empire mongol.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Au XIIIe siècle, un chef nommé Temüjin",
+          "to": "Möngke et Khubilai."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "La Mongolie fut le centre de l’Empire mongol",
+          "to": "au XIIIe siècle"
+        }
+      ]
+    },
+    {
+      "id": "MNG-2",
+      "topic": "histoire",
+      "era": "1204",
+      "title": "Une écriture venue des Ouïghours",
+      "short": "Vers 1204, Gengis Khan demande à un scribe ouïghour capturé de créer une écriture pour la langue mongole. Ce scribe adapte l'alphabet ouïghour : c'est l'origine de l'écriture mongole bitchig.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Vers 1204, Gengis Khan demande sa création",
+          "to": "à la langue mongole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "La plus ancienne est le mongol bitchig",
+          "to": "la fondation de l'Empire mongol."
+        }
+      ]
+    },
+    {
+      "id": "MNG-3",
+      "topic": "histoire",
+      "era": "1911-1924",
+      "title": "De la Chine des Qing à la république populaire",
+      "short": "Gouvernée par la dynastie mandchoue des Qing depuis la fin du XVIIe siècle, la Mongolie proclame son indépendance le 1er décembre 1911, profitant de la révolution chinoise. En 1924 naît la République populaire mongole, sous l'influence de la Russie soviétique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "et fut ensuite gouvernée par la dynastie Qing",
+          "to": "de la fin du XVIIe siècle à 1911,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Profitant de la révolution chinoise de 1911",
+          "to": "en tant que Mongolie autonome,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Un Parti populaire mongol fut créé sous l'impulsion",
+          "to": "le 26 novembre 1924."
+        }
+      ]
+    },
+    {
+      "id": "MNG-4",
+      "topic": "geographie",
+      "title": "Le pays le moins densément peuplé",
+      "short": "Avec 2 habitants au km², la Mongolie a la plus faible densité de population du monde. Coincée entre la Russie et la Chine, elle a l'un des climats les plus continentaux du globe : −40 °C l'hiver, plus de 40 °C l'été dans le désert de Gobi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "La Mongolie est le pays qui a la plus faible densité",
+          "to": "avec 2 hab./km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "est un vaste pays d'Asie orientale qui est enclavé",
+          "to": "(RPC) au sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Le climat de la Mongolie est l’un des plus continentaux",
+          "to": "dans le désert de Gobi."
+        }
+      ]
+    },
+    {
+      "id": "MNG-5",
+      "topic": "culture",
+      "title": "Yourtes et Naadam",
+      "short": "Près de 28 % des Mongols sont nomades ou semi-nomades, et environ la moitié de la population vit dans des yourtes. Chaque été, la fête nationale du Naadam célèbre la lutte mongole, le tir à l'arc et les courses de chevaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Près de 28 % des 3 millions d'habitants",
+          "to": "nomades ou semi-nomades."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Environ la moitié de la population loge",
+          "to": "dans des yourtes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mongolie",
+          "from": "Les activités sportives traditionnelles sont la lutte mongole",
+          "to": "les 11 et 12 juillet."
+        }
+      ]
+    },
+    {
+      "id": "MNG-6",
+      "topic": "drapeau",
+      "era": "1992",
+      "title": "Le soyombo",
+      "short": "Deux bandes rouges encadrent une bande bleue, couleur du ciel. À gauche, le soyombo jaune, vieux symbole mongol, représente le feu, la terre, l'eau, le soleil, la lune et le yin-yang. Jusqu'en 1992, une étoile communiste le surmontait.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Mongolie",
+          "from": "Il est composé de trois bandes verticales égales",
+          "to": "symbole du communisme."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MNG-C1",
+      "topic": "histoire",
+      "era": "1639-1924",
+      "title": "D'un monastère nomade au « Héros rouge »",
+      "short": "La ville naît en 1639 d'un monastère nomade et devient Ourga pour les Occidentaux. En 1924, elle est rebaptisée Oulan-Bator, « Héros rouge », en l'honneur du dirigeant communiste Sükhbaatar. C'est la capitale la plus froide du monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oulan-Bator",
+          "from": "En 1639, Zanabazar, fonda",
+          "to": "sous le nom d'Ourga."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oulan-Bator",
+          "from": "Ourga resta la capitale de la Mongolie",
+          "to": "mort le 20 février 1923."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Oulan-Bator",
+          "from": "Oulan-Bator est la capitale la plus froide du monde",
+          "to": "la plus froide du monde,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un immense pays sans accès à la mer, entièrement coincé entre la Russie au nord et la Chine au sud.",
+    "flag": "Rouge, bleu, rouge en bandes verticales, avec un symbole jaune en colonne côté hampe : le soyombo.",
+    "capital": "Oulan-Bator, au centre-nord du pays, où vit près de la moitié des Mongols."
+  }
+}

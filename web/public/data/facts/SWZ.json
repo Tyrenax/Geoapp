@@ -1,0 +1,161 @@
+{
+  "id": "SWZ",
+  "facts": [
+    {
+      "id": "SWZ-1",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Un pays nommé d'après un roi",
+      "short": "Le pays et son peuple, les Swazis, doivent leur nom au roi Mswati II, au XIXe siècle. Son nom signifierait « bâton de commandement » en zoulou.",
+      "long": "Son père, le roi Sobhuza Ier, s'était retiré dans la vallée d'Ezulwini, où il protégea son peuple des ambitions du grand roi zoulou Chaka. C'est à la succession de Mswati que les Ngwane-Dlamini prennent le nom de Swazis.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Cette nation, comme ses habitants, doit son nom au roi du XIXe siècle Mswati II, chef dont le nom signifie « bâton de commandement » en zoulou."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Eswatini",
+          "quote": "Le roi Sobhuza Ier, qui avait succédé à Ngwane III, s'était retiré dans la vallée d'Ezulwini, où il protégea son peuple des visées impériales de Chaka Zulu (1787-1828)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "À la mort de Sobhuza, son fils Mswazi (ou Mswati) lui succède ; c'est à ce moment que le peuple Ngwane-Dlamini prend le nom de Swazi."
+        }
+      ]
+    },
+    {
+      "id": "SWZ-2",
+      "topic": "histoire",
+      "era": "1881-1968",
+      "title": "Un protectorat demandé aux Britanniques",
+      "short": "En 1877, la famille royale Dlamini demande la protection du Royaume-Uni. Le Swaziland devient un protectorat britannique, puis obtient son indépendance le 6 septembre 1968.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Eswatini",
+          "quote": "En 1877, les Dlamini demandèrent la protection du Royaume-Uni et en 1881, amputé de sa frange orientale, le Swaziland devint un protectorat britannique, garantissant l'indépendance de la nation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "L'indépendance est accordée au pays le 6 septembre 1968."
+        }
+      ]
+    },
+    {
+      "id": "SWZ-3",
+      "topic": "histoire",
+      "era": "1921-1982",
+      "title": "Sobhuza II, roi pendant six décennies",
+      "short": "Monté sur le trône le 22 décembre 1921, Sobhuza II règne jusqu'à sa mort en 1982. En 1973, il abolit la constitution héritée des Britanniques et fait de son pays une monarchie absolue.",
+      "long": "Il jugeait cette constitution contraire aux traditions swazies. Jusqu'en 1978, il gouverne par décret depuis sa résidence royale de Lobamba ; la monarchie absolue devient alors officielle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Eswatini",
+          "quote": "Le 22 décembre 1921, le jeune roi Sobhuza II monte sur le trône."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mbabane",
+          "quote": "Sobhuza II (1899-1982), né et mort à Mbabane, roi de l'Eswatini."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "En avril 1973, jugeant la constitution rédigée par les Britanniques, et faisant de ce pays une monarchie constitutionnelle, en inadéquation avec les traditions swazies, Sobhuza II dissout le parlement (le Libandla) élu, et abolit cette Constitution"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Le Swaziland devient une monarchie absolue de fait en 1973 et de droit en 1978."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Eswatini",
+          "quote": "Jusqu'en 1978, Sobhuza II gouverne par décret depuis sa résidence royale de Lobamba."
+        }
+      ]
+    },
+    {
+      "id": "SWZ-4",
+      "topic": "histoire",
+      "era": "2018",
+      "title": "Du Swaziland à l'Eswatini",
+      "short": "En avril 2018, un décret royal remplace le nom de Swaziland, un mélange de swati et d'anglais, par Eswatini, « pays des Swazis » en swati : le même sens, dans la langue du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "appelé Swaziland jusqu'en avril 2018"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Le terme Eswatini signifie « pays des Swazis » dans la langue swati. Il correspond au sens de l'ancienne dénomination internationale Swaziland, une forme de mélange avec l'anglais."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Toutefois, le décret royal annonçant en 2018 le changement officiel de dénomination retient la graphie Eswatini, avec une majuscule initiale et un « s » minuscule."
+        }
+      ]
+    },
+    {
+      "id": "SWZ-5",
+      "topic": "culture",
+      "title": "La danse des roseaux",
+      "short": "Chaque année, à la fin du mois d'août, les jeunes filles du royaume participent devant le roi à la danse des roseaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Par ailleurs, chaque année, à la fin août, tous les parents doivent s'assurer que leurs filles encore vierges participent à la danse des roseaux, qui s'effectue devant le roi."
+        }
+      ]
+    },
+    {
+      "id": "SWZ-6",
+      "topic": "drapeau",
+      "era": "1967",
+      "title": "Un bouclier noir et blanc",
+      "short": "Au centre du drapeau, un bouclier en peau de bœuf noire et blanche, avec deux sagaies et un bâton orné de plumes, symbolise la paix entre Noirs et Blancs.",
+      "long": "Adopté le 30 octobre 1967, près d'un an avant l'indépendance, le drapeau aligne des bandes bleues (la paix), jaunes (les ressources) et une large bande rouge (les batailles du passé). Le bouclier avait été offert en 1941 par Sobhuza II au régiment swazi intégré à l'armée britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Eswatini",
+          "quote": "La bande centrale rouge, la plus large, porte un bouclier zoulou (les Swazis sont très proches ethniquement des Zoulous) couvert de peau de bœufs noire et blanche censée incarner la paix entre Blancs et Noirs, dont dépassent deux sagaies et un bâton zoulou orné de plumes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Eswatini",
+          "quote": "Adopté le 30 octobre 1967, soit près d'un an avant l’indépendance, le drapeau de l'Eswatini se compose de cinq bandes horizontales bleue (haut), jaune, rouge, jaune et bleue."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Eswatini",
+          "quote": "Les bandes bleues représentent la paix et la stabilité, l'agriculture et les ressources minières sont symbolisées par le jaune, la lutte pour l'indépendance et les batailles du passé par le rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Eswatini",
+          "quote": "Le bouclier a été donné pendant la Seconde Guerre mondiale (1941) par le roi Sobhuza II au Swazi Pioneer Corps lorsque ce régiment fut intégré au sein de l’armée britannique, qui le portait sur son drapeau."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SWZ-C1",
+      "topic": "politique",
+      "title": "Deux capitales pour un petit royaume",
+      "short": "L'Eswatini a deux capitales : Mbabane, la capitale administrative, et Lobamba, la capitale royale et législative, qui ne compte que 12 372 habitants.",
+      "long": "Mbabane tient son nom d'un chef traditionnel, Mbabane Kunene, qui vivait dans la région à l'arrivée des colons britanniques. Ce n'est que la deuxième ville du pays, derrière Manzini.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Lobamba, la capitale royale et législative, ne compte que 12 372 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Eswatini",
+          "quote": "Avec 62 000 habitants, la capitale Mbabane est la deuxième plus grande ville du pays derrière Manzini ; Lobamba (capitale royale et législative) ou Siteki sont de moindre importance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Mbabane",
+          "quote": "Mbabane tire son nom de celui d'un chef traditionnel, Mbabane Kunene, qui vivait dans la région lorsque les colons britanniques sont arrivés."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays enclavé d'Afrique australe, presque entièrement entouré par l'Afrique du Sud, avec le Mozambique à l'est.",
+    "flag": "Bleu, jaune, une large bande rouge au milieu, jaune, bleu, avec un bouclier noir et blanc posé à l'horizontale et deux lances. Aucun autre drapeau ne porte ce bouclier.",
+    "capital": "Deux réponses : Mbabane pour l'administration, Lobamba pour le roi et le Parlement. Retiens « M comme ministères, L comme loi »."
+  }
+}

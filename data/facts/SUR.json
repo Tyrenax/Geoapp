@@ -1,0 +1,121 @@
+{
+  "id": "SUR",
+  "facts": [
+    {
+      "id": "SUR-1",
+      "topic": "histoire",
+      "era": "1667",
+      "title": "Échangé contre New York",
+      "short": "En 1667, au traité de Bréda, les Néerlandais obtiennent le Suriname, pris aux Anglais, et renoncent en échange à la Nouvelle-Néerlande. Sa ville principale, la Nouvelle-Amsterdam, deviendra New York.",
+      "long": "Les Britanniques s'étaient installés à l'embouchure du fleuve Suriname en 1630 et y avaient créé en 1651 une colonie prospère, peuplée de colons et d'esclaves venus de la Barbade.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "En 1630, des Britanniques s’implantent à l’embouchure du fleuve Suriname, ce qui mènera en 1651 à la création de la prospère et éphémère colonie britannique, par Anthony Rowse et Lord Francis Willoughby de Parham, gouverneur de la Barbade. Des colons britanniques et des esclaves noirs arrivent alors de la Barbade."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "Cette colonie est conquise en 1667 par les Néerlandais, qui cèdent aux Anglais la Nouvelle-Néerlande en retour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Néerlande",
+          "quote": "En 1667, les Néerlandais renoncent à leurs revendications sur cette portion du territoire américain, lors du traité de Bréda, et obtiennent en retour la souveraineté sur le Suriname."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Nouvelle-Néerlande",
+          "quote": "En 1626, Pierre Minuit y fonde sur l'île de Manhattan, dans l'estuaire de l'Hudson, La Nouvelle-Amsterdam, origine de la ville de New York."
+        }
+      ]
+    },
+    {
+      "id": "SUR-2",
+      "topic": "histoire",
+      "era": "1954-1975",
+      "title": "De Guyane néerlandaise à Suriname",
+      "short": "Longtemps appelée Guyane néerlandaise, la colonie devient une région autonome du royaume des Pays-Bas en 1954, puis un pays indépendant en 1975.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "Le Suriname devient une région autonome du royaume des Pays-Bas en 1954 avant d'accéder à l'indépendance en 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "La région est colonisée par les Provinces-Unies au XVIIe siècle et prend le nom de Guyane néerlandaise."
+        }
+      ]
+    },
+    {
+      "id": "SUR-3",
+      "topic": "histoire",
+      "title": "Un pays aux mille origines",
+      "short": "Après l'esclavage, les colons font venir des travailleurs d'Inde, de Java et de Chine. Aujourd'hui, on y trouve aussi bien des Marrons, descendants d'esclaves évadés, que des Créoles, des Javanais ou des descendants d'Indiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "Les colons font alors venir des travailleurs hindoustanis (accord avec Londres), javanais et chinois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "Les Marrons (descendants d'esclaves africains évadés) représentent environ 21,7 %, alors que les Créoles, d'ascendance mixte européenne et africaine, et les Javanais (« importés » des anciennes Indes orientales néerlandaises) représentent respectivement 15,7 % et 13,7 %, presque le même pourcentage que les métis (13,4 %)."
+        }
+      ]
+    },
+    {
+      "id": "SUR-4",
+      "topic": "geographie",
+      "title": "Le plus petit pays d'Amérique du Sud",
+      "short": "Le Suriname est le plus petit pays d'Amérique du Sud. La forêt amazonienne couvre au moins 97 % de son territoire, et plus de 90 % des habitants vivent sur la côte atlantique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "Avec une superficie de 163 270 kilomètres carrés, le Suriname est le plus petit pays d'Amérique du Sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suriname",
+          "quote": "La population se concentre sur environ 3 % du territoire, le reste du pays étant au moins constitué à 97 % par la forêt amazonienne, et plus de 90 % de la population se concentre sur la côte qui donne sur l'océan Atlantique."
+        }
+      ]
+    },
+    {
+      "id": "SUR-5",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "Une étoile pour tous les peuples",
+      "short": "Adopté le 25 novembre 1975, jour de l'indépendance, le drapeau porte au centre une étoile jaune qui représente l'unité de tous les groupes ethniques du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Suriname",
+          "quote": "Ce drapeau fut adopté le 25 novembre 1975, après l'indépendance du Suriname\n\n\n== Composition du drapeau ==\n\nAu centre du drapeau on peut voir une étoile à cinq branches de couleur jaune représentant l'unité de tous les groupes ethniques du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Suriname",
+          "quote": "L'ancien drapeau était le drapeau officiel de la colonie Suriname jusqu'à l'indépendance du pays le 25 novembre 1975."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SUR-C1",
+      "topic": "culture",
+      "era": "2002",
+      "title": "Une cathédrale en bois",
+      "short": "Le centre historique de Paramaribo, inscrit au patrimoine mondial en 2002, mêle architecture européenne et savoir-faire local. Sa cathédrale Saints-Pierre-et-Paul est l'un des plus hauts édifices en bois d'Amérique du Sud ; la grande mosquée n'est pas loin.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paramaribo",
+          "quote": "Le centre-ville historique a été inscrit au Patrimoine mondial de l'UNESCO en 2002, en raison de « la fusion progressive de l’architecture et des techniques de construction européennes avec les matériaux et les artisanats indigènes sud-américains, qui a fini par donner naissance à un nouveau langage architectural »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Paramaribo",
+          "quote": "Bâtiments remarquables :\n\nLa cathédrale Saints-Pierre-et-Paul : l'un des plus hauts édifices en bois d'Amérique du Sud, siège du Diocèse de Paramaribo ;\nLa grande mosquée de Paramaribo"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le pays du milieu des trois petits pays du nord-est de l'Amérique du Sud : entre le Guyana à l'ouest et la Guyane française à l'est, au-dessus du Brésil.",
+    "flag": "Vert, blanc, rouge (large), blanc, vert à l'horizontale, avec une étoile jaune au centre. Aucun voisin n'a ce rouge central étoilé ; le Guyana voisin a une flèche jaune.",
+    "capital": "Paramaribo, « para-mari-beau » : une capitale néerlandaise en bois, au bord du fleuve Suriname."
+  }
+}

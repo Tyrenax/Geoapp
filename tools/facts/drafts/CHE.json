@@ -1,0 +1,201 @@
+{
+  "id": "CHE",
+  "facts": [
+    {
+      "id": "CHE-1",
+      "topic": "histoire",
+      "title": "Un pays nommé d'après un canton",
+      "short": "« Suisse » vient de Schwytz, l'un des trois cantons fondateurs, le plus proche de Vienne : au XVIe siècle, les Autrichiens désignent ainsi tous les confédérés révoltés contre eux. Le nom Schwytz évoquerait la culture sur brûlis des premiers habitants.",
+      "long": "Le nom officiel reste « Confédération suisse », du latin fœdus, « traité d'alliance ». Les initiales CH, sur les plaques et les noms de domaine, viennent de sa version latine, Confœderatio Helvetica. Le pays compte quatre langues nationales : l'allemand, le français, l'italien et le romanche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Le nom Schweiz, d'où dérive le français Suisse",
+          "to": "révoltée contre eux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Le terme de Schwytz, quant à lui, viendrait",
+          "to": "cultiver les terrains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Le mot français, comme ses équivalents dans les langues latines",
+          "to": "« compagnons » de même rang."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Ainsi, la formule Confœderatio Helvetica",
+          "to": "noms de domaine sur Internet."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "La Suisse comporte quatre régions culturelles",
+          "to": "l'italien et le romanche,"
+        }
+      ]
+    },
+    {
+      "id": "CHE-2",
+      "topic": "histoire",
+      "era": "1291",
+      "title": "Un pacte choisi six siècles plus tard",
+      "short": "La Suisse fête sa naissance chaque 1er août, en souvenir du pacte d'alliance d'août 1291 entre Uri, Schwytz et Unterwald. Mais cette date n'a été choisie qu'en 1891 : le pacte n'est que le plus vieux texte connu renouvelant une alliance plus ancienne.",
+      "long": "En 1315, les trois cantons confirment leur alliance après avoir battu Léopold Ier d'Autriche à Morgarten. Au XIVe siècle, Lucerne, Zurich, Glaris, Zoug et Berne les rejoignent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "La Fête nationale suisse célèbre chaque 1er août",
+          "to": "Uri, Schwytz et Unterwald."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "La date de 1291 est choisie en 1891",
+          "to": "(vallée inférieure d'Unterwald)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Ces cantons confirment en 1315 leur alliance",
+          "to": "se rapprochent d'eux au XIVe siècle,"
+        }
+      ]
+    },
+    {
+      "id": "CHE-3",
+      "topic": "histoire",
+      "era": "1515-1815",
+      "title": "De Marignan à la neutralité",
+      "short": "La défaite de Marignan, en 1515, met fin aux aventures militaires suisses hors de leurs frontières. En 1815, le congrès de Vienne reconnaît la « neutralité perpétuelle » de la Suisse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Les guerres d'Italie et surtout la bataille de Marignan",
+          "to": "hors de son territoire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Après le départ de l'armée napoléonienne",
+          "to": "signé lors du congrès de Vienne."
+        }
+      ]
+    },
+    {
+      "id": "CHE-4",
+      "topic": "histoire",
+      "era": "1847-1848",
+      "title": "Une dernière guerre civile, puis l'État fédéral",
+      "short": "En 1847, conservateurs et libéraux-radicaux s'affrontent dans la guerre du Sonderbund. Les vainqueurs créent en 1848 un État fédéral : frontières intérieures abolies, monnaie unique et armée de milice commune.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "En 1847 cependant, les luttes entre les conservateurs",
+          "to": "une armée de milice fédérale."
+        }
+      ]
+    },
+    {
+      "id": "CHE-5",
+      "topic": "politique",
+      "era": "1971",
+      "title": "Le peuple a le dernier mot",
+      "short": "En Suisse, le peuple peut remettre en cause une loi votée par le Parlement grâce au référendum. Pourtant, il a fallu attendre février 1971 pour que les électeurs acceptent, après plusieurs refus, le droit de vote des femmes au niveau fédéral.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "Le référendum facultatif permet de remettre en cause",
+          "to": "par l'Assemblée fédérale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "C'est en février 1971 que les Suisses",
+          "to": "la vie politique fédérale."
+        }
+      ]
+    },
+    {
+      "id": "CHE-6",
+      "topic": "drapeau",
+      "era": "1889",
+      "title": "Un drapeau carré, inversé par la Croix-Rouge",
+      "short": "Le drapeau suisse est carré, rouge à croix blanche, et ses proportions exactes sont fixées depuis 1889. En 1868, le Comité international de la Croix-Rouge, né en Suisse, adopte pour emblème le même motif aux couleurs inversées.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_et_armoiries_de_la_Suisse",
+          "from": "Le drapeau de la Suisse est carré",
+          "to": "(de gueules, à la croix alésée d'argent)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_et_armoiries_de_la_Suisse",
+          "from": "La forme actuelle date de 1889",
+          "to": "ainsi que les armoiries officielles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_et_armoiries_de_la_Suisse",
+          "from": "Le premier emblème de la Croix-Rouge, adopté en 1868",
+          "to": "avec les couleurs inversées."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suisse",
+          "from": "La Suisse est le berceau du Comité international de la Croix-Rouge",
+          "to": "de la Croix-Rouge"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CHE-C1",
+      "topic": "politique",
+      "era": "1848",
+      "title": "Une « ville fédérale » plutôt qu'une capitale",
+      "short": "Berne n'est que la cinquième ville du pays et n'a pas le titre officiel de capitale : depuis 1848, elle est la « ville fédérale », siège du gouvernement et du Parlement. Elle a été choisie pour sa position centrale et pour des raisons militaires.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Berne (en allemand : Bern",
+          "to": "la cinquième ville de Suisse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Depuis 1848, Berne est la « ville fédérale »",
+          "to": "de l'Assemblée fédérale suisse."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Le choix des chambres fédérales en faveur de Berne",
+          "to": "des considérations militaires."
+        }
+      ]
+    },
+    {
+      "id": "CHE-C2",
+      "topic": "histoire",
+      "era": "1191",
+      "title": "La ville de l'ours",
+      "short": "Selon la tradition, le duc Berthold V de Zähringen fonde la ville en 1191 et la nomme d'après un ours (Bär) qu'il avait tué ou capturé. La fosse aux ours fait toujours partie de son patrimoine.",
+      "long": "En 1798, les troupes françaises occupent Berne et emportent son trésor… et jusqu'à ses légendaires ours.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Le duc Berthold V de Zähringen fonda la ville",
+          "to": "qu'il avait tué ou capturé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Le Palais fédéral, la Place fédérale",
+          "to": "complètent le patrimoine de la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Berne",
+          "from": "Berne fut occupée par les troupes françaises en 1798",
+          "to": "emportés par l'occupant."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur des Alpes, sans accès à la mer : la France à l'ouest, l'Allemagne au nord, l'Autriche et le Liechtenstein à l'est, l'Italie au sud. Repères : le lac Léman et Genève au sud-ouest, le lac de Constance au nord-est.",
+    "flag": "Une croix blanche sur fond rouge, dans un drapeau carré : avec celui du Vatican, c'est l'un des deux seuls drapeaux nationaux carrés. Le Danemark a aussi une croix blanche sur rouge, mais décalée vers le mât et allongée jusqu'aux bords.",
+    "capital": "Berne, la ville de l'ours (Bär) : on y voit encore la fosse aux ours. Ni Zurich ni Genève, pourtant plus grandes."
+  }
+}

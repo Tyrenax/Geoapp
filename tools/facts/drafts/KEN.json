@@ -1,0 +1,88 @@
+{
+  "id": "KEN",
+  "facts": [
+    {
+      "id": "KEN-1", "topic": "histoire",
+      "title": "La « montagne de l'autruche »",
+      "short": "Le Kenya doit son nom à son plus haut sommet, le mont Kenya, que les Kamba appellent Kiinyaa, la « montagne de l'autruche ». À 5 199 m, il atteint l'étage des neiges éternelles.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Son nom provient de celui de son plus haut sommet", "to": "« montagne de l'autruche »."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Avec ses 5 199 mètres d'altitude", "to": "celui des neiges éternelles."}
+      ]
+    },
+    {
+      "id": "KEN-2", "topic": "histoire", "era": "XVIe-XVIIe siècle",
+      "title": "La côte swahilie, des Portugais aux sultans d'Oman",
+      "short": "Sur la côte s'épanouit la culture swahilie, mélange de cultures arabe et africaine. Au XVIe siècle, les Portugais arrivent dans le sillage de Vasco de Gama ; les sultans d'Oman les supplantent en 1698.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Kenya", "from": "À partir de ce substrat multiethnique se développe la culture swahilie", "to": "entre la culture arabe et africaine."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Au début du XVIe siècle arrivent, dans le sillage de Vasco de Gama", "to": "par celle des sultans d'Oman en 1698."}
+      ]
+    },
+    {
+      "id": "KEN-3", "topic": "histoire", "era": "1952-1959",
+      "title": "La révolte des Mau Mau",
+      "short": "D'octobre 1952 à décembre 1959, les insurgés Mau Mau se soulèvent contre le pouvoir colonial britannique. La répression est d'une extrême brutalité : les rebelles sont systématiquement torturés.",
+      "long": "Paradoxalement, une fois au pouvoir, Jomo Kenyatta prendra ses distances avec les anciens rebelles, déclarant qu'il ne laisserait pas « des gangsters diriger le Kenya ».",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "D'octobre 1952 à décembre 1959, la révolte des Mau Mau", "to": "la loi coloniale britannique."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Ils montrent que les rebelles Mau Mau étaient systématiquement torturés", "to": "aux pratiques les plus brutales"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Kenya", "from": "Le choix d'une économie de marché renforce une classe de capitalistes locaux", "to": "des gangsters diriger le Kenya"}
+      ]
+    },
+    {
+      "id": "KEN-4", "topic": "histoire", "era": "1963-1964",
+      "title": "De la prison à la présidence",
+      "short": "Emprisonné par les Britanniques, Jomo Kenyatta est libéré en 1961. Le 12 décembre 1963, le Kenya devient indépendant avec lui comme Premier ministre ; un an plus tard, le pays devient une république et Kenyatta son premier président.",
+      "long": "Pendant cette première année, la reine Élisabeth II reste cheffe de l'État. Kenyatta instaure ensuite un régime à parti unique, fondé sur la doctrine Harambee, « agir ensemble » en swahili.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Les Britanniques libèrent Jomo Kenyatta", "to": "en 1961"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Kenya", "from": "Le 12 décembre 1963, le Kenya obtient son indépendance", "to": "la reine Élisabeth II."},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Kenya", "from": "Elle est représentée sur place par un gouverneur général", "to": "pour Premier ministre."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "D'abord monarchie constitutionnelle, le Kenya devient un an plus tard une république", "to": "le premier Président de la République."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Sur le plan politique, Kenyatta instaure un régime à parti unique", "to": "(« Agir ensemble » en swahili)."}
+      ]
+    },
+    {
+      "id": "KEN-5", "topic": "geographie",
+      "title": "Les lacs du grand rift",
+      "short": "Le grand rift est-africain traverse le Kenya du sud au nord, jalonné de lacs : Magadi, Naivasha, Nakuru, Baringo jusqu'au lac Turkana. Les parcs nationaux du lac Turkana sont inscrits au patrimoine mondial.",
+      "long": "Sur la rive ouest du Turkana, le site mégalithique de Namoratunga a peut-être servi d'observatoire astronomique.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Dans ce rift, qui comporte un linéament occidental", "to": "Baringo, Turkana, etc."},
+        {"url": "https://fr.wikipedia.org/wiki/Kenya", "from": "Cinq de ces zones sont inscrites au patrimoine mondial de l'UNESCO", "to": "les trois parc nationaux du lac Turkana (depuis 1997)"},
+        {"url": "https://fr.wikipedia.org/wiki/Histoire_du_Kenya", "from": "Parmi les sites mégalithiques remarquables de cette période", "to": "sur la rive ouest du lac Turkana."}
+      ]
+    },
+    {
+      "id": "KEN-6", "topic": "drapeau", "era": "1963",
+      "title": "Un bouclier et deux lances masaï",
+      "short": "Au centre du drapeau, un bouclier et deux lances masaï symbolisent la défense de la liberté. Les lances évoquent aussi Jomo Kenyatta, dont le nom signifie « javelot flamboyant du Kenya ».",
+      "long": "Le noir représente le peuple, le rouge le sang versé pour l'indépendance, le vert les richesses naturelles ; les liserés blancs, ajoutés à l'indépendance, symbolisent la paix. Kenyatta lui-même en est le concepteur.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kenya", "from": "Le bouclier et les deux lances traditionnelles masaï", "to": "et de la liberté."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kenya", "from": "Les lances peuvent aussi faire référence", "to": "« javelot flamboyant du Kenya »."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kenya", "from": "Le noir représente le peuple kényan", "to": "la richesse naturelle du Kenya."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kenya", "from": "Les bandes blanches ont été ajoutées", "to": "pour symboliser la paix."},
+        {"url": "https://fr.wikipedia.org/wiki/Drapeau_du_Kenya", "from": "C'est son leader Jomo Kenyatta, futur président", "to": "qui en est le concepteur."}
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KEN-C1", "topic": "histoire", "era": "1899",
+      "title": "Une ville née du chemin de fer",
+      "short": "Nairobi doit son existence au chemin de fer de l'Ouganda. Quand la ligne l'atteint en 1899, l'ingénieur en chef y déplace le siège de la compagnie, jusque-là à Mombasa. La ville devient capitale de l'Afrique orientale britannique dès 1905.",
+      "sources": [
+        {"url": "https://fr.wikipedia.org/wiki/Nairobi", "from": "Nairobi en tant que ville doit son existence", "to": "reliant l'Ouganda et le Kenya."},
+        {"url": "https://fr.wikipedia.org/wiki/Nairobi", "from": "La ligne atteignit Nairobi en 1899", "to": "de Mombasa à Nairobi."},
+        {"url": "https://fr.wikipedia.org/wiki/Nairobi", "from": "Nairobi devint la capitale de l'Afrique orientale britannique en 1905", "to": "de la république du Kenya en 1964."}
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte de l'océan Indien, à cheval sur l'équateur : la Tanzanie au sud, l'Ouganda à l'ouest (avec le lac Victoria), le Soudan du Sud et l'Éthiopie au nord, la Somalie à l'est.",
+    "flag": "Noir, rouge, vert en bandes horizontales séparées par de fins liserés blancs, avec un bouclier masaï et deux lances au centre. Aucun autre drapeau ne porte ce bouclier rouge et noir.",
+    "capital": "Nairobi, la ville du train : elle est née d'une gare du chemin de fer qui reliait la côte à l'Ouganda."
+  }
+}

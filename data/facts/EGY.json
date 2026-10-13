@@ -1,0 +1,216 @@
+{
+  "id": "EGY",
+  "facts": [
+    {
+      "id": "EGY-1",
+      "topic": "histoire",
+      "era": "vers 3150 av. J.-C.",
+      "title": "Le roi Narmer unifie l'Égypte",
+      "short": "Vers 3150 av. J.-C., le roi Narmer unifie l'Égypte. C'est aussi vers cette époque qu'apparaissent les hiéroglyphes.",
+      "long": "Les hiéroglyphes, avec le papyrus, deviennent les grands outils de diffusion de la culture égyptienne. L'Ancien Empire qui suit est connu comme « l'âge des pyramides » : il instaure l'idée d'une royauté divine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "L'Égypte est unifiée par le roi Narmer vers 3150 av."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Les hiéroglyphes égyptiens sont inventés vers 3150 avant notre ère et constituent, avec la découverte du papyrus, les éléments de diffusion de la culture égyptienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Gouverné par d'éminents pharaons, il instaure le concept de royauté divine et est connu comme « l'âge des pyramides »."
+        }
+      ]
+    },
+    {
+      "id": "EGY-2",
+      "topic": "histoire",
+      "era": "332-30 av. J.-C.",
+      "title": "Alexandrie, capitale des savants",
+      "short": "En 332 av. J.-C., Alexandre le Grand conquiert l'Égypte et fonde Alexandrie. Sous les Ptolémées, la ville réunit philosophes et mathématiciens autour du Mouseîon.",
+      "long": "La dynastie des Ptolémées règne jusqu'en 30 av. J.-C., quand l'Égypte passe sous domination romaine. Alexandrie devient alors la deuxième plus grande ville de l'Empire romain, avec le plus grand port.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Alexandre le Grand, après avoir vaincu les Perses, s'empare de l'Égypte en 332 avant notre ère, fonde la ville d'Alexandrie et inaugure la courte période macédonienne qui se termine dès 305 avant notre ère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "À partir de cette date, l'Égypte est gouvernée par la dynastie des Ptolémées dite aussi lagide."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Véritable mégalopole, Alexandrie réunit philosophes et mathématiciens autour du Mouseîon"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "L'Égypte passe sous domination romaine en 30 avant notre ère."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Alexandrie, sa capitale, possède le plus grand port et est la deuxième plus grande ville de l'Empire romain."
+        }
+      ]
+    },
+    {
+      "id": "EGY-3",
+      "topic": "histoire",
+      "era": "1798",
+      "title": "Bonaparte au pied des pyramides",
+      "short": "En 1798, l'armée française prend Alexandrie et remporte la bataille des Pyramides, le 21 juillet. Mais le 1er août, la flotte britannique gagne la bataille navale d'Aboukir et prive les Français du fruit de leur victoire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Après la prise d'Alexandrie, les troupes françaises remportent la bataille des Pyramides le 21 juillet 1798, mais la flotte britannique remporte le 1er août 1798 la bataille navale d'Aboukir, ce qui empêche les Français d'exploiter pleinement leur victoire."
+        }
+      ]
+    },
+    {
+      "id": "EGY-4",
+      "topic": "histoire",
+      "era": "1869-1956",
+      "title": "Le canal de Suez",
+      "short": "Inauguré en 1869, le canal de Suez relie la Méditerranée à la mer Rouge, entre Port-Saïd et Suez. Ses revenus restent l'une des grandes ressources de l'Égypte.",
+      "long": "Les successeurs de Méhémet Ali, qui obtiennent en 1867 le titre de khédive, le font construire dans le cadre d'une politique de modernisation. Mais ils tombent sous la dépendance des financiers européens, et l'Égypte est ensuite conquise par l'Empire britannique. En 1956 éclate la crise du canal de Suez.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Les successeurs de Méhémet Ali, dont la semi-indépendance est reconnue en 1867 avec le titre de khédive, mènent une politique de modernisation marquée par la construction du canal de Suez (1869)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Le canal de Suez, entre Port-Saïd au nord et Suez au sud, relie la mer Méditerranée et la mer Rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Les principales ressources économiques de l'Égypte sont le pétrole et le gaz naturel, les revenus issus du canal de Suez, le tourisme, les métaux et l'agriculture (surtout le coton)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Les successeurs de Méhémet Ali, dont la semi-indépendance est reconnue en 1867 avec le titre de khédive, tombent sous la dépendance des institutions financières européennes et, après la révolte nationaliste du colonel Ahmed Urabi, l'Égypte est conquise par l'Empire britannique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Égypte",
+          "quote": "Histoire de l'Égypte depuis 1952\nCrise du canal de Suez (octobre-novembre 1956)"
+        }
+      ]
+    },
+    {
+      "id": "EGY-5",
+      "topic": "histoire",
+      "era": "1922-1953",
+      "title": "Du royaume à la république",
+      "short": "Protectorat britannique pendant la Première Guerre mondiale, l'Égypte devient un royaume indépendant en 1922. En 1952, un coup d'État renverse la dynastie de Méhémet Ali et la république est proclamée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Pendant la Première Guerre mondiale, le pays devient brièvement un protectorat britannique avant d'obtenir son indépendance en 1922 en tant que royaume."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "La dynastie de Méhémet Ali est renversée par un coup d'État en 1952 et la république est proclamée."
+        }
+      ]
+    },
+    {
+      "id": "EGY-6",
+      "topic": "geographie",
+      "title": "Un pays sur 5 % de son territoire",
+      "short": "La vallée du Nil, son delta et la zone du canal couvrent à peine 5 % de l'Égypte, et presque toute la population y vit. Le reste est désert : à Assouan, il tombe environ 10 mm de pluie… tous les cinq ans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Sa densité est de plus de 102 hab./km2, mais dans la seule vallée du Nil et son delta, avec la zone du canal (53 000 km2, soit 5 % de sa superficie, seule habitable, et largement urbanisée), elle est évaluée à 1 500 hab./km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Égypte",
+          "quote": "Alexandrie est la ville égyptienne qui reçoit le plus de précipitations, environ 19 cm/an, tandis qu'Assouan ne reçoit qu'environ 10 mm tous les cinq ans."
+        }
+      ]
+    },
+    {
+      "id": "EGY-7",
+      "topic": "drapeau",
+      "era": "1984",
+      "title": "L'aigle de Saladin",
+      "short": "Rouge, blanc, noir, avec l'aigle de Saladin au centre : sous sa forme actuelle, le drapeau date de 1984. Le rouge évoque l'époque d'avant 1952, le blanc une révolution sans effusion de sang, le noir la fin de l'oppression britannique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Égypte",
+          "quote": "Il se compose de trois bandes horizontales, rouge, blanche et noire, avec l'emblème national de l'Égypte, l'aigle de Saladin, au centre de la bande blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Égypte",
+          "quote": "Il a été adopté sous sa forme actuelle le 4 octobre 1984."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Égypte",
+          "quote": "La couleur rouge renvoie à l'époque précédant le coup d'État militaire qui renversa le roi Farouk, en 1952."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Égypte",
+          "quote": "Ce coup d'État, perpétré sans verser de sang, est symbolisé par la couleur blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Égypte",
+          "quote": "Enfin, le noir représente la fin de l'oppression des colons britanniques sur le peuple égyptien."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "EGY-C1",
+      "topic": "histoire",
+      "era": "969",
+      "title": "Al-Qâhira, « la Victorieuse »",
+      "short": "Le Caire, al-Qâhira en arabe, signifie « la Victorieuse ». La ville est fondée en 969 par les Fatimides, au nord de Fostat, le camp établi par les conquérants arabes en 641.",
+      "long": "Vers 1340, grâce au commerce des épices entre l'Europe et l'Asie, Le Caire atteint un demi-million d'habitants : c'est alors la plus grande ville du monde à l'ouest de la Chine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Le Caire (en arabe égyptien : القاهرة / al-Qāhira, « La Victorieuse ») est la capitale de l'Égypte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "En 969, le centre de gravité bascule et al-Qâhira qui abrite désormais la cour, l'armée, le gouvernement et ses différents ministères (dîwân-s)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Cependant les Fatimides ont fondé leur forteresse au nord de Fostat, l'ancienne place forte arabe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Dès la conquête de l'Égypte par les Arabes en 641, Al-Fustat devient un centre administratif et religieux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Le commerce des épices entre l'Europe et l'Asie, qui transitait par l'Égypte assure une période de prospérité et, vers 1340, la population du Caire atteint un demi-million d'habitants, ce qui en fait la plus grande ville du monde, à l'ouest de la Chine."
+        }
+      ]
+    },
+    {
+      "id": "EGY-C2",
+      "topic": "histoire",
+      "era": "1171",
+      "title": "La citadelle de Saladin",
+      "short": "En 1171, à la mort du dernier calife fatimide, Saladin prend le titre de sultan au Caire et fonde la dynastie des Ayyoubides. Sa citadelle domine toujours le quartier islamique, classé au patrimoine mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Lorsque le dernier des califes fatimides, Al-Adid, meurt, en 1171, Saladin prend le titre de sultan, c'est le début de la dynastie des Ayyoubides."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Le_Caire",
+          "quote": "Le centre historique de la ville comprend le Vieux-Caire (quartier copte où se trouvent la forteresse de Babylone et le musée copte) ainsi que le quartier islamique, classé au patrimoine mondial de l'humanité, où se trouvent la citadelle de Saladin"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le coin nord-est de l'Afrique : la Méditerranée au nord, la mer Rouge à l'est, la Libye à l'ouest, le Soudan au sud. La péninsule du Sinaï, au-delà du canal de Suez, la relie à l'Asie.",
+    "flag": "Rouge, blanc, noir en bandes horizontales, avec un aigle doré au centre. Le Yémen a les mêmes bandes sans emblème, l'Irak y ajoute une inscription verte.",
+    "capital": "Le Caire, « la Victorieuse », au bord du Nil, juste au sud du delta, à deux pas des pyramides de Gizeh."
+  }
+}

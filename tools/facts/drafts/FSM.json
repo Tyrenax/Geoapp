@@ -1,0 +1,151 @@
+{
+  "id": "FSM",
+  "facts": [
+    {
+      "id": "FSM-1",
+      "topic": "histoire",
+      "title": "Les sites monumentaux de Nan Madol et Lelu",
+      "short": "Bien avant la colonisation, les sociétés micronésiennes se complexifient et des traditions monumentales apparaissent : de grands sites se développent à Nan Madol et à Lelu.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Les structures sociales deviennent plus complexes",
+          "to": "des traditions monumentales apparaissent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Des occupations à caractère monumental se développent à Nan Madol et Lelu.",
+          "to": "à Nan Madol et Lelu."
+        }
+      ]
+    },
+    {
+      "id": "FSM-2",
+      "topic": "histoire",
+      "era": "1899-1944",
+      "title": "Espagnoles, allemandes, japonaises, américaines",
+      "short": "En 1899, l'Espagne cède les îles Carolines à l'Empire allemand. Le Japon s'en empare pendant la Première Guerre mondiale, puis les Américains les conquièrent à partir de 1944, pendant la Seconde.",
+      "long": "La guerre a laissé dans le lagon de Chuuk un véritable cimetière d'épaves de navires de guerre japonais, qui attire aujourd'hui les touristes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "En 1899, les Espagnols cèdent les îles Carolines",
+          "to": "à l'Empire allemand."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Les Japonais profitent de la Première Guerre mondiale",
+          "to": "pour se les approprier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Ils en sont chassés par les Américains",
+          "to": "de la Seconde Guerre mondiale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "La conquête des îles Carolines au cours de la Seconde guerre mondiale",
+          "to": "premier semestre de 1944."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Le tourisme se développe, notamment sur l'atoll de Chuuk",
+          "to": "datant de la Seconde Guerre mondiale."
+        }
+      ]
+    },
+    {
+      "id": "FSM-3",
+      "topic": "histoire",
+      "era": "1986",
+      "title": "Un pays en libre association avec les États-Unis",
+      "short": "Faute d'infrastructures et très dépendants économiquement, les Micronésiens choisissent une « libre association » avec les États-Unis. Le traité entre en vigueur le 3 novembre 1986, mettant fin à la tutelle américaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "De son côté, le Congrès de Micronésie est favorable à une indépendance à terme",
+          "to": "et de l'extrême dépendance économique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Après l'approbation du traité par le Congrès américain",
+          "to": "à partir du 3 novembre 1986."
+        }
+      ]
+    },
+    {
+      "id": "FSM-4",
+      "topic": "geographie",
+      "title": "607 îles pour 702 km²",
+      "short": "Le pays compte 607 îles, dont seulement 65 habitées, pour 702 km² de terres émergées. Elles sont réparties entre quatre États : Yap, Chuuk, Pohnpei et Kosrae.",
+      "long": "La plupart sont des atolls coralliens très bas, mais certaines, comme Pohnpei, sont volcaniques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Les États fédérés de Micronésie sont composés de 607 îles",
+          "to": "702 km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "Les îles sont réparties entre quatre États",
+          "to": "Pohnpei et Kosrae."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/États_fédérés_de_Micronésie",
+          "from": "La plupart des 607 îles des États fédérés de Micronésie",
+          "to": "sont des îles volcaniques."
+        }
+      ]
+    },
+    {
+      "id": "FSM-5",
+      "topic": "drapeau",
+      "era": "1978",
+      "title": "Quatre étoiles sur le bleu de l'ONU",
+      "short": "Le drapeau, hérité de celui du territoire sous tutelle de l'ONU, porte quatre étoiles blanches, une pour chacun des quatre États, sur un fond bleu qui figure à la fois l'océan Pacifique et le bleu des Nations unies.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États_fédérés_de_Micronésie",
+          "from": "Le drapeau des États fédérés de Micronésie, héritier de celui du Territoire sous tutelle",
+          "to": "le 30 novembre 1978"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_États_fédérés_de_Micronésie",
+          "from": "Il représente sur un fond bleu",
+          "to": "(Yap, Chuuk, Pohnpei et Kosrae)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FSM-C1",
+      "topic": "politique",
+      "era": "1989",
+      "title": "Une petite capitale rurale",
+      "short": "Depuis 1989, la capitale fédérale est Palikir, un district rural de l'île de Pohnpei, à quelques kilomètres de Kolonia, la plus grande ville de l'île, qu'elle a remplacée comme capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palikir",
+          "from": "Palikir est la capitale fédérale des États fédérés de Micronésie depuis 1989.",
+          "to": "depuis 1989."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palikir",
+          "from": "Palikir constitue le centre d'un district rural",
+          "to": "la capitale de l'État de Pohnpei."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palikir",
+          "from": "Elle est la nouvelle capitale de la Micronésie",
+          "to": "de l'île et de l'État de Pohnpei."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un chapelet d'îles éparpillées dans le Pacifique Nord, juste au-dessus de l'équateur, au nord de la Papouasie-Nouvelle-Guinée, entre les Palaos à l'ouest et les îles Marshall à l'est.",
+    "flag": "Bleu clair avec quatre étoiles blanches en losange, une par État. Ne pas confondre avec la Somalie (une seule étoile).",
+    "capital": "Palikir, sur l'île de Pohnpei : pas la plus grande ville, mais le siège du gouvernement fédéral."
+  }
+}

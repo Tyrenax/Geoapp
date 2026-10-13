@@ -1,0 +1,127 @@
+{
+  "id": "MNE",
+  "facts": [
+    {
+      "id": "MNE-1",
+      "topic": "histoire",
+      "title": "La Montagne noire",
+      "short": "Crna Gora, le nom du pays, signifie « Montagne noire », en référence aux forêts sombres qui couvraient autrefois les Alpes dinariques. On le traduit de la même façon dans bien des langues, de l'islandais à l'arabe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Le nom monténégrin ou serbo-croate du Monténégro, Crna Gora, peut se traduire littéralement par « Montagne Noire » ou « Mont-Noir », en référence aux forêts sombres qui recouvraient autrefois les Alpes dinariques."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "C'est également vrai pour l'islandais (Svartfjallaland, c'est-à-dire « pays de la montagne noire »), le letton (Melnkalne, « le pays des montagnes noires ») ou même l'arabe (الجبل الأسود, al-jabal ul-'aswad, « la montagne noire »)."
+        }
+      ]
+    },
+    {
+      "id": "MNE-2",
+      "topic": "histoire",
+      "era": "XVIIe siècle-1918",
+      "title": "Des princes-évêques face aux Ottomans",
+      "short": "Le Monténégro a résisté plusieurs siècles à l'Empire ottoman. Organisé à partir de la fin du XVIIe siècle autour d'une principauté-évêché, il devient une principauté laïque en 1852 ; son indépendance est reconnue en 1878, et il devient royaume en 1910.",
+      "long": "En 1918, il est intégré au royaume des Serbes, Croates et Slovènes, la future Yougoslavie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Le Monténégro possède une histoire marquée par plusieurs siècles de résistance à l'Empire ottoman. Organisé à partir de la fin du XVIIe siècle autour de la principauté-évêché du Monténégro, il conserve une large autonomie malgré la suzeraineté ottomane. En 1852, il devient une principauté laïque autonome, dont l'indépendance est reconnue internationalement en 1878. Élevé au rang de royaume en 1910, il est intégré en 1918 au royaume des Serbes, Croates et Slovènes (futur royaume de Yougoslavie)."
+        }
+      ]
+    },
+    {
+      "id": "MNE-3",
+      "topic": "histoire",
+      "era": "2006",
+      "title": "L'indépendance par les urnes",
+      "short": "Après le référendum du 21 mai 2006, le Parlement proclame l'indépendance le 3 juin et met fin à l'union de Serbie-et-Monténégro. Le 28 juin, le pays devient le 192e membre de l'ONU.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Dans la soirée du 3 juin 2006, le Parlement du Monténégro proclame officiellement l’indépendance du pays et la dissolution de la communauté de Serbie-et-Monténégro, conformément au vœu des Monténégrins exprimé lors du référendum du 21 mai précédent."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Le 22 juin 2006, le Monténégro devient le 56e État membre de l'OSCE (Organisation pour la sécurité et la coopération en Europe), puis le 28 juin il est admis en tant que 192e État membre de l’Organisation des Nations unies."
+        }
+      ]
+    },
+    {
+      "id": "MNE-4",
+      "topic": "economie",
+      "title": "L'euro sans la zone euro",
+      "short": "Le Monténégro utilise l'euro comme monnaie de fait, et ce depuis avant son indépendance, alors qu'il ne fait pas partie de la zone euro.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "L'euro était déjà la monnaie locale de facto avant même l'indépendance du pays, bien que le pays ne fasse pas partie de la zone euro."
+        }
+      ]
+    },
+    {
+      "id": "MNE-5",
+      "topic": "geographie",
+      "title": "Des montagnes plongeant dans la mer",
+      "short": "Les montagnes du Monténégro comptent parmi les terrains les plus accidentés d'Europe ; elles culminent à 2 534 m. Sur la côte, les monts Lovćen et Orjen plongent directement dans les bouches de Kotor.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Les montagnes du Monténégro comptent parmi les terrains les plus accidentés d'Europe et parmi les parties qui furent les plus érodées dans la péninsule balkanique pendant la dernière ère glaciaire. Le territoire culmine au Zla Kolata, dans les monts Prokletije, à une altitude de 2 534 m."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Cette plaine s'interrompt abruptement au nord, à l'endroit où le mont Lovćen et l'Orjen plongent dans les bouches de Kotor."
+        }
+      ]
+    },
+    {
+      "id": "MNE-6",
+      "topic": "drapeau",
+      "era": "2004",
+      "title": "Rouge, frangé d'or… officieusement",
+      "short": "Le drapeau, adopté le 12 juillet 2004, est rouge et porte les armoiries du pays. On le dessine souvent avec une frange jaune, qui ne figure pourtant pas dans sa description officielle.",
+      "long": "Au temps de la principauté, le drapeau le plus courant était déjà rouge à bordure dorée, avec en son centre la croix dorée de saint Georges, patron du Monténégro.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Monténégro",
+          "quote": "Le drapeau du Monténégro (en monténégrin : Zastava Crne Gore), Застава Црне Горе a été adopté le 12 juillet 2004 par le Parlement du Monténégro.\n\n\n== Description ==\nLe drapeau du Monténégro est un drapeau rouge portant les armoiries du pays, adoptées en 1993. Souvent illustré avec une frange jaune, cette bordure ne figure pas officiellement dans la description du drapeau."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Monténégro",
+          "quote": "Pendant la période de la Principauté du Monténégro, le drapeau le plus utilisé est rouge avec un bordure dorée et porte en son centre la croix dorée de Saint Georges (le saint patron du Monténégro)."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MNE-C1",
+      "topic": "histoire",
+      "era": "1946-1992",
+      "title": "Quarante-six ans sous le nom de Titograd",
+      "short": "De 1946 à 1992, Podgorica s'est appelée Titograd, « la ville de Tito ». Avant elle, il y avait eu la romaine Birziminium et la slave Ribnica, où naquit Stefan Nemanja.",
+      "long": "Cetinje, l'ancienne capitale royale, garde le titre honorifique de « capitale du trône ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Podgorica",
+          "quote": "Les anciens noms de la ville furent Birziminium, à l'époque romaine, Ribnica, premier nom slave et monténégrin du VIe siècle au moment de l'arrivée des Turcs, et Titograd, pendant la période communiste de 1946 à 1992, signifiant « ville de Tito »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Podgorica",
+          "quote": "Au VIe siècle, les Slaves s'y installent et la nomment Ribnica ; lieu de naissance de Stefan Nemanja."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monténégro",
+          "quote": "Son ancienne capitale royale, Cetinje, détient également le titre de « capitale du trône » (prijestonica)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays montagneux sur l'Adriatique, entre la Croatie au nord-ouest et l'Albanie au sud-est, avec la Bosnie-Herzégovine et la Serbie au nord. Repère : les bouches de Kotor, une baie aux allures de fjord.",
+    "flag": "Rouge, avec une bordure dorée et, au centre, un aigle d'or à deux têtes. L'Albanie a aussi un aigle bicéphale sur fond rouge, mais noir et sans bordure.",
+    "capital": "Podgorica, l'ancienne Titograd, « la ville de Tito » de 1946 à 1992."
+  }
+}

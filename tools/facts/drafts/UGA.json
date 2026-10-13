@@ -1,0 +1,178 @@
+{
+  "id": "UGA",
+  "facts": [
+    {
+      "id": "UGA-1",
+      "topic": "histoire",
+      "title": "Le royaume qui a nommé le pays",
+      "short": "L'Ouganda tire son nom du royaume du Buganda, au sud du pays. Du XVIIe au XIXe siècle, ce royaume étend son influence aux dépens du Bunyoro, jusque-là dominant, sous l'autorité de ses rois, les kabaka.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "L'Ouganda tire son nom du royaume de Buganda",
+          "to": "les régions les plus au sud."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Ouganda",
+          "from": "Les XVIIe, XVIIIe et XIXe siècles sont marqués par l’expansion du royaume du Buganda",
+          "to": "du Bounyoro déclinant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Ouganda",
+          "from": "La stratégie des différents Kabaka (rois)",
+          "to": "plusieurs aspects."
+        }
+      ]
+    },
+    {
+      "id": "UGA-2",
+      "topic": "histoire",
+      "title": "« La perle de l'Afrique »",
+      "short": "Le royaume du Buganda, très centralisé, et la présence du Nil, qui sort ici du lac Victoria, fascinent les explorateurs européens comme John Speke. Winston Churchill surnommera le pays « la perle de l'Afrique ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Ouganda",
+          "from": "Le haut niveau de centralisation politique du royaume provoque",
+          "to": "« la perle de l’Afrique »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "Le Nil sort du lac Victoria",
+          "to": "avec la république démocratique du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Ouganda",
+          "from": "Parmi les premiers, citons Richard Burton, John Speke et James Grant.",
+          "to": "James Grant."
+        }
+      ]
+    },
+    {
+      "id": "UGA-3",
+      "topic": "histoire",
+      "era": "1971-1979",
+      "title": "La dictature d'Idi Amin Dada",
+      "short": "Le 25 janvier 1971, Idi Amin Dada prend le pouvoir par un coup d'État. Il expulse les quelque 50 000 Indo-Pakistanais qui tenaient une grande partie du commerce, persécute les intellectuels, et l'économie s'effondre. Il est chassé en 1979.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "Le 25 janvier 1971, Idi Amin Dada prend le pouvoir par un coup d'État.",
+          "to": "par un coup d'État."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "Privé de l'aide occidentale, après l'expulsion du pays des 50 000 Indo-Pakistanais",
+          "to": "l'économie s'effondre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_l'Ouganda",
+          "from": "Entre le départ d'Idi Amin en avril 1979",
+          "to": "Entre le départ d'Idi Amin en avril 1979"
+        }
+      ]
+    },
+    {
+      "id": "UGA-4",
+      "topic": "histoire",
+      "era": "1962-1966",
+      "title": "Un roi président, puis renversé",
+      "short": "Indépendant le 9 octobre 1962, l'Ouganda adopte d'abord un régime fédéral qui associe ses anciens royaumes ; le kabaka du Buganda, Mutesa II, devient président. En 1966, le Premier ministre Milton Obote le dépose avec l'appui de l'armée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "La solution retenue, exprimée dans la première Constitution",
+          "to": "jusque dans le nom du nouvel État, l'Ouganda"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "Le Kabaka Mutesa II en devient le président à vie.",
+          "to": "le président à vie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "En mai 1966 : Milton Obote, afin d'imposer la centralisation",
+          "to": "Idi Amin Dada."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "Le 9 octobre 1962, à l'indépendance de l'Ouganda",
+          "to": "le problème des structures politiques."
+        }
+      ]
+    },
+    {
+      "id": "UGA-5",
+      "topic": "geographie",
+      "title": "Les sommets enneigés du Rwenzori",
+      "short": "À l'ouest, la chaîne du Rwenzori dresse des sommets enneigés et reçoit d'abondantes pluies toute l'année. Son parc national, comme la forêt impénétrable de Bwindi, est inscrit au patrimoine mondial.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "La région de Rwenzori, une chaîne montagneuse aux sommets enneigés",
+          "to": "toute l’année."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ouganda",
+          "from": "L’Ouganda compte 60 zones protégées",
+          "to": "(tous deux inscrits au patrimoine mondial"
+        }
+      ]
+    },
+    {
+      "id": "UGA-6",
+      "topic": "drapeau",
+      "era": "1962",
+      "title": "Une grue royale au centre",
+      "short": "Le drapeau, adopté le 9 octobre 1962, alterne six bandes noires, jaunes et rouges, avec au centre un disque blanc portant une grue royale, symbole national déjà du temps de la colonisation britannique.",
+      "long": "Le noir évoque la couleur de peau du peuple, le jaune le soleil, le rouge la fraternité. Le drapeau a été conçu par le premier ministre de la Justice du pays, Grace Ibingira.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouganda",
+          "from": "Le drapeau de l’Ouganda adopté le 9 octobre 1962",
+          "to": "du temps de la domination anglaise"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Ouganda",
+          "from": "La couleur noire symbolise la couleur de peau du peuple",
+          "to": "Grace Ibingira."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "UGA-C1",
+      "topic": "histoire",
+      "title": "La colline des impalas",
+      "short": "Le kabaka du Buganda chassait volontiers sur des collines peuplées d'impalas, que les Britanniques nommèrent « collines d'Impala ». En luganda, cela donna Ka Mpala : quand le roi partait chasser, on disait qu'il était « parti à Kampala ».",
+      "long": "La ville est née de l'ancienne capitale royale, le Kibuga, où se dressait le palais du kabaka. Elle remplace Entebbe comme capitale le jour de l'indépendance, le 9 octobre 1962.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kampala",
+          "from": "Avant l'arrivée des britanniques, le roi du Bouganda",
+          "to": "dont l'impala."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kampala",
+          "from": "À leur arrivée, les Britanniques renommèrent la région",
+          "to": "Le nom de Kampala était apparu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kampala",
+          "from": "Kampala présente la singularité d'être née d'une capitale précoloniale",
+          "to": "du roi (kabaka) du Buganda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kampala",
+          "from": "Le 9 octobre 1962, jour de l'indépendance du pays",
+          "to": "en qualité de capitale du pays."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au cœur des Grands Lacs, sans accès à la mer : le lac Victoria au sud-est (partagé avec le Kenya et la Tanzanie), le Kenya à l'est, le Soudan du Sud au nord, la RD Congo à l'ouest et le Rwanda au sud-ouest.",
+    "flag": "Six bandes horizontales noir, jaune, rouge répétées deux fois, avec un disque blanc et une grue couronnée au centre. Le seul drapeau avec cet oiseau.",
+    "capital": "Kampala, la « colline des impalas », au bord du lac Victoria."
+  }
+}

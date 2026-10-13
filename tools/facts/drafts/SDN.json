@@ -1,0 +1,174 @@
+{
+  "id": "SDN",
+  "facts": [
+    {
+      "id": "SDN-1",
+      "topic": "histoire",
+      "title": "Les pharaons venus de Koush",
+      "short": "Le royaume de Koush était centré sur les confluents du Nil, au cœur de l'actuel Soudan. Ses rois montent même sur le trône d'Égypte : ils forment la XXVe dynastie de pharaons, avant d'être chassés par les Assyriens.",
+      "long": "Le roi Piyé profite de l'anarchie qui règne alors en Égypte pour intervenir, et ses successeurs règnent pendant près d'un siècle sur les deux pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Le royaume de Koush est un ancien État nubien centré sur les confluents",
+          "to": "de la rivière Atbarah et du Nil."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "les rois koushites règnent en tant que pharaons de la XXVe dynastie",
+          "to": "chassés par les Assyriens."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan",
+          "from": "Devant l'anarchie qui règne en Égypte",
+          "to": "fondant la XXVe dynastie."
+        }
+      ]
+    },
+    {
+      "id": "SDN-2",
+      "topic": "histoire",
+      "title": "Les pyramides nubiennes de Méroé",
+      "short": "Les Koushites ont bâti de nombreuses pyramides : celles d'El-Kourrou, de Nuri, du djebel Barkal ou de Méroé. La nécropole royale de Méroé a accueilli des sépultures jusque vers 350 de notre ère.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "les pyramides nubiennes ont été construites",
+          "to": "les pyramides de Nuri."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan",
+          "from": "La nécropole de pyramides royales est aménagée à Méroé",
+          "to": "date des environs de 350 de notre ère."
+        }
+      ]
+    },
+    {
+      "id": "SDN-3",
+      "topic": "histoire",
+      "title": "Le « pays des Noirs »",
+      "short": "« Soudan » vient de l'arabe bilad as-sudan, « le pays des Noirs ». Le nom désignait autrefois la grande région sahélienne située à l'ouest de l'actuel Soudan ; les anciens Égyptiens, eux, appelaient la région Ta Seti, en référence à ses archers.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Son nom est issu de l'arabe balad as-sūdaan",
+          "to": "« pays (balad) des Noirs »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Le nom du pays, Soudan, est un nom donné historiquement",
+          "to": "à l'ouest de l'actuel Soudan."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Auparavant, le Soudan était connu sous le nom de Nubie",
+          "to": "« hommes à l'arc »."
+        }
+      ]
+    },
+    {
+      "id": "SDN-4",
+      "topic": "histoire",
+      "era": "1881-1885",
+      "title": "Le Mahdi et la chute de Khartoum",
+      "short": "En 1881, un chef religieux, Mohamed Ahmed, se proclame le Mahdi, le « sauveur », et se soulève contre la domination turco-égyptienne. En janvier 1885, ses troupes prennent Khartoum, où le général britannique Gordon est tué.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_du_Soudan",
+          "from": "Le 29 juin 1881, Mohamed Ahmed ibn Abd Allah",
+          "to": "se proclame le Mahdi (le sauveur)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Sa campagne militaire contre le gouvernement turco-égyptien",
+          "to": "où le général Gordon fut tué."
+        }
+      ]
+    },
+    {
+      "id": "SDN-5",
+      "topic": "histoire",
+      "era": "1899-1956",
+      "title": "Un condominium anglo-égyptien",
+      "short": "À partir de 1899, le Soudan est gouverné conjointement par le Royaume-Uni et l'Égypte. Les Britanniques administrent le nord et le sud comme deux territoires distincts. Le pays devient indépendant le 1er janvier 1956.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "En 1899, le Royaume-Uni et l'Égypte ont signé un accord",
+          "to": "conjointement."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "De 1924 jusqu'à l'indépendance, en 1956",
+          "to": "comme deux territoires distincts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Soudan",
+          "from": "Le 1er janvier 1956, le Soudan est déclaré État indépendant.",
+          "to": "État indépendant."
+        }
+      ]
+    },
+    {
+      "id": "SDN-6",
+      "topic": "drapeau",
+      "era": "1970",
+      "title": "Les couleurs de la Révolte arabe",
+      "short": "Adopté en 1970, le drapeau associe un triangle vert côté mât à des bandes rouge, blanche et noire : les couleurs panarabes, héritées du drapeau de la Révolte arabe de 1916-1918. Le vert représente la prospérité, l'agriculture et l'islam.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan",
+          "from": "Le drapeau du Soudan a été adopté le 20 mai 1970.",
+          "to": "le 20 mai 1970."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan",
+          "from": "Il est composé d'un triangle vert à la hampe",
+          "to": "rouge, blanche et noire."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan",
+          "from": "L'ensemble des couleurs rouge-noire-verte-blanche",
+          "to": "de la Révolte arabe de 1916-1918."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Soudan",
+          "from": "Le triangle vert représente la prospérité",
+          "to": "l'agriculture et l'Islam."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SDN-C1",
+      "topic": "geographie",
+      "era": "1821",
+      "title": "Là où les deux Nil se rejoignent",
+      "short": "Khartoum est bâtie au confluent du Nil Blanc, venu du Soudan du Sud, et du Nil Bleu, venu d'Éthiopie. Elle est fondée en 1821 par les troupes égyptiennes de Méhémet Ali, sur la route des caravanes.",
+      "long": "Avec Omdourman et Bahri, elle forme une agglomération d'au moins sept millions d'habitants en 2023.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Khartoum",
+          "from": "Elle est située au confluent du Nil Blanc",
+          "to": "et du Nil Bleu (venant d'Éthiopie)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Khartoum",
+          "from": "La ville est fondée en 1821 par les troupes de Méhémet Ali",
+          "to": "au nord de l'ancienne cité de Soba."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Khartoum",
+          "from": "La ville elle-même compte plus de deux millions d'habitants",
+          "to": "la plus grande du pays."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Au nord-est de l'Afrique, sous l'Égypte, avec la mer Rouge au nord-est. À l'ouest le Tchad et la Libye, au sud le Soudan du Sud, à l'est l'Érythrée et l'Éthiopie. Le Nil le traverse du sud au nord.",
+    "flag": "Rouge, blanc, noir en bandes horizontales, avec un triangle vert côté mât. Le Soudan du Sud a, lui, un triangle bleu et une étoile jaune.",
+    "capital": "Khartoum, au point exact où le Nil Blanc et le Nil Bleu fusionnent pour former le Nil."
+  }
+}

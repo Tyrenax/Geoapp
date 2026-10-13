@@ -1,0 +1,130 @@
+{
+  "id": "MMR",
+  "facts": [
+    {
+      "id": "MMR-1",
+      "topic": "histoire",
+      "era": "1057",
+      "title": "Le royaume de Pagan",
+      "short": "En 1057, le roi Anawrahta unifie la Birmanie et fonde le premier Empire birman, autour de la ville de Pagan. Au milieu du XIIe siècle, Pagan et l'Empire khmer dominent l'essentiel de l'Asie du Sud-Est continentale. Le royaume est détruit par les Mongols en 1287.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "En 849, ils prennent le relais des Pyus en fondant un royaume puissant, centré autour de la ville de Pagan (ou Bagan). Un de leurs rois, Anawrahta (1044-1077), unifie la Birmanie et fonde le premier Empire birman (royaume de Pagan) en 1057."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "Ses successeurs consolident le royaume : au milieu du XIIe siècle, l'essentiel de l'Asie du Sud-Est continentale est sous la domination du royaume de Pagan ou de l'empire khmer. Le royaume de Pagan s'affaiblit lentement : il est finalement détruit par les Mongols en 1287."
+        }
+      ]
+    },
+    {
+      "id": "MMR-2",
+      "topic": "histoire",
+      "era": "1824-1886",
+      "title": "Un « cadeau de nouvel an »",
+      "short": "Trois guerres anglo-birmanes, à partir de 1824, livrent peu à peu le pays aux Britanniques. Le 1er janvier 1886, la reine Victoria reçoit la Birmanie comme cadeau de nouvel an. Le pays est intégré au Raj britannique, puis devient une colonie distincte en 1937.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "La première des guerres anglo-birmanes (1824-1826) se termine par une victoire britannique et la Birmanie perd toutes ses conquêtes récentes par le traité de Yandabo. Les Britanniques, convoitant ses ressources naturelles et voulant s'assurer d'une route pour Singapour, provoquent ensuite une deuxième guerre anglo-birmane en 1852, qui leur permet d'annexer toute la Basse-Birmanie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "En dépit des efforts du roi Mindon (1853-1878) pour moderniser le pays, celui-ci ne résiste pas à une troisième agression britannique : le 1er janvier 1886, la Reine Victoria reçoit la Birmanie comme cadeau de nouvel an.\nLe pays entre dans le Raj britannique, puis constitue une colonie britannique distincte à partir de 1937."
+        }
+      ]
+    },
+    {
+      "id": "MMR-3",
+      "topic": "histoire",
+      "era": "1948",
+      "title": "L'indépendance sans son artisan",
+      "short": "Après la Seconde Guerre mondiale, le général Aung San mène le pays vers l'indépendance. Il est assassiné le 19 juillet 1947, quelques mois avant que la Birmanie ne devienne indépendante, le 4 janvier 1948.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "Après la fin de la Seconde Guerre mondiale, la voie est tracée vers l'indépendance, sous la conduite du général Aung San. En dépit de l'assassinat de ce dernier le 19 juillet 1947, le pays devient indépendant et quitte le Commonwealth le 4 janvier 1948 ; le premier ministre U Nu instaure une démocratie parlementaire."
+        }
+      ]
+    },
+    {
+      "id": "MMR-4",
+      "topic": "politique",
+      "era": "1990-2021",
+      "title": "Aung San Suu Kyi face à l'armée",
+      "short": "En 1990, la Ligue nationale pour la démocratie d'Aung San Suu Kyi, fille d'Aung San, remporte les élections, mais l'armée les annule et l'assigne à résidence ; elle reçoit le prix Nobel de la paix en 1991. Revenue au pouvoir en 2016, elle est de nouveau arrêtée lors du coup d'État militaire du 1er février 2021.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "En 1990, ils organisent des élections libres, remportées à plus de 80 % par la Ligue nationale pour la démocratie d'Aung San Suu Kyi, fille d'Aung San et futur prix Nobel de la paix (1991). Les élections sont annulées et Aung San Suu Kyi, assignée à résidence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "À la suite de la victoire de son parti, la Ligue nationale pour la démocratie (LND) aux élections de novembre 2015, un proche d'Aung San Suu Kyi, Htin Kyaw, devient président de la Birmanie le 15 mars 2016, alors qu'elle-même accède le 6 avril au poste de « ministre du conseil d'État », équivalent de Premier ministre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "Le 1er février 2021, moins de trois mois après les élections de novembre 2020 ayant reconduit la LND, Aung San Suu Kyi est arrêtée par l'armée qui mène un coup d'État et déclare l'état d'urgence pour un an."
+        }
+      ]
+    },
+    {
+      "id": "MMR-5",
+      "topic": "politique",
+      "era": "1989",
+      "title": "Birmanie ou Myanmar ?",
+      "short": "Le 18 juin 1989, les généraux au pouvoir changent le nom officiel anglais du pays, de Burma en Myanmar. Ce changement controversé n'est reconnu ni par l'opposition ni par plusieurs pays anglophones.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "Le pays devient indépendant du Royaume-Uni le 4 janvier 1948 avec pour nom officiel en anglais Burma, en forme longue Union of Burma."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Birmanie",
+          "quote": "Le 18 juin 1989, le nom officiel en anglais est changé en Union of Myanmar (« union du Myanmar ») par le pouvoir dictatorial des généraux mais ce changement controversé n'est pas reconnu par l'opposition politique et plusieurs pays anglophones, ni par un voisin comme la Thaïlande."
+        }
+      ]
+    },
+    {
+      "id": "MMR-6",
+      "topic": "drapeau",
+      "title": "Une grande étoile blanche",
+      "short": "Trois bandes égales, jaune, verte et rouge, avec une grande étoile blanche à cinq branches au centre. Sans l'étoile et avec d'autres proportions, ce serait le drapeau de la Lituanie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Birmanie",
+          "quote": "Le drapeau est constitué de trois bandes égales jaune, verte et rouge et est surmonté d'une grande étoile à cinq branches qui occupe 6/7e de la hauteur. Il est similaire à celui de la Lituanie, dont il diffère notamment par la présence de l'étoile et les proportions."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MMR-C1",
+      "topic": "histoire",
+      "era": "2005",
+      "title": "Une capitale choisie par les astrologues ?",
+      "short": "Le 6 novembre 2005, à 6 h 37, une heure qu'auraient fixée les astrologues, la junte commence à transférer les fonctionnaires de Rangoun à Naypyidaw, une ville encore inachevée. Les journalistes y décrivent une ville fantôme aux autoroutes à dix voies presque vides.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "quote": "La junte au pouvoir a commencé à déplacer les fonctionnaires de Rangoun à Naypyidaw, le 6 novembre 2005, à partir de 6 h 37 (l'heure et la date auraient été choisies par les astrologues) alors que la ville n'était pas encore prête."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "quote": "les grandes artères (autoroutes à dix voies) et la faible population permettraient une répression plus facile en cas de troubles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Naypyidaw",
+          "quote": "Plusieurs journalistes qui sont allés à Naypyidaw montrent l'image d'une ville-fantôme où les infrastructures (autoroute, terrain de golf, centre commercial, pagode, zoo climatisé, etc.) ne sont quasiment pas utilisées."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "En Asie du Sud-Est, au bord du golfe du Bengale et de la mer d'Andaman, entre le Bangladesh et l'Inde à l'ouest, la Chine au nord, le Laos et la Thaïlande à l'est.",
+    "flag": "Jaune, vert, rouge avec une grande étoile blanche. La Lituanie a les mêmes bandes, sans étoile.",
+    "capital": "Naypyidaw, au centre du pays, une capitale récente. Pas Rangoun, l'ancienne capitale et plus grande ville, dans le delta !"
+  }
+}

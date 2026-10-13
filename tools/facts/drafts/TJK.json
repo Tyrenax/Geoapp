@@ -1,0 +1,167 @@
+{
+  "id": "TJK",
+  "facts": [
+    {
+      "id": "TJK-1",
+      "topic": "histoire",
+      "title": "L'empire des Samanides",
+      "short": "L'empire des Samanides, avec Boukhara pour capitale, est le premier État persan indépendant à renaître après la conquête arabe. La culture tadjike, persane d'Asie centrale, s'épanouit alors à Boukhara et Samarcande, avec les poètes Roudaki et Ferdowsi ou le savant Avicenne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "L'empire des Samanides fut le premier État persan",
+          "to": "dans l'actuel Ouzbékistan,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "La culture tadjike, ou persane d'Asie centrale",
+          "to": "le philosophe et savant Avicenne."
+        }
+      ]
+    },
+    {
+      "id": "TJK-2",
+      "topic": "histoire",
+      "era": "1924-1929",
+      "title": "Samarcande et Boukhara perdues",
+      "short": "Créé en 1924 au sein de l'Ouzbékistan soviétique, le Tadjikistan en est séparé en 1929. Lors de ce découpage de l'Asie centrale par Staline, les grandes villes de Samarcande et Boukhara, peuplées surtout de Tadjiks, sont données à l'Ouzbékistan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "La République socialiste soviétique autonome du Tadjikistan est créée en 1924",
+          "to": "depuis des siècles dans les villes ou la vallée de Ferghana."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Les grandes villes de Samarcande et Boukhara",
+          "to": "dans la nouvelle république tadjike."
+        }
+      ]
+    },
+    {
+      "id": "TJK-3",
+      "topic": "histoire",
+      "era": "1992-1997",
+      "title": "La guerre civile",
+      "short": "Après l'indépendance, une guerre civile oppose de 1992 à 1997 le gouvernement post-communiste, soutenu par Moscou, à une opposition allant des démocrates aux islamistes. Elle fait près de 50 000 morts. Emomali Rahmon, arrivé à la tête du pays en 1992, en sort renforcé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Les troubles qui s'ensuivent s'intensifient",
+          "to": "à des groupes islamistes,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "La guerre se prolonge jusqu'en 1997",
+          "to": "et fait près de 50 000 morts."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Dès septembre 1992, Nabiyev, capturé par l'opposition",
+          "to": "de la faction gouvernementale."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "La paix, conclue sous l'égide des Nations unies",
+          "to": "consacre le pouvoir de Rahmon."
+        }
+      ]
+    },
+    {
+      "id": "TJK-4",
+      "topic": "culture",
+      "title": "Une langue persane",
+      "short": "C'est le seul pays de l'ancienne Asie centrale soviétique où la langue dominante n'est pas turcique mais iranienne : le tadjik, proche du persan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "C'est le seul État issu de l'ancienne Asie centrale soviétique",
+          "to": "iranienne, le tadjik."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "et le tadjik, de la famille des langues indo-européennes",
+          "to": "des langues iraniennes ou persanes."
+        }
+      ]
+    },
+    {
+      "id": "TJK-5",
+      "topic": "geographie",
+      "title": "Le pays des montagnes",
+      "short": "Le Tadjikistan est à 93 % montagneux, et plus de la moitié de son territoire dépasse 3 000 m. Les glaciers du Pamir sont la principale source d'eau de l'Asie centrale ; on y a relevé jusqu'à −63 °C.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Le territoire tadjik est constitué à 93 % de montagnes",
+          "to": "supérieure à 3 000 m."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Les glaciers du Pamir sont la principale source d'eau",
+          "to": "de l'Asie centrale,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tadjikistan",
+          "from": "Le minimum absolu relevé est de −63 °C",
+          "to": "dans le Pamir (Boulounkoul)"
+        }
+      ]
+    },
+    {
+      "id": "TJK-6",
+      "topic": "drapeau",
+      "era": "1992",
+      "title": "La couronne et les sept étoiles",
+      "short": "Rouge, blanc, vert, avec au centre une couronne entourée de sept étoiles. Adopté en novembre 1992, c'est le dernier des drapeaux des anciennes républiques soviétiques à avoir été dévoilé. Le blanc représenterait le coton.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "from": "Adopté en novembre 1992",
+          "to": "à avoir été dévoilé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "from": "Le symbole au milieu de la bande blanche",
+          "to": "entourée de sept étoiles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Tadjikistan",
+          "from": "On sait maintenant que, si l'on doit donner une signification",
+          "to": "la nature du pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "TJK-C1",
+      "topic": "histoire",
+      "era": "1929-1961",
+      "title": "La ville du lundi",
+      "short": "Douchanbé signifie « lundi » en persan : la ville était un simple village où se tenait un marché ce jour-là. Devenue capitale de la république soviétique en 1929, elle est rebaptisée Stalinabad, puis retrouve son nom en 1961.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "from": "Son nom vient du mot persan signifiant « lundi »",
+          "to": "un marché populaire y a lieu le lundi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "from": "révèlent un simple village accueillant",
+          "to": "un marché du lundi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Douchanbé",
+          "from": "Avec la victoire de l'Armée rouge et l'arrivée du chemin de fer en 1929",
+          "to": "elle retrouve son nom de Douchanbé."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit pays de hautes montagnes en Asie centrale, au nord de l'Afghanistan, entre l'Ouzbékistan, le Kirghizistan et la Chine.",
+    "flag": "Rouge, blanc (plus large), vert, avec une petite couronne dorée sous un arc de sept étoiles au centre.",
+    "capital": "Douchanbé, dans l'ouest du pays, au pied des montagnes."
+  }
+}

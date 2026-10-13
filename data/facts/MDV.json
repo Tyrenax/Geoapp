@@ -1,0 +1,128 @@
+{
+  "id": "MDV",
+  "facts": [
+    {
+      "id": "MDV-1",
+      "topic": "histoire",
+      "era": "1153",
+      "title": "Du bouddhisme à l'islam",
+      "short": "Jusqu'au XIIe siècle, les îles sont bouddhistes. Vers 1153, l'islam s'y diffuse grâce aux marchands musulmans qui naviguent entre la corne de l'Afrique et l'Inde, et à un prédicateur berbère venu du Maroc.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Jusqu'au XIIe siècle, la religion des îles était le bouddhisme, comme en témoignent plusieurs vestiges de temples et de pagodes, par exemple ceux de l'atoll Ari."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "C’est aux alentours de 1153 que l’islam se diffuse progressivement dans la région sous l’influence de marchands musulmans circulant entre la corne de l’Afrique et l’Inde. Cette islamisation est liée à l’action d’Abul Barakaat Yousuf Al Barbari, un prédicateur musulman berbère du Maroc."
+        }
+      ]
+    },
+    {
+      "id": "MDV-2",
+      "topic": "histoire",
+      "title": "Les îles de l'argent",
+      "short": "Pendant des siècles, les coquillages pêchés aux Maldives ont servi de principale monnaie d'échange sur les côtes asiatiques et africaines de l'océan Indien. D'où l'ancien surnom des Maldives : les « îles de l'argent ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Au moins jusqu'au XVIe siècle, l'océan entourant les Maldives a fourni une autre ressource primordiale du point de vue économique, à savoir les splendides coquillages de l'espèce Cypraea moneta qui pendant des siècles, comme leur nom l'indique, ont constitué la principale monnaie d'échange le long des côtes asiatiques et africaines de l'océan Indien : depuis longtemps la monnaie officielle est devenue la roupie, mais les coquillages qui ont fait connaître les Maldives comme les anciennes « îles de l'argent »"
+        }
+      ]
+    },
+    {
+      "id": "MDV-3",
+      "topic": "histoire",
+      "era": "1153-1968",
+      "title": "Huit siècles de sultanat",
+      "short": "Les Maldives sont un sultanat islamique de 1153 à 1968, sous protectorat britannique de 1887 au 26 juillet 1965. Le sultanat survit trois ans à l'indépendance, puis cède la place à une république le 11 novembre 1968.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Sultanat islamique indépendant durant la majeure partie de son histoire, de 1153 à 1968, les Maldives sont cependant un protectorat britannique de 1887 jusqu'au 26 juillet 1965. Entre 1953 et 1954, une première république est instaurée, avant que le sultanat ne soit rétabli.\nAprès l'indépendance en 1965, le sultanat perdure pendant encore trois années puis, le 11 novembre 1968, il est renversé et remplacé par une deuxième république."
+        }
+      ]
+    },
+    {
+      "id": "MDV-4",
+      "topic": "geographie",
+      "title": "Menacées par la montée des eaux",
+      "short": "Le point culminant naturel des Maldives ne dépasse pas 2,3 m. Avec la montée du niveau des mers, les îles pourraient disparaître sous les eaux à la fin du XXIe siècle, même si des études suggèrent que les récifs coralliens en bonne santé pourraient suivre le mouvement.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Le niveau des mers tend à s'élever et les îles Maldives disparaîtraient sous les eaux à la fin du XXIe siècle du fait de leur faible altitude : le point culminant naturel s'élève à 2,3 m, même si l'accumulation des déchets sur l'île-poubelle de Thilafushi en fait désormais la plus haute du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Cependant, certaines études récentes suggèrent que les récifs de corail en bonne santé peuvent s'adapter à une montée des eaux, et que les îles pourraient suivre ce mouvement"
+        }
+      ]
+    },
+    {
+      "id": "MDV-5",
+      "topic": "economie",
+      "title": "Une île, un hôtel",
+      "short": "Les hôtels ne peuvent être construits que sur des îles désertes : chacune devient alors une île-hôtel. Le pays s'organise pour limiter les contacts entre les touristes et les habitants, qui vivent sur d'autres îles.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Le gouvernement n'autorise la construction des hôtels que sur les îles désertes (il y en a environ un millier)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Le pays, s'est organisé pour éviter au maximum tout contact entre les touristes apporteurs de devises et les habitants qui résident sur des îles inaccessibles aux premiers (sauf à Malé, la capitale)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maldives",
+          "quote": "Aujourd'hui, 87 îles sont chacune un resort exclusif ou île-hôtel."
+        }
+      ]
+    },
+    {
+      "id": "MDV-6",
+      "topic": "drapeau",
+      "era": "1965",
+      "title": "Le croissant dans le cadre rouge",
+      "short": "Un croissant blanc, symbole de l'islam, sur un fond vert de paix et de prospérité, encadré de rouge, couleur historique de la famille royale. Le drapeau est adopté en 1965, à l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Maldives",
+          "quote": "Il est formé d'un croissant blanc symbolisant l'islam sur fond vert symbole de paix et prospérité encadré de rouge, couleur historique de la famille royale des Maldives. Les deux pointes du croissant sont tournées vers le flottant du drapeau.\nCe drapeau a été adopté en 1965, lors de l'indépendance des Maldives."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MDV-C1",
+      "topic": "geographie",
+      "title": "Une capitale gagnée sur l'océan",
+      "short": "Malé tient sur une île de 1,7 km sur 1,1. Pour loger une population qui augmente vite, plus d'un tiers de sa surface a été gagné sur l'océan Indien, et une île artificielle voisine, Hulhumalé, lui a été rattachée.",
+      "long": "Son nom viendrait de l'arabe al-Mahal, « le lieu », qui désignait l'île où résidait le sultan.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malé",
+          "quote": "L'île principale mesure 1,7 sur 1,1 km avec une superficie de 1,952 km2."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malé",
+          "quote": "La ville cependant forme une entité administrative propre qui s'étale plus précisément sur une île principale et trois petites îles rattachées : Villingili, Hulhumalé (île artificielle)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malé",
+          "quote": "La population de la ville augmente rapidement et les îles ont dû être agrandies artificiellement pour satisfaire la demande croissante. Plus d'un tiers de la surface de l'île a été gagné sur l'océan Indien et le développement de bâtiments de plusieurs étages prend de l'ampleur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Malé",
+          "quote": "Selon le géographe et historien Ibn Battuta qui y fut juge et s'y maria avec plusieurs filles de vizirs, l'archipel était désigné selon le nom de l'île accueillant la résidence officielle du sultan, al-Mahal signifiant « le lieu». Ainsi, en arabe, Dhibat al-Mahal (« île du lieu») désignait, selon lui, l'ensemble des Maldives au sens large (Dhibat étant un emprunt arabe du terme dvipa?). Au sens restreint, celle-ci indiquait, seulement, l'île de Malé (le toponyme de la ville étant, directement, lui-même, issu du terme Mahal)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un long chapelet d'atolls au milieu de l'océan Indien, au sud-ouest de l'Inde et du Sri Lanka, à cheval sur l'équateur.",
+    "flag": "Un rectangle vert avec un croissant blanc, entouré d'un large cadre rouge. Le cadre rouge le distingue de tous les autres drapeaux au croissant.",
+    "capital": "Malé, une île minuscule entièrement couverte par la ville, au centre de l'archipel."
+  }
+}

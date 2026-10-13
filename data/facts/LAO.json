@@ -1,0 +1,158 @@
+{
+  "id": "LAO",
+  "facts": [
+    {
+      "id": "LAO-1",
+      "topic": "histoire",
+      "era": "1353",
+      "title": "Le pays du million d'éléphants",
+      "short": "En 1353, Fa Ngum fonde le royaume de Lan Xang, le « pays du million d'éléphants », dont l'État laotien tire ses origines. Au XVIIIe siècle, il éclate en trois royaumes : Vientiane, Luang Prabang et Champassak.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "En 1353 est fondé le Lan Xang, « pays du million d'éléphants » par Fa Ngum."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Les origines de l'État remontent au royaume de Lan Xang établi au XIVe siècle. Au XVIIIe siècle, le Lan Xang éclate en trois royaumes, Vientiane, Luang Prabang, et Champassak."
+        }
+      ]
+    },
+    {
+      "id": "LAO-2",
+      "topic": "histoire",
+      "era": "1893-1953",
+      "title": "Du Siam à la France",
+      "short": "Dominé par le Siam à partir de la fin du XVIIIe siècle, le Laos passe sous protectorat français : en 1893, le Siam doit céder à la France la rive gauche du Mékong. C'est ce protectorat qui donne au pays son unité. Il devient indépendant en 1953.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Après la prise de Vientiane par le général Phraya Chakri (futur Rama Ier) en 1798, le Laos passe sous le contrôle du Siam (Thaïlande) qui domine les trois royaumes (Luang Prabang, Vientiane et Champassak) jusqu'à la fin du XIXe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "En 1893, l'action du vice-consul de France à Luang Prabang, Auguste Pavie, ainsi qu'un blocus des côtes obligent le Siam à céder à la France la rive gauche du Mékong (Laos oriental) puis à signer des traités (1902, 1904) reconnaissant le protectorat de la France sur la partie orientale de Lan Xang."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Si une monarchie siège à Luang Prabang, le Laos n'est alors pas un État centralisé, mais un ensemble de territoires auquel seul le protectorat confère une unité."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "En 1953, la France accorde au pays son indépendance, mais il est envahi par les troupes du Việt Minh et se retrouve en état de guerre civile."
+        }
+      ]
+    },
+    {
+      "id": "LAO-3",
+      "topic": "histoire",
+      "era": "1964-1975",
+      "title": "Le pays le plus bombardé",
+      "short": "À partir de 1964, les États-Unis bombardent massivement le Laos, traversé par les routes d'approvisionnement nord-vietnamiennes. Plus de 260 millions de bombes à sous-munitions y sont larguées : rapporté à sa superficie, c'est le pays le plus bombardé de l'histoire. Près de 30 % n'ont pas explosé.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "À partir de 1964, les États-Unis ont lourdement bombardé les routes d'approvisionnement nord-vietnamiennes au Laos."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Plus de 260 millions de bombes à sous-munitions ont été jetées sur le pays, ce qui fait du Laos le pays à avoir été le plus bombardé de l'histoire par rapport à sa superficie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "près de 30 % des bombes à sous-munitions qui ont été jetées sur le pays n'ont pas explosé à l'impact"
+        }
+      ]
+    },
+    {
+      "id": "LAO-4",
+      "topic": "histoire",
+      "era": "1975",
+      "title": "La fin de la monarchie",
+      "short": "En 1975, au terme d'une longue guerre civile, le mouvement communiste Pathet Lao prend le pouvoir. Le roi abdique le 2 décembre 1975 ; la République démocratique populaire lao, à parti unique, provoque l'exil d'environ 10 % de la population.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Une guerre civile éclate en 1959 entre le gouvernement en place et le mouvement communiste Pathet Lao. En 1975, le Pathet Lao remporte la guerre et renverse la monarchie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Le roi Savang Vatthana et la reine Khamphoui abdiquent le 2 décembre 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "La République démocratique populaire lao (RDPL) est créée, avec un régime de parti unique, provoquant entre 1975 et 1987 l'exil d'environ 400 000 personnes, soit 10 % de la population."
+        }
+      ]
+    },
+    {
+      "id": "LAO-5",
+      "topic": "geographie",
+      "title": "Le long du Mékong",
+      "short": "Sans accès à la mer, le Laos est arrosé par le Mékong, qui forme en grande partie sa frontière avec la Thaïlande. Le fleuve abrite le « monstre du Mékong », le pabeuk, un poisson qui peut dépasser 2,5 m et 200 kg.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "est un pays sans accès à la mer d'Asie du Sud-est, entouré par la Birmanie (ou Myanmar) et la Chine (Yunnan) au nord-ouest, la Thaïlande à l'ouest, le Cambodge au sud et le Viêt Nam à l'est."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Arrosé par le Mékong, peu navigable à cause de son débit irrégulier (1 898 km au Laos sur un parcours total de 4 200 km), qui forme en grande partie la frontière avec la Thaïlande,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Laos",
+          "quote": "Le Mékong offre une grande variété d'espèces dont le poisson-chat mais aussi le « monstre du Mékong », le pabeuk, poisson proche du poisson-chat qui peut dépasser les 2,5 mètres et les 200 kg."
+        }
+      ]
+    },
+    {
+      "id": "LAO-6",
+      "topic": "drapeau",
+      "era": "1975",
+      "title": "La lune sur le Mékong",
+      "short": "Bleu entre deux bandes rouges, avec un disque blanc au centre : le rouge est le sang versé pour l'indépendance, le bleu le Mékong, et le disque, la lune au-dessus du fleuve. Ce drapeau, adopté en 1975, remplace celui de la monarchie, orné d'un éléphant à trois têtes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Laos",
+          "quote": "Il a été adopté le 2 décembre 1975."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Laos",
+          "quote": "Il est formé de trois bandes horizontales, les bandes supérieure et inférieure de couleur rouge, celle du milieu, de largeur double, de couleur bleue. Au centre se trouve un disque blanc dont le diamètre est égal à 4/5 de la hauteur de la bande bleue.\nLa couleur rouge représente le sang versé pour l'indépendance, et le bleu représente le Mékong, ou la santé du pays. Le disque blanc symbolise la Lune au-dessus du Mékong, ou l'unité du pays sous le gouvernement communiste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Laos",
+          "quote": "De 1952 à la chute de la monarchie laotienne en 1975, le pays avait un drapeau rouge, frappé d'un éléphant tricéphale sur un piédestal de cinq marches et surmonté d'un parasol blanc."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "LAO-C1",
+      "topic": "histoire",
+      "era": "1560",
+      "title": "La « piste verticale »",
+      "short": "Vientiane devient la capitale du Lan Xang en 1560. Son monument aux morts, le Patuxai, qui rappelle l'arc de triomphe de Paris, est surnommé la « piste verticale » : il a été achevé en 1962 avec du ciment donné par les Américains pour construire l'aéroport.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vientiane",
+          "quote": "La ville a été officiellement fondée en 1560, lorsque le roi Setthathirath y a transféré la capitale du royaume de Lan Xang."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vientiane",
+          "quote": "Monument à la mémoire des victimes de la guerre au Laos, le Patuxai"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Vientiane",
+          "quote": "Il est l’objet d’une anecdote cocasse puisqu’il a été terminé en 1962 avec du ciment donné par les Américains pour la construction de l’aéroport d'où son surnom de « piste verticale ». C'est un clin d’œil aussi à la France puisqu’on peut y voir une certaine similitude avec l'arc de triomphe de l'Étoile, à Paris."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le seul pays d'Asie du Sud-Est sans accès à la mer, tout en longueur entre la Thaïlande à l'ouest et le Viêt Nam à l'est, au cœur de la péninsule indochinoise.",
+    "flag": "Rouge, bleu (plus large), rouge, avec un rond blanc au milieu. Une pleine lune sur le Mékong.",
+    "capital": "Vientiane, sur le Mékong, juste en face de la Thaïlande."
+  }
+}

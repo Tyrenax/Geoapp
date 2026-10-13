@@ -1,0 +1,145 @@
+{
+  "id": "FJI",
+  "facts": [
+    {
+      "id": "FJI-1",
+      "topic": "histoire",
+      "title": "Un nom prononcé à la tongienne",
+      "short": "« Fidji » est la prononciation tongienne du nom de l'île principale, Viti Levu, la « grande Viti ». Les premiers habitants, des Austronésiens, y vivaient bien avant le passage d'Abel Tasman au XVIIe siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Fidji, écrit Fiji en anglais, est la prononciation tongienne",
+          "to": "(« grande Viti »)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Les premiers habitants des îles Fidji, des Austronésiens",
+          "to": "au XVIIe siècle."
+        }
+      ]
+    },
+    {
+      "id": "FJI-2",
+      "topic": "histoire",
+      "era": "1874",
+      "title": "Un royaume cédé par son roi",
+      "short": "En 1874, à l'initiative du roi Seru Epenisa Cakobau, les îles Fidji sont cédées au Royaume-Uni par un Acte de cession. Elles deviennent indépendantes en 1970.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "En 1874, à l'initiative du roi Seru Epenisa Cakobau",
+          "to": "l'Acte de Cession."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "L'indépendance fut accordée en 1970.",
+          "to": "accordée en 1970."
+        }
+      ]
+    },
+    {
+      "id": "FJI-3",
+      "topic": "histoire",
+      "era": "XIXe siècle",
+      "title": "Les Indo-Fidjiens de la canne à sucre",
+      "short": "Au XIXe siècle, les autorités britanniques font venir des travailleurs indiens pour les champs de canne à sucre. Leurs descendants représentent encore environ un tiers de la population.",
+      "long": "Les tensions entre Fidjiens autochtones et Indo-Fidjiens ont marqué la vie politique : en 1987, deux coups d'État renversent un gouvernement jugé dominé par la communauté indienne, et un troisième, en 2000, renverse le premier gouvernement mené par un Indo-Fidjien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Les émigrés indiens sont venus dans les îles au XIXe siècle",
+          "to": "dans les champs de canne à sucre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Le recensement de 2017 dénombre 555 499 Fidjiens",
+          "to": "289 237 Indiens (32,7 %)"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Le régime démocratique fut interrompu par deux coups d'État militaires en 1987",
+          "to": "dominé par la communauté indienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Les élections libres et paisibles de 1999",
+          "to": "lors d'un troisième coup d'État"
+        }
+      ]
+    },
+    {
+      "id": "FJI-4",
+      "topic": "culture",
+      "title": "Le rugby et le Cibi",
+      "short": "Le rugby est le sport national des Fidji. Depuis 1939, l'équipe nationale exécute avant chaque match une danse guerrière traditionnelle, le Cibi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Le sport national est le rugby",
+          "to": "Le sport national est le rugby"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Le Cibi est une danse guerrière traditionnelle",
+          "to": "depuis 1939."
+        }
+      ]
+    },
+    {
+      "id": "FJI-5",
+      "topic": "drapeau",
+      "era": "1970",
+      "title": "Le bleu du Pacifique",
+      "short": "Adopté à l'indépendance, le drapeau bleu ciel évoque l'océan Pacifique, essentiel pour la pêche et le tourisme. L'Union Jack rappelle les liens avec le Royaume-Uni, et le blason national occupe la partie flottante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Fidji",
+          "from": "Le drapeau des Fidji a été adopté le 10 octobre 1970.",
+          "to": "le 10 octobre 1970."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Fidji",
+          "from": "Le drapeau des Fidji comprend un fond bleu ciel",
+          "to": "son important marché touristique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Fidji",
+          "from": "L'Union Jack figure dans le quartier supérieur",
+          "to": "sur la partie flottante."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FJI-C1",
+      "topic": "histoire",
+      "era": "1882",
+      "title": "Suva remplace Levuka",
+      "short": "L'ancienne capitale coloniale, Levuka, sur l'île d'Ovalau, s'avère trop petite : en 1877, on décide de faire de Suva la capitale, et l'administration s'y installe en 1882. Suva est sur Viti Levu, où vivent près des trois quarts des Fidjiens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suva",
+          "from": "En 1877, il fut décidé de faire de Suva la capitale",
+          "to": "s'avéra trop petite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Suva",
+          "from": "L'administration de la colonie fut déplacée de Levuka à Suva en 1882.",
+          "to": "en 1882."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Fidji",
+          "from": "Viti Levu accueille la capitale Suva",
+          "to": "y habite."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel du Pacifique Sud, à l'est du Vanuatu et à l'ouest des Tonga et des Samoa, au nord de la Nouvelle-Zélande. Deux grandes îles : Viti Levu et Vanua Levu.",
+    "flag": "Bleu ciel avec l'Union Jack dans le coin et un blason (un lion et des cultures) côté flottant. Tuvalu a aussi un fond bleu ciel et l'Union Jack, mais avec neuf étoiles jaunes.",
+    "capital": "Suva, sur la grande île de Viti Levu ; l'aéroport international, lui, est à Nadi, de l'autre côté de l'île."
+  }
+}

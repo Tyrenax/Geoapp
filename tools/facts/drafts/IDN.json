@@ -1,0 +1,168 @@
+{
+  "id": "IDN",
+  "facts": [
+    {
+      "id": "IDN-1",
+      "topic": "histoire",
+      "title": "L'homme de Java",
+      "short": "Des restes fossilisés d'Homo erectus, connus sous le nom d'homme de Java, suggèrent que l'archipel indonésien était déjà peuplé il y a environ 2 millions d'années.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "Des restes fossilisés d’Homo erectus",
+          "to": "il y a environ 2 millions d’années."
+        }
+      ]
+    },
+    {
+      "id": "IDN-2",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "L'empire de Majapahit",
+      "short": "Fondé à Java à la fin du XIIIe siècle, le royaume de Majapahit devient la puissance dominante de l'archipel sous le règne de Hayam Wuruk (règne : 1350-89).",
+      "long": "Le texte le plus important de cette période, le Nagarakertagama, est une épopée écrite en 1365 à la gloire de ce roi.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "À la fin du Xe siècle, le centre du pouvoir",
+          "to": "la puissance dominante de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "Le texte le plus important de cette période est le Nagarakertagama",
+          "to": "du roi Hayam Wuruk de Majapahit."
+        }
+      ]
+    },
+    {
+      "id": "IDN-3",
+      "topic": "histoire",
+      "era": "1605-1619",
+      "title": "La route des épices",
+      "short": "À partir de 1605, les Néerlandais chassent les Portugais des Moluques, les îles aux épices. En 1619, leur Compagnie des Indes orientales s'installe sur les ruines de Jayakarta, qu'elle rebaptise Batavia, et finit par contrôler le commerce des épices.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "Au XVIe siècle, l'âge des Grandes découvertes",
+          "to": "région productrice d'épices."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "En 1602, le parlement néerlandais donne",
+          "to": "coloniales en Indonésie,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "À partir de 1605, ils expulsent les Portugais",
+          "to": "dans l'archipel."
+        }
+      ]
+    },
+    {
+      "id": "IDN-4",
+      "topic": "histoire",
+      "era": "1945-1949",
+      "title": "Indépendance proclamée en 1945",
+      "short": "Le 17 août 1945, deux jours après la capitulation du Japon qui occupait le pays, Soekarno et Mohammad Hatta proclament l'indépendance de l'Indonésie. Les Pays-Bas ne reconnaissent une indépendance, partielle, que le 27 décembre 1949.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "L'invasion du territoire puis son occupation par les Japonais",
+          "to": "premier vice-président du pays."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "Cette période s'achève le 27 décembre 1949",
+          "to": "l'indépendance partielle du pays."
+        }
+      ]
+    },
+    {
+      "id": "IDN-5",
+      "topic": "geographie",
+      "title": "Le plus grand archipel du monde",
+      "short": "Avec 17 000 îles, dont 922 habitées, l'Indonésie est le plus grand archipel au monde. Son climat tropical et sa taille en font la deuxième zone de biodiversité de la planète, après le Brésil.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "Avec 17 000 îles, dont 922 habitées",
+          "to": "plus grand archipel au monde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Indonésie",
+          "from": "La taille de l'Indonésie, son climat tropical",
+          "to": "(après le Brésil)."
+        }
+      ]
+    },
+    {
+      "id": "IDN-6",
+      "topic": "drapeau",
+      "era": "1294",
+      "title": "Le rouge et blanc des Javanais",
+      "short": "Le drapeau indonésien, une bande rouge sur une bande blanche, reprend les couleurs d'un ancien étendard javanais, déjà mentionné dans une inscription de 1294. Aux nuances et proportions près, il est identique à celui de Monaco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Indonésie",
+          "from": "Il se compose de deux bandes horizontales",
+          "to": "une rouge et une blanche."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Indonésie",
+          "from": "Le rouge et le blanc sont les couleurs d'un ancien étendard javanais",
+          "to": "datée de 1294,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Indonésie",
+          "from": "Hormis les nuances de couleur et les proportions",
+          "to": "au drapeau de Monaco,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IDN-C1",
+      "topic": "histoire",
+      "era": "1619",
+      "title": "De Jayakarta à Batavia",
+      "short": "Conquise en 1527 par un prince de Banten, la ville de Kalapa devient Jayakarta, « acte victorieux » en sanskrit. Les Néerlandais la rebaptisent Batavia en 1619 et en font, de fait, la capitale des Indes orientales néerlandaises.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jakarta",
+          "from": "En 1527, Fatahillah, un prince de Banten",
+          "to": "(« acte victorieux » en sanskrit)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jakarta",
+          "from": "Les Néerlandais la rebaptisent Batavia en 1619",
+          "to": "des Indes orientales néerlandaises."
+        }
+      ]
+    },
+    {
+      "id": "IDN-C2",
+      "topic": "geographie",
+      "era": "2019",
+      "title": "Une capitale qui s'enfonce",
+      "short": "Jakarta s'enfonce, sous l'effet de l'urbanisation et du pompage excessif des eaux souterraines : dans certains quartiers, de 10 à 15 cm par an. En 2019, le gouvernement a annoncé le transfert de la capitale vers une ville nouvelle, Nusantara.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jakarta",
+          "from": "Jakarta étant fortement menacée par la montée du niveau de la mer",
+          "to": "nommée Nusantara."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jakarta",
+          "from": "Dans certains quartiers, les bâtiments s’enfoncent",
+          "to": "l’Institut technologique de Bandung."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un immense chapelet d'îles entre l'océan Indien et le Pacifique, au sud-est de l'Asie : Sumatra, Java, Bornéo (partagée avec la Malaisie et Brunei), Sulawesi, et la moitié ouest de la Nouvelle-Guinée.",
+    "flag": "Rouge en haut, blanc en bas, deux bandes égales. Monaco a le même, à peine plus carré ; la Pologne, c'est l'inverse : blanc en haut, rouge en bas.",
+    "capital": "Jakarta, sur la côte nord-ouest de Java, l'ancienne Batavia des Néerlandais."
+  }
+}

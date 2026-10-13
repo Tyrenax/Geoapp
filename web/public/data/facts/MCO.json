@@ -1,0 +1,151 @@
+{
+  "id": "MCO",
+  "facts": [
+    {
+      "id": "MCO-1",
+      "topic": "histoire",
+      "era": "1297",
+      "title": "Un prince déguisé en moine",
+      "short": "Selon la légende, dans la nuit du 8 au 9 janvier 1297, François Grimaldi, déguisé en moine franciscain, s'introduit dans la forteresse de Monaco et s'en empare. Les armoiries de la principauté montrent toujours deux moines tenant une épée.",
+      "long": "La dynastie des Grimaldi règne toujours : selon la définition traditionnelle, c'est l'une des plus anciennes maisons régnantes du monde. La légende tient peut-être au nom même de Monaco, qui signifie « moine » en italien.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Selon la légende, dans la nuit du 8 au 9 janvier 1297, François Grimaldi (déguisé en moine franciscain) pénétra avec un de ses compagnons (lui aussi vêtu d'une bure de moine) dans la forteresse sans attirer l'attention. Il put ainsi ouvrir la porte à ses soldats et s'emparer facilement du fort. François sera surnommé « le rusé ». Cette prise est commémorée par les armoiries de la principauté qui comportent deux moines tenant une épée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Cette légende est peut-être due au rapprochement du nom Monaco avec le mot italien monaco qui signifie « moine »"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Depuis 2005, le prince souverain est Albert II de Monaco de la dynastie Grimaldi qui, si l'on s'en tient à la traditionnelle définition agnatique de la maison régnante, est l'une des plus anciennes dynasties régnantes du monde"
+        }
+      ]
+    },
+    {
+      "id": "MCO-2",
+      "topic": "histoire",
+      "title": "Le port d'Hercule",
+      "short": "Le nom de Monaco viendrait de Mónoikos, un surnom d'Héraclès. Selon une hypothèse, les Phéniciens y auraient élevé un temple à leur dieu Melqart, que les Grecs assimilèrent à Héraclès, l'Hercule des Romains.",
+      "long": "Le principal port de la principauté s'appelle d'ailleurs le port Hercule, et de 1793 à 1814, quand Monaco fut intégré à la France, la ville prit le nom de Fort-Hercule.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Le nom de Monaco dériverait du toponyme Mónoikos (Μόνοικος)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Partout où les Phéniciens s'installaient, ils élevaient des temples à leurs divinités, dont celui du dieu Melqart, assimilé à Héraclès par les Grecs puis à Hercule par les Romains. En 1896, Philippe Berger propose comme origine l'épithète Menouakh du dieu Melkart, « qui donne le repos ». Les Grecs auraient transformé Melkart Menouakh en Héraclès Monoïkos (Ἡρακλῆς Μόνοικος)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "La principauté compte deux ports de plaisance : le port Hercule est le plus important en termes de capacité d'accueil avec 700 places."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "La souveraineté des Grimaldi s'est perpétuée jusqu'à nos jours (à la seule exception de la période 1793-1814 où Monaco fut intégrée à la France sous le nom de Fort-Hercule)."
+        }
+      ]
+    },
+    {
+      "id": "MCO-3",
+      "topic": "histoire",
+      "era": "1848-1861",
+      "title": "La principauté qui perdit les citrons",
+      "short": "Révoltées contre une taxe sur les agrumes, Menton et Roquebrune se déclarent villes libres en 1848, puis votent leur rattachement à la France. En 1861, Monaco y renonce contre quatre millions de francs or, et la France reconnaît sa souveraineté.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "À la suite d'une taxe sur les agrumes que le prince Florestan Ier voulait imposer et aux révolutions de 1848, Menton et Roquebrune proclamèrent la déchéance des Grimaldi et se déclarèrent « villes libres » sous la protection du royaume de Sardaigne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "En 1860, dans le cadre du rattachement du comté de Nice à la France, Menton et Roquebrune votèrent leur rattachement à la France, qui fut entériné par le traité franco-monégasque de 1861 qui prévoyait une dotation de la France pour la principauté de quatre millions de francs or."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Relativement autonome depuis 1297, un traité franco-monégasque lui assure la souveraineté en 1861."
+        }
+      ]
+    },
+    {
+      "id": "MCO-4",
+      "topic": "economie",
+      "era": "1863-1869",
+      "title": "Le casino qui a supprimé les impôts",
+      "short": "Privé de ressources, le prince Charles III mise sur les jeux : en 1863, il confie le casino à l'homme d'affaires François Blanc. Le succès est tel qu'en 1869, il supprime les impôts personnels. Les Monégasques, eux, n'ont pas le droit d'y jouer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "En 1863, Charles III fait rouvrir le casino et accorde le privilège de l'exploiter à l'homme d'affaires François Blanc, lui offrant la présidence de la Société des bains de mer qu'il venait de créer. Charles III interdit aux sujets monégasques de jouer dans ce casino, loi toujours en vigueur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Enfin, en 1869, la principauté pouvant suffire à ses besoins, Charles III supprima les impôts personnels, fonciers et mobiliers, ce qui entraîna une intense activité de construction."
+        }
+      ]
+    },
+    {
+      "id": "MCO-5",
+      "topic": "geographie",
+      "title": "Deux kilomètres carrés",
+      "short": "Avec 2,08 km², en partie gagnés sur la mer, Monaco est le deuxième plus petit État indépendant du monde, après le Vatican. C'est une cité-État, formée d'une seule commune.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Ce micro-État occupe actuellement 2,08 km2, en partie gagnés sur la mer, ce qui fait de lui le deuxième plus petit État indépendant du monde (après le Vatican)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Monaco, en forme longue la principauté de Monaco (en monégasque : Principatu de Mu̍negu), est un État d'Europe de l'Ouest constitué d'une unique commune du même nom, ce qui en fait une cité-État."
+        }
+      ]
+    },
+    {
+      "id": "MCO-6",
+      "topic": "drapeau",
+      "era": "1881",
+      "title": "Le jumeau de l'Indonésie",
+      "short": "Le rouge et le blanc sont les couleurs choisies par les Grimaldi dès le XIVe siècle ; le dessin actuel date de 1881. Aux nuances et aux proportions près, il est identique au drapeau de l'Indonésie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Monaco",
+          "quote": "Le dessin actuel date de 1881 mais ses couleurs ont été choisies dès le XIVe siècle par la famille Grimaldi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Monaco",
+          "quote": "Hormis les nuances de couleur et les proportions, il est identique au drapeau de l'Indonésie,"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MCO-C1",
+      "topic": "histoire",
+      "era": "1215",
+      "title": "Le Rocher",
+      "short": "La partie la plus ancienne de Monaco est le « Rocher », où des Gibelins commencent à bâtir une forteresse le 10 juin 1215. On y trouve aujourd'hui le Palais princier, le gouvernement, le Parlement et l'unique prison du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco-Ville",
+          "quote": "C'est la partie la plus ancienne de la principauté, que l'on appelle aussi communément « Rocher de Monaco » (monégasque : Roca de Mu̍negu) voire, localement, « le Rocher » (monégasque : a Roca),"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco",
+          "quote": "Le 10 juin 1215, un détachement de gibelins mené par Foulques de Castello commence la construction d'une forteresse sur le rocher de Monaco."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Monaco-Ville",
+          "quote": "Il regroupe l'essentiel des institutions politiques du pays : le Palais princier, la mairie, l'hôtel du gouvernement, le Conseil national (parlement de Monaco), le Conseil communal, ainsi que le palais de justice et ses tribunaux, et l'unique prison du pays (accrochée au Rocher)."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une minuscule enclave sur la Côte d'Azur, entourée par la France, entre Nice et la frontière italienne, adossée à la montagne et tournée vers la Méditerranée.",
+    "flag": "Rouge en haut, blanc en bas. L'Indonésie a exactement les mêmes couleurs (drapeau un peu plus allongé) ; la Pologne a l'inverse, blanc en haut.",
+    "capital": "Monaco est une cité-État : la capitale, c'est Monaco, avec son Rocher où trône le Palais princier."
+  }
+}

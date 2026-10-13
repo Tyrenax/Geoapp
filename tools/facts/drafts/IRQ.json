@@ -1,0 +1,234 @@
+{
+  "id": "IRQ",
+  "facts": [
+    {
+      "id": "IRQ-1",
+      "topic": "histoire",
+      "era": "IVe millénaire av. J.-C.",
+      "title": "Là où l'écriture est née",
+      "short": "L'Irak, l'ancienne Mésopotamie, est l'un des berceaux de la civilisation. Avec la période d'Uruk naissent les premières villes sumériennes, et au IVe millénaire av. J.-C. la civilisation mésopotamienne invente le plus ancien système d'écriture connu : le cunéiforme.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "L’Irak est un des berceaux de la civilisation.",
+          "to": "la productions de diverses marchandises."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Au IVe millénaire av. J.-C., la civilisation mésopotamienne",
+          "to": "le cunéiforme."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-2",
+      "topic": "histoire",
+      "era": "1792-539 av. J.-C.",
+      "title": "Babylone, de Hammurabi à Nabuchodonosor",
+      "short": "En 1792 av. J.-C., Hammurabi, roi de Babylone, conquiert ses voisins et crée le premier empire babylonien. Plus d'un millénaire plus tard, sous Nabuchodonosor II, Babylone devient une vaste cité célèbre pour ses murailles, sa ziggourat et ses jardins suspendus.",
+      "long": "En 586 av. J.-C., après la prise de Jérusalem, Nabuchodonosor II déporte des Juifs à Babylone : ils forment le noyau de la plus vieille diaspora juive au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "En 1792 av. J.-C., Hammurabi",
+          "to": "créant le premier empire babylonien."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "C'est durant cette période que Babylone devient une vaste cité",
+          "to": "sa ziggurat et ses jardins suspendus)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "par les rois Nabopolassar et Nabuchodonosor II",
+          "to": "Nabuchodonosor II."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "En 586 avant l'ère commune, Nabuchodonosor II",
+          "to": "la plus vieille diaspora juive au monde."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-3",
+      "topic": "histoire",
+      "era": "VIIIe-XIIIe siècle",
+      "title": "L'âge d'or abbasside",
+      "short": "Bagdad devient la capitale du califat abbasside, l'une des plus grandes villes du monde. L'Irak produit alors de nombreux savants, comme le mathématicien Al Khwarizmi. Cet âge d'or s'achève avec la prise de Bagdad par les Mongols en 1258.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "puis Bagdad, qui devient la capitale du Califat abbasside",
+          "to": "et Thābit ibn Qurra."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Au XIIIe siècle, la Mésopotamie passe sous le contrôle mongol",
+          "to": "après la prise de Bagdad en 1258."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-4",
+      "topic": "histoire",
+      "era": "1920-1932",
+      "title": "Un royaume sous mandat britannique",
+      "short": "Conquis par les Britanniques pendant la Première Guerre mondiale, le pays est placé sous mandat britannique en 1920 ; une monarchie y est proclamée. Le royaume d'Irak devient réellement indépendant le 3 octobre 1932, même si le Royaume-Uni y garde des bases militaires.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Au cours de la Première Guerre mondiale, l’Irak est conquis",
+          "to": "la transition du pays vers l'indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le royaume d'Irak devient réellement indépendant le 3 octobre 1932",
+          "to": "y conservent des bases militaires."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-5",
+      "topic": "histoire",
+      "era": "1980-1988",
+      "title": "Huit ans de guerre contre l'Iran",
+      "short": "Le 22 septembre 1980, l'Irak de Saddam Hussein envahit l'Iran, qui résiste : s'engage une guerre de tranchées de huit ans, où l'Irak utilise des armes chimiques. En 1988, la ville kurde de Halabja est bombardée à l'arme chimique. Le conflit fait un million de morts.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le 22 septembre 1980, contrairement à ce que pense Saddam Hussein",
+          "to": "mais aussi des armes plus conventionnelles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Les 17 et 18 mars 1988, Saddam Hussein ordonne",
+          "to": "des centaines de milliers de blessés."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-6",
+      "topic": "histoire",
+      "era": "1990-2003",
+      "title": "Deux guerres du Golfe",
+      "short": "Ruiné par la guerre contre l'Iran, l'Irak envahit le Koweït en 1990, ce qui déclenche la guerre du Golfe sous l'égide de l'ONU. Le 20 mars 2003, une coalition menée par les États-Unis et le Royaume-Uni attaque l'Irak sans mandat de l'ONU ; Saddam Hussein est renversé en trois semaines.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Au cours de l’été 1990, les finances de l'État sont au bord de la banqueroute.",
+          "to": "au bord de la banqueroute."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Il porte ainsi préjudice à l’Irak, sorti de la guerre",
+          "to": "dus au Koweït et à l'Arabie saoudite."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "L'Irak envahit le Koweït.",
+          "to": "menée sous l'égide de l'ONU."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le 20 mars 2003 : l’Irak est attaqué",
+          "to": "trois semaines après l’entrée des troupes de la coalition dans le pays."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-7",
+      "topic": "culture",
+      "title": "La terre bien arrosée",
+      "short": "Le nom « Irak », adopté en 1921, viendrait de l'arabe 'araqa, « fertile » ou « bien arrosé », sans doute en référence aux terres fertiles de Mésopotamie, entre le Tigre et l'Euphrate. Il pourrait aussi être influencé par Uruk, l'une des plus puissantes cités sumériennes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le terme « Irak », adopté le 23 août 1921",
+          "to": "l'ancienne civilisation mésopotamienne."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le terme Sawad a également été utilisé",
+          "to": "par contraste avec le désert arabique."
+        }
+      ]
+    },
+    {
+      "id": "IRQ-8",
+      "topic": "drapeau",
+      "era": "1959-2008",
+      "title": "Les étoiles disparues",
+      "short": "Le drapeau rouge, blanc et noir porte la devise « Allah akbar » en calligraphie coufique, du nom de la ville de Koufa. En 2008, le Parlement en a retiré les trois étoiles vertes, devenues le symbole du parti Baas, au pouvoir sous Saddam Hussein.",
+      "long": "Le drapeau de 1959, avec un soleil jaune pour la minorité kurde, est le seul de l'histoire irakienne à avoir porté un symbole kurde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irak",
+          "from": "Il est composé de trois bandes horizontales rouge",
+          "to": "(de la ville de Koufa, près de Nadjaf)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irak",
+          "from": "Le 22 janvier 2008, par 110 voix sur 165",
+          "to": "Les trois étoiles ont été supprimées."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irak",
+          "from": "Elles sont par la suite devenues le symbole du parti Baas",
+          "to": "l'unité, la liberté et le socialisme."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irak",
+          "from": "Les couleurs du drapeau représentent le panarabisme",
+          "to": "un symbole représentant la minorité kurde."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_l'Irak",
+          "from": "Après le coup d'État du 14 juillet 1958",
+          "to": "un nouveau drapeau est adopté en 1959"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Irak",
+          "from": "Le 17 juillet 1968 : second coup d’État baasiste.",
+          "to": "nouveau président de la République."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "IRQ-C1",
+      "topic": "histoire",
+      "era": "762",
+      "title": "La ville ronde",
+      "short": "Bagdad est fondée en 762 par le calife abbasside Al-Mansour, qui la nomme « la cité de la paix ». Construite en quatre ans par 100 000 ouvriers, c'était une ville ronde. En 832 y est fondée la Maison de la sagesse.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bagdad",
+          "from": "La ville fut officiellement nommée Madīnat as-Salām",
+          "to": "le calife Al-Mansour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bagdad",
+          "from": "Madīnat as-Salām fut fondée ex nihilo au VIIIe siècle",
+          "to": "par 100 000 ouvriers."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bagdad",
+          "from": "La Bagdad des Abbassides était une ville ronde",
+          "to": "était une ville ronde"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bagdad",
+          "from": "C'est à Bagdad qu'est fondée en 832",
+          "to": "sous le règne d'Al-Mamun."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "L'ancienne Mésopotamie, entre le Tigre et l'Euphrate : entre la Syrie et l'Iran, au nord de l'Arabie saoudite et du Koweït, avec un petit accès au golfe Persique.",
+    "flag": "Trois bandes rouge, blanc, noir avec l'inscription verte « Allah akbar » au centre. L'Égypte a les mêmes bandes avec un aigle doré, le Yémen sans aucun emblème.",
+    "capital": "Bagdad, sur le Tigre, au centre du pays : l'ancienne capitale des califes abbassides."
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "id": "SGP",
+  "facts": [
+    {
+      "id": "SGP-1",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "La ville du lion… sans lion",
+      "short": "L'île s'appelait Tumasik au XIVe siècle. Selon la tradition, elle est ensuite rebaptisée Singapura, « ville du lion » en sanskrit. Pourtant, il n'y a jamais eu de lion sur l'île, mais des tigres ! Son symbole est aujourd'hui le Merlion, un lion à queue de poisson.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "« Tumasik » (de « tasik », « mer » en javanais)",
+          "to": "attesté dès le XIVe siècle."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Il aurait assassiné le gouverneur de la cité",
+          "to": "un lion à queue de poisson, le Merlion."
+        }
+      ]
+    },
+    {
+      "id": "SGP-2",
+      "topic": "histoire",
+      "era": "1819",
+      "title": "Achetée par Raffles",
+      "short": "En 1819, le Britannique Thomas Stamford Raffles achète l'île au sultan de Johor pour 33 000 dollars espagnols, afin de contrer la domination commerciale des Néerlandais dans la région.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "En 1819, le britannique sir Thomas Stamford Raffles achète",
+          "to": "des Néerlandais dans la région."
+        }
+      ]
+    },
+    {
+      "id": "SGP-3",
+      "topic": "histoire",
+      "era": "1942-1945",
+      "title": "La chute de Singapour",
+      "short": "Le 15 février 1942, Singapour tombe aux mains du Japon, attaquée par la terre alors que ses défenses étaient tournées vers la mer. Pendant l'occupation, les massacres dits de Sook Ching tuent entre 20 000 et 100 000 Chinois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Durant la Seconde Guerre mondiale, à partir du 15 février 1942",
+          "to": "orientées surtout vers la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Au cours des massacres dits « de Sook Ching »",
+          "to": "pendant l'occupation."
+        }
+      ]
+    },
+    {
+      "id": "SGP-4",
+      "topic": "histoire",
+      "era": "1965",
+      "title": "Indépendante malgré elle",
+      "short": "Rattachée à la Malaisie en 1963, Singapour en est poussée dehors, contre le gré de son Premier ministre Lee Kuan Yew : elle proclame son indépendance le 9 août 1965. Lee Kuan Yew, au pouvoir de 1959 à 1990, est considéré comme le père du Singapour moderne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Après son autonomie avec sa propre constitution",
+          "to": "puis l'indépendance en 1965,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Les Malais de la péninsule forcent Singapour à quitter",
+          "to": "le 9 août 1965."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Depuis 1965, seulement quatre premiers ministres",
+          "to": "le père du Singapour moderne jusqu'en 1990,"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "En 1959, les Britanniques dotent Singapour",
+          "to": "jusqu'en 1990."
+        }
+      ]
+    },
+    {
+      "id": "SGP-5",
+      "topic": "culture",
+      "title": "Une ville très propre",
+      "short": "Jeter un papier ou un mégot, cracher ou uriner dans la rue peut coûter une amende de 1 000 dollars singapouriens. Dans le bus et le métro, il est interdit de manger, de boire… ou de transporter des durians.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "De lourdes contraventions sont infligées aux gens",
+          "to": "dans les bus et le métro"
+        }
+      ]
+    },
+    {
+      "id": "SGP-6",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Un croissant et cinq étoiles",
+      "short": "Rouge en haut, blanc en bas, avec un croissant de lune et cinq petites étoiles blanches. Adopté en 1959, il répond à deux souhaits : les cinq étoiles voulues par la population chinoise, le croissant par les Malais musulmans.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Singapour",
+          "from": "Le drapeau de Singapour est adopté en 1959",
+          "to": "cinq petites étoiles à cinq branches."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Singapour",
+          "from": "La population chinoise souhaite voir apparaître cinq étoiles",
+          "to": "faire apparaître un croissant de lune."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SGP-C1",
+      "topic": "geographie",
+      "title": "Une cité-État gagnée sur la mer",
+      "short": "Singapour est une cité-État : la ville est le pays. Son centre a été transformé par des terres gagnées sur la mer, et sa ligne d'horizon, avec l'hôtel Marina Bay Sands et ses gratte-ciel, est l'une des plus reconnaissables au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "La cité-État abrite également le Gardens by the Bay",
+          "to": "plus de 50 millions de visiteurs en 2021."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Situé au cœur historique développé par les Britanniques",
+          "to": "gagnées aux dépens de la mer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Singapour",
+          "from": "Avec la silhouette originale de l'Hôtel Marina Bay Sands",
+          "to": "les plus spectaculaires et reconnaissables au monde,"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île à la pointe sud de la péninsule malaise, reliée à la Malaisie par deux ponts, face à l'Indonésie.",
+    "flag": "Rouge en haut, blanc en bas, avec un croissant et cinq étoiles blancs dans le coin rouge. Ne pas confondre avec l'Indonésie ou Monaco, sans motif.",
+    "capital": "Singapour : la capitale, c'est le pays lui-même, une cité-État."
+  }
+}

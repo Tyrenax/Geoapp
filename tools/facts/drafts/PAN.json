@@ -1,0 +1,136 @@
+{
+  "id": "PAN",
+  "facts": [
+    {
+      "id": "PAN-1",
+      "topic": "histoire",
+      "title": "Le pays « poissonneux »",
+      "short": "Le nom de Panama viendrait d'un mot amérindien qui signifie « poissonneux ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Le nom de « Panama » viendrait d'un terme amérindien",
+          "to": "« poissonneux »."
+        }
+      ]
+    },
+    {
+      "id": "PAN-2",
+      "topic": "histoire",
+      "era": "1888-1914",
+      "title": "Le canal que les Français n'ont pas fini",
+      "short": "Lancé par Ferdinand de Lesseps sur le modèle du canal de Suez, le chantier est abandonné en 1888 après la mort de 20 000 ouvriers. Les faillites déclenchent le scandale de Panama, le chantier est vendu aux États-Unis, et le canal est inauguré en 1914.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Le canal de Panama (dont la construction fut commencée",
+          "to": "est inauguré en 1914."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "En 1889, une série de faillites déclenche le scandale de Panama",
+          "to": "aux États-Unis."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "grâce à des fonds et des ingénieurs français",
+          "to": "(sur le modèle du canal de Suez)"
+        }
+      ]
+    },
+    {
+      "id": "PAN-3",
+      "topic": "histoire",
+      "era": "1903",
+      "title": "Né d'une sécession",
+      "short": "Le Panama faisait partie de la Colombie. Le 3 novembre 1903, profitant de la guerre civile colombienne, des indépendantistes soutenus par les États-Unis proclament l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Alors que la Colombie est plongée dans la guerre civile",
+          "to": "le 3 novembre 1903."
+        }
+      ]
+    },
+    {
+      "id": "PAN-4",
+      "topic": "histoire",
+      "era": "1977-1999",
+      "title": "Le canal rendu aux Panaméens",
+      "short": "Longtemps contrôlé par les États-Unis, le canal fait l'objet d'un bras de fer mené par le général Omar Torrijos. En 1977, les traités Torrijos-Carter renégocient la zone du canal ; les bases américaines restent jusqu'en 1999.",
+      "long": "Le canal est aujourd'hui l'une des principales sources de revenus de l'État panaméen.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Le général Omar Torrijos, au pouvoir en 1968",
+          "to": "la souveraineté du Panama."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Finalement, en 1977, Torrijos réussit à renégocier",
+          "to": "(traités Torrijos-Carter)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Jusqu'en 1999, les États-Unis possèdent des bases militaires",
+          "to": "à proximité du canal."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama",
+          "from": "Le canal du même nom, canal de Panama",
+          "to": "pour l'État panaméen."
+        }
+      ]
+    },
+    {
+      "id": "PAN-5",
+      "topic": "drapeau",
+      "era": "1903",
+      "title": "Deux partis réconciliés",
+      "short": "Les quartiers rouge et bleu du drapeau représentent les deux partis rivaux de l'isthme, libéral et conservateur, qui ont fait la paix pour fonder la nation. C'est pourquoi leurs couleurs occupent exactement la même surface.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Panama",
+          "from": "Amador, le drapeau représentait la situation politique de l'époque",
+          "to": "dans une atmosphère de paix."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_du_Panama",
+          "from": "C'est pour cette raison que les surfaces",
+          "to": "sont équivalentes."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PAN-C1",
+      "topic": "histoire",
+      "era": "1519-1673",
+      "title": "Rasée par le pirate Morgan",
+      "short": "Fondée en 1519 avec 100 habitants, Panama est saccagée en 1671 par le pirate gallois Henry Morgan et ses 1 200 hommes. La ville est reconstruite un peu plus loin en 1673 : c'est l'actuel Casco Viejo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama_(ville)",
+          "from": "Panamá la Vieja, ce qui est aujourd'hui la vieille ville",
+          "to": "avec 100 habitants."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama_(ville)",
+          "from": "En 1671, le pirate gallois Henry Morgan",
+          "to": "saccagent complètement la ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Panama_(ville)",
+          "from": "Le centre historique de la ville de Panamá, connu comme Casco Viejo",
+          "to": "après sa destruction en 1671."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le fin isthme en forme de S couché qui relie l'Amérique centrale à l'Amérique du Sud, entre le Costa Rica et la Colombie ; le canal le coupe en son milieu.",
+    "flag": "Quatre quartiers : blanc avec étoile bleue, rouge, bleu, blanc avec étoile rouge. Aucun autre drapeau n'a ce damier de quatre carrés avec deux étoiles ; le Chili a une étoile, mais une seule et pas de quartiers.",
+    "capital": "La capitale porte le même nom que le pays : Panama, au bout pacifique du canal."
+  }
+}

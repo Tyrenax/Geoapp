@@ -1,0 +1,119 @@
+{
+  "id": "MNP",
+  "facts": [
+    {
+      "id": "MNP-1",
+      "topic": "histoire",
+      "era": "1521-1688",
+      "title": "Les îles des Voleurs",
+      "short": "Magellan aborde l'archipel en 1521 et le revendique pour l'Espagne. Agacé par les habitudes des insulaires à bord de ses navires, il le baptise « îles des Voleurs ». En 1688, elles deviennent les Mariannes, en l'honneur de Marianne d'Autriche, veuve du roi d'Espagne Philippe IV.",
+      "long": "Presque tous les autochtones disparaissent pendant l'occupation espagnole ; des insulaires des îles voisines repeuplent ensuite en partie l'archipel.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "Le premier Européen à avoir abordé ces îles fut Fernand de Magellan en 1521, qui visita Guam et réclama ces terres pour l’Espagne. Mécontent des habitudes des habitants sur ses navires, il les baptisa, d'après Antonio Pigafetta, « las islas de los Ladrones » (les îles des Voleurs) ; mais en 1688, leur nom devint « las Marianas », d’après Marianne d’Autriche, veuve de Philippe IV d’Espagne. Presque tous les autochtones disparurent pendant l’occupation espagnole, mais des insulaires des îles voisines repeuplèrent en partie les îles."
+        }
+      ]
+    },
+    {
+      "id": "MNP-2",
+      "topic": "histoire",
+      "era": "1899-1914",
+      "title": "Allemandes, puis japonaises",
+      "short": "Vendues à l'Empire allemand en 1899, les îles sont occupées dès 1914 par le Japon, qui les transforme en camps militaires.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "Vendues à l'Empire allemand en 1899, elles furent occupées dès 1914 par l'empire du Japon qui les transforma en camps militaires."
+        }
+      ]
+    },
+    {
+      "id": "MNP-3",
+      "topic": "histoire",
+      "era": "1944-1945",
+      "title": "Saipan et Tinian",
+      "short": "Le 15 juin 1944, les Marines américains débarquent et remportent la bataille de Saipan. C'est de l'île voisine de Tinian que décollent les bombardiers qui larguent les bombes atomiques sur Hiroshima et Nagasaki.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "Durant la Seconde Guerre mondiale, les Marines américains y débarquèrent le 15 juin 1944 et remportèrent la bataille de Saipan. Les bombardiers transportant les bombes atomiques à destination de Hiroshima et Nagasaki partirent de Tinian."
+        }
+      ]
+    },
+    {
+      "id": "MNP-4",
+      "topic": "politique",
+      "era": "1975-1978",
+      "title": "Un commonwealth américain",
+      "short": "Plutôt que l'indépendance, les habitants choisissent de se rapprocher des États-Unis : un accord établissant un commonwealth, comme Porto Rico, est approuvé en 1975 et entre en vigueur en 1978. Depuis 2008, l'archipel élit un délégué sans droit de vote au Congrès.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "le peuple des Mariannes du Nord décida de ne pas rechercher l'indépendance, mais de se rapprocher davantage de la puissance tutélaire. Un accord établissant un Commonwealth fut approuvé en 1975. La constitution et le nouveau gouvernement entrèrent en vigueur en 1978."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "sont un territoire organisé non incorporé des États-Unis constitué, à l'instar de Porto Rico, en commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "elle permet aux Mariannes du Nord d'élire un délégué sans droit de vote au Congrès des États-Unis, à compter de l'élection présidentielle américaine de 2008."
+        }
+      ]
+    },
+    {
+      "id": "MNP-5",
+      "topic": "geographie",
+      "title": "Quinze îles, trois habitées",
+      "short": "L'archipel compte quinze îles, mais seules les trois plus grandes sont peuplées. Avec Guam, au sud, les Mariannes du Nord forment le pays des Chamorros, mais la population est aujourd'hui en majorité issue de l'immigration philippine et chinoise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Mariannes_du_Nord",
+          "quote": "au nord-nord-est de Guam, île avec laquelle elles forment le territoire du peuplement des Chamorros, et au sud des îles Kazan, dans l'archipel Ogasawara. Des quinze îles, seules les trois plus grandes sont peuplées, majoritairement d'immigrés et de descendants d'immigrés philippins et chinois."
+        }
+      ]
+    },
+    {
+      "id": "MNP-6",
+      "topic": "drapeau",
+      "era": "1981",
+      "title": "La pierre latte",
+      "short": "Le drapeau bleu, couleur de l'océan, montre une pierre latte, symbole de la culture chamorro, entourée d'une couronne de fleurs ajoutée en 1981 pour la culture carolinienne. L'étoile blanche rappelle l'ancien territoire sous tutelle des îles du Pacifique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Mariannes_du_Nord",
+          "quote": "est composé au centre d'une pierre de latte, symbolisant la culture des Chamorros, peuple indigène des îles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Îles_Mariannes_du_Nord",
+          "quote": "Ce totem est entouré d'une couronne circulaire de fleurs, nommée mwarmwar, de mwar (ylang-ylang, seyur ou fleur de mai, angagha et teibwo), représentant la culture carolinienne. La couronne a été rajoutée en 1981.\nUne étoile blanche à cinq branches est apposée sur la pierre pour rappeler l'étoile du drapeau quand l'archipel était intégré dans le Territoire sous tutelle des îles du Pacifique. Le fond bleu est la couleur de l'océan."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MNP-C1",
+      "topic": "histoire",
+      "era": "1944",
+      "title": "La falaise de Banzaï",
+      "short": "La bataille de Saipan, du 15 juin au 9 juillet 1944, fut l'une des plus importantes de la Seconde Guerre mondiale. Quelque 20 000 civils japonais y périrent, dont un millier environ qui se jetèrent de la falaise de Banzaï plutôt que d'être capturés, terrifiés par la propagande japonaise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saipan",
+          "quote": "La bataille de Saipan du 15 juin au 9 juillet 1944 fut l'une des campagnes les plus importantes de la Seconde Guerre mondiale. Les US Marines et l'armée US débarquèrent sur la plage au sud-ouest de l'île et passèrent trois semaines dans des combats lourds pour sécuriser l'île. Le combat a coûté 3 426 tués et 10 364 blessés aux Américains, et seulement 921 des 30 000 défenseurs japonais ont été capturés. Armes et tactiques de combats en zone rapprochée ont causé également de lourdes pertes chez les civils. Quelque 20 000 civils japonais périrent au cours du combat, incluant plus de 1 000 suicides en sautant de la falaise de Banzaï plutôt que d'être capturés."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saipan",
+          "quote": "Près de mille civils japonais paniqués par l’arrivée des soldats américains et par la propagande japonaise qui les présentait comme des monstres"
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un chapelet d'îles dans l'ouest du Pacifique, juste au nord de Guam, à l'est des Philippines.",
+    "flag": "Bleu, avec au centre une pierre grise en forme de champignon (pierre latte) devant une étoile blanche, le tout entouré d'une couronne de fleurs.",
+    "capital": "Saipan, la plus grande île de l'archipel."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "COG",
+  "facts": [
+    {
+      "id": "COG-1",
+      "topic": "histoire",
+      "era": "1880",
+      "title": "Le traité de Brazza avec le roi des Tékés",
+      "short": "En 1880, l'explorateur Pierre Savorgnan de Brazza fait signer un traité au Makoko, roi des Tékés. Il obtient le droit d'installer un poste français au bord du fleuve Congo, là où s'élève aujourd'hui Brazzaville.",
+      "long": "Le royaume du Makoko, fondé selon la tradition au IXe siècle, s'étendait sur un immense territoire entre l'Alima et le Mayombe. Le chef local de Mfoa, le village où Brazza installe son poste, restera sous la suzeraineté du Makoko jusqu'en 1916.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "En 1880, il fait signer un traité de souveraineté au Makoko, le roi des Tékés à Mbé (100 km au nord de Brazzaville), et fonde un poste au village de Mfoa, (en référence à une petite rivière) à Nkuna qui deviendra Brazzaville en 1911."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "quote": "Savorgnan de Brazza obtient par traité l'autorisation d'installer une station française à l'endroit où se trouve l'actuelle Brazzaville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "d'abord le royaume Makoko des Tékés, fondé au IXe siècle, qui s'étend sur un immense territoire entre l'Alima et le Mayombe"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brazzaville",
+          "quote": "Le chef Mbankwa en fut le seigneur officiel sous la suzeraineté du Makoko de Mbé, de 1884 à 1916."
+        }
+      ]
+    },
+    {
+      "id": "COG-2",
+      "topic": "histoire",
+      "era": "1921-1934",
+      "title": "Le Congo-Océan, un chantier meurtrier",
+      "short": "De 1921 à 1934, la France construit le chemin de fer Congo-Océan entre Brazzaville et l'Atlantique. Au moins 23 000 ouvriers y meurent, sur 127 000 travailleurs, pour la plupart recrutés de force.",
+      "long": "Ce chantier compte parmi les plus meurtriers de l'histoire coloniale française. Ces souffrances expliquent en partie la montée rapide du nationalisme au Congo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "chemin de fer Congo-Océan construit de 1921 à 1934) expliquent que le nationalisme se soit vite développé au Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "quote": "Avec au moins 23 000 ouvriers morts, sur un total de 127 000 travailleurs, la majorité d'entre eux recrutés de force, ce chantier est l'un des plus meurtriers de l'histoire coloniale française."
+        }
+      ]
+    },
+    {
+      "id": "COG-3",
+      "topic": "histoire",
+      "era": "1960",
+      "title": "Deux Congo, deux capitales",
+      "short": "Le 15 août 1960, l'ancien Congo français devient indépendant. Comme son voisin, l'ancien Congo belge, s'appelle lui aussi Congo, on prend l'habitude de les désigner par leur capitale : Congo-Brazzaville et Congo-Kinshasa.",
+      "long": "L'abbé Fulbert Youlou devient le premier président. Le surnom « Congo-Brazzaville » revient en force en 1997, quand le Zaïre voisin reprend le nom de république démocratique du Congo.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "Le 15 août 1960, le Congo accède à l'indépendance et Fulbert Youlou est élu premier président de la République."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "quote": "Depuis cette période de confusion, les deux pays seront informellement mais couramment désignés avec le nom de leurs capitales respectives (Congo-Brazzaville pour le Congo anciennement français au nord-ouest du fleuve et Congo-Léopoldville puis Congo-Kinshasa"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "quote": "La désignation informelle du pays « Congo-Brazzaville » est cependant réapparue en 1997 lorsque le Zaïre voisin a repris aussi officiellement son ancien nom de « république démocratique du Congo » à la fin du régime de Mobutu"
+        }
+      ]
+    },
+    {
+      "id": "COG-4",
+      "topic": "histoire",
+      "era": "1969-1992",
+      "title": "La république populaire du Congo",
+      "short": "Arrivé au pouvoir fin 1968, le capitaine Marien Ngouabi fait du pays une démocratie populaire d'inspiration socialiste : de 1969 à 1992, le Congo s'appelle la république populaire du Congo.",
+      "long": "Le régime est instable. Ngouabi est assassiné dans sa résidence le 18 mars 1977 ; une statue le rappelle sur la place du Sacrifice suprême, à Brazzaville. En 1991, la Conférence nationale souveraine rétablit les symboles de la république, dont le drapeau de 1959.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "Puis, le 30 décembre 1968, un autre officier, Marien Ngouabi est désigné chef de l'État"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "D'un point de vue idéologique, l'option socialiste est réaffirmée : la république du Congo devient une démocratie populaire, sous le nom de république populaire du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "De 1969 à 1992, la république du Congo a porté le nom de république populaire du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_du_Congo",
+          "quote": "Finalement, le 18 mars 1977, le président Marien Ngouabi est assassiné dans sa résidence."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brazzaville",
+          "quote": "Place du Sacrifice Suprême : créée en 1980 à la place d'un ensemble de style colonial, elle est ornée en son centre d'une statue du président Marien Ngouabi, assassiné dans sa résidence de l'état-major, juste en face, le 18 mars 1977."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "Puis en 1991, la Conférence nationale souveraine restaure le drapeau tricolore adopté en 1959 dans le cadre du retour aux symboles de la république."
+        }
+      ]
+    },
+    {
+      "id": "COG-5",
+      "topic": "drapeau",
+      "era": "1959",
+      "title": "Un drapeau coupé en diagonale",
+      "short": "Adopté en 1959, le drapeau est partagé en diagonale en trois bandes : vert, jaune et rouge. Abandonné sous la république populaire, il est rétabli en 1991.",
+      "long": "Le jaune symbolise l'amitié et la noblesse du peuple, le vert l'agriculture et les forêts. Le rouge est souvent associé au sang de la lutte pour l'indépendance, une lecture discutée, car le drapeau est antérieur à l'indépendance.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "Le drapeau congolais actuel est divisé en diagonale et composé de 3 bandes : jaune, vert et rouge."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "Le drapeau actuel a été adopté le 18 août 1959 par une assemblée constituante et est adopté comme drapeau officiel le 15 septembre 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "Puis en 1991, la Conférence nationale souveraine restaure le drapeau tricolore adopté en 1959 dans le cadre du retour aux symboles de la république."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "La bande jaune symbolise l'amitié et la noblesse du peuple, tandis que la bande verte représente l'agriculture et les riches forêts du Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_république_du_Congo",
+          "quote": "La couleur rouge est associée au sang versé lors de la lutte de l’indépendance[Passage contradictoire (le drapeau date de 1959, un an avant l'indépendance"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "COG-C1",
+      "topic": "histoire",
+      "era": "1940",
+      "title": "Capitale de la France libre",
+      "short": "Le 27 octobre 1940, à Brazzaville, alors capitale de l'Afrique-Équatoriale française, le général de Gaulle crée le Conseil de défense de l'Empire et fait de la ville la capitale de la France libre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brazzaville",
+          "quote": "À Brazzaville, alors capitale de l'Afrique-Équatoriale française, le 27 octobre 1940, le général de Gaulle lança le manifeste annonçant la création du Conseil de défense de l'Empire et fit de Brazzaville la capitale de la France libre"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brazzaville",
+          "quote": "Elle fut la capitale de la France libre de 1940 à 1942 et de l'Afrique-Équatoriale française de 1910 à 1958."
+        }
+      ]
+    },
+    {
+      "id": "COG-C2",
+      "topic": "geographie",
+      "title": "Face à face avec Kinshasa",
+      "short": "Brazzaville, nommée d'après Savorgnan de Brazza, fait face à Kinshasa, de l'autre côté du fleuve Congo. Les deux capitales forment ensemble une agglomération transfrontalière d'environ dix-sept millions d'habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Brazzaville",
+          "quote": "Située en aval du lac Malebo, elle forme une agglomération transfrontalière d'environ dix-sept millions d'habitants avec la ville de Kinshasa (en république démocratique du Congo), qui se trouve sur la rive sud du fleuve Congo."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_république_du_Congo",
+          "quote": "Savorgnan de Brazza obtient par traité l'autorisation d'installer une station française à l'endroit où se trouve l'actuelle Brazzaville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Le « petit » Congo, à l'ouest et au nord du grand : il touche l'Atlantique par une courte côte autour de Pointe-Noire, entre le Gabon à l'ouest, le Cameroun et la Centrafrique au nord, et la RD Congo à l'est et au sud, de l'autre côté du fleuve Congo.",
+    "flag": "Une diagonale jaune qui sépare un triangle vert (en haut, côté mât) d'un triangle rouge (en bas à droite). La RD Congo a aussi une diagonale, mais rouge bordée de jaune sur fond bleu avec une étoile.",
+    "capital": "BRAZZAville porte le nom de BRAZZA, l'explorateur qui y a planté le premier poste français. Elle fait face à Kinshasa, de l'autre côté du fleuve."
+  }
+}

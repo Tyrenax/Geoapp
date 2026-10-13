@@ -1,0 +1,130 @@
+{
+  "id": "FRO",
+  "facts": [
+    {
+      "id": "FRO-1",
+      "topic": "histoire",
+      "title": "Les îles des moutons",
+      "short": "Færøerne viendrait du vieux norrois fær, « mouton » : les Féroé seraient « les îles des moutons ». Des analyses de crottes de moutons font remonter l'arrivée des premiers colons, sans doute venus des îles Britanniques, au début du Ve siècle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Le terme pourrait provenir du vieux norrois fær (« mouton »), øerne étant le pluriel défini d'ø (« île ») en danois. Færøerne signifierait, selon cette hypothèse, « les îles des moutons »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Des recherches récentes, faites à partir d'analyses de crottes de moutons, font remonter au début du Ve siècle l'arrivée de colons, sans doute venus des îles Britanniques."
+        }
+      ]
+    },
+    {
+      "id": "FRO-2",
+      "topic": "histoire",
+      "era": "1946",
+      "title": "Une indépendance proclamée… puis annulée",
+      "short": "Le 14 septembre 1946, 50,7 % des votants choisissent l'indépendance, aussitôt proclamée par le président du parlement féroïen. Mais le roi Christian X dissout ce parlement ; les unionistes gagnent les élections suivantes, et les Féroé obtiennent à la place une large autonomie le 1er avril 1948.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Le 14 septembre 1946 se tient un référendum sur l'indépendance des îles Féroé. Une courte majorité des votants (50,7 %) s'exprime en faveur de l'indépendance, en conséquence de quoi l'indépendance est proclamée le 18 septembre par le président du Løgting (le parlement local)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Le roi Christian X dissout le Løgting le 24 septembre et convoque de nouvelles élections, qui se tiennent le 8 novembre. Ces élections voient les partis unionistes remporter la majorité, bien que le Parti du peuple, indépendantiste, soit arrivé en tête en remportant 8 des 18 sièges composant le Løgting."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "De ce fait, l'indépendance est ajournée, et de nouvelles négociations suivent, aboutissant à l'autonomie des îles Féroé le 1er avril 1948."
+        }
+      ]
+    },
+    {
+      "id": "FRO-3",
+      "topic": "histoire",
+      "era": "XIVe siècle",
+      "title": "Danoises, mais pas comme les autres",
+      "short": "Les Féroé sont sous contrôle danois depuis la fin du XIVe siècle, mais leurs habitants n'ont jamais accepté de devenir une région danoise comme une autre. Aujourd'hui province autonome, l'archipel ne fait pas partie de l'Union européenne.",
+      "long": "Les Danois qui vivent aux Féroé ne sont même pas citoyens de l'Union européenne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Les Îles Féroé sont sous le contrôle du Danemark depuis la fin du XIVe siècle, mais ce n'est qu'à partir du XIXe siècle que le gouvernement de Copenhague a cherché à intégrer les îles Féroé dans le système politique et juridique danois. Cependant, la population des Iles Feroé n'a jamais accepté de devenir une région danoise comme une autre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Les Îles Féroé sont une province autonome du royaume de Danemark depuis 1948."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Comme explicitement spécifié dans les deux traités de Rome, les Îles Féroé ne font pas partie de l'Union européenne. Qui plus est, le traité d'accession du Danemark précise que les citoyens danois résidant dans les Îles Féroé ne sont pas citoyens de l'Union européenne."
+        }
+      ]
+    },
+    {
+      "id": "FRO-4",
+      "topic": "culture",
+      "era": "1584",
+      "title": "Le grind, une chasse ancienne",
+      "short": "Le grindadráp, ou grind, est une chasse traditionnelle aux globicéphales et aux dauphins, attestée depuis 1584 et sans doute bien plus ancienne, du temps où l'archipel manquait de ressources.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Le grindadráp (aussi appelé grind) est une chasse aux cétacés (globicéphales noirs, dauphins à flancs blancs et grands dauphins) traditionnelle dont l'existence est relatée depuis 1584 mais remonte sans doute à bien plus longtemps quand le manque de ressources de l'archipel"
+        }
+      ]
+    },
+    {
+      "id": "FRO-5",
+      "topic": "geographie",
+      "title": "Dix-huit îles dans l'Atlantique Nord",
+      "short": "L'archipel compte dix-huit îles principales, perdues dans l'Atlantique Nord à 291 km des îles Shetland, non loin de la mer de Norvège.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Îles_Féroé",
+          "quote": "Les îles Féroé forment un archipel de dix-huit îles principales au large de l'Europe du Nord, situées dans l'océan Atlantique nord, à 291 km à l'ouest-nord-ouest des îles Shetland et non loin de la mer de Norvège."
+        }
+      ]
+    },
+    {
+      "id": "FRO-6",
+      "topic": "drapeau",
+      "era": "1919-1940",
+      "title": "Un drapeau d'étudiants, reconnu en pleine guerre",
+      "short": "Le Merkið, blanc à croix rouge bordée de bleu, est créé en 1919 par trois étudiants féroïens à Copenhague. En avril 1940, quand l'Allemagne occupe le Danemark, les Britanniques qui occupent l'archipel l'acceptent comme pavillon, pour distinguer les navires féroïens des danois.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Féroé",
+          "quote": "Le drapeau des îles Féroé (Merkið en féroïen) est blanc avec une croix scandinave rouge bordée de bleu.\n\n\n== Histoire ==\n\nCe drapeau a été créé en 1919 par Jens Oliver Lisberg de Fámjin, Janus Øssursson de Tórshavn et Paul Dahl de Vágur, tous trois étudiants féroïens à Copenhague."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_îles_Féroé",
+          "quote": "Lorsque l'armée allemande occupe le Danemark en avril 1940, les troupes britanniques occupent l'archipel et doivent pouvoir distinguer les navires féroïens des navires danois. Le 25 avril 1940, les autorités britanniques acceptent que le Merkið devienne le pavillon naval des Féroé."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "FRO-C1",
+      "topic": "histoire",
+      "era": "825",
+      "title": "Le port de Thor",
+      "short": "Tórshavn signifie « le port de Thor », du nom du dieu scandinave du tonnerre, dont le marteau orne le blason de la ville. En 825, les Vikings y installent leur parlement, sur la presqu'île de Tinganes : elle devient alors la capitale.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tórshavn",
+          "quote": "Le nom de la ville signifie « le port de Thor », nommée d'après le dieu scandinave du tonnerre et de la foudre ; ainsi on retrouve sur le blason de la ville le marteau de Thor."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Tórshavn",
+          "quote": "Les Vikings établirent leur parlement sur la péninsule Tinganes à Tórshavn en 825, donnant à la ville le statut de capitale des Îles Féroé."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un archipel de l'Atlantique Nord, à mi-chemin entre l'Écosse et l'Islande, au nord-ouest des îles Shetland. Il dépend du Danemark.",
+    "flag": "Blanc avec une croix scandinave rouge bordée de bleu. L'Islande a les mêmes couleurs, mais sur fond bleu avec une croix rouge bordée de blanc ; la Norvège, sur fond rouge.",
+    "capital": "Tórshavn, « le port de Thor », sur l'île de Streymoy."
+  }
+}

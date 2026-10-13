@@ -1,0 +1,163 @@
+{
+  "id": "PHL",
+  "facts": [
+    {
+      "id": "PHL-1",
+      "topic": "histoire",
+      "era": "1521",
+      "title": "Magellan et Lapu-Lapu",
+      "short": "Le 16 mars 1521, l'explorateur portugais Magellan, au service de l'Espagne, est le premier Européen à atteindre les Philippines. Il y trouve la mort, face à Lapu-Lapu, de Mactan, considéré comme le premier à avoir repoussé les Européens.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Fernand de Magellan (Fernão de Magalhães), explorateur portugais voyageant pour le compte de l'Espagne, est le premier Européen à arriver aux Philippines, le 16 mars 1521."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "que Lapu-Lapu, de Mactan, est le premier qui commence à repousser l'agression européenne et est à l'origine de la mort de Fernand de Magellan."
+        }
+      ]
+    },
+    {
+      "id": "PHL-2",
+      "topic": "histoire",
+      "era": "1565",
+      "title": "Les îles de Philippe II",
+      "short": "Les îles doivent leur nom à l'infant d'Espagne, futur roi Philippe II. À partir de 1565, l'archipel est gouverné par l'Espagne et le catholicisme y devient la religion dominante : en 2010, environ 81 % des habitants étaient catholiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Les îles ont été nommées ainsi en l'honneur de l'infant d'Espagne, futur roi Philippe II, par Ruy López de Villalobos peu après leur découverte."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "À partir de 1565, l'archipel est gouverné comme la capitainerie générale des Philippines des Indes orientales espagnoles, sous laquelle le catholicisme devient la religion dominante."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Selon le Pew Research Center, en 2010, 92,6 % des habitants des Philippines sont chrétiens, principalement catholiques (81 %)"
+        }
+      ]
+    },
+    {
+      "id": "PHL-3",
+      "topic": "histoire",
+      "era": "1898-1946",
+      "title": "Vendues aux États-Unis",
+      "short": "Après la révolution philippine et la guerre hispano-américaine, le traité de Paris du 10 décembre 1898 oblige l'Espagne à vendre les Philippines aux États-Unis pour 20 millions de dollars. Le pays devient indépendant le 4 juillet 1946.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "La révolution philippine éclate en 1896, et s'achève en 1898 avec le traité de Paris par lequel l'Espagne cède l'archipel aux États-Unis à la suite de la guerre hispano-américaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Le 10 décembre 1898, le traité de Paris met fin au conflit, contraignant l'Espagne à vendre les Philippines aux États-Unis pour 20 millions de dollars."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Le pays obtient son indépendance le 4 juillet 1946 avec la signature du traité de Manille,"
+        }
+      ]
+    },
+    {
+      "id": "PHL-4",
+      "topic": "histoire",
+      "era": "1972-1986",
+      "title": "La chute de Marcos",
+      "short": "Sous la dictature de Ferdinand Marcos, la loi martiale règne de 1972 à 1981. Une révolution populaire le renverse en 1986 ; Corazon Aquino lui succède.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Depuis lors, le pays subit notamment une période de loi martiale entre 1972 et 1981 sous la dictature de Ferdinand Marcos et le renversement de ce dernier par la révolution populaire de 1986."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "=== Présidence de Corazon Aquino (1986-1992)"
+        }
+      ]
+    },
+    {
+      "id": "PHL-5",
+      "topic": "geographie",
+      "title": "Un archipel sur la ceinture de feu",
+      "short": "Les Philippines forment un archipel de 7 641 îles. Situé sur la ceinture de feu du Pacifique, il est exposé aux séismes et aux volcans, ainsi qu'aux typhons, entre juin et octobre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "sont un pays d'Asie du Sud-Est constitué d'un archipel de 7 641 îles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "Aujourd'hui encore[Quand ?], l'action conjuguée des volcans, des séismes, de la mousson et des typhons continue de façonner la physionomie de l'archipel."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "L'archipel n'est pas épargné par les typhons et les tempêtes tropicales qui s'invitent entre juin et octobre."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Philippines",
+          "quote": "dans la ceinture de feu du Pacifique et à proximité de l'équateur, ce qui les expose aux séismes,"
+        }
+      ]
+    },
+    {
+      "id": "PHL-6",
+      "topic": "drapeau",
+      "era": "1898",
+      "title": "À l'envers en temps de guerre",
+      "short": "Bleu en haut, rouge en bas, et un triangle blanc avec un soleil d'or et trois étoiles, pour Luçon, les Visayas et Mindanao. Usage unique au monde : en temps de guerre, il est hissé à l'envers, le rouge au-dessus du bleu.",
+      "long": "Le premier drapeau a été cousu à Hong Kong en 1898.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "quote": "En haut, la bande bleue symbolise la paix, la vérité et la justice. En bas, la bande rouge symbolise le patriotisme et la bravoure. À la hampe, un triangle équilatéral blanc complète le dessin."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "quote": "Dans chaque coin du triangle, une étoile d'or à cinq branches représentant les trois grands groupes d'îles du pays : Luçon, Visayas et Mindanao."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "quote": "Le drapeau philippin est l'objet d'un usage unique au monde : en temps de guerre, la règlementation prévoit qu'il doit être hissé inversé, le point de drisse haut en bas et le point de drisse bas en haut de telle sorte que le rouge domine le bleu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "quote": "Le premier drapeau a été cousu en 1898 à Hong Kong"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Philippines",
+          "quote": "Au centre du triangle, un soleil stylisé d'or"
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PHL-C1",
+      "topic": "histoire",
+      "era": "1571",
+      "title": "Intramuros et la ville la plus dense",
+      "short": "Manille est fondée en 1571 par le conquistador Miguel López de Legazpi ; son quartier colonial fortifié, Intramuros, en est la vieille ville. Avec 43 079 habitants au km² en 2007, la municipalité est l'une des plus denses de la planète.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "quote": "1571 : fondation de la ville par le conquistador Miguel López de Legazpi."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "quote": "La plupart des destinations touristiques sont situées dans le quartier Intramuros de Manille, c'est-à-dire la vieille ville."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Manille",
+          "quote": "La municipalité de Manille au sens propre compte 1 660 714 habitants sur 38,55 km2 d'après le recensement de 2007, avec donc une densité de population de 43 079 hab./km2. La municipalité est ainsi l'une des municipalités les plus denses de la planète, si ce n'est la plus dense."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un grand archipel en Asie du Sud-Est, entre la mer de Chine méridionale et l'océan Pacifique, au nord de l'Indonésie et au sud de Taïwan.",
+    "flag": "Bleu en haut, rouge en bas, et un triangle blanc côté hampe avec un soleil jaune. Le seul drapeau qui s'inverse en temps de guerre.",
+    "capital": "Manille, sur la grande île de Luçon, au nord de l'archipel."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "GIB",
+  "facts": [
+    {
+      "id": "GIB-1",
+      "topic": "histoire",
+      "era": "711",
+      "title": "La montagne de Tariq",
+      "short": "En 711, le chef Tariq ibn Ziyad débarque ici pour lancer la conquête musulmane de l'Espagne. Le rocher prend son nom : Gibraltar est une déformation de Jabal-Târiq, « la montagne de Tariq ».",
+      "long": "Avant cette conquête, on l'appelait le mont Calpé. Pour les Grecs, il formait avec le djebel Musa, en Afrique, les colonnes d'Hercule, les deux promontoires qui séparent l'Europe de l'Afrique.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "En 711, dans le cadre de la conquête musulmane de l'Espagne wisigothique, le chef Tariq ibn Ziyad y établit une tête de pont en Europe, donnant son nom au rocher (Gibraltar est une déformation de Jabal-Târiq, Montagne de Târiq)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Avant la conquête musulmane, le rocher de Gibraltar est appelé mont Calpé."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "D'après la mythologie grecque, c'est Héraclès qui a érigé les colonnes d'Hercule composées des deux promontoires séparant l'Afrique de l'Europe : le mont Calpé en Europe et djebel Musa en Afrique."
+        }
+      ]
+    },
+    {
+      "id": "GIB-2",
+      "topic": "histoire",
+      "era": "1704-1713",
+      "title": "Britannique depuis 1704",
+      "short": "Le 25 août 1704, les forces anglo-néerlandaises de l'amiral George Rooke prennent ce territoire espagnol. Par le traité d'Utrecht, en 1713, l'Espagne en reconnaît la propriété au Royaume-Uni, mais pas la souveraineté ; l'Espagne cherche depuis à récupérer le territoire.",
+      "long": "L'Espagne a tenté de le reprendre par la force de 1779 à 1783, pendant la guerre d'indépendance américaine.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Ce territoire espagnol est pris par les forces anglo-néerlandaises de l'amiral George Rooke le 25 août 1704 et sa propriété (mais pas la souveraineté) est confirmée et reconnue par l'Espagne par le traité d'Utrecht en 1713."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "L'Espagne relance les pourparlers en vue de la récupération du territoire cédé aux Britanniques en 1713."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Une tentative espagnole pour reprendre Gibraltar a lieu de 1779 à 1783, lorsque l'Espagne déclare la guerre au Royaume-Uni dans le cadre de son alliance avec la France au cours de la guerre d'indépendance américaine."
+        }
+      ]
+    },
+    {
+      "id": "GIB-3",
+      "topic": "histoire",
+      "era": "1967-1985",
+      "title": "99,64 % pour rester britanniques",
+      "short": "Le 10 septembre 1967, les Gibraltariens votent par référendum, à 99,64 %, pour rester sous souveraineté britannique. En représailles, le général Franco ferme la frontière en 1968 ; elle ne rouvre que le 1er janvier 1985.",
+      "long": "Le 10 septembre est devenu la fête nationale de Gibraltar.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "En réponse à ces résolutions, les autorités de Gibraltar font appel du droit à l'autodétermination et le Royaume-Uni organise un référendum d'autodétermination le 10 septembre 1967 pour les Gibraltariens, dans lequel 99,64 % des électeurs expriment leur volonté de rester sous la souveraineté britannique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Quelques mois plus tard, en mai 1968, afin de protester contre ce référendum, le général Franco fait fermer la frontière entre l'Espagne et le rocher, qui ne rouvrira que le 1er janvier 1985 à minuit."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Gibraltar célèbre sa fête nationale le 10 septembre, date choisie pour commémorer le référendum de 1967, premier acte d'autodétermination du peuple de Gibraltar (rejet de l'annexion par l'Espagne)."
+        }
+      ]
+    },
+    {
+      "id": "GIB-4",
+      "topic": "geographie",
+      "title": "Les seuls singes sauvages d'Europe",
+      "short": "Le rocher de Gibraltar, qui culmine à 426 m, est une réserve naturelle où vivent quelque 230 macaques de Barbarie : ce sont les seuls singes sauvages d'Europe.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Le point culminant est le rocher de Gibraltar (rocher calcaire culminant à 426 m), réserve naturelle peuplée par des macaques berbères, les seuls singes sauvages d'Europe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "La majorité du Rocher est couverte par la réserve naturelle qui est l'habitat naturel de quelque 230 macaques de Barbarie, le singe le plus célèbre de Gibraltar."
+        }
+      ]
+    },
+    {
+      "id": "GIB-5",
+      "topic": "culture",
+      "title": "Une route qui traverse la piste",
+      "short": "L'unique piste de l'aéroport de Gibraltar est traversée par la route qui relie le territoire à l'Espagne. Quand un avion atterrit ou décolle, des barrières se ferment et les passants attendent au bord de la piste.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "L'aéroport international de Gibraltar (code IATA : GIB • code OACI : LXGB) a la particularité d'avoir son unique piste traversée par la route reliant Gibraltar à l'Espagne. Il est donc possible, qu'en voulant accéder à Gibraltar, les passants doivent s'arrêter sur le côté de la piste afin qu'un avion atterrisse ou décolle. Des barrières se ferment afin que plus personne ne circule sur cette piste."
+        }
+      ]
+    },
+    {
+      "id": "GIB-6",
+      "topic": "drapeau",
+      "era": "1502",
+      "title": "Un château et une clé",
+      "short": "Le drapeau reprend les armoiries données à Gibraltar par la reine Isabelle de Castille le 10 juillet 1502 : un château fort à trois tours, d'où pend une clé d'or.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Gibraltar",
+          "quote": "Il comporte les mêmes éléments que les armoiries de Gibraltar qui fut octroyé par une ordonnance royale de la reine Isabelle de Castille le 10 juillet 1502.\n\n\n== Description ==\nIl est composé de deux bandes horizontales, la partie supérieure en blanc et la partie inférieure en rouge. La largeur de la bande blanche est double par rapport à la rouge. Dans le centre de la bande supérieure est représenté un château fort avec trois tours. Une clef en or pend depuis la porte du château et est parfaitement au centre de la bande rouge."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "GIB-C1",
+      "topic": "geographie",
+      "title": "Un territoire-ville",
+      "short": "Gibraltar est à la fois le territoire et sa seule ville : il correspond au rocher et à ses environs immédiats, séparés de l'Espagne par une frontière de 1,2 kilomètre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Gibraltar",
+          "quote": "Il correspond au rocher de Gibraltar et à ses environs immédiats et est séparé de l'Espagne par une frontière de 1,2 kilomètre."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un minuscule rocher au sud de l'Espagne, à l'entrée de la Méditerranée, face au Maroc de l'autre côté du détroit qui porte son nom.",
+    "flag": "Blanc en haut avec un château rouge, une bande rouge en bas et une clé dorée qui pend du château. Aucun drapeau national ne lui ressemble.",
+    "capital": "Gibraltar est à la fois le territoire et la ville, au pied de son rocher."
+  }
+}

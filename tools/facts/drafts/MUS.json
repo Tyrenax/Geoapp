@@ -1,0 +1,182 @@
+{
+  "id": "MUS",
+  "facts": [
+    {
+      "id": "MUS-1",
+      "topic": "histoire",
+      "era": "1507",
+      "title": "Une île déserte et son oiseau",
+      "short": "Quand les navigateurs portugais y passent en 1507, l'île est inhabitée. Elle abrite un oiseau inconnu, incapable de voler, descendant d'un pigeon arrivé plus de 4 millions d'années plus tôt : le dodo.",
+      "long": "La chasse et l'arrivée d'animaux introduits par l'homme, comme les rats, les chats et les chiens, ont fait disparaître le dodo peu après l'installation des premiers habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "En 1507, les navigateurs portugais visitèrent l'île inhabitée.",
+          "to": "l'île inhabitée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "À sa découverte, l'île Maurice était le foyer d'une espèce d'oiseau",
+          "to": "plus de 4 millions d'années auparavant."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "L'île est particulièrement réputée pour le dodo",
+          "to": "peu après l'arrivée des premiers êtres humains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Maurice",
+          "from": "La chasse intensive et l'introduction d'espèces prédatrices",
+          "to": "comme le célèbre dodo"
+        }
+      ]
+    },
+    {
+      "id": "MUS-2",
+      "topic": "histoire",
+      "era": "1598",
+      "title": "Nommée d'après un prince hollandais",
+      "short": "En 1598, une escadre hollandaise aborde l'île et la nomme Mauritius, en l'honneur du prince Maurice de Nassau, stathouder de la République néerlandaise. Les Néerlandais la colonisent de 1638 à 1710.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "En 1598, une escadre hollandaise de l'amiral Wybrand van Warwijck",
+          "to": "stathouder de la République néerlandaise."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Ancienne colonie néerlandaise (1638-1710)",
+          "to": "année de son indépendance."
+        }
+      ]
+    },
+    {
+      "id": "MUS-3",
+      "topic": "histoire",
+      "era": "1715-1810",
+      "title": "L'île de France",
+      "short": "De 1715 à 1810, Maurice est une colonie française, appelée île de France. Avec le gouverneur Mahé de La Bourdonnais, la colonie commence à prospérer ; des milliers d'esclaves venus de Madagascar et d'Afrique y sont amenés.",
+      "long": "Les Britanniques s'en emparent en 1810, pendant les guerres napoléoniennes. Ils laissent pourtant aux Franco-Mauriciens leur langue, leur religion, leur système juridique et leurs plantations.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Ancienne colonie néerlandaise (1638-1710)",
+          "to": "année de son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Maurice",
+          "from": "Dès le début de la colonisation française à l'île de France",
+          "to": "arrivent sur l'île."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Maurice",
+          "from": "Il faut attendre l’arrivée d’un nouveau gouverneur",
+          "to": "commence à prospérer."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Maurice",
+          "from": "Ce nouveau Code noir adapté",
+          "to": "l'Afrique orientale"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Le Royaume-Uni prend le contrôle de l'île le 3 décembre 1810",
+          "to": "en quelques jours."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_Maurice",
+          "from": "Ils rebaptisent l'île Mauritius, mais laissent aux Franco-Mauriciens",
+          "to": "et leurs plantations."
+        }
+      ]
+    },
+    {
+      "id": "MUS-4",
+      "topic": "histoire",
+      "era": "1835",
+      "title": "La fin de l'esclavage",
+      "short": "Le 1er février 1835, l'abolition britannique de l'esclavage libère 66 000 esclaves à Maurice, aux Seychelles et à Rodrigues. Ce sont leurs propriétaires qui reçoivent une indemnisation.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Le 1er février 1835, 66 000 esclaves",
+          "to": "l'abolition britannique de l'esclavage."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Leurs propriétaires reçoivent une indemnisation",
+          "to": "à cette époque."
+        }
+      ]
+    },
+    {
+      "id": "MUS-5",
+      "topic": "politique",
+      "era": "1965-1973",
+      "title": "Les Chagos, un archipel détaché",
+      "short": "Trois ans avant l'indépendance de Maurice, en 1968, le Royaume-Uni en sépare l'archipel des Chagos et loue son île principale, Diego Garcia, aux États-Unis. Environ 2 000 Chagossiens sont expulsés.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Mais trois ans avant que Maurice ne devienne indépendante en 1968",
+          "to": "aux États-Unis"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "Après avoir nié que ces îles étaient habitées",
+          "to": "à l'île Maurice et Seychelles"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Maurice_(pays)",
+          "from": "L'île Maurice devient indépendante le 12 mars 1968.",
+          "to": "le 12 mars 1968."
+        }
+      ]
+    },
+    {
+      "id": "MUS-6",
+      "topic": "drapeau",
+      "era": "1968",
+      "title": "Quatre bandes, quatre couleurs",
+      "short": "Le drapeau mauricien aligne quatre bandes horizontales : rouge pour la lutte pour la liberté, bleu pour l'océan Indien, jaune pour la lumière de l'indépendance et vert pour l'agriculture.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Maurice",
+          "from": "Le drapeau de Maurice se compose de bandes rouge, bleue, jaune et verte",
+          "to": "tout au long des douze mois de l'année."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "MUS-C1",
+      "topic": "histoire",
+      "title": "Le port du roi Louis XV",
+      "short": "Les Hollandais appelaient ce mouillage le « port du Nord-Ouest ». Les Français le rebaptisent Port-Louis en hommage au roi Louis XV, au XVIIIe siècle ; la date exacte varie selon les sources.",
+      "long": "Sous la Révolution, la ville reprend un temps le nom de Port Nord-Ouest, puis celui de Port de la Montagne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Louis_(Maurice)",
+          "from": "Originellement, la ville avait reçu des Hollandais",
+          "to": "par les colons français."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Louis_(Maurice)",
+          "from": "Le nom de Port-Louis a été donné en hommage au roi Louis XV",
+          "to": "l'arrivée du gouverneur Mahé de la Bourdonnais en 1735."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Port-Louis_(Maurice)",
+          "from": "Sous la Révolution, la ville reprit son nom de Port Nord-Ouest",
+          "to": "entre 1793 et 1795."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une petite île de l'océan Indien, à l'est de Madagascar, tout près de l'île française de La Réunion, un peu plus au nord-est.",
+    "flag": "Quatre bandes horizontales de même largeur : rouge, bleu, jaune, vert, de haut en bas. Aucun autre drapeau national n'aligne ces quatre couleurs ainsi.",
+    "capital": "PORT-LOUIS, le port du roi LOUIS XV, souvenir de l'île de France."
+  }
+}

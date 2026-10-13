@@ -1,0 +1,158 @@
+{
+  "id": "SYR",
+  "facts": [
+    {
+      "id": "SYR-1",
+      "topic": "histoire",
+      "era": "2500-2400 av. J.-C.",
+      "title": "Ebla, l'empire retrouvé",
+      "short": "En 1975, à Ebla, dans le nord-ouest de la Syrie, des archéologues découvrent les vestiges d'un grand empire sémite datant de 2500 à 2400 av. J.-C. Sa langue est l'une des plus anciennes langues sémitiques connues, avec l'akkadien.",
+      "long": "La Syrie compte d'autres grands sites antiques, comme Mari, où l'on a retrouvé un code de lois comparable au Code de Hammourabi, Ougarit ou Doura Europos.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Dans la ville excavée d’Ebla, dans le nord-ouest de la Syrie, les archéologues ont découvert en 1975 les vestiges d’un grand empire sémite, qui va du nord de la mer Rouge à la Turquie et jusqu'en Mésopotamie dans sa partie orientale.\nCet empire remontant de 2500 à 2400 av.J.-C. fait de la langue d’Ebla l'une des langues sémitiques les plus anciennes avec l'akkadien. La Syrie compte d’autres grands sites archéologiques comme celui de Mari où fut retrouvé un code comparable au Code de Hammourabi à Babylone, Ougarit et Doura Europos."
+        }
+      ]
+    },
+    {
+      "id": "SYR-2",
+      "topic": "histoire",
+      "era": "Ier siècle",
+      "title": "Le chemin de Damas",
+      "short": "La Syrie occupe une place importante dans l'histoire du christianisme : c'est sur la route de Damas que Paul de Tarse, le futur saint Paul, se convertit, avant de fonder une Église à Antioche.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "La Syrie est un pays significatif dans l’histoire du christianisme. Paul de Tarse, le futur saint Paul, a été converti au christianisme sur la route de Damas, et a établi une Église d’abord à Antioche en Syrie antique (aujourd’hui en Turquie)."
+        }
+      ]
+    },
+    {
+      "id": "SYR-3",
+      "topic": "histoire",
+      "era": "661-750",
+      "title": "La capitale des Omeyyades",
+      "short": "Après la conquête musulmane, Damas devient la capitale de l'Empire omeyyade, de 661 à 750, qui s'étend de l'Espagne à l'Asie centrale. La ville atteint alors un prestige et une puissance encore inégalés dans l'histoire syrienne.",
+      "long": "En 1400, Tamerlan incendie presque entièrement Damas et emmène ses artisans travailler à Samarcande.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Après l’arrivée des conquérants musulmans, Damas est devenue la capitale de l’Empire omeyyade, et a atteint un prestige et une puissance encore inégalés dans l’histoire syrienne. Cet empire s’étendait de l’Espagne à l’Asie centrale (661 à 750 ap. J.-C.)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "En 1400, la ville fut détruite en grande partie par Tamerlan : Damas a été presque entièrement incendiée, et les artisans damascènes furent enlevés pour travailler à Samarcande."
+        }
+      ]
+    },
+    {
+      "id": "SYR-4",
+      "topic": "histoire",
+      "era": "1517-1946",
+      "title": "Des Ottomans au mandat français",
+      "short": "Les Ottomans règnent sur la Syrie pendant plus de 400 ans, de 1517 à 1918. Après la Première Guerre mondiale, le pays passe sous mandat français, de 1920 à 1946. De 1958 à 1961, il s'unit brièvement à l'Égypte dans la République arabe unie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "En 1517, la ville et le pays tombent sous occupation ottomane. Les Ottomans régnèrent sur le pays pendant plus de 400 ans jusqu'en 1918"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Plus récemment, de 1920 à 1946, un mandat français est instauré sur le pays. De février 1958 à fin septembre 1961, l'Égypte et la Syrie s'unissent brièvement dans la République arabe unie"
+        }
+      ]
+    },
+    {
+      "id": "SYR-5",
+      "topic": "histoire",
+      "era": "1970-2024",
+      "title": "La guerre civile et la chute des Assad",
+      "short": "Hafez el-Assad prend le pouvoir en 1970 ; son fils Bachar lui succède en 2000. En 2011, des manifestations pacifiques, brutalement réprimées, se transforment peu à peu en rébellion armée. Le 8 décembre 2024, Bachar el-Assad s'enfuit et le régime tombe.",
+      "long": "De 2011 à 2016, le conflit fait entre 260 000 et 470 000 morts selon diverses ONG et l'ONU.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "En 1970, après une série de dictatures militaires instables, Hafez el-Assad, alors ministre de la Défense, prend le pouvoir par un nouveau coup d'État."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "À sa mort en 2000, son fils, Bachar el-Assad, lui succède"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Début 2011, le printemps arabe atteint la Syrie. Des manifestations en faveur de la démocratie et pacifiques ont lieu dans tout le pays contre le régime baasiste du président Bachar el-Assad. Ces manifestations sont réprimées brutalement par le régime et peu à peu, le mouvement de contestation se transforme en une rébellion armée."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Le 8 décembre 2024, le régime des Assad prend fin avec la fuite de Bachar el-Assad et la reddition de son gouvernement aux forces rebelles."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "De mars 2011 à février 2016, le conflit a fait de 260 000 à 470 000 morts d'après les estimations de diverses ONG et de l'ONU."
+        }
+      ]
+    },
+    {
+      "id": "SYR-6",
+      "topic": "culture",
+      "title": "Un nom venu des Grecs",
+      "short": "L'origine du nom « Syrie » est incertaine : il apparaît d'abord en grec. Il pourrait désigner la terre d'Aram ; l'historien grec Hérodote y voyait une forme abrégée d'« Assyrie ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "L’origine du nom « Syrie » n'est pas certaine. Il pourrait venir du grec ancien et désignerait à l’origine la terre d’Aram, mais Hérodote y voyait plutôt une forme abrégée d’Assyrie, tandis que les historiens modernes le font remonter à divers toponymes locaux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Il apparaît pour la première fois en grec et n’a pas d’antécédents identifiables, ni dans la forme ni pour le contenu, dans les textes pré-hellénistiques."
+        }
+      ]
+    },
+    {
+      "id": "SYR-7",
+      "topic": "drapeau",
+      "era": "2024",
+      "title": "Le drapeau de la révolution",
+      "short": "Depuis la chute du régime Assad en 2024, le drapeau officiel est vert, blanc et noir, avec trois étoiles rouges. C'était déjà celui de la première Syrie indépendante, puis l'emblème de la rébellion à partir de 2011. Le vert, le blanc et le noir représentent les Rachidun, les Omeyyades et les Abbassides.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Syrie",
+          "quote": "Il est composé de trois bandes superposées, une verte, une blanche et une noire. Sur la bande blanche figurent trois étoiles rouges à cinq branches.\nEmblème de la rébellion syrienne depuis 2011, il est devenu, depuis la chute du régime Assad le 8 décembre 2024, le drapeau officiel de l'État syrien. Ce drapeau avait déjà été le drapeau national sous la Première République syrienne, quoiqu'avec des proportions légèrement différentes. Il remplace le drapeau utilisé depuis 1980 dans la Syrie baasiste."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Syrie",
+          "quote": "La couleur verte du drapeau représente les Rachidun, le blanc les Omeyyades et le noir les Abbassides. À l'origine, les trois étoiles rouges représentaient les trois districts de la Syrie : les États d'Alep, de Damas et de Deir ez-Zor."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "SYR-C1",
+      "topic": "histoire",
+      "era": "IIIe millénaire av. J.-C.",
+      "title": "La ville du jasmin",
+      "short": "Fondée au IIIe millénaire av. J.-C., Damas est l'une des plus anciennes villes du monde habitées sans interruption. On la surnomme « la ville du jasmin ». Sa vieille ville abrite la grande mosquée des Omeyyades.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Syrie",
+          "quote": "Damas a été fondée au IIIe millénaire av. J.-C. ; c'est une des villes les plus anciennes du monde et elle a été habitée sans interruption (comme Bénarès et Jéricho)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Damas",
+          "quote": "Elle possède plusieurs noms en arabe, tels que : « le Cham » (en arabe : الشَّامُ, aš-šām) ou encore « la ville du jasmin » (en arabe : مَدِينَةُ ٱلْيَاسَمِينِ, madīnat al-yāsmīn)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Damas",
+          "quote": "À l'intérieur des remparts se trouvent plusieurs monuments comme la mosquée des Omeyyades, le palais Azem ou encore le caravansérail Khan Assad Pacha."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Sur la côte est de la Méditerranée, entre la Turquie au nord, l'Irak à l'est, la Jordanie au sud et le Liban à l'ouest.",
+    "flag": "Depuis 2024 : vert, blanc, noir avec trois étoiles rouges. L'ancien drapeau, rouge, blanc, noir à deux étoiles vertes, ressemblait à celui de l'Égypte.",
+    "capital": "Damas, dans le sud-ouest du pays, près du Liban."
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "id": "BVT",
+  "facts": [
+    {
+      "id": "BVT-1",
+      "topic": "histoire",
+      "era": "1739",
+      "title": "Découverte un 1er janvier",
+      "short": "Le 1er janvier 1739, le Français Jean-Baptiste Bouvet de Lozier aperçoit l'île. Ne sachant pas si c'est une île ou la pointe d'un continent austral, il la baptise cap de la Circoncision, du nom de la fête religieuse du jour.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "L'Île Bouvet fut découverte, le 1er janvier 1739",
+          "to": "les frégates L'Aigle et Marie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "Ne sachant pas s'il s'agissait d'une île",
+          "to": "du jour de la découverte."
+        }
+      ]
+    },
+    {
+      "id": "BVT-2",
+      "topic": "histoire",
+      "era": "1927",
+      "title": "Norvégienne depuis 1927",
+      "short": "L'île porte le nom de son découvreur français, mais elle est norvégienne depuis 1927. En 1971, la Norvège en a fait, avec ses eaux, une réserve naturelle.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "Nommée d'après son découvreur français",
+          "to": "possession norvégienne depuis 1927."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "En 1971, la Norvège déclara l'île Bouvet",
+          "to": "réserve naturelle."
+        }
+      ]
+    },
+    {
+      "id": "BVT-3",
+      "topic": "histoire",
+      "era": "1979",
+      "title": "Le mystérieux éclair de 1979",
+      "short": "Le 22 septembre 1979, un satellite enregistre un flash de lumière entre l'île Bouvet et l'archipel du Prince-Édouard, qui pourrait correspondre à une explosion nucléaire : c'est l'« incident Vela ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "Le 22 septembre 1979 eut lieu l'incident Vela",
+          "to": "l'archipel du Prince-Édouard."
+        }
+      ]
+    },
+    {
+      "id": "BVT-4",
+      "topic": "geographie",
+      "title": "L'une des îles les plus isolées du monde",
+      "short": "Cette île volcanique inhabitée de l'Atlantique Sud est l'une des plus isolées du monde : la terre la plus proche, en Antarctique, est elle-même inhabitée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "L'île Bouvet (en norvégien Bouvetøya) est une île volcanique norvégienne inhabitée",
+          "to": "au nord du continent antarctique"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "L'Île Bouvet fait partie des îles les plus isolées du monde",
+          "to": "située à 1 696 km au sud."
+        }
+      ]
+    },
+    {
+      "id": "BVT-5",
+      "topic": "geographie",
+      "title": "Des glaciers qui tombent dans la mer",
+      "short": "Chaque été austral, des pans de glaciers se détachent des falaises volcaniques et tombent dans la mer ou sur des plages de sable noir. Seuls des lichens et des mousses y poussent.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "Chaque été austral, des pans de glaciers tombent",
+          "to": "sur les plages de sable noir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Île_Bouvet",
+          "from": "En raison du climat rigoureux",
+          "to": "de lichens et de mousses."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [],
+  "tips": {
+    "position": "Un point minuscule perdu dans l'Atlantique Sud, loin au sud-ouest de l'Afrique du Sud, sur la route de l'Antarctique.",
+    "flag": "Pas de drapeau propre : c'est le drapeau de la Norvège, rouge à croix bleue bordée de blanc.",
+    "capital": "Pas de capitale : l'île est inhabitée."
+  }
+}

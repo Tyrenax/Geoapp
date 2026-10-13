@@ -1,0 +1,120 @@
+{
+  "id": "KNA",
+  "facts": [
+    {
+      "id": "KNA-1",
+      "topic": "histoire",
+      "title": "Liamuiga et la Notre-Dame-des-Neiges",
+      "short": "Les Kalinagos appelaient Saint-Christophe Liamuiga. Le nom de Niévès vient de l'espagnol Nuestra Señora de las Nieves, « Notre-Dame-des-Neiges » : les nuages blancs accrochés à son sommet ont pu rappeler une neige miraculeuse sous les tropiques.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "L'île de Saint-Kitts (ou Saint-Christophe) était nommée Liamuiga",
+          "to": "qui l'habitaient."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "Le nom actuel Niévès est dérivé d'un nom espagnol",
+          "to": "par un processus d'anglicisation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "On peut supposer que les nuages blancs",
+          "to": "dans un climat chaud."
+        }
+      ]
+    },
+    {
+      "id": "KNA-2",
+      "topic": "histoire",
+      "era": "1624-1713",
+      "title": "Une île disputée entre la France et l'Angleterre",
+      "short": "En 1624, le capitaine Thomas Warner fonde une colonie anglaise sur Saint-Christophe. Deux ans plus tard, les colons massacrent les derniers Kalinagos. Français et Britanniques se disputent ensuite l'île, jusqu'à ce que les Français la perdent en 1713.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "Une colonie anglaise est fondée à proximité",
+          "to": "continuent de se disputer Saint-Christophe."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "En 1713, les Français perdent le contrôle",
+          "to": "au profit des Anglais."
+        }
+      ]
+    },
+    {
+      "id": "KNA-3",
+      "topic": "histoire",
+      "era": "1628",
+      "title": "Les premiers esclaves d'une colonie française",
+      "short": "C'est à Saint-Christophe, en 1628, que débarquent les premiers esclaves d'une colonie française : 52 captifs africains. Sept ans plus tard, ils sont déjà 800.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "En 1628 a lieu sur l'île la première introduction d'esclaves",
+          "to": "800 esclaves noirs."
+        }
+      ]
+    },
+    {
+      "id": "KNA-4",
+      "topic": "geographie",
+      "era": "1983",
+      "title": "Le plus petit pays des Amériques",
+      "short": "Indépendante depuis le 19 septembre 1983, cette fédération de deux îles est le plus petit État souverain des Amériques, en superficie comme en population.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "Saint-Christophe-et-Niévès parvient à l'indépendance le 19 septembre 1983",
+          "to": "royaume du Commonwealth."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Saint-Christophe-et-Niévès",
+          "from": "Saint-Christophe-et-Niévès est le plus petit État souverain de l'hémisphère occidental",
+          "to": "que de population."
+        }
+      ]
+    },
+    {
+      "id": "KNA-5",
+      "topic": "drapeau",
+      "era": "1983",
+      "title": "Deux étoiles pour deux îles",
+      "short": "Choisi par un concours local et adopté le jour de l'indépendance, le drapeau porte deux étoiles blanches : l'espoir et la liberté, mais aussi les deux îles du pays.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Christophe-et-Niévès",
+          "from": "Il est adopté officiellement le 19 septembre 1983",
+          "to": "d'un concours local."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_Saint-Christophe-et-Niévès",
+          "from": "Enfin, deux étoiles blanches sont posées au milieu de la bande",
+          "to": "des deux îles qui composent le pays."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "KNA-C1",
+      "topic": "histoire",
+      "era": "1625",
+      "title": "Un nom français pour une « terre basse »",
+      "short": "Basseterre est fondée par des Français en 1625 : son nom rappelle qu'elle a été bâtie sur une terre basse, peu élevée.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Basseterre",
+          "from": "Basseterre est fondée par des Français, en 1625",
+          "to": "sur un endroit peu élevé."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Deux petites îles du nord des petites Antilles, à l'ouest d'Antigua, entre Saint-Martin au nord et Montserrat au sud.",
+    "flag": "Une bande noire en diagonale bordée de jaune, avec deux étoiles blanches, entre un triangle vert et un triangle rouge. La Tanzanie a aussi une diagonale noire bordée de jaune, mais sans étoiles et avec du bleu.",
+    "capital": "Basseterre, la « basse terre » : un nom français, comme Basse-Terre en Guadeloupe toute proche. Attention, ce n'est pas la même ville !"
+  }
+}

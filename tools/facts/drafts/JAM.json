@@ -1,0 +1,138 @@
+{
+  "id": "JAM",
+  "facts": [
+    {
+      "id": "JAM-1",
+      "topic": "histoire",
+      "title": "La « terre du bois et de l'eau »",
+      "short": "Le nom de la Jamaïque vient de Xamayca, qui signifie « la terre du bois et de l'eau » dans la langue des Arawaks, ses premiers habitants avec les Taïnos.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Le nom du pays provient de Xamayca",
+          "to": "dans la langue des Arawaks."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Initialement peuplée sous l’ère précolombienne",
+          "to": "de Christophe Colomb en 1494."
+        }
+      ]
+    },
+    {
+      "id": "JAM-2",
+      "topic": "histoire",
+      "era": "1494-1655",
+      "title": "De l'Espagne à l'Angleterre",
+      "short": "Après l'arrivée de Colomb en 1494, l'île devient espagnole sous le nom de Santiago ; les indigènes meurent en masse de maladies et les Espagnols y amènent des esclaves africains. En 1655, l'Angleterre la conquiert.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Initialement peuplée sous l’ère précolombienne",
+          "to": "des esclaves africains."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Nommée « Santiago », l'île demeure une possession espagnole",
+          "to": "la rebaptise « Jamaica »."
+        }
+      ]
+    },
+    {
+      "id": "JAM-3",
+      "topic": "histoire",
+      "title": "Les Marrons, esclaves insoumis",
+      "short": "Sous la domination britannique, des esclaves s'enfuient : ces « Marrons » donnent beaucoup de mal aux Britanniques, qui peinent à les traquer.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Durant cette époque, les Britanniques eurent beaucoup de mal",
+          "to": "qui réussissaient à s'enfuir."
+        }
+      ]
+    },
+    {
+      "id": "JAM-4",
+      "topic": "histoire",
+      "era": "1962",
+      "title": "L'indépendance du 6 août 1962",
+      "short": "La Jamaïque obtient son indépendance du Royaume-Uni le 6 août 1962.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "L'île obtient son indépendance du Royaume-Uni le 6 août 1962.",
+          "to": "le 6 août 1962."
+        }
+      ]
+    },
+    {
+      "id": "JAM-5",
+      "topic": "culture",
+      "title": "Le berceau du reggae",
+      "short": "La Jamaïque a vu naître le mouvement rastafari et le reggae, mais aussi le ska, le dub et le dancehall. Bob Marley en est la figure la plus célèbre.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Elle est le berceau du mouvement rastafari",
+          "to": "le dub et le dancehall."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Jamaïque",
+          "from": "Parmi les artistes musicaux jamaïcains ou d'origine jamaïcaine",
+          "to": "Bob Marley"
+        }
+      ]
+    },
+    {
+      "id": "JAM-6",
+      "topic": "drapeau",
+      "era": "1962",
+      "title": "Ni bleu, ni blanc, ni rouge",
+      "short": "Le drapeau jamaïcain est le seul drapeau d'État sans bleu, sans blanc et sans rouge. Sa devise : « Nous connaissons les privations, mais la terre est verte et le soleil brille ».",
+      "long": "La croix jaune aurait été ajoutée pour distinguer un premier projet à bandes vertes, jaunes et noires du drapeau du Tanganyika, qui forme aujourd'hui la majeure partie de la Tanzanie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jamaïque",
+          "from": "Le drapeau jamaïcain a la particularité",
+          "to": "bleu, rouge ou blanc."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jamaïque",
+          "from": "Adopté en 1962 lorsque le pays accède à l'indépendance",
+          "to": "et le soleil brille »."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Jamaïque",
+          "from": "La croix aurait été ajoutée afin de distinguer",
+          "to": "la majeure partie de la Tanzanie."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "JAM-C1",
+      "topic": "histoire",
+      "era": "1692",
+      "title": "Née des ruines de Port Royal",
+      "short": "Kingston est fondée le 22 juillet 1692 pour accueillir les survivants du séisme qui vient de détruire Port Royal, le grand port de la Jamaïque britannique. Elle devient capitale en 1872, à la place de Spanish Town.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingston_(Jamaïque)",
+          "from": "Kingston est fondée le 22 juillet 1692",
+          "to": "de la Jamaïque britannique."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Kingston_(Jamaïque)",
+          "from": "Elle est élevée au rang de capitale administrative en 1872",
+          "to": "succédant à Spanish Town."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Une île des Grandes Antilles au sud de Cuba et à l'ouest d'Haïti, dans la mer des Caraïbes.",
+    "flag": "Une croix jaune en X qui sépare deux triangles verts (haut et bas) et deux triangles noirs (côtés). Aucun bleu, blanc ni rouge : impossible à confondre.",
+    "capital": "Kingston, la « ville du roi » (King) : un nom anglais pour l'ancienne colonie britannique."
+  }
+}

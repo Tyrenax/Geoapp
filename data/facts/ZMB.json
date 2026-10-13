@@ -1,0 +1,148 @@
+{
+  "id": "ZMB",
+  "facts": [
+    {
+      "id": "ZMB-1",
+      "topic": "histoire",
+      "title": "Le pays du Zambèze",
+      "short": "La Zambie tire son nom du fleuve Zambèze, son principal cours d'eau. Le barrage de Kariba, construit sur le fleuve, fournit au pays son électricité.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Son nom provient du nom du fleuve Zambèze."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Le fleuve principal est le Zambèze, dont le barrage de Kariba fournit le pays en hydroélectricité."
+        }
+      ]
+    },
+    {
+      "id": "ZMB-2",
+      "topic": "histoire",
+      "era": "Ve-IXe siècle",
+      "title": "Des croisettes de cuivre comme monnaie",
+      "short": "Le travail du cuivre commence dès le Ve siècle dans le nord du pays. À partir du IXe siècle, certains peuples abandonnent le troc et adoptent comme monnaie des croisettes de cuivre de différents poids.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Une activité métallurgique de transformation du minerai de cuivre commence dès le Ve siècle, au nord de l'actuel territoire de la Zambie."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Les populations pratiquent le troc jusqu'au ixe siècle, moment où certaines ethnies adoptent des croisettes de cuivre de différents poids comme monnaie."
+        }
+      ]
+    },
+    {
+      "id": "ZMB-3",
+      "topic": "histoire",
+      "era": "1855",
+      "title": "Livingstone et les chutes Victoria",
+      "short": "En 1851, l'explorateur écossais David Livingstone atteint la région ; quatre ans plus tard, il découvre de grandes chutes d'eau qu'il baptise chutes Victoria.",
+      "long": "On a retrouvé près des chutes des outils vieux de 200 000 ans. En 1975, le président zambien Kenneth Kaunda y rencontra même secrètement le Premier ministre sud-africain, dans un train arrêté au-dessus des chutes.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Zambie",
+          "quote": "jusqu'au voyage du grand explorateur écossais David Livingstone en 1851 où il rencontre le chef Sebetwane. Quatre ans plus tard, Livingstone découvre les chutes d'eau qu'il appelle Chutes Victoria."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Zambie",
+          "quote": "Des outils vieux de 200 000 ans ont également été retrouvés près des chutes Victoria."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Zambie",
+          "quote": "Il maintient aussi des contacts personnels avec le premier ministre sud-africain John Vorster, une correspondance secrète et même une rencontre en 1975, dans un train stationné au-dessus des chutes Victoria"
+        }
+      ]
+    },
+    {
+      "id": "ZMB-4",
+      "topic": "histoire",
+      "era": "1890-1964",
+      "title": "La Rhodésie du Nord de Cecil Rhodes",
+      "short": "En 1890, le roi des Lozis, Lewanika, place le haut Zambèze sous la protection de la British South Africa Company de Cecil Rhodes. Le territoire devient la Rhodésie du Nord, puis, le 24 octobre 1964, la Zambie indépendante.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "En 1890, Lewanika, le roi des Lozis, place le haut-Zambèze sous la protection de la BSAC de Cecil Rhodes."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Pendant la colonisation européenne de l'Afrique, le territoire devient la colonie britannique de la Rhodésie du Nord."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Le pays devient indépendant le 24 octobre 1964."
+        }
+      ]
+    },
+    {
+      "id": "ZMB-5",
+      "topic": "histoire",
+      "era": "1964-1991",
+      "title": "Kenneth Kaunda, vingt-sept ans au pouvoir",
+      "short": "Emprisonné neuf mois par les autorités coloniales, Kenneth Kaunda devient le premier président de la Zambie. Il instaure un parti unique en 1973 et garde le pouvoir jusqu'à sa défaite électorale de 1991.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_Zambie",
+          "quote": "L'UNIP est interdite et Kaunda arrêté et jeté en prison pour 9 mois."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Celle-ci obtient son indépendance en 1964 sous le président Kenneth Kaunda qui met en place un régime à parti unique sous l'égide du Parti uni de l'indépendance nationale en 1973."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Zambie",
+          "quote": "Le multipartisme est instauré au début des années 1990 et Kaunda est battu à l'élection présidentielle de 1991."
+        }
+      ]
+    },
+    {
+      "id": "ZMB-6",
+      "topic": "drapeau",
+      "era": "1964",
+      "title": "Un aigle au-dessus du cuivre",
+      "short": "Le drapeau vert porte, côté flottant, un pygargue vocifer aux ailes déployées, au-dessus de trois bandes rouge, noire et orange. L'orange représente le cuivre, dont la Zambie est l'un des grands producteurs mondiaux.",
+      "long": "Le vert évoque l'agriculture, le rouge la lutte pour l'indépendance et le noir le peuple. Ce sont aussi les couleurs du parti de Kenneth Kaunda.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Zambie",
+          "quote": "Il se compose d’un champ vert vertical orné dans le tiers opposé au mat d’un pygargue vocifer aux ailes déployées surmontant trois bandes verticales rouge (gauche), noire, et orange."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Zambie",
+          "quote": "Le vert représente l’agriculture, le rouge la lutte pour l’indépendance, le noir le peuple, et l'orange les ressources minières, notamment le cuivre, dont la Zambie est un des principaux producteurs mondiaux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_Zambie",
+          "quote": "Le rouge, le noir et l'orange sont également les couleurs du Parti uni de l'indépendance nationale, le parti qui lutta pour l’indépendance et prit le pouvoir en 1964 sous la direction de Kenneth Kaunda."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "ZMB-C1",
+      "topic": "histoire",
+      "era": "1935",
+      "title": "Le village du chef Lusaka",
+      "short": "Lusaka était à l'origine un village portant le nom de son chef. En 1935, grâce à sa position centrale sur le chemin de fer et au carrefour des grandes routes, elle remplace Livingstone comme capitale de la Rhodésie du Nord.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lusaka",
+          "quote": "Lusaka était le site d'un village nommé d'après son chef local Lusaka, qui était situé sur la colline de Manda, près de l'endroit où l'Assemblée nationale zambienne se trouve aujourd'hui."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Lusaka",
+          "quote": "En 1935, en raison de sa position centrale et de sa situation sur le chemin de fer et au carrefour de la Grande route du Nord et de la Grande route de l'Est, la ville est choisie pour remplacer Livingstone comme capitale de la colonie britannique de la Rhodésie du Nord."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un pays enclavé d'Afrique australe en forme de papillon, ou de pistolet : la RD Congo l'entaille au nord, le Zambèze et le lac Kariba la séparent du Zimbabwe au sud.",
+    "flag": "Vert, avec dans le coin inférieur droit trois petites bandes verticales rouge, noire et orange, surmontées d'un aigle orange. Tout l'emblème est regroupé côté flottant, à l'opposé du mât.",
+    "capital": "Lusaka, le village d'un chef devenu capitale, au centre du pays."
+  }
+}

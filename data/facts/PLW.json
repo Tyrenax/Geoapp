@@ -1,0 +1,138 @@
+{
+  "id": "PLW",
+  "facts": [
+    {
+      "id": "PLW-1",
+      "topic": "histoire",
+      "era": "1543",
+      "title": "Aperçues par les Espagnols, vendues à l'Allemagne",
+      "short": "Les Européens aperçoivent les Palaos pour la première fois en janvier 1543, lors de l'expédition espagnole de Ruy López de Villalobos. Après sa défaite contre les États-Unis en 1898, l'Espagne vend l'archipel à l'Allemagne.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Peleliu, Babeldaob, et Koror sont aperçues par les Européens pour la première fois lors de l'expédition espagnole de Ruy López de Villalobos, fin janvier 1543."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "En 1898, l'Espagne perd la guerre hispano-américaine et avec elle, la possession des Philippines."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Elle vend l'archipel des Palaos à l'Allemagne dans le contexte du traité germano-espagnol et sont intégrées à la Nouvelle-Guinée allemande."
+        }
+      ]
+    },
+    {
+      "id": "PLW-2",
+      "topic": "histoire",
+      "era": "1914-1994",
+      "title": "Allemandes, japonaises, américaines, puis indépendantes",
+      "short": "Le Japon s'empare des îles en 1914 et les administre sous mandat de la Société des Nations. Après la Seconde Guerre mondiale, elles passent sous tutelle américaine pour l'ONU, avant de devenir indépendantes le 1er octobre 1994.",
+      "long": "Le nom même du pays en garde la trace : la forme « Palau », sans pluriel, est apparue sous les administrations allemande et japonaise.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Le Japon active l'alliance anglo-japonaise et déclare la guerre à l'Allemagne le 23 août 1914."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Les prétentions du Japon sur la Micronésie sont reconnues lors du traité de Versailles en 1919 et l'Empire obtient de la nouvelle Société des Nations un mandat C, peu contraignant en obligations envers les populations, qui l'autorise à administrer la zone"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Les Palaos obtiennent leur indépendance le 1er octobre 1994 des États-Unis qui avaient reçu un mandat des Nations unies."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Toujours en se basant sur ce premier toponyme, la forme sans pluriel apparaît lorsque les îles deviennent allemandes en 1899 puis japonaises en 1914."
+        }
+      ]
+    },
+    {
+      "id": "PLW-3",
+      "topic": "histoire",
+      "era": "2009",
+      "title": "Le premier sanctuaire de requins au monde",
+      "short": "La protection de l'environnement est inscrite dans la Constitution des Palaos depuis l'indépendance. En 2009, le pays annonce à l'ONU la création du premier sanctuaire de requins au monde.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "La défense absolue de l'environnement est inscrite dans la Constitution de cet État depuis son indépendance."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "En septembre 2009, devant l'assemblée des Nations unies, le président Johnson Toribiong avait annoncé la création du premier sanctuaire de requins au monde"
+        }
+      ]
+    },
+    {
+      "id": "PLW-4",
+      "topic": "geographie",
+      "title": "Le lac aux Méduses",
+      "short": "Les îles Chelbacheb, rattachées à l'État de Koror, sont réputées dans le monde entier pour leurs sites de plongée, comme le lac aux Méduses, peuplé d'une colonie de ces animaux.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "Ces îles sont la principale destination touristique des Palaos en raison de leurs sites de plongée sous-marine réputés dans le monde comme celui du lac aux Méduses peuplé d'une colonie de ces animaux."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "L'île de Koror et quelques autres îles proches habitées forment l'État de Koror avec les îles Chelbacheb."
+        }
+      ]
+    },
+    {
+      "id": "PLW-5",
+      "topic": "drapeau",
+      "title": "La pleine lune plutôt que le soleil",
+      "short": "Le drapeau montre une pleine lune jaune doré, légèrement décentrée, sur un ciel bleu. Les Palaos ont choisi la lune plutôt que le soleil parce que la pleine lune est le meilleur moment pour pêcher, semer, récolter ou faire la fête.",
+      "long": "La lune symbolise aussi la tranquillité, la paix et l'amour ; le bleu évoquerait le passage d'une occupation étrangère à l'autonomie.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Palaos",
+          "quote": "Le drapeau des Palaos représente une lune pleine, jaune doré, légèrement décentrée sur un champ de ciel bleu."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Palaos",
+          "quote": "Plutôt qu'un soleil, les Palaos ont choisi la pleine lune, symbole du meilleur moment pour toutes les activités humaines : la pêche, la coupe des arbres, la semence, la cueillette et les récoltes, le lancement des pirogues et la plupart des fêtes"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Palaos",
+          "quote": "La lune est ressentie comme un symbole de tranquillité, de paix et d'amour."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_des_Palaos",
+          "quote": "Le fond bleu représenterait le passage d'une occupation étrangère à l'autonomie."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "PLW-C1",
+      "topic": "politique",
+      "era": "2006",
+      "title": "Une capitale qui n'est qu'un hameau",
+      "short": "Depuis le 7 octobre 2006, la capitale des Palaos est Ngerulmud, un simple lieu-dit de l'État de Melekeok, où se dresse le Capitole. La plus grande ville, l'ancienne capitale Koror, abrite plus de la moitié des habitants.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ngerulmud",
+          "quote": "Ngerulmud est devenue le 7 octobre 2006 la capitale du pays, elle abrite le nouveau bâtiment du Capitole."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Ngerulmud",
+          "quote": "Le hameau et les nouveaux bâtiments gouvernementaux se trouvent non loin de la côte, à l'ouest du centre-ville de Melekeok, dont Ngerulmud est un lieu-dit"
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Palaos",
+          "quote": "L'ancienne capitale, Koror, occupe l'île du même nom et abrite plus de la moitié de la population du pays, faisant d'elle sa plus grande ville."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Un petit archipel du Pacifique, à l'est des Philippines et au nord de l'Indonésie, à l'ouest de la Micronésie.",
+    "flag": "Un disque jaune légèrement décalé vers le mât, sur fond bleu clair. Le Bangladesh a un disque rouge sur fond vert, le Japon un disque rouge sur blanc.",
+    "capital": "Ngerulmud, un hameau devenu capitale en 2006 ; la grande ville, Koror, n'est plus la capitale."
+  }
+}

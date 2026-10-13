@@ -1,0 +1,199 @@
+{
+  "id": "CAF",
+  "facts": [
+    {
+      "id": "CAF-1",
+      "topic": "histoire",
+      "era": "Antiquité",
+      "title": "Les mégalithes de Bouar",
+      "short": "Dans l'ouest du pays, autour de Bouar, une civilisation a dressé des mégalithes, les Tazunu. Elle a perduré jusqu'au Ier siècle de notre ère, avant de s'effacer avec l'arrivée de la métallurgie du fer.",
+      "long": "Les mégalithes de Bouar ont été proposés en 2006 pour être inscrits au patrimoine mondial de l'Unesco.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "Une civilisation mégalithique qui perdure",
+          "to": "se développe dans la région de Bouar (Ouest)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "C’est l’apparition de la métallurgie du fer",
+          "to": "(Tazunu en gbaya)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "Les mégalithes de Bouar soumis en 2006",
+          "to": "patrimoine mondial de l'Unesco."
+        }
+      ]
+    },
+    {
+      "id": "CAF-2",
+      "topic": "histoire",
+      "era": "1905-1960",
+      "title": "L'Oubangui-Chari, l'une des colonies les plus dures",
+      "short": "Colonie française en 1905 sous le nom d'Oubangui-Chari, le territoire est livré à des compagnies concessionnaires. RFI considère cette colonisation comme la plus brutale de l'empire français.",
+      "long": "Le pays était l'une des dernières « taches blanches » des cartes européennes quand le continent a été partagé. Le système des concessions, comparable à celui de l'État indépendant du Congo, y a entraîné des atrocités semblables.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "Le territoire devient une colonie française en 1905",
+          "to": "sous le nom d'Oubangui-Chari."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "La colonisation française en Oubangui-Chari est considérée par RFI",
+          "to": "de l'Empire colonial français."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_République_centrafricaine",
+          "from": "L'Oubangui-Chari est l'une des dernières taches blanches",
+          "to": "se partagent le continent africain."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "L'Afrique équatoriale française, en particulier la région d'Oubangui-Chari",
+          "to": "y ont également été commises."
+        }
+      ]
+    },
+    {
+      "id": "CAF-3",
+      "topic": "histoire",
+      "era": "1959",
+      "title": "Le père de la nation, mort avant l'indépendance",
+      "short": "L'abbé Barthélemy Boganda, figure de l'indépendance et père de la nation centrafricaine, meurt dans un accident d'avion le 29 mars 1959. Le pays devient indépendant l'année suivante, le 13 août 1960.",
+      "long": "C'est Boganda qui avait présenté le drapeau national à l'assemblée, le 1er décembre 1958. Sa maison de Bangui abrite depuis 1964 le musée national qui porte son nom.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_République_centrafricaine",
+          "from": "La figure emblématique de l'indépendance du pays est l'abbé Barthélemy Boganda",
+          "to": "le 29 mars 1959."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "Le premier chef de l'État, Barthélemy Boganda",
+          "to": "père de la nation centrafricaine."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_République_centrafricaine",
+          "from": "C'est ce dernier qui devient le premier Président",
+          "to": "le 13 août 1960."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "Il a été présenté à l'assemblée législative le 1er décembre 1958",
+          "to": "Barthélemy Boganda."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangui",
+          "from": "Le musée national Barthélemy-Boganda est installé depuis 1964",
+          "to": "fondateur de la République centrafricaine"
+        }
+      ]
+    },
+    {
+      "id": "CAF-4",
+      "topic": "histoire",
+      "era": "1965-1979",
+      "title": "Bokassa Ier, empereur de Centrafrique",
+      "short": "Arrivé au pouvoir par un coup d'État en 1965, Jean-Bedel Bokassa se proclame empereur le 4 décembre 1976. Son empire s'effondre en septembre 1979, quand une opération militaire française le renverse.",
+      "long": "Son étendard impérial, vert clair, portait un aigle doré inspiré de l'aigle de Napoléon Ier. L'opération Barracuda remet au pouvoir David Dacko, son cousin, qu'il avait lui-même renversé lors du « coup d'État de la Saint-Sylvestre ».",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "En 1965, lors du « coup d'État de la Saint-Sylvestre »",
+          "to": "et prend le pouvoir."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_République_centrafricaine",
+          "from": "Le 4 décembre 1976, il devient l'empereur Bokassa Ier.",
+          "to": "l'empereur Bokassa Ier."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/République_centrafricaine",
+          "from": "En septembre 1979, « l'opération Barracuda »",
+          "to": "remet au pouvoir David Dacko."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "L’étendard personnel de l'empereur",
+          "to": "l'aigle impériale de Napoléon Ier."
+        }
+      ]
+    },
+    {
+      "id": "CAF-5",
+      "topic": "histoire",
+      "title": "Les premiers habitants de la forêt",
+      "short": "Les premiers habitants du pays, autrefois entièrement couvert de forêt, étaient les Pygmées babingas. Bantous, Peuls et Haoussas sont arrivés ensuite.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_République_centrafricaine",
+          "from": "Les premiers habitants de ce pays autrefois totalement couvert par la forêt",
+          "to": "les Peuls et les Haoussas."
+        }
+      ]
+    },
+    {
+      "id": "CAF-6",
+      "topic": "drapeau",
+      "era": "1958",
+      "title": "Le drapeau qui marie la France et l'Afrique",
+      "short": "Le drapeau mêle le bleu, le blanc et le rouge de la France aux couleurs panafricaines, le rouge, le jaune et le vert : une lecture y voit l'union des deux héritages du pays.",
+      "long": "L'étoile doit guider le peuple vers la liberté et l'émancipation, le jaune évoque les richesses minières et le rouge le sang des martyrs. Sur le premier projet, une main pointait son index vers l'étoile du MESAN, le Mouvement d'évolution sociale de l'Afrique noire.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "Une autre interprétation des couleurs fait combiner",
+          "to": "(rouge jaune vert)."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "L'étoile guide les pas du peuple noir",
+          "to": "vers la liberté et l'émancipation."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "La couleur jaune pour la Centrafrique",
+          "to": "sang versé par tous les martyrs."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Drapeau_de_la_République_centrafricaine",
+          "from": "Au début était représentée une main",
+          "to": "de l'Afrique noire."
+        }
+      ]
+    }
+  ],
+  "capital_facts": [
+    {
+      "id": "CAF-C1",
+      "topic": "histoire",
+      "era": "1889",
+      "title": "Une ville nommée d'après des rapides",
+      "short": "Bangui, fondée en 1889 près d'un poste militaire français sur l'Oubangui, tient son nom des rapides du fleuve, juste en amont : les bateaux à vapeur ne pouvaient pas les franchir.",
+      "sources": [
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangui",
+          "from": "La localité de Bangui fondée en 1889",
+          "to": "à partir de 1912."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangui",
+          "from": "Les rapides de l'Oubangui, juste en amont",
+          "to": "la navigation à vapeur."
+        },
+        {
+          "url": "https://fr.wikipedia.org/wiki/Bangui",
+          "from": "Nommée ainsi par le nom de ces rapides",
+          "to": "sur le fleuve Oubangui."
+        }
+      ]
+    }
+  ],
+  "tips": {
+    "position": "Comme son nom l'indique, en plein centre du continent : sous le Tchad, entre le Cameroun à l'ouest et les deux Soudans à l'est, au-dessus des deux Congo. Sa frontière sud suit la rivière Oubangui.",
+    "flag": "Le seul drapeau qui combine quatre bandes horizontales (bleu, blanc, vert, jaune) et une bande rouge verticale au milieu, avec une étoile jaune en haut à gauche.",
+    "capital": "Bangui est posée sur la rivière OubANGUI : la capitale est cachée dans le nom de la rivière."
+  }
+}
