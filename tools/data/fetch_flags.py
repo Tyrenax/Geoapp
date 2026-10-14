@@ -49,6 +49,17 @@ def svg_ratio(data: bytes) -> float:
     return w / h
 
 
+def with_size(data: bytes) -> bytes:
+    """Ajoute width/height (hauteur 600) à un SVG qui n'a qu'un viewBox : sans taille intrinsèque, le navigateur
+    l'affiche en 150 px de haut, et le drapeau à nommer sort tout petit."""
+    root = ET.fromstring(data)
+    if root.get("width") or root.get("height"):
+        return data
+    h = 600
+    w = round(h * svg_ratio(data), 2)
+    return re.sub(rb"<svg(?=[\s>])", f'<svg width="{w:g}" height="{h}"'.encode(), data, count=1)
+
+
 def fetch_svg(url: str) -> bytes:
     if "upload.wikimedia.org" in url:
         try:
@@ -117,7 +128,7 @@ def main():
             try:
                 data = fetch_svg(commons_url(fn))
                 svg_ratio(data)
-                dest.write_bytes(data)
+                dest.write_bytes(with_size(data))
                 return cid, "commons", None
             except (ValueError, ET.ParseError) as e:
                 err = f"Commons : {e}"
@@ -126,7 +137,7 @@ def main():
         try:
             data = fetch_svg(LIPIS.format(ents[cid]["iso2_wd"].lower() if ents[cid]["iso2_wd"] else cid.lower()))
             svg_ratio(data)
-            dest.write_bytes(data)
+            dest.write_bytes(with_size(data))
             return cid, "lipis", err
         except (ValueError, ET.ParseError, AttributeError) as e2:
             return cid, "absent", f"{err} ; lipis : {e2}"

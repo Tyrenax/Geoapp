@@ -12,7 +12,7 @@
   import SessionSetup from './components/SessionSetup.svelte'
   import SoundToggle from './components/SoundToggle.svelte'
   import { setSound, soundInk, soundRight, soundWrong } from './lib/sound'
-  import { loadDataset, loadFacts, type Dataset } from './lib/data'
+  import { flagUrl, loadDataset, loadFacts, type Dataset } from './lib/data'
   import { assignPigments, buildWorld, distanceKm, type Pigment, type WorldGeo } from './lib/geo'
   import { atlasCounts, inkMap } from './lib/progress'
   import {
@@ -31,7 +31,7 @@
   import { newCard, review, type Grade } from './lib/scheduler'
   import { loadState, saveState, type SaveState, type Settings } from './lib/store'
   import { capitalize, deArticle, formatKm, withArticle } from './lib/text'
-  import type { AnswerStyle, Country, Fact, FactsFile, Variant } from './lib/types'
+  import { NON_RECT, type AnswerStyle, type Country, type Fact, type FactsFile, type Variant } from './lib/types'
 
   type Screen = 'atlas' | 'lancement' | 'quiz' | 'bilan' | 'carnet'
 
@@ -538,6 +538,17 @@
     }
   }
 
+  /**
+   * Drapeau dans le cartouche, pour associer pays et drapeau : dès la question quand le pays y est nommé,
+   * sinon seulement après la réponse (il la soufflerait). Jamais en mode drapeau, il y est déjà.
+   */
+  const questionFlag = $derived.by(() => {
+    if (!ds || !question || question.mode === 'drapeau') return null
+    const named = question.variant === 'carte-ou' || question.variant === 'placer-capitale' || question.variant === 'pays-capitale'
+    if (!named && !answered) return null
+    return flagUrl(ds, question.target)
+  })
+
   function choicesFor(q: Question): Choice[] {
     if (q.variant === 'pays-capitale') return q.choices.map((c) => ({ value: c.id, label: capitalOf(c).name_fr }))
     return q.choices.map((c) => ({ value: c.id, label: c.name_fr }))
@@ -687,7 +698,18 @@
       <div class="colonne-principale">
         <header class="barre">
           <div class="cartouche question">
-            <h1>{qt.main}</h1>
+            <div class="enonce">
+              <h1>{qt.main}</h1>
+              {#if questionFlag}
+                <img
+                  class="drapeau-question"
+                  class:sans-filet={NON_RECT.has(question.target.id)}
+                  src={questionFlag}
+                  alt="Drapeau {deArticle(question.target.article_fr, question.target.name_fr)}"
+                  onerror={(e) => ((e.currentTarget as HTMLImageElement).style.display = 'none')}
+                />
+              {/if}
+            </div>
             {#if qt.hint && !answered}<p class="indice">{qt.hint}</p>{/if}
           </div>
           <div class="progression">
@@ -947,6 +969,23 @@
   .question h1 {
     font-size: var(--t-37);
     overflow-wrap: anywhere;
+    min-width: 0;
+  }
+  .enonce {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+  }
+  .drapeau-question {
+    flex: none;
+    display: block;
+    height: 46px;
+    width: auto;
+    border: 1px solid var(--encre);
+  }
+  .drapeau-question.sans-filet {
+    border: 0;
   }
   .indice {
     font-size: var(--t-16);
